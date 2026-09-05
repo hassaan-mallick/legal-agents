@@ -1,0 +1,15 @@
+---
+description: Non-negotiables for the legal-agents repo
+alwaysApply: true
+---
+Read AGENTS.md first; it is the single source of truth.
+
+- Public or synthetic documents only. Never a client document or a real matter.
+- Agents flag, they never clear. No output is final, cleared, approved, compliant or safe_to_file.
+- No model, provider or vendor names anywhere under agents/. Models are chosen at runtime (--provider/--model).
+- No secrets in files. Environment variables only.
+- Confidential or privileged text only goes to endpoints with verified zero data retention (registry zdr: true + verified_on).
+- Never edit golden.jsonl or thresholds.yaml to make a run pass. Never let a model pre-fill labels.
+- Do not run live evals or paid model calls unless asked. `la eval --replay` is free.
+
+Before finishing any change: `uv run la validate --all` and `uv run pytest`.

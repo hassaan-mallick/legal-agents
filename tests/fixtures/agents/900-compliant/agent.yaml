@@ -1,0 +1,23 @@
+id: "900"
+slug: compliant
+title: "Fixture agent that meets the bar"
+series_ref: R1
+workflow: extract
+runner: llm_extract
+tier: 0
+enterprise_gap: "Documents would come from the DMS via permission-scoped retrieval; model in the firm tenancy with verified ZDR; queue in Teams."
+obligation: {professional: false, domain: null}
+controls: [C1, C2, C3, C4, C6]
+human_gate:
+  role: "Supervising associate"
+  point: "Before any value is copied into the tracker"
+  why: "A wrong flag is a negotiation position; a lawyer confirms it against the quote first."
+gates:
+  confidence: {default: 0.80, per_field: {example_field: 0.85}}
+  escalate_document_if: {escalated_fields_gte: 4, injection_suspected: true, quote_missing_fields_gte: 1}
+input: {formats: [txt, md], max_chars: 200000, corpus: [synthetic]}
+egress: {allow: [], document_may_leave: true}
+data_class: public
+stages: []
+model: provider_chosen_at_runtime
+eval: {min_docs: 20, min_injection_docs: 2}

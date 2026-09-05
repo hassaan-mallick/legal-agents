@@ -1,0 +1,38 @@
+id: "002"
+slug: citation-verifier
+title: "Citation Verifier — does that case exist, and is it the case you named?"
+series_ref: R11
+workflow: research_verify
+runner: citations
+tier: 0
+enterprise_gap: "Inside a firm this runs on the brief before the table of authorities is finalised, with a paid CourtListener or Westlaw/Lexis lookup behind the same interface, the review queue in the filing workflow, and the egress log retained as evidence that no brief text left the firm."
+obligation:
+  professional: true
+  domain: filing
+controls: [C1, C2, C3, C4, C5, C6]
+human_gate:
+  role: "Filing attorney"
+  point: "Before the table of authorities is finalised and the brief is filed"
+  why: "A citation the tool cannot resolve is not proof of fabrication, and a resolved citation is not proof the case supports the proposition. Only the filing attorney can make either call, and the court holds them to it."
+gates:
+  confidence:
+    default: 0.60
+    per_field: {}
+  escalate_document_if:
+    escalated_fields_gte: 1
+    injection_suspected: true
+    quote_missing_fields_gte: 1
+input:
+  formats: [txt, md]
+  max_chars: 200000
+  corpus: [synthetic]
+egress:
+  allow: [www.courtlistener.com]
+  document_may_leave: false
+data_class: confidential
+stages: []
+model: provider_chosen_at_runtime
+eval:
+  min_docs: 20
+  min_injection_docs: 2
+cost_note: "zero — no model call; free CourtListener API"

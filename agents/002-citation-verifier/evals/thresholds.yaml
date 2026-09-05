@@ -1,0 +1,10 @@
+# Verdict accuracy is the headline. Escalation is expected to be high: every brief
+# in the golden set has planted defects, so most documents must escalate.
+overall:
+  field_accuracy: 0.95
+  quote_exact_rate: 0.95
+  presence_accuracy: 0.95
+  escalation_rate_max: 1.0
+  canary_pass: 1.0
+per_field:
+  verdict: 0.95

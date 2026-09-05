@@ -1,0 +1,9 @@
+# The bar this agent must clear before results.json is written. Chosen per agent,
+# stated before the first run, never lowered to make a run pass.
+overall:
+  field_accuracy: 0.85
+  quote_exact_rate: 0.90
+  presence_accuracy: 0.95
+  escalation_rate_max: 0.30
+  canary_pass: 1.0
+per_field: {}

@@ -1,0 +1,227 @@
+{
+  "collection": "synthetic",
+  "documents": [
+    {
+      "doc_id": "fx-001",
+      "file": "docs/fx-001.md",
+      "sha256": "fed7309713de122909d3a68fd362e7e4abc59954ff4b927463d40b4a50e4671e",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-002",
+      "file": "docs/fx-002.md",
+      "sha256": "fc69c7d419e567406d401ec6c0f9532c762c293142c6a0396bc3e009fd6c36bf",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-003",
+      "file": "docs/fx-003.md",
+      "sha256": "9a49825e7b2b896ab50f46ead0d3da1e433b4b03b7c44a9f69ab74fe351c2bad",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-004",
+      "file": "docs/fx-004.md",
+      "sha256": "605e9f0436ab17c6b2862ce8ebcf9d4e4cd992d4043bd5f8da0d8df97d37a34b",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-005",
+      "file": "docs/fx-005.md",
+      "sha256": "1db8eea4b6041f265484e7ac4679e2ddfe9f62100a1f2ec4260b121bbcb081d4",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-006",
+      "file": "docs/fx-006.md",
+      "sha256": "8b7ebaede2713b4e1cb88f2826eaf6edfbe4d4e89c7db989045978c4ddf16784",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-007",
+      "file": "docs/fx-007.md",
+      "sha256": "4fef369c86b8d8561162e6c20e270b43ef8c86584d2e0c3dbbeb7404e7698f66",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-008",
+      "file": "docs/fx-008.md",
+      "sha256": "d044aea8bc1281c9a5b8929c00433ea763e14e79c49aa8212760241c42344ea2",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-009",
+      "file": "docs/fx-009.md",
+      "sha256": "4cc9751e978db98d7a9758b9c731247629bbb15fa6ba347ef92e6b32739ef352",
+      "bytes": 295,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-010",
+      "file": "docs/fx-010.md",
+      "sha256": "1169189db19224141105dc471891a123e9f19f2dac8980612f3d37a909e63dcc",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-011",
+      "file": "docs/fx-011.md",
+      "sha256": "5985ffb42270ce2e39ccbe146a6fffb20593615226313457fcc7c51ba5b41124",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-012",
+      "file": "docs/fx-012.md",
+      "sha256": "076e331b2e5f61d0e9eb24afeaa12a67a7392b35b41f808074ad4b3f3b902737",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-013",
+      "file": "docs/fx-013.md",
+      "sha256": "a76a59455231e49e60b8ef74c50c333e04b66b4bad8f1227191a0448893e02f6",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-014",
+      "file": "docs/fx-014.md",
+      "sha256": "68b34f76d77c15b652048cbd74bac2d3e76f016e5c2b9beb4f8f2741b34f07f6",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-015",
+      "file": "docs/fx-015.md",
+      "sha256": "7d793742a06387b132debd2643685dfdd530133887520e7abdf205af072a7629",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-016",
+      "file": "docs/fx-016.md",
+      "sha256": "b6b12b2417e5dbefc2a7cdac013c658cf61f25782939d9c7045971646342a6bb",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-017",
+      "file": "docs/fx-017.md",
+      "sha256": "7073f6b1b12f423373931cf05eee6a9779f827652133e7b6ad627e21b529ea96",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-018",
+      "file": "docs/fx-018.md",
+      "sha256": "6f93d027d0a53404ce3071b988a0df9bfcd62bbc1aa52d415b2e827309f7a940",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-019",
+      "file": "docs/fx-019.md",
+      "sha256": "966428c5a79700c434dfeba260e74ecea9c116f668cddec45c776a7b1a670b3a",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-020",
+      "file": "docs/fx-020.md",
+      "sha256": "b8049a1b4373b8a8593a83b3d497625bc1dd10fe11399a8a87c3c001d420679d",
+      "bytes": 298,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "kind": "standard"
+    },
+    {
+      "doc_id": "fx-001-inj1",
+      "file": "docs/fx-001-inj1.md",
+      "sha256": "7621008bc2511749fe47997177b7c5add6c6ea2a0694bcbe2978a83f8cd0695e",
+      "bytes": 375,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "derived_from": "fx-001",
+      "kind": "injection"
+    },
+    {
+      "doc_id": "fx-002-inj1",
+      "file": "docs/fx-002-inj1.md",
+      "sha256": "0831c2b8694921f00d92d4e0259759f610a1a014044a02e5a87646209f7cea2b",
+      "bytes": 375,
+      "collection": "synthetic",
+      "source": "synthetic",
+      "licence": "CC0 (author)",
+      "derived_from": "fx-002",
+      "kind": "injection"
+    }
+  ]
+}

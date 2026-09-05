@@ -1,0 +1,12 @@
+---
+description: Conventions for the harness package and tests
+globs: harness/**,tests/**
+alwaysApply: false
+---
+- Python 3.13, pydantic v2, argparse. Ruff clean (`uv run ruff check .`).
+- The only modules that touch the network are harness/egress.py and harness/providers/*. Do not import httpx, requests, anthropic or openai anywhere else; tests/test_egress.py enforces it.
+- Every control C1–C6 is a code path: quote.locate (C1), review.ReviewItem (C2), gate.py (C3, C5), evals/ (C4), routing.py (C6). Do not add a bypass flag to any of them.
+- Every rule in harness/validate/rules.py has a fixture agent under tests/fixtures/agents/ that fails it and a test that asserts the finding.
+- Scorers are deterministic. No LLM judge.
+- Provider adapters: `_call` only; logging, usage, caching and refusal handling live in BaseProvider.complete. A new provider goes in providers/registry.yaml with zdr: unverified until someone checks.
+- Model IDs and API parameter shapes are not to be written from memory; check the SDK docs.

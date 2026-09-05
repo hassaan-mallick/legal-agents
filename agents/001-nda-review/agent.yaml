@@ -1,0 +1,43 @@
+id: "001"
+slug: nda-review
+title: "NDA Review Agent — 12 terms per agreement, every one quoted"
+series_ref: F1
+workflow: extract
+runner: llm_extract
+tier: 0
+enterprise_gap: "Inside a firm the NDAs come from iManage or SharePoint through permission-scoped retrieval (Entra ID), the model runs in the firm's own tenancy on a verified zero-retention endpoint, the review queue lands in the matter workspace in Teams or Word, and every run writes to the SIEM. Same logic, different plumbing."
+obligation:
+  professional: false
+  domain: null
+controls: [C1, C2, C3, C4, C6]
+human_gate:
+  role: "Supervising associate on the matter"
+  point: "Before any extracted term or playbook deviation is copied into the negotiation tracker or sent to the client"
+  why: "A deviation flag is a negotiation position. A wrong flag costs credibility with the counterparty, so a lawyer confirms each one against the quoted clause before it leaves the firm."
+gates:
+  confidence:
+    default: 0.80
+    per_field:
+      parties: 0.90
+      governing_law: 0.90
+      effective_date: 0.85
+  escalate_document_if:
+    escalated_fields_gte: 4
+    injection_suspected: true
+    quote_missing_fields_gte: 1
+input:
+  formats: [txt, md]
+  max_chars: 200000
+  corpus: [edgar-nda, synthetic]
+egress:
+  allow: []
+  document_may_leave: true
+data_class: public
+stages:
+  - {name: redact, retention: local}
+  - {name: extract, retention: any}
+model: provider_chosen_at_runtime
+eval:
+  min_docs: 20
+  min_injection_docs: 2
+cost_note: "measured, see evals/results.json"

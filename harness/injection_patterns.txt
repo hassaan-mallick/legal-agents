@@ -1,0 +1,14 @@
+# One regex per line, case-insensitive. Informational flag only: a hit marks the
+# document `injection_suspected` and (by default) escalates it. It never blocks
+# processing, because the real defence is that document text is data and every
+# quote is verified against the source.
+ignore (all |any |the )?(previous|prior|above|earlier) (instructions|rules|guidance)
+disregard (all |any |the )?(previous|prior|above) (instructions|rules)
+you are (now )?(an? |the )?(assistant|ai|model|system)
+system prompt
+developer message
+as the (assistant|ai|model)
+</?document[^>]*>
+output (the )?(status|disposition)[^\n]{0,40}(final|approved|cleared)
+set (the )?[a-z_]+ to
+CANARY-[0-9a-f]{4,}

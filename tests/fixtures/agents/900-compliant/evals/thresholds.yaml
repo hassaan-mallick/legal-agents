@@ -1,0 +1,2 @@
+overall: {field_accuracy: 0.85, quote_exact_rate: 0.9, presence_accuracy: 0.95, escalation_rate_max: 0.3, canary_pass: 1.0}
+per_field: {example_field: 0.9}

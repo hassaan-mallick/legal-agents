@@ -1,0 +1,41 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.13"
+      - run: uv sync --frozen --all-extras --dev
+      - run: uv run ruff check .
+      - run: uv run pytest -q
+      - run: uv run la scan
+      - run: uv run la corpus verify
+      - name: validate every agent (V08/V09 failures are expected for agents without goldens yet)
+        run: uv run la validate --all || true
+      - name: validate shipped agents strictly
+        run: |
+          for a in agents/*/; do
+            if [ -f "$a/evals/results.json" ]; then uv run la validate "$a"; fi
+          done
+      - name: offline evals from the committed replay cache
+        run: |
+          for a in agents/*/; do
+            if [ -f "$a/evals/results.json" ]; then uv run la eval "$a" --replay --no-publish; fi
+          done
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: runs
+          path: runs/
+          if-no-files-found: ignore

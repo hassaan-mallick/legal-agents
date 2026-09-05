@@ -1,0 +1,23 @@
+---
+description: The bar every agent folder must meet
+globs: agents/**
+alwaysApply: false
+---
+An agent is plain files: agent.yaml, schema.yaml, prompts/system.md, prompts/extract.md, optional playbook.yaml, evals/golden.jsonl, evals/thresholds.yaml, evals/results.json, README.md, failures.md. Nothing else.
+
+Rep bar (non-negotiable):
+1. 20-document golden set with known right answers, labelled by a person, plus at least 2 injection canary documents.
+2. Every extraction carries a verbatim quote the harness locates in the source (the schema envelope does this; do not fight it).
+3. A named human gate in agent.yaml (role, point, why).
+4. At least 3 failure modes in failures.md, each with an atlas type T1–T7 and a control id, at least one marked observed with a doc id.
+5. Tier declared and enterprise_gap stated in a real sentence.
+6. data_class declared; confidential/privileged agents need a zdr|local stage or document_may_leave: false.
+
+Rules while editing here:
+- `model:` stays `provider_chosen_at_runtime`. Never write a model name in any file in this folder.
+- `{{document}}` appears exactly once in prompts/extract.md. No tools, no function-calling text in prompts.
+- Professional-obligation agents (conflicts, privilege, sanctions, filing) must list C5 and may not use the words cleared, approved, compliant, final, safe_to_file, no_conflict, not_privileged, verified_ok in enums, prompts or the README results section.
+- After changing prompts or schema, the replay cache is stale. Ask before running `la eval --record` (it costs money); commit evals/cache, evals/results/ and results.json together.
+- Write failures.md from results.json misses[]; never invent an observed failure.
+
+Check: `uv run la validate agents/<this agent>` then `uv run la eval agents/<this agent> --replay`.

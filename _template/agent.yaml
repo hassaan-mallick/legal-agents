@@ -1,0 +1,40 @@
+# Copy this folder to agents/NNN-slug/ and fill every field. `la validate` will
+# tell you exactly what is missing. Never put a model or provider name in here.
+id: "NNN"
+slug: my-agent
+title: "Outcome-named title a lawyer recognises"
+series_ref: R1            # F1–F10 flagship or R1–R40 rep (see 50-agents.md)
+workflow: extract         # extract | review | research_verify | triage | draft | intake | monitor
+runner: llm_extract       # llm_extract | citations
+tier: 0                   # 0 cloud demo · 1 self-hosted · 2 enterprise-native
+enterprise_gap: "What changes when this runs inside a firm: documents from the DMS via permission-scoped retrieval, model in the firm's tenancy with verified ZDR, review queue surfaced in Teams or Word, audit log to SIEM."
+obligation:
+  professional: false     # true for conflicts / privilege / sanctions / filing → C5 required
+  domain: null
+controls: [C1, C2, C3, C4, C6]
+human_gate:
+  role: "Who reviews (a role, not a name)"
+  point: "Where in the workflow the gate sits"
+  why: "Why the gate sits there and not later"
+gates:
+  confidence:
+    default: 0.80
+    per_field: {}
+  escalate_document_if:
+    escalated_fields_gte: 4
+    injection_suspected: true
+    quote_missing_fields_gte: 1
+input:
+  formats: [txt, md]
+  max_chars: 200000
+  corpus: [synthetic]      # allowed corpus collections; the run refuses anything else
+egress:
+  allow: []                # extra hosts beyond the model provider (bare hostnames)
+  document_may_leave: true # false for no-LLM runners
+data_class: public         # public | synthetic | confidential | privileged (C6 routing)
+stages: []                 # e.g. [{name: redact, retention: local}, {name: extract, retention: any}]
+model: provider_chosen_at_runtime
+eval:
+  min_docs: 20
+  min_injection_docs: 2
+cost_note: "measured, see evals/results.json"

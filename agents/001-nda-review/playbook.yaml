@@ -1,0 +1,42 @@
+# Playbook rules are evaluated by code over the extracted values, never by the
+# model. Each deviation the harness reports carries the rule text, the value,
+# and the quote it was extracted from — so the reviewer can see what it
+# compared against. A flag a lawyer cannot audit is worse than no flag.
+name: "Receiving-party standard NDA playbook (demo)"
+rules:
+  - id: PB-01
+    field: governing_law
+    operator: not_in
+    value: [Delaware, New York, "England and Wales"]
+    severity: medium
+    text: "Governing law should be Delaware, New York, or England and Wales."
+  - id: PB-02
+    field: return_or_destroy
+    operator: eq
+    value: silent
+    severity: low
+    text: "The agreement should say what happens to Confidential Information on termination."
+  - id: PB-03
+    field: assignment
+    operator: eq
+    value: permitted
+    severity: medium
+    text: "Free assignment without consent is outside the playbook."
+  - id: PB-04
+    field: remedies
+    operator: not_contains
+    value: injunctive_relief
+    severity: low
+    text: "We expect an express acknowledgement that injunctive relief is available for breach."
+  - id: PB-05
+    field: exclusions
+    operator: not_contains
+    value: required_by_law
+    severity: high
+    text: "A required-by-law carve-out must be present; without it the recipient cannot comply with a subpoena."
+  - id: PB-06
+    field: remedies
+    operator: contains
+    value: liquidated_damages
+    severity: high
+    text: "Liquidated damages for breach of an NDA are outside the playbook and need partner sign-off."

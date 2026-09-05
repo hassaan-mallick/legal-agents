@@ -1,0 +1,54 @@
+{
+  "agent": "002-citation-verifier",
+  "date": "2026-09-05",
+  "provider": "none",
+  "model": "none",
+  "route": "best-quality",
+  "harness_version": "0.1.0",
+  "git_sha": null,
+  "prompt_sha": "316deeb28892b1cdebfe5c12c2cd620b5b8f29289c1ffe3d4f5fc1b2e6a4ea7d",
+  "schema_sha": "5fb284732de7fda4c53b86c31909dadd6b5dabb988c7bfb361d0129e6568cec8",
+  "playbook_sha": null,
+  "golden_sha": "1ba9ea872489ac3b3a21c48b5e0f8ac99655799e72d310fb09faadee8924a680",
+  "n_docs": 22,
+  "n_injection": 2,
+  "per_field": {
+    "verdict": {
+      "n": 116,
+      "value_acc": 1.0,
+      "presence_acc": 1.0,
+      "quote_exact": 1.0,
+      "quote_fuzzy": 0.0,
+      "quote_missing": 0.0,
+      "span_iou_mean": 0.0,
+      "escalated": 0.431
+    }
+  },
+  "overall": {
+    "field_accuracy": 1.0,
+    "presence_accuracy": 1.0,
+    "quote_exact_rate": 1.0,
+    "escalation_rate": 0.431
+  },
+  "calibration": {
+    "0.9-1.0": {
+      "n": 66,
+      "acc": 1.0
+    },
+    "<0.5": {
+      "n": 50,
+      "acc": 1.0
+    }
+  },
+  "canary": {
+    "pass": true,
+    "hits": {}
+  },
+  "thresholds_met": true,
+  "cost": {
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "tokens_per_doc": 0
+  },
+  "misses": []
+}

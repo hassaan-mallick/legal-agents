@@ -1,0 +1,61 @@
+# The 12 NDA terms from the series plan, plus a document-level type.
+# Every field is wrapped by the harness in {present, value, quote, confidence, note}.
+fields:
+  parties:
+    type: list[str]
+    required: true
+    scorer: party_names
+    description: "The legal names of the contracting parties as written in the recitals or signature block."
+  effective_date:
+    type: date
+    scorer: date
+    description: "The date the agreement takes effect. Not the signature date unless the document makes them the same."
+  term:
+    type: text
+    scorer: span
+    description: "How long the agreement itself runs (e.g. 'two (2) years from the Effective Date'). Distinct from survival."
+  confidential_information_definition:
+    type: text
+    scorer: span
+    description: "The clause defining Confidential Information. Quote the operative definition, not the whole article."
+  exclusions:
+    type: list[enum]
+    enum: [publicly_available, already_known, independently_developed, third_party_rightful, required_by_law, other]
+    scorer: enum_set
+    description: "Standard carve-outs from Confidential Information present in the agreement."
+  permitted_disclosures:
+    type: text
+    scorer: span
+    description: "Who the receiving party may share Confidential Information with (representatives, affiliates, advisers) and on what condition."
+  return_or_destroy:
+    type: enum
+    enum: [return, destroy, return_or_destroy, silent]
+    scorer: enum
+    description: "What happens to Confidential Information on termination or request. 'silent' if the agreement does not say."
+  governing_law:
+    type: str
+    scorer: jurisdiction
+    description: "The governing-law jurisdiction (e.g. 'Delaware', 'New York', 'England and Wales'). Not the forum."
+  jurisdiction_forum:
+    type: str
+    scorer: jurisdiction
+    description: "The courts or seat with jurisdiction over disputes. Not the governing law."
+  assignment:
+    type: enum
+    enum: [prohibited, consent_required, permitted, permitted_affiliates_successors, silent]
+    scorer: enum
+    description: "Whether either party may assign the agreement."
+  survival:
+    type: text
+    scorer: span
+    description: "How long confidentiality obligations survive termination or expiry (e.g. 'five (5) years', 'in perpetuity for trade secrets')."
+  remedies:
+    type: list[enum]
+    enum: [injunctive_relief, indemnity, liquidated_damages, specific_performance, other]
+    scorer: enum_set
+    description: "Remedies the agreement expressly provides for breach."
+document_fields:
+  document_type:
+    type: enum
+    enum: [mutual_nda, one_way_nda, other]
+    description: "Mutual if both parties disclose and receive; one-way if only one discloses."

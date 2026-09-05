@@ -1,0 +1,14 @@
+# The citation runner produces `findings`, one per citation. The verdict enum
+# deliberately has no positive disposition: RESOLVED means the reporter citation
+# exists and the name matches, nothing more. Existence is not support.
+fields:
+  verdict:
+    type: enum
+    enum: [RESOLVED, NAME_MISMATCH, UNRESOLVED, NOT_CHECKED, SKIPPED]
+    scorer: enum
+    description: "Per citation. RESOLVED: exists and name matches. NAME_MISMATCH: real citation, different case. UNRESOLVED: not in the database (not proof of fabrication). NOT_CHECKED: the lookup failed; says nothing. SKIPPED: parallel citation."
+  written_name:
+    type: str
+    scorer: party_names
+    description: "The case name as the document writes it."
+document_fields: {}

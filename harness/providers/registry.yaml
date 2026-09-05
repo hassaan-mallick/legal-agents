@@ -1,0 +1,79 @@
+# Endpoint registry. This is the ONLY place a provider or model host is named.
+# Agents never reference these; runs select one with --provider or LA_PROVIDER.
+#
+# zdr: true | false | unverified.  Only `true` WITH a verified_on date counts as
+# zero data retention for routing (C6). "unverified" is the default because the
+# zero-retention trap is real: an enterprise agreement does not by itself turn
+# retention off. Fill verified_on only after you have checked the account
+# configuration yourself and can say how.
+#
+# Fields: adapter (anthropic_native | openai_compat), preset (openai_compat only),
+# host, zdr, retention_days, region, local, audit_log, sub_processor, verified_on,
+# verified_how, note.
+
+anthropic-api:
+  adapter: anthropic_native
+  host: api.anthropic.com
+  zdr: unverified
+  retention_days: 30
+  region: US
+  local: false
+  audit_log: false
+  sub_processor: Anthropic
+  verified_on: null
+  verified_how: null
+  note: Standard API accounts retain for abuse monitoring; ZDR needs an agreement and configuration.
+
+openai-api:
+  adapter: openai_compat
+  preset: openai
+  host: api.openai.com
+  zdr: unverified
+  retention_days: 30
+  region: US
+  local: false
+  audit_log: false
+  sub_processor: OpenAI
+  verified_on: null
+  verified_how: null
+
+azure-openai:
+  adapter: openai_compat
+  preset: azure
+  host: env:AZURE_OPENAI_ENDPOINT
+  zdr: unverified
+  retention_days: 30
+  region: env:AZURE_REGION
+  local: false
+  audit_log: true
+  sub_processor: Microsoft
+  verified_on: null
+  verified_how: null
+  note: Becomes ZDR only after Modified Abuse Monitoring is approved for the resource. A form and an approval, not a checkbox.
+
+openrouter:
+  adapter: openai_compat
+  preset: openrouter
+  host: openrouter.ai
+  zdr: unverified
+  retention_days: null
+  region: null
+  local: false
+  audit_log: false
+  sub_processor: OpenRouter + upstream provider
+  verified_on: null
+  verified_how: null
+  note: Retention depends on the upstream provider chosen per request; treat as unverified.
+
+ollama-local:
+  adapter: openai_compat
+  preset: ollama
+  host: localhost
+  zdr: true
+  retention_days: 0
+  region: local
+  local: true
+  audit_log: false
+  sub_processor: none
+  verified_on: "2026-09-05"
+  verified_how: Inference runs on this machine; nothing leaves the host.

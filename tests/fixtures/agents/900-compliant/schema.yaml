@@ -1,0 +1,8 @@
+fields:
+  example_field:
+    type: text
+    required: true
+    scorer: span
+    description: "The term of the agreement."
+document_fields:
+  document_type: {type: enum, enum: [type_a, type_b, other]}

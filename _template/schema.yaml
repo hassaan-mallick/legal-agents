@@ -1,0 +1,14 @@
+# Declare fields only. The harness wraps each one in {present, value, quote, confidence, note}
+# so every extraction carries a verbatim quote (C1) and a confidence (C3).
+# type: str | text | date | enum | list[str] | list[enum] | int | bool
+# scorer: exact | enum | enum_set | date | party_names | jurisdiction | span | int | bool
+fields:
+  example_field:
+    type: str
+    required: true
+    scorer: exact
+    description: "What this field means, in lawyer language"
+document_fields:
+  document_type:
+    type: enum
+    enum: [type_a, type_b, other]

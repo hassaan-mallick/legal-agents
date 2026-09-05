@@ -1,0 +1,139 @@
+# Citation pool for the synthetic briefs (agent 002).
+#
+# `real` entries are well-known US Supreme Court decisions, resolved live against
+# CourtListener by the harness on confirmed_on (`resolved_as`, `lookup`). `fabricated`
+# entries are invented and returned not_found on the same date. `typo` is the real
+# citation with two digits transposed: a real case a lawyer mistyped, which the tool
+# cannot distinguish from a fabrication (`typo_lookup`). Hand re-confirmation by
+# Hassaan Mallick is pending; until then this file is evidence, not authority.
+confirmed_by: harness live lookup; hand re-confirmation pending (Hassaan Mallick)
+confirmed_on: '2026-09-05'
+citations:
+- name: Anderson v. Liberty Lobby, Inc.
+  cite: 477 U.S. 242
+  year: 1986
+  status: real
+  typo: 477 U.S. 224
+  resolved_as: Anderson v. Liberty Lobby, Inc.
+  lookup: found
+  typo_lookup: not_found
+- name: Celotex Corp. v. Catrett
+  cite: 477 U.S. 317
+  year: 1986
+  status: real
+  typo: 477 U.S. 371
+  resolved_as: Celotex Corp. v. Catrett, Administratrix of the Estate of Catrett
+  lookup: found
+  typo_lookup: not_found
+- name: McDonnell Douglas Corp. v. Green
+  cite: 411 U.S. 792
+  year: 1973
+  status: real
+  typo: 411 U.S. 729
+  resolved_as: McDonnell Douglas Corp. v. Green
+  lookup: found
+  typo_lookup: not_found
+- name: Bell Atlantic Corp. v. Twombly
+  cite: 550 U.S. 544
+  year: 2007
+  status: real
+  resolved_as: Bell Atlantic Corp. v. Twombly
+  lookup: found
+- name: Ashcroft v. Iqbal
+  cite: 556 U.S. 662
+  year: 2009
+  status: real
+  typo: 556 U.S. 626
+  resolved_as: Ashcroft v. Iqbal
+  lookup: found
+  typo_lookup: not_found
+- name: Reeves v. Sanderson Plumbing Products, Inc.
+  cite: 530 U.S. 133
+  year: 2000
+  status: real
+  typo: 530 U.S. 331
+  resolved_as: Reeves v. Sanderson Plumbing Products, Inc.
+  lookup: found
+  typo_lookup: not_found
+- name: Matsushita Electric Industrial Co. v. Zenith Radio Corp.
+  cite: 475 U.S. 574
+  year: 1986
+  status: real
+  resolved_as: Matsushita Electric Industrial Co., Ltd. v. Zenith Radio Corporation
+  lookup: found
+- name: Conley v. Gibson
+  cite: 355 U.S. 41
+  year: 1957
+  status: real
+  resolved_as: Conley v. Gibson
+  lookup: found
+- name: Daubert v. Merrell Dow Pharmaceuticals, Inc.
+  cite: 509 U.S. 579
+  year: 1993
+  status: real
+  typo: 509 U.S. 597
+  resolved_as: Daubert v. Merrell Dow Pharmaceuticals, Inc.
+  lookup: found
+  typo_lookup: not_found
+- name: Scott v. Harris
+  cite: 550 U.S. 372
+  year: 2007
+  status: real
+  resolved_as: Scott v. Harris
+  lookup: found
+- name: Tolan v. Cotton
+  cite: 572 U.S. 650
+  year: 2014
+  status: real
+  resolved_as: Tolan v. Cotton
+  lookup: found
+- name: Burlington Northern & Santa Fe Railway Co. v. White
+  cite: 548 U.S. 53
+  year: 2006
+  status: real
+  resolved_as: Burlington Northern & Santa Fe Railway Co. v. White
+  lookup: found
+- name: Texas Department of Community Affairs v. Burdine
+  cite: 450 U.S. 248
+  year: 1981
+  status: real
+  typo: 450 U.S. 284
+  resolved_as: Texas Department of Community Affairs v. Burdine
+  lookup: found
+  typo_lookup: not_found
+- name: Harlow v. Fitzgerald
+  cite: 457 U.S. 800
+  year: 1982
+  status: real
+  resolved_as: Harlow v. Fitzgerald
+  lookup: found
+- name: Pearson v. Callahan
+  cite: 555 U.S. 223
+  year: 2009
+  status: real
+  resolved_as: Pearson v. Callahan
+  lookup: found
+- name: Whitmore v. Cascade Logistics, Inc.
+  cite: 814 F.3d 1122
+  year: 2016
+  status: fabricated
+  resolved_as: null
+  lookup: not_found
+- name: Delacroix v. Marbury Logistics Group, Inc.
+  cite: 927 F.3d 1404
+  year: 2019
+  status: fabricated
+  resolved_as: null
+  lookup: not_found
+- name: Okafor v. Tessaly Corp.
+  cite: 988 F.3d 1311
+  year: 2021
+  status: fabricated
+  resolved_as: null
+  lookup: not_found
+- name: In re Vance Capital Partners
+  cite: 612 F. Supp. 3d 1187
+  year: 2022
+  status: fabricated
+  resolved_as: null
+  lookup: not_found

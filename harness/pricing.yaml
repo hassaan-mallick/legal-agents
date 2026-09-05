@@ -1,0 +1,8 @@
+# USD per 1M tokens. Hand-maintained; never referenced from agent files.
+# Keys: <provider-name-from-registry>: <model id>: {input, output, cache_read, cache_write}
+# Leave a model out and the harness reports tokens but no dollars.
+anthropic-api: {}
+openai-api: {}
+azure-openai: {}
+openrouter: {}
+ollama-local: {}
