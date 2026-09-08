@@ -38,6 +38,24 @@ The section nobody else publishes. Each mode is mapped to the atlas taxonomy and
 **Seen in the wild:** observed on the first real brief we ran, `recap-479971053` (W.D.N.C.), the second citation in the document.
 **The control:** C4. Real briefs in the golden set surface parser behaviour that synthetic briefs never do. Fixed by allowing a short gap made only of digits and punctuation between parallels, with a regression test; the eval now also scores extra citations the parser produces, so a repeat would lower the extraction score.
 
+## 7. "Ambiguous" was being read as "absent" — T6 (observed: `recap-422386605`, 20 citations; fixed 2026-09-08)
+
+**What happens:** The lookup endpoint answers status 300 when several records share one citation: a cert-denial page in the U.S. Reports, a reporter page carrying two short opinions, a duplicate ingest. The first version of the runner treated anything other than 200 as "not found", so twenty real Fourth and Seventh Circuit cases in one environmental brief were reported UNRESOLVED. Every one of them exists.
+**Seen in the wild:** observed on 2026-09-08 in `recap-422386605`; *Highway J Citizens Group v. Mineta*, 349 F.3d 938, and *Hughes River Watershed Conservancy v. Glickman*, 81 F.3d 437, among others.
+**The control:** C3 kept the damage to false alarms (UNRESOLVED escalates to a person; it never says "fabricated"), and C4 caught it: real briefs in the golden set produced a miss rate the synthetic set never could. Fixed: 300 is now "exists, several records", the name check compares the written caption against every record and keeps the best match, and the resolution records how many records shared the citation.
+
+## 8. The free database is a shared resource with a quota — T5 operational (observed 2026-09-08)
+
+**What happens:** Thirty real briefs contain roughly six hundred citations. CourtListener's lookup endpoint rate-limited a new account after about a hundred lookups in an hour, with retry-after windows of 40 to 50 minutes, and the anonymous search path was cut off for a day after a few hundred requests. A tool that sleeps silently through those windows looks hung; a tool that retries harder gets the account banned.
+**Seen in the wild:** our own runs, 2026-09-08, three separate stops.
+**The control:** C2 and the egress log. The runner now stops loudly on any retry-after over ninety seconds, writes what it has, records the stop in `run.json`, and exits with a distinct code; every resolved lookup is cached so a re-run resumes at full speed. In a firm this is the argument for a paid citator behind the same interface, and for never pointing a demo at a non-profit's API on a partner's behalf without reading the terms.
+
+## 9. A wrong pin page is invisible to a name check — T4, caught (observed: `recap-377506294`)
+
+**What happens:** A brief cited *Sorrell v. IMS Health Inc.* at 564 U.S. 522. The case is at 564 U.S. 552. Page 522 of that volume is *Freeman v. United States*, so the citation resolved and the name did not match. This is the realistic error in a real filing: a transposed digit that lands on a different real case.
+**Seen in the wild:** observed on 2026-09-08 in `recap-377506294` (E.D. Wis.). Recorded here as a catch, not a failure, because it is exactly what NAME_MISMATCH exists for, and because the tool cannot say whether it is a typo or something worse. The filing attorney can.
+**The control:** C1 (the name comparison is the second layer; existence alone would have passed this) and C5 (the verdict escalates, it does not judge).
+
 ## What this agent must never be trusted to do
 
 It must never be read as clearing a brief for filing. RESOLVED means a reporter citation exists and the name matches the database, nothing more. UNRESOLVED is not proof of fabrication. It does not read the opinion, does not check the quotation, does not check the proposition, and does not know whether the case has been overruled. The filing attorney owns every one of those, and the court will hold them to it.
