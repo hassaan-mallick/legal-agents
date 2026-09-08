@@ -31,9 +31,44 @@ NAME_MATCH_THRESHOLD = 60
 
 _NOISE = re.compile(r"\b(in re|ex parte|matter of|estate of|v\.?|inc|llc|co|corp|ltd|the|of|et al)\b")
 
+#: Bluebook T6/T10 abbreviations as they appear in briefs → the word the database uses.
+#: Real briefs abbreviate captions ("Sable Commc'ns of Cal. v. FCC"); databases do not.
+#: Observed on recap-377506294, recap-436884607, recap-454600796 (2026-09-08).
+BLUEBOOK = {
+    "commc'ns": "communications", "commcns": "communications", "cal": "california", "grp": "group",
+    "mod": "modern", "dev": "development", "enters": "enterprises", "equip": "equipment",
+    "cnty": "county", "cty": "county", "dep't": "department", "dept": "department",
+    "ass'n": "association", "assn": "association", "nat'l": "national", "natl": "national",
+    "serv": "service", "servs": "services", "mktg": "marketing", "ins": "insurance",
+    "env't": "environmental", "envt": "environmental", "envtl": "environmental",
+    "transp": "transportation", "res": "resources", "def": "defense", "fed'n": "federation",
+    "fedn": "federation", "soc": "society", "cong": "congress", "admin": "administrative",
+    "off": "office", "cts": "courts", "comm'rs": "commissioners", "commrs": "commissioners",
+    "comm'n": "commission", "commn": "commission", "agric": "agriculture", "rd": "road",
+    "mfg": "manufacturing", "sys": "systems", "tech": "technology", "techs": "technologies",
+    "int'l": "international", "intl": "international", "bd": "board", "educ": "education",
+    "sch": "school", "dist": "district", "hosp": "hospital", "med": "medical", "ctr": "center",
+    "indus": "industries", "prods": "products", "prod": "products", "mgmt": "management",
+    "bhd": "brotherhood", "union": "union", "auth": "authority", "pub": "public", "util": "utility",
+    "elec": "electric", "gen": "general", "am": "america", "n": "north", "s": "south", "e": "east",
+    "w": "west", "fin": "financial", "sec": "securities", "exch": "exchange", "hous": "housing",
+    "sav": "savings", "tr": "trust", "bros": "brothers", "consol": "consolidated", "ry": "railway",
+    "r.r": "railroad", "rr": "railroad", "inst": "institute", "univ": "university", "coll": "college",
+    "pharm": "pharmaceutical", "pharms": "pharmaceuticals", "labs": "laboratories", "lab": "laboratory",
+    "cnstr": "construction", "constr": "construction", "eng'g": "engineering", "engg": "engineering",
+    "ret": "retirement", "emp": "employment", "emps": "employees", "hum": "human", "rel": "relations",
+    "reg'l": "regional", "regl": "regional", "prot": "protection", "conservancy": "conservancy",
+}
+
+
+def _expand(word: str) -> str:
+    w = word.lower().strip(".,;:")
+    return BLUEBOOK.get(w, BLUEBOOK.get(w.replace("’", "'"), w))
+
 
 def _normalise_name(name: str) -> str:
-    lowered = _NOISE.sub(" ", name.lower())
+    expanded = " ".join(_expand(w) for w in name.replace("’", "'").split())
+    lowered = _NOISE.sub(" ", expanded.lower())
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", lowered).split())
 
 

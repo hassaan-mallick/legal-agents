@@ -43,6 +43,8 @@ class Resolution:
     cluster_id: int | None = None
     all_citations: list[str] = field(default_factory=list)
     error: str | None = None
+    backend: str | None = None  # search | lookup — which endpoint answered
+    candidates: list[str] = field(default_factory=list)  # other case names at this citation (status 300)
 
     def to_json(self) -> dict:
         return self.__dict__.copy()
@@ -158,6 +160,7 @@ class Resolver:
             result = self._via_lookup(volume, reporter, page)
         else:
             result = self._via_search(volume, reporter, page)
+        result.backend = "lookup" if (self.backend == "lookup" and self.token) else "search"
         self._store(key, result)
         return result
 
@@ -205,12 +208,19 @@ class Resolver:
             return Resolution(found=False)
         entry = entries[0]
         clusters = entry.get("clusters") or []
-        if entry.get("status") == 200 and clusters:
+        # 200 = one match. 300 = the citation is real but several records share it
+        # (a cert-denial page, a reporter that prints several short opinions per page,
+        # duplicate ingests). Both mean the citation EXISTS; the name check decides which.
+        # Observed 2026-09-08: 20 real F.3d cases were being reported UNRESOLVED on 300.
+        if entry.get("status") in (200, 300) and clusters:
             c = clusters[0]
+            names = [x.get("case_name") for x in clusters if x.get("case_name")]
             return Resolution(found=True, case_name=c.get("case_name"),
                               case_name_full=c.get("case_name_full"), court=c.get("court_id"),
                               date_filed=c.get("date_filed"),
                               precedential_status=c.get("precedential_status"),
                               absolute_url=c.get("absolute_url"), cluster_id=c.get("id"),
-                              all_citations=list(entry.get("normalized_citations") or []))
+                              all_citations=list(entry.get("normalized_citations") or []),
+                              candidates=names[1:] if entry.get("status") == 300 else [],
+                              error=f"ambiguous: {len(clusters)} records" if entry.get("status") == 300 else None)
         return Resolution(found=False, error=entry.get("error_message") or f"status {entry.get('status')}")

@@ -92,7 +92,8 @@ def _strip_connectors(name: str) -> str:
 
 
 def _words(name: str) -> list[str]:
-    return [w for w in re.sub(r"[^a-z0-9 ]", " ", name.lower()).split()
+    name = name.lower().replace("'", "").replace("’", "")  # ass'n → assn, ass' → ass
+    return [w for w in re.sub(r"[^a-z0-9 ]", " ", name).split()
             if w not in ("of", "the", "and", "for", "de", "du", "von")]
 
 
@@ -100,9 +101,12 @@ def _truncated(eyecite_plaintiff: str, context_plaintiff: str) -> bool:
     """eyecite kept only the tail of the caption, or dropped a stopword and left a
     double space. Accept the context caption only when it contains everything
     eyecite found and adds to it."""
+    damaged = bool(re.search(r"\w['’](?:\s|$)", eyecite_plaintiff))  # "Ass'", "Nat'", "Fed'"
     e, c = _words(_strip_connectors(eyecite_plaintiff)), _words(context_plaintiff)
     if not e or not c or len(c) < len(e):
         return False
+    if damaged:
+        return c[-1].startswith(e[-1]) and all(any(cw.startswith(ew) for cw in c) for ew in e)
     if e[-1] != c[-1] or not set(e) <= set(c):
         return False
     return len(c) > len(e) or "  " in eyecite_plaintiff

@@ -53,3 +53,21 @@ def test_parallel_cites_with_pin_cite_between_are_one_case():
     text = "Nat'l R.R. Passenger Corp. v. Morgan, 536 U.S. 101, 122 S.Ct. 2061, 2072–73, 153 L.Ed.2d 106 (2002)."
     _, c = extract(text)
     assert [x.parallel_to for x in c] == [None, 0, 0]
+
+
+def test_bluebook_abbreviations_match_database_names():
+    from harness.runners.citations.classify import NAME_MATCH_THRESHOLD, name_similarity
+
+    pairs = [("Sable Commc’ns of Cal. v. FCC", "Sable Communications of California, Inc. v. FCC"),
+             ("Clark v. Mod. Grp. Ltd.", "William N. Clark v. Modern Group Ltd."),
+             ("ES Dev., Inc. v. RWM Enters., Inc.", "Es Development, Inc. v. RWM Enterprises, Inc.")]
+    for written, resolved in pairs:
+        assert name_similarity(written, resolved) >= NAME_MATCH_THRESHOLD, (written, resolved)
+    assert name_similarity("Sorrell v. IMS Health Inc.", "Freeman v. United States") < NAME_MATCH_THRESHOLD
+
+
+def test_apostrophe_damaged_caption_rebuilt():
+    from harness.runners.citations.extract import extract
+
+    _, c = extract("See Jersey Heights Neighborhood Ass'n v. Glendening, 174 F.3d 180 (4th Cir. 1999).")
+    assert c[0].written_name == "Jersey Heights Neighborhood Ass'n v. Glendening"
