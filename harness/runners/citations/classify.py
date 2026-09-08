@@ -126,14 +126,18 @@ def classify(cite: ExtractedCitation, resolution: Resolution) -> Finding:
             "very recent decisions and state trial courts. Check it by hand."))
     written = cite.written_name
     resolved = resolution.case_name or resolution.case_name_full
+
     if not written or not resolved:
         return Finding(cite, resolution, Verdict.RESOLVED, explanation=(
             "Citation resolves. No case name was attached in the document, so the name could "
             "not be checked — existence only."))
-    score = name_similarity(written, resolved)
+    # status 300: several records share the citation; compare against every one, keep the best
+    names = [resolved] + [n for n in resolution.candidates if n]
+    score, resolved = max((name_similarity(written, n), n) for n in names)
     if score >= NAME_MATCH_THRESHOLD:
+        note = f" ({len(names)} records share this citation)" if len(names) > 1 else ""
         return Finding(cite, resolution, Verdict.RESOLVED, similarity=score,
-                       explanation=f"Resolves to {resolved}. Name matches ({score:.0f}%).")
+                       explanation=f"Resolves to {resolved}. Name matches ({score:.0f}%).{note}")
     return Finding(cite, resolution, Verdict.NAME_MISMATCH, similarity=score, explanation=(
         f'Citation is real, but it belongs to "{resolved}" — the document calls it '
         f'"{written}" ({score:.0f}% similar). Either the name or the citation is wrong.'))
