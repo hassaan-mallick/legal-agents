@@ -8,7 +8,7 @@ Defendant.
 Case No.: 0:23-cv-03009-JRT-JFD 
 MEMORANDUM OF LAW IN SUPPORT OF  
 DEFENDANT AGRI STATS’ MOTION FOR SUMMARY JUDGMENT 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 1 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 1 of 33
 i 
 TABLE OF CONTENTS 
 Page 
@@ -29,7 +29,7 @@ III. There is No Evidence that Agri Stats Can Resume Pork and Turkey
 Reports. ........................................................................................................ 24 
 IV . There is No Evidence of Harm Related to EMI. ......................................... 27 
 CONCLUSION ................................................................................................................. 28 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 2 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 2 of 33
 ii 
 TABLE OF AUTHORITIES 
  Page(s) 
@@ -60,7 +60,7 @@ ES Dev., Inc. v. RWM Enters., Inc.,
 939 F.2d 547 (8th Cir. 1991) ....................................................................................... 20 
 Five Smiths, Inc. v. Nat’l Football League Players Ass’n, 
 788 F. Supp. 1042 (D. Minn. 1992) ....................................................................... 12, 14 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 3 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 3 of 33
 iii 
 Jien v. Perdue Farms, Inc., 
 2020 WL 5544183 (D. Md. Sept. 16, 2020) ................................................................ 12 
@@ -92,7 +92,7 @@ In re Turkey Antitrust Litig.,
 1:19-cv-8318 (N.D. Ill. Dec. 19, 2019) (“Turkey”) ................................................... 6, 7 
 United States v. Am. Linseed Oil Co., 
 262 U.S. 371 (1923) ..................................................................................................... 14 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 4 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 4 of 33
 iv 
 United States v. Container Corp. of Am., 
 393 U.S. 333 (1969) ............................................................................................... 13, 14 
@@ -109,7 +109,7 @@ Sherman Act ....................................................................
 Other Authorities 
 Fed. R. Civ. P. 56(a) .......................................................................................................... 11 
 Moore’s Fed. Prac. and Proc. 3d (2015) ............................................................................ 19 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 5 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 5 of 33
 INTRODUCTION1
 Nine years of litigation related to Agri Stats in multiple jurisdictions has generated 
 a discovery record likely larger than any other in the history of antitrust litigation. The 
@@ -133,7 +133,7 @@ reports other than the Sales reports constitute an unlawful information exchange
 outlined in Agri Stats’ Memorandum of Law in Support of Its’ Motion to Recuse. See Dkt. 
 No. 339. Agri Stats objects to this Court’s adjudication of this Motion given the pendency 
 of that motion. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 6 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 6 of 33
 Moreover, even as to the broiler chicken Sales reports, Plaintiffs lack the required 
 evidence of market-wide anticompetitive effects. Plaintiffs have no analyses showing an 
 actual price effect from Agri Stats broiler chicken reports, in stark contrast to the expert 
@@ -155,7 +155,7 @@ Agri Stats’ motion to dismiss, this Court expressed skepticism about “what d
 yield” to support jurisdiction over those claims. Dkt. No. 118 at 18. The record is now 
 complete, and there is no evidence that Agri Stats could restart the pork and turkey reports 
 even if it wanted to. Plaintiffs’ pork and turkey claims should be dismissed.  
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 7 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 7 of 33
 Finally, while Plaintiffs seek an injunction against Agri Stats’ Express Markets, Inc. 
 (“EMI”) subsidiary, Compl. ¶ 168, there is no evidence that EMI price reports and 
 forecasts—which are available to both buyers and sellers—have anticompetitive effects. 
@@ -177,7 +177,7 @@ Agri Stats began offering benchmarking reports for turkey. Ex. 7 (AGSTAT-T-03949
 at AGSTAT-T-03949462. In 2004, Agri Stats began benchmarking reports related to the 
 farming of live hogs, called the Swine Live Production reports. Ex. 8 (AGS-0043655870); 
 Ex. 2 (Pork Snyder Tr.) 49:16–18, 49:20–50:4. In 2006, Agri Stats purchased Agrimetrics, 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 8 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 8 of 33
 a company producing benchmarking reports for processing pork products. Ex. 2 ( Pork
 Snyder Tr.) 49:16–18, 49:20–50:4; Ex. 9 (AGS-0043707184) at AGRI-00305710.  
 By 2009, Agri Stats offered a consistent set of benchmarking reports to processors 
@@ -204,7 +204,7 @@ Exs. 10–15 (“Sample Set of Broiler Chicken Reports”); Exs. 16–21 (“Sam
 Reports”); Exs. 22–29 (“Sample Set of Turkey Reports”).  
 As discussed at length in the In re Broiler Chicken Antitrust Litigation (“Broilers”)
 summary judgment decision, 702 F. Supp. 3d 635, 678 (N.D. Ill. 2023), none of these 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 9 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 9 of 33
 reports contain information disclosing actual competitor production volumes or prices. See
 Exs. 10–15 (Sample Set of Broiler Chicken Reports); Ex. 3 (Scholer Decl.) ¶¶ 46–48. 
 Instead, they compare a recipient’s efficiency metrics with those of anonymized competitor 
@@ -226,7 +226,7 @@ industry forecasts, both of which are available to anyone who wants to purchase 
 including both protein buyers and sellers. Ex. 31 ( Broilers Scholer Tr.) at 58:25–59:2, 
 147:4–12, 178:15–179:2,183:18–22, 218:17–21, 371:15-22. EMI’s forecasts are based on 
 publicly available data. Id. at 69:16–70:23; Ex. 32 (Broilers Trudell Tr.) at 18:19–20:25, 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 10 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 10 of 33
 91:19–93:7.  
   
 II. The History of Investigations and Litigation 
@@ -249,7 +249,7 @@ with respect to turkey. See Compl., Dkt. No. 1, In re Turkey Antitrust Litigatio
   
   
    
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 11 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 11 of 33
 In 2023, the Broilers court granted Agri Stats summary judgment. See Broilers, 702 
 F. Supp. 3d at 678–79 (N.D. Ill. 2023). Specifically, the Broilers court rejected the same 
 information exchange claim advanced here, concluding that “Agri Stats reports did not 
@@ -271,7 +271,7 @@ subscribers. Ex. 3 (Scholer Decl.) ¶¶ 21–22.
   
   
   It is undisputed that Agri Stats has not produced the challenged pork and turkey 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 12 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 12 of 33
 reports2 for six years and could not restart either program because it lacks the necessary 
 customers, data, and employees. Ex. 3 (Scholer Decl.) ¶¶ 21–22; Ex. 36 (Scholer Dep.) at 
 199:24–200:17 (  
@@ -294,9 +294,9 @@ many flaws,
   
 2 Agri Stats’ only remaining domestic pork-related report is its Swine Live Analysis, 
 which Plaintiffs have not challenged in this lawsuit. Dkt. No. 79 n.5. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 13 of 33
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 14 of 33
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 15 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 13 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 14 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 15 of 33
 LEGAL STANDARD 
 Courts grant summary judgment when “there is no genuine dispute as to any 
 material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 
@@ -315,7 +315,7 @@ genuine dispute of material fact exists, see Celotex Corp. v. Catrett , 477 U.S.
 Fed. R. Civ. P. 56(a) or as to particular issues where, as here, there is no genuine dispute as 
 to any material fact. See Fed. R. Civ. P. 56(a) advisory committee’s note to 2010 
 Amendment (Rule 56 contemplates “disposition of less than the whole action,” “mak[ing] 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 16 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 16 of 33
 clear” that “summary judgment may be requested not only as to an entire case but also as 
 to a claim, defense, or part of a claim or defense.”). 
 ARGUMENT 
@@ -336,7 +336,7 @@ in the relevant market.” Ohio v. Am. Express, Co., 585 U.S. 529, 541 (2018). O
 plaintiff meets its initial burden does “the burden shift[] to the defendant to show a 
 procompetitive rationale for the restraint.” Id. Finally, if the defendant comes forward with 
 evidence to satisfy its burden at step two, “the burden shifts back to the plaintiff to 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 17 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 17 of 33
 demonstrate that the procompetitive efficiencies could be reasonably achieved through less 
 anticompetitive means.” Id. at 542. Plaintiffs here do not get past step one.3
 Economic theory and innuendo are not sufficient to overcome the presumption of 
@@ -361,7 +361,7 @@ U.S.A., Inc., 344 F.3d 229, 238 (2d Cir. 2003). Nor do Plaintiffs even attempt t
 any “less anticompetitive means” through which any procompetitive benefits could be 
 achieved. As a result, Plaintiffs claim fails all three steps of the analysis. The Court, 
 however, need not move beyond step one to dispose of this motion. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 18 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 18 of 33
 Therefore, while identifying the nature of the information exchanged may be a threshold 
 burden at the pleading stage, it is insufficient alone to carry Plaintiffs’ summary judgment 
 burden without evidence that the exchange resulted in a market-wide price increase or 
@@ -384,7 +384,7 @@ ambit”); Maple Flooring Mfrs. Ass’n v. United States, 268 U.S. 563, 567, 585
 prices adversely to consumers”); United States v. Am. Linseed Oil Co., 262 U.S. 371, 387 
 (1923) (considering whether “prices of oil became more stable” as a result of exchange of 
 disaggregated and non- anonymized current price and production information); Am. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 19 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 19 of 33
 Column & Lumber Co. v. United States, 257 U.S. 377, 396–98, 408–09 (1921) (considering 
 whether prices “increased to an unprecedented extent” as a result of exchange of competitor 
 production and price information); Todd, 275 F.3d at 212, 214 (considering allegations that 
@@ -405,7 +405,7 @@ discovery has revealed no evidence that Agri Stats can resume publication of tho
 and therefore there is no case or controversy for the Court to resolve. 
 Fourth, there is no evidence of harm related to EMI, requiring dismissal of 
 Plaintiffs’ injunction claims against the entity. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 20 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 20 of 33
 I. There is No Evidence that the Broiler Chicken Live, Processing, Operations 
 Profit, and Bottom Line Report Books Harm Competition. 
 The Court should grant Agri Stats summary judgment on the issue of whether four 
@@ -428,7 +428,7 @@ April 17, 2025 report by identifying Plaintiffs’ evidence that
   
  none of which implicate the 
 four other broiler chicken report books.  
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 21 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 21 of 33
 First,   
   
   
@@ -451,7 +451,7 @@ Second,
 are limited to the putative markets for the sale of pork and turkey products and prove 
 nothing about market-wide price effects in the separate alleged market for chicken 
 products. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 22 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 22 of 33
 Third,  
   
   
@@ -473,7 +473,7 @@ Court’s Pork ruling is a case in point, in which the Court held class plaintif
 had a ‘substantial anticompetitive effect’ that harmed them in the relevant market.” Pork, 
 781 F. Supp. 3d at 868 (citation omitted). The Court relied upon regression analyses of 
 pork price data showing that consumers “paid artificially high prices due to the Defendants’ 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 23 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 23 of 33
 challenged conduct.” Id. at 871. No such evidence exists with respect to the Live, 
 Processing, Operations Profit, and Bottom Line report books in this case. Indeed, the only 
 record evidence before this Court regarding these report books demonstrates that they have 
@@ -496,7 +496,7 @@ based on theory instead of evidence would raise serious constitutional concerns.
 reports are commercial speech. Restraints on commercial speech may be no broader than 
 necessary to protect a legitimate governmental interest. Cent. Hudson Gas & Elec. Co. v. 
 Pub. Serv. Comm’n, 447 U.S. 557, 566 (1980). While Plaintiffs have a legitimate interest 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 24 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 24 of 33
 in protecting competition, the scope of any injunctive relief may sweep up no more 
 commercial speech than necessary to protect that interest. Id. Plaintiffs may not rely on 
 theoretical musings and must instead prove with actual evidence that the particular speech 
@@ -518,7 +518,7 @@ II. There is No Evidence that the Broiler Chicken Sales Report Books Harm
 Competition.  
 Each of the three categories of evidence put forward by Plaintiffs regarding the Sales 
 reports discussed above fail to raise a triable issue of whether those reports have market-
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 25 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 25 of 33
 wide anticompetitive effects, and therefore the Court should grant summary judgment to 
 Agri Stats on the entirety of Count I. 
 First,  
@@ -541,7 +541,7 @@ First,
 forth in Agri Stats’ Motion to Exclude and to Strike Expert Testimony. Dkt. No. 374. But 
 even assuming the “ ” study is admissible, it raises no triable issue of 
 anticompetitive effects flowing from Agri Stats’ broiler chicken sales reports. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 26 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 26 of 33
 See, e.g., Am. Express Co., 585 U.S. at 549 (“This Court will not infer competitive injury 
 from price and output data absent some evidence that tends to prove that output was 
 restricted or prices were above a competitive level.”) (internal quotations and citation 
@@ -562,11 +562,11 @@ omitted).
   
   
   See In re Wholesale Grocery Prods. Antitrust Litig., 946 F.3d 995, 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 27 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 27 of 33
 1003 (8th Cir. 2019) (“Absent admissible evidence regarding what [Plaintiff’s] monthly 
 and trending costs would have been but for the alleged antitrust conspiracy, no conclusions 
 or inferences can be drawn by a factfinder on causation or the injury incurred.”). 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 28 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 28 of 33
 Such evidence cannot prove the market-wide harm 
 necessary to survive summary judgment. See Todd, 275 F.3d at 214 (requiring “substantial” 
 evidence of price effect). 
@@ -590,7 +590,7 @@ is moot and a federal court must dismiss the action.” Potter v. Norwest Mortg.
 F.3d 608, 611 (8th Cir. 2003); Davis v. Fed. Election Comm’n, 554 U.S. 724, 734 (2008) 
 (“‘[A] plaintiff must demonstrate a case or controversy for each claim he seeks to press’ 
 and ‘for each form of relief’.”) (citation omitted). 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 29 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 29 of 33
 This Court previously acknowledged that Plaintiffs’ pork and turkey claims may not 
 present a justiciable controversy because Agri Stats no longer produces them, noting that 
 Plaintiffs had “alleged enough . . . to suggest that subscribers intend to subscribe . . . in the 
@@ -613,7 +613,7 @@ Second, while the Court previously found that the Government had sufficiently
 alleged that Agri Stats could restart pork and turkey benchmarking if requested, Dkt. No. 
 118 at 17, discovery has now shown that Agri Stats cannot. Agri Stats cannot produce 
 benchmarking reports without subscribers and their data, or without the employees who 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 30 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 30 of 33
 were terminated when the programs ceased. See Ex. 43 (Snyder Tr.) at 83:2–4 (“  
   
  ”); id. at 191:1–17 (“  
@@ -636,7 +636,7 @@ having lost a substantial part of its business,
 will. A “‘conjectural or hypothetical’ possibility of future harm is insufficient.” Brazil, 892 
 F.3d at 960 (citation omitted). Even if Plaintiffs established Agri Stats’ desire to relaunch 
 pork or turkey reports, that would not create a justiciable case or controversy. See Lujan v. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 31 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 31 of 33
 Defs. of Wildlife , 504 U.S. 555, 564 (1992) (“Such ‘some day’ intentions—without any 
 description of concrete plans, or indeed even any specification of when the some day will 
 be—do not support a finding of the ‘actual or imminent’ injury that our cases require.”) 
@@ -658,7 +658,7 @@ unsurprising, then, that Plaintiffs have all but abandoned any theory of liabili
 to EMI because EMI price reports and forecasts are available to anyone who wants to 
 purchase them, including protein buyers and sellers. Ex. 3 (Scholer Decl.) ¶ 64. There is 
 no record evidence that EMI has caused any competitive harm in any relevant market. 
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 32 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 32 of 33
 While Agri Stats submits that no trial is 
 necessary in this matter, it would be inefficient and waste the resources of the parties and 
 the Court to include EMI in any such trial given this lack of evidence. The Court should 
@@ -685,4 +685,4 @@ Minneapolis, MN 55402
 (612) 402-3017 
 peter.walsh@hoganlovells.com 
 Counsel for Defendant Agri Stats, Inc.
-CASE 0:23-cv-03009-JRT-JFD     Doc. 399     Filed 09/17/25     Page 33 of 33
+CASE 0:23-cv-03009-JRT-JFD          Page 33 of 33

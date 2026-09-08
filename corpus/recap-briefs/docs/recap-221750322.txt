@@ -31,7 +31,7 @@ reflect those of an inside, non- exempt sales employee. Further, Plaintiffs each
 improper wage payment through a failure to pay minimum wages, failure to provide overtime 
 wages, and illegal deductions from loan officer pay. Accordingly, Plaintiffs should be granted 
 summary judgment on all counts of their Complaint.  
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 1 of 17 PageID #:3025
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 1 of 17 
 FACTUAL BACKGROUND 
 For brevity, Plaintiffs refer this Court to the Rule 56.1(C)(2) Statement of Undisputed 
 Material Facts (“SOF”), ¶1-62, filed in conjunction with this Memorandum.   
@@ -55,7 +55,7 @@ ARGUMENT
 Plaintiffs Brian Noe and Eileen Pruitt move for summary judgment against all Defendants on 
 all counts of the Complaint. Moreover, Opt-In Plaintiffs move for summary judgement against 
 Defendants Richard Birk and Brian Birk on all counts of the Complaint. Plaintiffs were subject to 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 2 of 17 PageID #:3026
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 2 of 17 
 improper wage payment through a failure to pay minimum wages, failure to provide overtime 
 wages, and illegal deductions from loan officer pay. Accordingly, Plaintiffs s hould be granted 
 summary judgment on all counts of their Complaint. 
@@ -81,7 +81,7 @@ IMWL are evaluated using the same analysis. Curry v. Kraft Foods Glob., Inc., No
 LLC, 890 F. Supp. 2d 1008, 1010 (N.D. Ill. 2012) (“IMWL parallels the FLSA and the same 
 analysis has generally been applied to both statutes.”) (citing Condo v. Sysco Corp., 1 F.3d 599, 
 (7th Cir. 1993)).  
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 3 of 17 PageID #:3027
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 3 of 17 
 Further, the Illinois Administrative Code provides that the Director of the Illinois 
 Department of Labor, in interpreting the IMWL and regulations thereunder, may look to the United 
 States Department of Labor’s regulations and interpretations o f the FLSA. Ill. Admin. Code tit. 
@@ -105,7 +105,7 @@ Dist. LEXIS 99622 (M.D. Pa. Dec. 10, 2008).
 A. Plaintiffs Were Covered by the FLSA, IMWL, & IWPCA 
 As an initial matter, Plaintiffs are covered by th e FLSA. “An employee is covered by the 
 FLSA when e ither (1) the plaintiff/employee is a covered individual under the FLSA or (2) the 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 4 of 17 PageID #:3028
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 4 of 17 
 employer is a covered enterprise.” Rivera v. Heights Landscaping Inc., 2004 WL 434214, at *1, 
 2004 U.S. Dist. LEXIS 3746, at *2 (N.D. Ill. 2004). In other words, coverage exists if: (1) the 
 employee is engaged in commerce (i.e., individual coverage)  or (2) the employer is an enterprise 
@@ -129,7 +129,7 @@ the office, such as at home as well as on their personal phones. SOF ¶18.
 With respect to the state laws, Plaintiffs were protected under the IWML during their  
 employment with SMC, as it  is a pplies to a  “corporation. . . or any person acting directly or 
 indirectly in the interest of an employer in relation to an employee, for which one or more persons 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 5 of 17 PageID #:3029
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 5 of 17 
 are gainfully employed on some day within a calendar year,” and employing more than four  
 employees. 820 I.L.C.S. § 105/3. Similarly, u nder the I llinois Wage Payment & Collection Act 
 (“IWPCA”), an employer is defined as “any individual or entity that employs one or more people, 
@@ -153,7 +153,7 @@ right to minimum wage. Barrentine v. Arkansas-Best Freight System, Inc., 450 U.S
 Brooklyn Savings Bank v. O’Neil, 324 U.S. 697 (1945).  
 Plaintiffs commonly worked hours for which they were not paid minimum wage. I n fact, 
 Plaintiffs worked many hours where they were not paid anything. SMC had a policy wherein loan 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 6 of 17 PageID #:3030
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 6 of 17 
 officers were never paid any minimum w age. SOF ¶24, 26. This i s because, again, they were 
 misclassified by Defendants as exempt employees. SOF ¶40,44. As a result, Plaintiffs went weeks 
 during their employment without receiving any wages during the beginning of their employment 
@@ -178,7 +178,7 @@ supra. Third, Plaintiffs routinely worked over 40 hours in one week. Plaintiffs 
 routinely worked between 60 to 70 hours in a week, up to 80. SOF ¶ 34. Plaintiff Platt worked on 
 average 50 hours per week. SOF ¶ 34. Plaintiff Pruitt routinely worked between  40 and 50 hours 
 per week. Id. Plaintiff Jno-Lewis worked above 40 hours in one week during their employment. 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 7 of 17 PageID #:3031
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 7 of 17 
 SOF ¶35. No loan officers were ever paid overtime wages. SOF ¶36. No paystub reflects overtime 
 wages as it was SMC’s policy to not pay overtime wages because loan officers were misclassified 
 as exempt. SOF ¶36, 40, 44. 
@@ -202,7 +202,7 @@ ample support that Defendants unequivocally knew and encouraged loan officers to
 than forty hours a week. 
 In addition, this culture was confirmed by loan officers communicating their long hours to 
 SMC. By way of example, Plaintiff Brian Noe sent an email to Brian Birk and Richard Birk stating, 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 8 of 17 PageID #:3032
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 8 of 17 
 “I worked hard to get to this point by consistently delivering year after year working a lot of long 
 hours” and “I am not afraid of work as I am still in the office late at night where others left a long 
 time ago.” SOF ¶53. Further, Plaintiff Klaic sent an email stating “plan to be here till 7 or later 
@@ -227,7 +227,7 @@ Townstone Fin., Inc. (citing 29 C.F.R. § 541.500(a)). For  this analysis, t he 
 and regularly” has been defined as requiring a frequency which is greater than occasional but less 
 than constant, such that it encompasses work “ normally and recurrently performed every 
 workweek” but not “isolated or one-time tasks.” Id. (citing 29 C.F.R. § 541.701).  
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 9 of 17 PageID #:3033
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 9 of 17 
 The outside sales employee is an employee who makes sales at the customer ’s place of 
 business or, if selling door -to-door, at the customer’s home. Outside sales does not  include sales 
 made by mail, telephone or the Internet unless such contact is used merely as an adjunct to personal 
@@ -251,7 +251,7 @@ physical office as occasional occurrences, typically at the client’s request, 
 SOF ¶48. Further, SMC’s own emails indicate that being in the office was required two days out 
 of the week and one Saturday per month. SOF ¶ 41. Finally, this was pursuant to Company 
 instruction – Brian Birk frequently sent emails indicating to loan officers that they should be 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 10 of 17 PageID #:3034
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 10 of 17 
 calling, texting, and emailing their leads. SOF ¶39. Such loan officers hardly resemble door -to-
 door salespeople contemplated as outside sales officers.  
 2. The 7(i) Exemption Does Not Apply  
@@ -278,7 +278,7 @@ Northern District of Illinois has developed a standard for determining individua
 2 Plaintiffs incorporate the arguments and citations made in Noe’s 7(i) opposition. ECF No. 136 at 6-11.  
 3Plaintiffs incorporate the arguments and citations made in Noe’s 7(i) opposition. ECF No. 136 at 4-6.  
 4 Plaintiffs incorporate the arguments and citations made in Noe’s 7(i) opposition. ECF No. 136 at 4-6. 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 11 of 17 PageID #:3035
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 11 of 17 
 FLSA actio n.5 In Schneider v. Cornerstone Pints, Inc., a four -part rule was set forth by the 
 Northern District of Illinois: 1) a person must act in the interests of an employer in relation to an 
 employee and must do more than merely supervise ; 2) a ll relevant facts  should be considered, 
@@ -304,7 +304,7 @@ FLSA. See Riordan v. Kempiners, 831 F.2d 690, 694 (7th Cir. 1987) (Noting, in di
 defined broadly enough in the [FLSA] ... to permit naming another employee rather than the employer as defendant, 
 provided the defendant had supervisory authority over the complaining employee and was responsible in whole or 
 part for the alleged violation.”). 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 12 of 17 PageID #:3036
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 12 of 17 
 President by enforcing the requirements to work in the office and enforcing the pay plans without 
 payment of minimum wages and overtime. Id. 
 F. The Statute of Limitations is Three Years Because Defendants Acted Willfully 
@@ -329,7 +329,7 @@ allegedly decided whether they were exempt of non- exempt employees by electing 
 hourly with a reduced commission, or purely through commission. SOF ¶44. Allowing loan 
 officers to decide whether they will be paid hourly or by commission is reckless disregard for 
 whether its conduct of classifying loan officers paid commission improperly was prohibited or not. 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 13 of 17 PageID #:3037
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 13 of 17 
 A cursory investigation would reveal that loan officers such as Plaintiffs who work primarily 
 utilizing company leads, in their home or Company office, texting, emailing, and calling leads are 
 not exempt outside salespersons. Brian Birk and Richard Birk were aware of these inside sales 
@@ -354,7 +354,7 @@ valid wage assignment or wage deduction order; [or] (4) made with the express wr
 the employee, given freely at the time the deduction is made.”  820 Ill. Comp. Stat. 115/9. 
 Defendants cannot support that their deductions fell  into any of these permissible categories. 
 Defendants only argue  that their wage deductions were authorized by Plaintiffs’ employment 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 14 of 17 PageID #:3038
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 14 of 17 
 agreements. See ECF No. 121 at 5-6. Defendants’ primary argument is that Plaintiffs’ signatures 
 on an employment agreement conferred the right for Defendants to take deductions, in widely 
 varying amounts, for several fees depicted in the table below . See id. Plaintiffs signature on an 
@@ -380,7 +380,7 @@ Dated: November 30, 2022 Respectfully submitted,
  
 6 Plaintiffs incorporate the arguments and citations made in Noe & Pruitt’s opposition to Defendants’ motion for 
 summary judgment on Count IV. ECF No. 138 at 2-7. 
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 15 of 17 PageID #:3039
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 15 of 17 
 By: /s/ Katharine Thomas Batista  
  
 Ari Karen (pro hac vice)  
@@ -397,7 +397,7 @@ astephenson@mitchellsandler.com
 Attorneys for Plaintiffs Brian Noe, Eileen 
 Pruitt, and Opt-In Plaintiffs  
   
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 16 of 17 PageID #:3040
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 16 of 17 
 CERTIFICATE OF SERVICE 
  I hereby certi fy that on November 30, 2022, a copy of the foregoing PLAINTIFFS’ 
 MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFFS’ MOTION FOR 
@@ -408,4 +408,4 @@ record, were electronically served on this date via the CM/ECF system.
 /s/ Katharine Thomas Batista   
       Katharine Thomas Batista 
  
-Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 17 of 17 PageID #:3041
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 17 of 17 

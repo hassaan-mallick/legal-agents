@@ -19,7 +19,7 @@ Civil Action No.
 PLAINTIFF’S MEMORANDUM OF LAW IN SUPPORT OF 
 MOTION FOR SUMMARY JUDGMENT AND RELIEF 
 UNDER THE DECLARATORY JUDGMENT ACT
- PageID: 227 PageID: 455
+  
 i 
 TABLE OF CONTENTS
 INTRODUCTION ..................................................................................................... 1
@@ -37,7 +37,7 @@ II. REVISED 56:11-34 INFRINGES ON THE NCRAS’ RIGHT TO
 FREEDOM OF EXPRESSION, GUARANTEED BY THE FIRST 
 AMENDMENT. ............................................................................................28
 CONCLUSION ........................................................................................................31
- PageID: 228 PageID: 456
+  
 ii 
 TABLE OF AUTHORITIES
 Cases   Page(s) 
@@ -68,7 +68,7 @@ Greater Phila. Chamber of Com. v. City of Phila.,
 949 F.3d 116 (3d Cir. 2020)  ........................................................................  29, 30 
 Consumer Data Industry Ass’n v. Frey, 
 No. 1:19-CV-00438-GZS, 2020 WL 5983881 (D. Me. Oct. 8, 2020)  ..............  25 
- PageID: 229 PageID: 457
+  
 iii 
 Marshall v. Swift River Academy, LLC, 
 327 Fed. Appx. 13 (9th Cir. 2009)  ....................................................................  25 
@@ -100,7 +100,7 @@ Sorrell v. IMS Health Inc.,
 564 U.S. 552 (2011)  ..............................................................................  28, 29, 30 
 Step-Saver Data Systems, Inc. v. Wyse Technology, 
 912 F.2d 643 (3d Cir. 1990) .............................................................................  4, 5 
- PageID: 230 PageID: 458
+  
 iv 
 Travelers Ins. Co. v. Obusek, 
 72 F.3d 1148 (3d Cir. 1995)  ............................................................................  4, 5 
@@ -132,7 +132,7 @@ Statutes
 15 U.S.C. § 1681j(b)(d)  .........................................................................................  20 
 15 U.S.C. § 1681j(d)  ..............................................................................................  21 
 15 U.S.C. §1681s-2  ................................................................................................  25 
- PageID: 231 PageID: 459
+  
 v 
 15 U.S.C. § 1681t  ............................................................................................ passim 
 15 U.S.C. § 1681t(a)  ..................................................................................  15, 19, 20 
@@ -157,7 +157,7 @@ N.J.S.A. 56:11-34  .............................................................
 N.J.S.A. 56:11-34(e)  ....................................................................................... passim
 N.J.S.A. 56:11-37.10  ..............................................................................................  10 
 First Amendment to the United States Constitution  ..................................  1, 4, 6, 32 
- PageID: 232 PageID: 460
+  
 Plaintiff Consumer Data Industry Association (“CDIA”), pursuant to 
 this Court’s scheduling orders dated May 3, 2021, and July 14, 2021, and in 
 accordance with Federal Rule of Civil Procedure (“Fed. R. Civ. P”) 56 and the Local 
@@ -180,7 +180,7 @@ Stipulated Facts for Purpose of Summary Judgment Motions (“Stipulated Facts”
 parties submitted Stipulated Facts for Purpose of Summary Judgment Motions 
 on January 15, 2021. (Dkt. No. 22.)  The Court accepted the parties’ joint 
 submission on January 19, 2021. (Dkt. No. 23). 
- PageID: 233 PageID: 461
+  
 In enacting the FCRA, Congress intended there to be a national credit 
 reporting system to support the national banking system, 2 and adopted a complex 
 framework to explicitly preempt state laws that were either inconsistent with the 
@@ -200,7 +200,7 @@ than English, and expressly declined to do so.FTC Statement of Basis and Purpose
 69 Fed. Reg. 35,468 at 35,476 (June 24, 2004).  Thus, a state law requiring NCRAs 
 to provide file disclosures in multiple languages is inconsistent with the FCRA and 
 15 U.S.C. § 1681a (“Congressional findings and statement of purpose.”) 
- PageID: 234 PageID: 462
+  
 its implementing regulations.  For these reasons, and as explained in detail below, 
 Revised 56:11-34 is preempted by the FCRA.  
 Even if it were not inconsistent with the FCRA, Revised 56:11-34 is 
@@ -220,7 +220,7 @@ justify this intrusion, especially since the legislature made no findings to sup
 revision, which gives nearly unfettered discretion to the Director to require the 
 NCRAs to speak in an unlimited number of foreign languages.  As such, New Jersey 
 has gone too far, and the law is unconstitutional. 
- PageID: 235 PageID: 463
+  
 For these reasons, this Court should grant the Motion and enter 
 judgment in favor of CDIA. 
 STANDARD OF REVIEW 
@@ -241,7 +241,7 @@ Ins. Co. v. Obusek , 72 F.3d 1148, 1154 (3d Cir. 1995),  citing Step-Saver Data
 Systems, Inc. v. Wyse Technology, 912 F.2d 643, 646 (3d Cir. 1990). 
 See Stipulated Facts, n. 1, supra, and CDIA’s Statement of Material Facts Not in 
 Dispute filed herewith. 
- PageID: 236 PageID: 464
+  
 “Parties’ interests are adverse where harm will result if the declaratory 
 judgment is not entered.”  Plains All Am. Pipeline L.P. v. Cook,  866 F.3d 534 (3d 
 Cir. 2017), quoting Travelers Ins., 72 F.3d at 1154.  The U.S. Supreme Court has 
@@ -262,7 +262,7 @@ sought is conclusive.  That is, the legal status of the parties, and/or their re
 will be changed or clarified by the declaration.  Step-Saver Data Systems, Inc., 912 
 F.2d at 648.  The “contest must be based on a ‘real and substantial controversy 
 admitting of specific relief through a decree of a conclusive character, as 
- PageID: 237 PageID: 465
+  
 distinguished from an opinion advising what the law would be upon a hypothetical 
 state of facts.’” Id. at 649 ( quoting Aetna Life Ins. Co. v. Haworth, 300 U.S. 227, 
 241 (1937)).  CDIA has presented the Court with all relevant facts from which it can 
@@ -282,7 +282,7 @@ to the United States Constitution.  CDIA is entitled to a declaratory judgment
 pursuant to Fed. R. Civ. P. 57 and the Declaratory Judgments Act, that Revised 
 56:11-34 is preempted by the FCRA and further violates the First Amendment, as 
 set forth more fully below. 
- PageID: 238 PageID: 466
+  
 I. REVISED 56:11-34 IS PREEMPTED BY THE FCRA. 
 The FCRA reflects a careful Congressional balancing of the “needs of 
 commerce” and the “efficiency of the banking system” with the need to protect the 
@@ -309,7 +309,7 @@ privacy.
 15 U.S.C. § 1681(a).  See also Stipulated Facts ¶ 6.  All consumer reporting agencies 
 are subject to the FCRA, although there are certain provisions that apply only to 
 those CRAs that meet the definition of a “nationwide consumer reporting agency” 
- PageID: 239 PageID: 467
+  
 set forth in section 1681a(p), including specific requirements related to file 
 disclosures.   
 To promote these objectives, and to preserve a nationally uniform 
@@ -332,7 +332,7 @@ section 1681g provides:
 (a)  Every consumer reporting agency shall, upon request, and 
 subject to 610(a)(1) [§1681h], clearly and accurately disclose to 
 the consumer:  
- PageID: 240 PageID: 468
+  
 (1) All information in the consumer’s file at the time 
 of the request . . . [with certain exceptions]; 
 (2) The sources of information . . . [with certain 
@@ -360,7 +360,7 @@ request and obtain a credit score.
 any consumer (as used above) means “all information on that consumer recorded 
 and retained by a consumer reporting agency regardless of how the information is 
 stored.” 15 U.S.C. § 1681a(g) (emphasis added). 
- PageID: 241 PageID: 469
+  
 The FCRA also specifies the manner in which these disclosures must 
 be made to consumers.  Section 1681h, titled “Conditions and form of disclosure to 
 consumers,” sets forth the requirements for the provision of the file disclosure, 
@@ -383,7 +383,7 @@ of any disclosures, including N.J.S.A. 56:11-37.10(a)(1) as in effect as of the 
 of enactment of the FACT Act.  That provision of New Jersey law essentially 
 provided consumers with one free file disclosure from any type of CRA every 
 12-month period. 
- PageID: 242 PageID: 470
+  
 including providing for a new free annual file disclosure from the NCRAs to be 
 provided through a “centralized source” to be established (and paid for) by the 
 NCRAs.  15 U.S.C. §1681j(a).  Congress set forth specific requirements for these 
@@ -413,7 +413,7 @@ paragraph (1).
 Congress also directed the FTC to adopt regulations that would govern 
 the NCRA’s conduct in providing the free annual file disclosures.  FACT Act, 
 §211(d)(1).  In adopting the regulations, the FTC was required to “consider the 
- PageID: 243 PageID: 471
+  
 concerns of both consumer and industry in prescribing these rules,” including the 
 “significant demands that may be placed on consumer reporting agencies in 
 providing such consumer reports.”  FACT Act, §211(d)(2); see also FTC Statement 
@@ -445,7 +445,7 @@ and instructions.  The Commission, however, intends to
 provide education and outreach to consumers concerning 
 the final rule in Spanish -- the language most commonly 
 mentioned by commenters on this issue – and encourages 
- PageID: 244 PageID: 472
+  
 other stakeholders in the centralized source, including the 
 nationwide consumer reporting agencies, to do the same. 
 Id. at 35,476 (emphasis added).  As such, the FCRA, together with its implementing 
@@ -467,7 +467,7 @@ only in the text, but through the reviewing court’s reasoned understanding of 
 way in which Congress intended the statute and its surrounding regulatory scheme 
 to affect business, consumers, and the law.  Medtronic, Inc. v. Lohr, 518 U.S. 470, 
 486 (1996) (internal citations omitted).   
- PageID: 245 PageID: 473
+  
 The initial version of the FCRA contained only a “conflict preemption” 
 provision, essentially only preempting those state laws that were inconsistent with 
 the FCRA. Pub. L. 90-321 (1968).  However, Congress substantially amended the 
@@ -489,7 +489,7 @@ Pub. L. No. 108-159, 149 Cong. Rec. H8122 (2003). As Representative Oxley
 explained, the intent of Congress at that time was that: 
 under this new preemption provision, no state or local jurisdiction may 
 add to, alter, or affect the rules established by the statute or regulations 
- PageID: 246 PageID: 474
+  
 thereunder in any of these areas. All of the statutory and regulatory 
 provisions establishing rules and requirements governing the conduct 
 of any person in the specified areas are governed solely by federal law, 
@@ -515,7 +515,7 @@ or prohibition may be imposed under the laws of any State…with respect to any
 subject matter regulated under” certain enumerated provisions of the FCRA.  Thus, 
 state laws that attempt to regulate one of these subject matters in any way are 
 preempted.  Congress also expressly preempted state laws that attempted to regulate 
- PageID: 247 PageID: 475
+  
 specific conduct dictated by the FCRA.  Relevant here, the “conduct preemption” 
 provision states:  
 No requirement or prohibition may be imposed under the 
@@ -539,7 +539,7 @@ of Consumer Affairs determines is the first language of a significant number of
 consumers in the State.”   N.J.S.A. 56:11-34(e).  The Director is directed to require 
 that the information be “made available in at least the 10 languages other than 
 English and Spanish that are most frequently spoken as a first language by 
- PageID: 248 PageID: 476
+  
 consumers in this State.”  Id.  It is impossible for any NCRA to comply with both 
 the FCRA requirement and Revised 56:11-34’s requirement to provide disclosures 
 in real time in at least eleven additional languages when they exclusively collect, 
@@ -560,7 +560,7 @@ written by consumers and submitted to a consumer reporting agency for the purpos
 of explaining a dispute of information in their file. 15 U.S.C. § 1681i(b). These 
 consumer statements are provided and maintained in English. CDIA Statement ¶11. 
 Moreover, should a consumer report that they are the victim of identity theft or fraud, 
- PageID: 249 PageID: 477
+  
 the NCRA records a “fraud alert” which is included in all subsequent consumer 
 reports it provides to users.  15 U.S.C. § 1681c-1.  These fraud alerts, and other 
 alerts, such as active-duty alerts (advising that the consumer is active duty military 
@@ -579,7 +579,7 @@ both requirements simultaneously – if a file disclosure is required, the FCRA
 requires that the NCRA disclose the information in the file, i.e., the information that 
 is stored in English.  If an NCRA must provide the information in Spanish or another 
 language, as required by Revised 56:11-34, it is not providing the information in 
- PageID: 250 PageID: 478
+  
 “the file,” thus risking a violation of the FCRA.5  Because an NCRA cannot comply 
 with the FCRA’s requirement to provide a disclosure of the information in the file 
 (which is in English) and New Jersey’s requirement that NCRAs provide a 
@@ -602,7 +602,7 @@ Pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act,
 Pub. Law No. 111-203, 124 Stat. 1376, this authority moved from the FTC to the 
 Consumer Financial Protection Bureau, which republished the rule in its entirety 
 without change. See 79 Fed. Reg. 79,307 (Dec. 21, 2011). 
- PageID: 251 PageID: 479
+  
 disclosures themselves in languages other than English, and it declined to do so, 
 concluding “the Commission declines, at this time, to require multi-language 
 centralized source information and instructions.” FTC Statement of Basis and 
@@ -625,7 +625,7 @@ upon request of the consumer and without charge to the consumer” and dictates 
 and when these disclosures must be provided. 15 U.S.C. § 1681j(a). Sections 
 1681j(b) – (d) require the NCRAs to give consumers additional free disclosures 
 under certain circumstances.   
- PageID: 252 PageID: 480
+  
 Sections 1681c-1 and 1681i(d) require NCRAs to provide consumers 
 free file disclosures following placement of a fraud alert.  Specifically, NCRAs that 
 include a fraud alert in the file of the consumer shall: 
@@ -651,7 +651,7 @@ made clear that the phrase “related to” has a “broad scope,” and “an e
 15 U.S.C. § 1681j(d) states “…[NCRAs] shall make all disclosures pursuant to 
 section 1681g without charge to the consumer, as provided in subsections (a)(2) 
 and (b)(2) of section 1681c-1, as applicable.”  
- PageID: 253 PageID: 481
+  
 sweep,” noting it is “deliberately expansive,” “broadly worded,” and “conspicuous 
 for its breadth.”  Dan’s City Used Cars, 569 U.S. at 261 (internal citations omitted).  
 As the Supreme Court explained:  
@@ -675,7 +675,7 @@ whether and to what extent, the PHCSA preempted state law claims.  The court
 8 Note that under section 1681t(b), the state law need not be in conflict with the 
 FCRA requirement; instead, any attempt to regulate the same conduct is 
 proscribed. 
- PageID: 254 PageID: 482
+  
 considered the text of the 1969 amendments, which read: “(b) No requirement or 
 prohibition based on smoking and health shall be imposed under State law with 
 respect to the advertising or promotion of any cigarettes the packages of which are 
@@ -702,7 +702,7 @@ Id. at 521-22 (citations omitted).
 It is axiomatic that, “when judicial interpretations have settled the 
 meaning of an existing statutory provision, repetition of the same language in a new 
 statute indicates, as a general matter, the intent to incorporate its judicial 
- PageID: 255 PageID: 483
+  
 interpretations as well.”  Rowe v. New Hampshire Motor Transport Ass’n, 522 U.S. 
 364, 369 (2008) (citations omitted).  As such, Congress is presumed to have 
 understood how such a preemption framework would be interpreted, and thus fully 
@@ -723,7 +723,7 @@ and we held that section 1681t(b)’s preemptive force applies equally to state
 common law claims”); Sigler v. RBC Bank, 712 F. Supp. 2d 1265, 1269 (M.D. Ala. 
 2010) (referring to subject matter preemption as an “absolute immunity provision” 
 and declaring state law preempted where the allegations all related to “prescreening 
- PageID: 256 PageID: 484
+  
 of consumer reports” under §1681t(b)(a)(A)); Pinson v. Equifax Credit Info. 
 Services, Inc., 316 Fed. Appx. 744 (10th Cir. 2009) (unpublished opinion) (state law 
 claims barred by 15 U.S.C. §1681t(b)(1)(F)); and Marshall v. Swift River Academy, 
@@ -746,7 +746,7 @@ accounts that were less than 180 days old, and any medical accounts that had
 previously been reported as delinquent but were later paid.  10 M.R.S.A. § 1310-
 H(4).  It also attempted to dictate how accounts on which payments were being 
 made should be reported.  Id.
- PageID: 257 PageID: 485
+  
 9, 2021).   The district court carefully studied the evolution of the FCRA text, 
 discussed principles of federal preemption, and found that the result of the 1996 
 Amendments to the FCRA was that “§ 1681t(b)(1) now presents a list of eleven 
@@ -767,7 +767,7 @@ disclosures, and when the free annual file disclosures must be provided. 15 U.S.
 1681j(a)(1)(B) and § 1681j(a)(2), respectively. See also  15 U.S.C. § 1681c-1 
 (requiring NCRAs to provide file disclosures to fraud victims within three business 
 days of certain events).  These federal rules regarding “what”, “how”, and “when” 
- PageID: 258 PageID: 486
+  
 necessarily dictate the NCRA’s conduct.  By requiring NCRAs to translate the 
 information in their files, Revised 56:11-34 necessarily imposes new conduct 
 requirements regarding “what” and “how” –thereby impermissibly attempting to 
@@ -787,7 +787,7 @@ reason to believe” that Congress meant anything other than it said in section
 1681t(b)(5): states may not pass laws “relating to” or “concerning” how and when 
 file disclosures must be provided to consumers, or “what” information should be 
 contained within them.  Thus, the FCRA preempts Revised 56:11-34.  
- PageID: 259 PageID: 487
+  
 II. REVISED 56:11-34 INFRINGES ON THE NCRAS’ RIGHT TO 
 FREEDOM OF EXPRESSION, GUARANTEED BY THE FIRST 
 AMENDMENT. 
@@ -809,7 +809,7 @@ demonstrated any lawful justification for imposing these significant intrusions 
 private citizens.   
 This type of forced speech should be examined under a “heightened 
 scrutiny” standard because it is targeted at a particular group of speakers, namely, 
- PageID: 260 PageID: 488
+  
 the NCRAs. See Sorrell, 564 U.S. at 572-73 (content and speaker-based restrictions 
 on speech are entitled to heightened scrutiny).  In addition, the Supreme Court has 
 long recognized that heightened scrutiny should be applied to restrictions on truthful, 
@@ -830,7 +830,7 @@ asserted; and (4) “whether it is not more extensive than is necessary to serve
 interest.”  Greater Phila, Chamber, 949 F.3d at 140, citing Central Hudson Gas & 
 Electricity Corp. v. Public Service Commission of New York , 447 U.S. 557 (1980). 
 The fourth prong of the test - whether the suppression of speech ordinarily protected 
- PageID: 261 PageID: 489
+  
 by the First Amendment is no more extensive than necessary to further the 
 substantial government interest – is the “critical” inquiry.  Sorrell, 447 U.S. at 569-
 70; Greater Phila. Chamber, 949 F.3d at 138 (emphasis added). 
@@ -851,7 +851,7 @@ requirement that the federal government deliberately chose not to require.  Revi
 56:11-34 does not (a) articulate any substantial government interest that the 
 language requirement is intended to promote, (b) contain any other statement 
 explaining its purpose, or (c) reflect legislative findings that could support the 
- PageID: 262 PageID: 490
+  
 conclusion that the FCRA and supporting federal regulations are insufficient to 
 protect the interests of consumers in New Jersey.  N.J.S.A. 56:11-34; see also 2018 
 New Jersey Senate Bill No. 3452. 
@@ -872,7 +872,7 @@ For the foregoing reasons, the Consumer Data Industry Association
 respectfully requests that this Court (1) find that the amendment to Revised 56:11-
 34, codified at N.J.S.A. 56:11-34(e), which became effective October 17, 2019, (a) 
 is preempted by the Fair Credit Reporting Act §§1681t(a) and 1681t(b)(1)(5)(B) & 
- PageID: 263 PageID: 491
+  
 (E), and (b) violates the freedom expression guaranteed to the Consumer Data 
 Industry Association’s members by the First Amendment to the United States 
 Constitution, and (2) accordingly enter judgment in favor of the Consumer Data 
@@ -901,4 +901,4 @@ jsarvadi@hudco.com
 Attorneys for Plaintiff 
 Consumer Data Industry Association 
 4855-9966-5418, v. 1
- PageID: 264 PageID: 492
+  

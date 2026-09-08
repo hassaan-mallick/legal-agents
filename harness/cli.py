@@ -444,6 +444,42 @@ def cmd_golden(args) -> int:
     raise SystemExit(f"{args.doc} not found in any corpus")
 
 
+# --------------------------------------------------------------------------- report
+
+
+def cmd_report(args) -> int:
+    """Summarise a run: per-verdict counts, per-document status, and the items a human must look at."""
+    from collections import Counter
+
+    agent = load_agent(_agent_dir(args.agent))
+    runs = sorted((RUNS_DIR / agent.folder).glob("*"))
+    if not runs:
+        raise SystemExit("no runs yet")
+    run_dir = Path(args.run) if args.run and args.run != "latest" else runs[-1]
+    items = [json.loads(p.read_text()) for p in sorted(run_dir.glob("*.json"))
+             if p.name != "run.json" and not p.name.endswith(".redaction-map.json")]
+    verdicts, statuses = Counter(), Counter()
+    needs_human = []
+    for it in items:
+        statuses[it["status"]] += 1
+        for f in it.get("findings", []):
+            verdicts[f["verdict"]] += 1
+            if f["status"] == "escalated":
+                needs_human.append((it["doc_id"], f["verdict"], f["citation"], (f.get("written_name") or "")[:50]))
+        for f in (it.get("fields") or {}).values():
+            verdicts[f["status"]] += 1
+    print(f"run {run_dir.name}: {len(items)} documents")
+    print("documents:", dict(statuses))
+    print("findings: ", dict(verdicts))
+    if needs_human:
+        print(f"\n{len(needs_human)} findings need a human:")
+        for doc, v, cite, name in needs_human[: args.limit]:
+            print(f"  {doc:<20} {v:<14} {cite:<22} {name}")
+        if len(needs_human) > args.limit:
+            print(f"  … {len(needs_human) - args.limit} more")
+    return 0
+
+
 # --------------------------------------------------------------------------- scan
 
 
@@ -591,6 +627,12 @@ def main(argv: list[str] | None = None) -> int:
     gd.add_argument("--run", default="latest")
     gd.add_argument("--out")
     gd.set_defaults(fn=cmd_golden_draft)
+
+    rp = sub.add_parser("report", help="summarise a run (verdict counts, items needing a human)")
+    rp.add_argument("agent")
+    rp.add_argument("--run", default="latest")
+    rp.add_argument("--limit", type=int, default=40)
+    rp.set_defaults(fn=cmd_report)
 
     s = sub.add_parser("scan", help="secrets scan over tracked files")
     s.set_defaults(fn=cmd_scan)

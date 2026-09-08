@@ -15,6 +15,10 @@ from pathlib import Path
 
 _LINE_NUMBER = re.compile(r"^\s*\d{1,2}\s{2,}", re.M)  # pleading-paper line numbers
 _PAGE_STAMP = re.compile(r"Case\s+\S+\s+Document\s+\d+.*?Page\s+\d+\s+of\s+\d+", re.I)
+# CM/ECF stamps vary per page so the repeated-header pass misses them:
+# "PageID #: 431", "Filed 05/20/26  Page 3 of 13", "Pg 7 of 40", "Doc. 19-1"
+_ECF_STAMP = re.compile(r"(?:PageID\s*#?:?\s*\d+|Filed\s+\d{2}/\d{2}/\d{2,4}\s+Page\s+\d+\s+of\s+\d+|"
+                        r"\bPg\s+\d+\s+of\s+\d+|\bDoc\.?\s+\d+(?:-\d+)?\s+Filed\s+\d{2}/\d{2}/\d{2,4})", re.I)
 
 
 @dataclass
@@ -54,6 +58,7 @@ def pdf_to_text(path: Path) -> IngestResult:
     for page in reader.pages:
         txt = page.extract_text() or ""
         txt = _PAGE_STAMP.sub("", txt)
+        txt = _ECF_STAMP.sub("", txt)
         txt = _LINE_NUMBER.sub("", txt)
         pages.append(txt)
     pages, dropped = _strip_repeated_headers(pages)

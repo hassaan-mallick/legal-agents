@@ -36,7 +36,7 @@ CARRIERS, AFL-CIO IN SUPPORT OF ITS SUMMARY JUDGMENT MOTION
  
  
  1123876.13 
- PageID #: 123
+ 
  i  
  
  
@@ -65,7 +65,7 @@ CONCLUSION .....................................................................
  
  
  
- PageID #: 124
+ 
  ii  
  
  
@@ -97,7 +97,7 @@ Verrilli v. N.Y. Newspaper Printing Pressmen’s Union No. 2N/1SE,
 254 F.Supp.3d 540 (E.D.N.Y. 2017) .........................................................................................8 
 White v. White Rose Food, 
 237 F.3d 174 (2d Cir. 2001).......................................................................................................9 
- PageID #: 125
+ 
  iii  
  
  
@@ -105,7 +105,7 @@ White v. White Rose Food,
 Other Authorities 
 Fed. R. Civ. P. 56(a) ........................................................................................................................8 
  
- PageID #: 126
+ 
 Defendant National Association of Letter Carriers, AFL-CIO (“NALC”) submits 
 this memorandum of law in support of its summary judgment motion. 
 PRELIMINARY STATEMENT 
@@ -130,7 +130,7 @@ should have taken.  Indeed, Calderon testified in his deposition that NALC “to
 steps.”  
 Plaintiffs in DFR cases face a high hurdle.  To establish that a union acted 
 arbitrarily and thereby breached its duty, a DFR plaintiff must establish that the union lacked any 
- PageID #: 127
+ 
 rational basis or explanation for its conduct.  Calderon cannot establish that NALC breached its 
 duty.  The undisputed facts show that NALC had a rational basis or explanation for not taking 
 additional steps to enforce the Decision:  it could think of no additional steps to take.  Moreover, 
@@ -155,7 +155,7 @@ organization affiliated with NALC that represents city letter carriers employed 
 in Brooklyn, New York.  See id.  Since 2011, when he began his employment with USPS, 
 Calderon has been a member of NALC.  See May 22, 2020 declaration of Peter DeChiara 
 (“DeChiara Dec.”), filed herewith, at Exhibit A, at 10. 
- PageID #: 128
+ 
 The CBA’s Grievance Procedure 
 At all relevant times, NALC and USPS have been parties to the CBA, which 
 governs city letter carriers’ terms of employment.  See Cruz Dec. ¶3.  Article 15 of the CBA 
@@ -179,7 +179,7 @@ See DeChiara Dec., Exhibit A at 9-10, 13-14 & Exhibit B.  TE’s worked a fixed 
 days.  See id., Exhibit A at 13.  In 2013, USPS phased out the TE position and required TE’s 
 who wished to continue their USPS employment to take a job in the newly created non-career 
 position called City Carrier Assistant (“CCA”).  See DeChiara Dec., Exhibit A at 13-14.  To 
- PageID #: 129
+ 
 become a CCA, a former TE would have to pass an exam.  See id., Exhibit A at 133-34.  
 Calderon says that he took the exam, see id., Exhibit A at 134; Exhibit B, but that USPS 
 nonetheless terminated his employment in April 2013, id., Exhibit B.   
@@ -203,7 +203,7 @@ for USPS improperly terminating him in April 2013, Calderon would have already c
 from a non-career to a career position, as other TE’s-turned-CCA’s already had, and that the 
 resulting delay in advancing Calderon to a career position cost him pay and benefits.  See id., 
 Exhibit D, at 3-4.  After management denied the grievance at Step A, the union appealed to Step 
- PageID #: 130
+ 
 B.  See Cruz Dec. ¶7.  On October 6, 2014, the Step B team denied the grievance.  See DeChiara 
 Dec., Exhibit A, at 31; Cruz Dec. ¶7 & Exhibit E.   
   In or about March 2015, after USPS had converted Calderon from a CCA to a 
@@ -227,7 +227,7 @@ to implement the Decision’s remedy and ordering it to do so.  See DeChiara Dec
 union to file a ULP charge on his behalf with the NLRB.  See DeChiara Dec., Exhibit A, at 49.  
 Branch 41 agreed to do so, and on March 18, 2016, John Cruz, then Branch 41’s chief steward, 
 filed a ULP charge for Calderon.  See id., Exhibit A at 46; Cruz Dec. ¶10 & Exhibit J, at 1.  In 
- PageID #: 131
+ 
 the ULP charge, the union claimed that USPS was not complying with decisions rendered 
 against it.  See id., Exhibit J, at 1.  After the NLRB’s Regional Office dismissed the charge, see 
 id., Exhibit J, at 2, Cruz on July 5, 2016 appealed the dismissal to the NLRB’s General Counsel.  
@@ -250,7 +250,7 @@ DeChiara Dec., Exhibit A, at 15 & Exhibit D.  The charge asserted that “for re
 arbitrary, discriminatory, or in bad faith,” the union “failed and refused to seek enforcement of 
 previous decisions” concerning Calderon.  Id., Exhibit D.  On or about March 2017, Calderon 
 voluntarily withdrew his ULP charge.  See id., Exhibit A at 54 & Exhibit E. 
- PageID #: 132
+ 
 The Union’s Continued Efforts for Calderon 
   On March 8, 2017, Branch 41 President Murphy wrote to Calderon.  See 
 DeChiara Dec., Exhibit A, at 57; Cruz Dec. ¶14 & Exhibit L.  Murphy’s letter recounted efforts 
@@ -276,7 +276,7 @@ course of more than a year with Murphy and Cruz.  See DeChiara Dec., Exhibit A, 
 Cruz Dec. ¶16.  However, at no point did Calderon request or suggest that the union take any 
 particular action to try to enforce the Decision.  See Cruz Dec. ¶16; DeChiara Dec. Exhibit A, at 
 64. 
- PageID #: 133
+ 
 Calderon’s Lawsuit 
   Calderon filed suit against NALC and USPS on December 13, 2018.  See Docket 
 Entry #1.  His amended complaint asserts one claim against NALC, namely, that NALC 
@@ -301,7 +301,7 @@ offer “hard evidence” that a genuine dispute of fact exists.  D’Amico v. C
 F.3d 145, 149 (2d Cir. 1997); accord Stephens, 45 F.Supp.3d at 292.   
 Here, there are no genuine disputes of fact material to Calderon’s DFR claim, and 
 NALC is entitled to judgment as a matter of law.   
- PageID #: 134
+ 
 II. CALDERON PRESENTS NO EVIDENCE THAT NALC BREACHED ITS DUTY 
 OF FAIR REPRESENTATION  
 A DFR plaintiff must meet two hurdles.  First, the plaintiff must prove that the 
@@ -327,7 +327,7 @@ plaintiff must prove “fraudulent, deceitful, or dishonest action” by the uni
 Rose Food, 237 F.3d 174, 179 (2d Cir. 2001); Sim v. New York Mailers’ Union Number 6, 166 
 F.3d 465, 472 (2d Cir. 1999); accord Perero, 151 F.Supp.3d at 284.  When asked at his 
 deposition whether any union representative ever lied to him, Calderon answered “not that I 
- PageID #: 135
+ 
 know of.”  DeChiara Dec., Exhibit A at 86.  That testimony defeats any claim of bad faith 
 Calderon might have asserted.   
 In any event, there is no evidence of fraudulent, deceitful or dishonest conduct by 
@@ -352,7 +352,7 @@ Accordingly, the Supreme Court has held that a union’s conduct can only be dee
 it is “so far outside a ‘wide range of reasonableness’ that it is wholly ‘irrational.’”  O’Neill, 499 
 U.S. at 66 (internal citations omitted); accord Marquez, 525 U.S. at 45; Milk Wagon Drivers, 14 
 F.Supp.3d at 97.  A union’s conduct is “irrational” when “it is without a rational basis or 
- PageID #: 136
+ 
 explanation.”  Marquez, 525 U.S. at 46; Perero, 151 F.Supp.3d at 284.  Thus, to establish that 
 NALC engaged in arbitrary conduct, Calderon has to prove that NALC lacked any rational basis 
 or explanation for its conduct.  Specifically, he has to show that NALC had no rational basis or 
@@ -376,7 +376,7 @@ another “rational basis or explanation” for NALC not taking additional steps
 too, NALC’s conduct was not arbitrary within the meaning of the DFR test. 
 Calderon may oppose NALC’s motion by arguing, as he did in his February 14, 
 2020 response to NALC’s pre-motion letter, that “whether or not the union did everything it 
- PageID #: 137
+ 
 could is a stark and obvious fact issue precluding summary judgment.”  Docket Entry #31, at 1 
 (emphasis in original); see also id. (“it is difficult to imagine how the NALC can prove as a 
 matter of law that it ‘did everything it could’”) (emphasis in original).   
@@ -401,7 +401,7 @@ Additional Steps to Try to Enforce the Decision
 Even if Calderon could produce evidence that NALC acted in an arbitrary, 
 discriminatory or bad faith manner, NALC would still be entitled to summary judgment, since 
 there is no evidence that NALC caused him injury by not taking additional steps to obtain 
- PageID #: 138
+ 
 USPS’s compliance with the Decision.  As noted above, a DFR plaintiff must prove that the 
 union’s conduct caused plaintiff’s alleged injury.  See Vaughn, 604 F.3d at 709; accord Perero, 
 151 F.Supp.3d at 283-84; Milk Wagon Drivers, 14 F.Supp.3d at 97.  Calderon’s alleged injury 
@@ -423,7 +423,7 @@ CONCLUSION
 For the foregoing reasons, NALC’s motion should be granted, and the Court 
 should issue judgment in NALC’s favor. 
  
- PageID #: 139
+ 
 Dated:   June 18, 2020    
   
 /s/ Peter D. DeChiara 
@@ -441,4 +441,4 @@ Letter Carriers, AFL-CIO
  
  
  
- PageID #: 140
+ 
