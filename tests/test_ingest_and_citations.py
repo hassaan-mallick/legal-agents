@@ -38,3 +38,18 @@ def test_ingest_txt_counts_pages(tmp_path: Path):
     p = tmp_path / "a.txt"
     p.write_text("one\fTwo\fthree")
     assert ingest(p).pages == 3
+
+
+def test_caption_rebuilt_from_context_after_connector():
+    from harness.runners.citations.extract import extract
+
+    _, c = extract("Finally, Texas Department of Community Affairs v. Burdine, 450 U.S. 248 (1981).")
+    assert c[0].written_name == "Texas Department of Community Affairs v. Burdine"
+
+
+def test_parallel_cites_with_pin_cite_between_are_one_case():
+    from harness.runners.citations.extract import extract
+
+    text = "Nat'l R.R. Passenger Corp. v. Morgan, 536 U.S. 101, 122 S.Ct. 2061, 2072–73, 153 L.Ed.2d 106 (2002)."
+    _, c = extract(text)
+    assert [x.parallel_to for x in c] == [None, 0, 0]

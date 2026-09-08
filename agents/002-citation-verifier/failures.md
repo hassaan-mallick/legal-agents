@@ -26,11 +26,17 @@ The section nobody else publishes. Each mode is mapped to the atlas taxonomy and
 **Seen in the wild:** T2 is the most common failure in the atlas after fabrication, and no existence checker touches it.
 **The control:** C2 and C5. The human gate is the filing attorney before the table of authorities is finalised; the verdict is RESOLVED, never "verified", and the document disposition is `needs_review` at best. Proposition checking is flagship F5's problem, not this agent's.
 
-## 5. The extractor truncates institutional party names — T4 (observed: `brief-003`)
+## 5. The extractor truncates institutional party names — T4 (observed: `brief-003`; fixed 2026-09-08)
 
-**What happens:** *Texas Department of Community Affairs v. Burdine* is extracted with the written name "Affairs v. Burdine": the local citation parser keeps only the last word of a long institutional plaintiff. The name comparison still passed (the defendant carries the match), but on a shorter caption this would produce a false NAME_MISMATCH, which is the failure that gets a checker switched off.
+**What happens:** *Texas Department of Community Affairs v. Burdine* was extracted with the written name "Affairs v. Burdine": the local citation parser kept only the last word of a long institutional plaintiff when the caption followed a connector like "Finally,". The name comparison still passed because the defendant carried the match, but on a shorter caption this would have produced a false NAME_MISMATCH, which is the failure that gets a checker switched off.
 **Seen in the wild:** observed in our run on 2026-09-05, doc `brief-003`; the same class of parser quirk was recorded in the July build notes for "In re" captions.
-**The control:** C3. The name threshold errs low (60) precisely so a legitimately shortened or mangled caption escalates as NAME_MISMATCH for a human rather than being reported as a fabrication; the explanation text tells the reviewer both names. The fix belongs in extraction (use the preceding-text window as a fallback name), and it is tracked here until it is measured.
+**The control:** C3 kept it safe (the name threshold errs low, so a mangled caption escalates rather than being called a fabrication). The fix, shipped 2026-09-08 with a regression test: when eyecite's plaintiff is a truncated tail of the capitalised run immediately before the last "v." in the preceding text, the harness rebuilds the caption from that run. Accepted only when the rebuilt name contains everything eyecite found, so it cannot invent a longer name.
+
+## 6. Parallel citations with a pin cite between them are counted twice — T6 (observed: `recap-479971053`; fixed 2026-09-08)
+
+**What happens:** "536 U.S. 101, 122 S.Ct. 2061, 2072–73, 153 L.Ed.2d 106 (2002)" is one case cited three ways. The parallel detector linked the first two and treated the third as a separate citation because the pin cite "2072–73" broke adjacency. The third resolved fine, so the report showed the same case twice and inflated the totals; on an unresolved parallel it would have raised two alarms for one problem.
+**Seen in the wild:** observed on the first real brief we ran, `recap-479971053` (W.D.N.C.), the second citation in the document.
+**The control:** C4. Real briefs in the golden set surface parser behaviour that synthetic briefs never do. Fixed by allowing a short gap made only of digits and punctuation between parallels, with a regression test; the eval now also scores extra citations the parser produces, so a repeat would lower the extraction score.
 
 ## What this agent must never be trusted to do
 
