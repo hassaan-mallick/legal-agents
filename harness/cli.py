@@ -167,9 +167,21 @@ def cmd_run(args) -> int:
         resolver = make_resolver(agent, cache_dir=agent.evals_dir / "cache" / "courtlistener",
                                  offline=args.replay, egress=egress)
         meta.update(provider="none", model="none", endpoint="courtlistener (citation triples only)")
-        for doc in docs:
-            item, _ = run_document(agent, doc, resolver, writer=writer)
-            print(f"{doc.doc_id:<28} {item.status:<15} {'; '.join(item.escalation_reasons)[:80]}")
+        from harness.runners.citations.resolve import RateLimited
+
+        done = 0
+        try:
+            for doc in docs:
+                item, _ = run_document(agent, doc, resolver, writer=writer)
+                done += 1
+                print(f"{doc.doc_id:<28} {item.status:<15} {'; '.join(item.escalation_reasons)[:80]}",
+                      flush=True)
+        except RateLimited as exc:
+            egress.write(writer.dir / "egress.jsonl")
+            writer.write_run({**meta, "provider": "none", "stopped": str(exc), "docs_done": done})
+            print(f"\nstopped after {done}/{len(docs)} documents: {exc}. Everything resolved so far is "
+                  "cached; re-run the same command after the wait and it resumes at full speed.")
+            return 3
         egress.write(writer.dir / "egress.jsonl")
     writer.write_run(meta)
     print(f"\nreview queue: {writer.dir / 'review-queue.md'}")

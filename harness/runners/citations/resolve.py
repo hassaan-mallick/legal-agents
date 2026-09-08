@@ -52,6 +52,18 @@ def _normalise_cite(s: str) -> str:
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
 
+class RateLimited(RuntimeError):
+    """The API asked us to wait longer than a run should silently sleep. Stop, say so,
+    resume later: everything resolved so far is cached, so a re-run costs nothing."""
+
+    def __init__(self, retry_after: float):
+        super().__init__(f"CourtListener rate limit: retry after {retry_after:.0f}s")
+        self.retry_after = retry_after
+
+
+MAX_SILENT_WAIT = 90.0
+
+
 class Resolver:
     """Resolves citations with an on-disk cache so evals and CI never touch the API."""
 
@@ -112,6 +124,9 @@ class Resolver:
                         wait = max(wait, float(ra))
                     except ValueError:
                         pass
+                if wait > MAX_SILENT_WAIT:
+                    rec.note = f"429, retry-after {wait:.0f}s — stopping run"
+                    raise RateLimited(wait)
                 if attempt < MAX_RETRIES - 1:
                     rec.note = f"429, backing off {wait:.0f}s (attempt {attempt + 1})"
                     time.sleep(wait)
