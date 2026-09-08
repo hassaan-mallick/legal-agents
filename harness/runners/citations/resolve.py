@@ -16,7 +16,7 @@ import json
 import os
 import re
 import time
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, fields
 from pathlib import Path
 
 from harness.egress import EgressLog, GuardedClient
@@ -91,7 +91,9 @@ class Resolver:
             return self._mem[key]
         p = self._cache_path(key)
         if p and p.exists():
-            r = Resolution(**json.loads(p.read_text()))
+            data = json.loads(p.read_text())
+            known = {f.name for f in fields(Resolution)}
+            r = Resolution(**{k: v for k, v in data.items() if k in known})  # tolerate extra keys
             self._mem[key] = r
             return r
         return None

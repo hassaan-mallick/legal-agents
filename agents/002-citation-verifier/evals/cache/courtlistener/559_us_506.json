@@ -1,0 +1,19 @@
+{
+  "found": true,
+  "unavailable": false,
+  "case_name": "Conkright v. Frommert",
+  "case_name_full": "",
+  "court": null,
+  "date_filed": "2009-04-30",
+  "precedential_status": "In-chambers",
+  "absolute_url": "/opinion/145935/conkright-v-frommert/",
+  "cluster_id": 145935,
+  "all_citations": [
+    "559 U.S. 506"
+  ],
+  "error": "ambiguous: 2 records",
+  "backend": "lookup",
+  "candidates": [
+    "Conkright v. Frommert"
+  ]
+}

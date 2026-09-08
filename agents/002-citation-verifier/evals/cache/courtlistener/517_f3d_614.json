@@ -1,0 +1,19 @@
+{
+  "found": true,
+  "unavailable": false,
+  "case_name": "Krauss v. Oxford Health Plans, Inc.",
+  "case_name_full": "",
+  "court": null,
+  "date_filed": "2008-02-26",
+  "precedential_status": "Published",
+  "absolute_url": "/opinion/2645/krauss-v-oxford-health-plans-inc/",
+  "cluster_id": 2645,
+  "all_citations": [
+    "517 F.3d 614"
+  ],
+  "error": "ambiguous: 2 records",
+  "backend": "lookup",
+  "candidates": [
+    "Krauss v. Oxford Health Plans, Inc."
+  ]
+}

@@ -482,9 +482,20 @@ def cmd_report(args) -> int:
                 needs_human.append((it["doc_id"], f["verdict"], f["citation"], (f.get("written_name") or "")[:50]))
         for f in (it.get("fields") or {}).values():
             verdicts[f["status"]] += 1
+    # NOT_CHECKED has three very different causes; never report them as one number
+    reasons = Counter()
+    for it in items:
+        for f in it.get("findings", []):
+            if f["verdict"] == "NOT_CHECKED":
+                ex = f.get("explanation", "")
+                reasons["proprietary reporter (Westlaw/Lexis)" if "proprietary" in ex else
+                        "not looked up yet (offline / quota)" if "offline" in ex else
+                        "lookup failed (rate limit / outage)"] += 1
     print(f"run {run_dir.name}: {len(items)} documents")
     print("documents:", dict(statuses))
     print("findings: ", dict(verdicts))
+    if reasons:
+        print("not checked:", dict(reasons))
     if needs_human:
         print(f"\n{len(needs_human)} findings need a human:")
         for doc, v, cite, name in needs_human[: args.limit]:

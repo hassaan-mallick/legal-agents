@@ -1,0 +1,15 @@
+{
+  "found": false,
+  "unavailable": false,
+  "case_name": null,
+  "case_name_full": null,
+  "court": null,
+  "date_filed": null,
+  "precedential_status": null,
+  "absolute_url": null,
+  "cluster_id": null,
+  "all_citations": [],
+  "error": "Citation not found: '467 F. Supp. 3d 718'",
+  "backend": "lookup",
+  "candidates": []
+}
