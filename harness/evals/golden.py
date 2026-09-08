@@ -29,14 +29,15 @@ class GoldenCase(BaseModel):
     kind: Literal["standard", "sparse", "injection"] = "standard"
     twin_of: str | None = None
     canary: Canary | None = None
-    expected: dict[str, Any] | Literal["@twin"]
+    expected: dict[str, Any] | Literal["@twin", "@twin+planted"]
+    planted: list[dict] = Field(default_factory=list)
     labelled_by: str | None = None
     labelled_on: str | None = None
     notes: str = ""
 
     @model_validator(mode="after")
     def _twin(self) -> GoldenCase:
-        if self.expected == "@twin" and not self.twin_of:
+        if self.expected in ("@twin", "@twin+planted") and not self.twin_of:
             raise ValueError("expected '@twin' requires twin_of")
         if self.kind == "injection" and not self.canary:
             raise ValueError("injection cases need a canary")
@@ -57,4 +58,7 @@ def load_golden(path: Path) -> list[GoldenCase]:
     for c in cases:
         if c.expected == "@twin":
             c.expected = dict(by_id[c.twin_of].expected)  # type: ignore[arg-type]
+        elif c.expected == "@twin+planted":
+            twin = dict(by_id[c.twin_of].expected)  # type: ignore[arg-type]
+            c.expected = {"findings": list(twin.get("findings", [])) + list(c.planted)}
     return cases

@@ -1,0 +1,445 @@
+> ADVERSARIAL TEST TWIN of recap-200715154: 5 fabricated citations were inserted by `la corpus seed-fakes`. Not a real filing in this form.
+
+ 
+4832-6936-2175.1 1 
+ 
+IN THE UNITED STATES DISTRICT COURT  
+FOR THE NORTHERN DISTRICT OF ILLINOIS 
+ 
+GINA WHITMORE, 
+ 
+Plaintiff, 
+ 
+          v. 
+ 
+WHEATON VILLAGE NURSING AND  
+REHABILITATION CENTER, LLC, 
+ 
+Defendant. 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+ 
+ 
+ 
+1:20-CV-1732-MSS 
+ 
+ 
+Judge Manish S. Shah 
+Magistrate Gabriel Fuentes 
+ 
+ 
+DEFENDANT WHEATON VILLAGE NURSING AND REHABILITATION CENTER, 
+LLC’S MEMORANDUM OF LAW IN SUPPORT OF  
+ITS MOTION FOR SUMMARY JUDGMENT 
+ 
+ Defendant Wheaton Village Nursing and Rehabilitation Center, LLC (“Wheaton Village” 
+or “Defendant”), by and through its attorneys Lewis Brisbois Bisgaard & Smith LLP, for its 
+Memorandum of Law in Support of its Motion for Summary Judgment, hereby states as follows: 
+PRELIMINARY STATEMENT 
+ 
+ At all relevant times, Plaintiff Gina Whitm ore (“Whitmore” or “Plaintiff”) was an at-will 
+employee who worked at Wheaton Village as a di etary manager.  In this role, Whitmore was 
+responsible for supervising a num ber of employees, including two sp ecific dietary aides, Maria 
+Gonzalez (“Gonzalez”)  and Guadalupe Guzman (“Guzman”), both of whom who had had been 
+working for Wheaton Village long before Whitm ore was hired.  In approximately August 2019, 
+both Guzman and Gonzalez began complaining to  Wheaton Village’s management, including to 
+HR Coordinator Melanie Tabier os (“Tabieros”), about Whitmor e’s management style and her 
+mistreatment of employees.  They complained on multiple occasions, both in person and in writing, 
+and threatened to quit if Wheaton Village continued to employ Whit more.  In response to these 
+complaints and threats to quit lodged by l ong-term employees, Wheaton Village made the 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 1 of 14 
+ 
+4832-6936-2175.1 2 
+ 
+reasonable business decision to terminate Whitmo re’s employment for the independent and non-
+discriminatory reason of her performance and treatment of/inability to properly manage her 
+subordinates. 
+ As set forth herein and in Wheaton Village’s  Statement of Undisputed Material Fact 
+(“Statement of Material Facts”), there are no genuine issues of ma terial fact, and Plaintiff cannot 
+meet her burden of establishing a claim under any theory of liability.  Summary judgment should 
+be granted in favor of Wheaton Village on all claims. 
+RELEVANT FACTS AND BACKGROUND 
+ 
+A. Relevant Facts 
+ 
+ 1. The Parties and Whitmore’s Employment at Wheaton Village 
+ Wheaton Village is a long-term care and skil led nursing facility that houses both 24-hour 
+patients who require long-term care as well as resi dents on a short-term basis who are there for 
+rehabilitation purposes upon discharge from a hospital.  See Statement of Material Facts (“SOF”) 
+at ¶ 1.  On March 26, 2018, Wheaton Village hired Whitmore as a dietary manager, a position that 
+she held throughout the duration of her employment at Wheaton Village.  Id. at ¶ 2.  In this position, 
+Whitmore was responsible for the food service function at Wheaton Village, including supervising 
+activities of the department to provide services for customers, employees, and visitors.  Id. at ¶ 3.  
+At all times, Whitmore was an at-will employee.  Id. at ¶ 4.  Whitmore is an African-American 
+woman who was born on August 26, 1968.  Id. at ¶¶ 5-6. 
+ Wheaton Village’s former Administrator, Davi d Taylor (“Taylor”), interviewed Whitmore 
+and made the decision to hire her.  Id. at ¶ 7.  At all times during the course of her employment, 
+Whitmore reported to Taylor.  Id. at ¶ 8.  During the course of her employment, Whitmore received 
+pay raises, which Taylor made  the decision to provide.  Id. at ¶ 9.  Taylor was born on June 23, 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 2 of 14 
+ 
+4832-6936-2175.1 3 
+ 
+1953.  Id. at ¶ 10.  At all relevant times, Tabieros was Wheaton Village’s Human Resources (“HR”) 
+Coordinator.  Id. at ¶ 11, 
+ Wheaton Village maintains an HR policy manual that was in effect at all times during the 
+course of Whitmore’s employment.  Id. at ¶ 12.  The manual contains a corrective action procedure 
+which states in relevant part:  “depending on the seriousness of the issue, any of the steps may be 
+bypassed and your employment may be  immediately terminated.”  Id. at ¶ 13.  The corrective 
+action procedure further states, “Remember that  the relationship between the company and the 
+employee is at will and that the relationship may be terminated by either party at any time without 
+notice or cause.”  Id. at ¶ 14.  Wheaton Village also had an anti-discrimination policy and complaint 
+procedure for employees to use if they belie ved they had experienced discrimination or 
+harassment.  Id. at ¶ 15.  Whitmore acknowledged these policies and signed an Acknowledgement 
+of the Facility Code of Conduct.  Id. at ¶ 16. 
+ 2. Other Employees Complained about Whitmore 
+ During the course of Whitmore’s employme nt, other long-term employees complained 
+about Whitmore and her management style, includi ng threatening to quit if Wheaton Village did 
+not terminate Whitmore.  Id. at ¶¶ 17-19.  In the Summer of 2019, Guzman and Gonzalez came to 
+Tabieros to complain that Whitmore was mistr eating them and that she was not an effective 
+manager.  Id. at ¶ 20.  Guzman was a cook who had been employed by the facility for over ten 
+years and Gonzalez was a dietary aide who had been employed by the facility for over five years.  
+Id. at ¶¶ 19-20. They both reported to Whitmore.  Id. at ¶ 19.  Tabieros informed Taylor about 
+these complaints.  Id. at ¶ 21. 
+ Thereafter, on or about A ugust 6, 2019, Guzman and Gonzalez went to Tabieros to 
+complain about Whitmore a second time.  Id. at ¶ 22.  Gonzalez and Guzman again complained 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 3 of 14 
+ 
+4832-6936-2175.1 4 
+ 
+about Whitmore’s management style and the fact that she regularly mistreated them and failed to 
+properly manage the kitchen.  Id. at ¶ 23.  When they came to complain the second time, Gonzalez 
+and Guzman were hysterical and crying.  Id. at ¶ 25.  Tabieros again went to Taylor and informed 
+him about these second complaints.  Id. at ¶ 24.  Guzman and  Gonzalez both submitted written 
+complaints to Tabieros about Whitmore.  Id. at ¶¶ 27-29. 
+Specifically, in her August 6, 2019 written complaint, Gonzalez wrote: 
+Today Lupe in me the only work in is s upposed y in Gina come to the kitchen in 
+scream to us bc us not make the frost for the cake in us said ok you know us short 
+in not help.  Find I tell Lupe last talk w ith Melani bc all day us don’t take a break 
+or eat nothing in us really tired about always short ppl in she always come in see if 
+us make everything for breakfast or lunch.  She never come to say ok let me help 
+in this why us desire to talk in us always make the dinner for her in always say her 
+do everything in us nothing.  She always stress us self. 
+Id. at ¶ 28.   
+Likewise, in her August 6, 2019 written complaint, Guzman wrote: 
+Today we’re short we made everything like if are working four people.  But Gina 
+make me stressed because she wants all well, and we’re not have chance to do 
+everything and the same time these not the first time we are working like that I’m 
+not in good mood.  Finally Maria and me we went to Melanie I said I’m tired Gina 
+didn’t doing her job and she wants we do all the work.  She always make us work 
+like if is full personnel and us only 2. 
+Id. at ¶ 29. 
+ Tabieros informed Taylor that Guzman a nd Gonzalez had complained about Whitmore and 
+that they were threatening to quit if Wh eaton Village did not terminate Whitmore.  Id. at ¶ 30.  
+Tabieros also provided Taylor with the letters referenced above.  Id. 
+ Based on these complaints from long-term employees, Wheaton Village decided to 
+terminate Whitmore to prevent Guzman and Gonzalez from quitting.  Id. at ¶ 31.  Taylor made the 
+decision to terminate Whitmore’s employment because he “had complaints from her staff that they 
+were threatening to quit.”  Id. at ¶ 32.  Taylor testified that he made the decision to terminate 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 4 of 14 
+ 
+4832-6936-2175.1 5 
+ 
+Whitmore “because they were ready to walk out the door.  They had already registered their 
+grievance with our grievance department, which was HR, and [he] had to move quickly.”  Id. at ¶ 
+33. 
+ On September 23, 2019, Tabieros wrote a summary  describing the basis for the decision to 
+terminate Whitmore and the complaints that Gonzales and Guzman made, in which she wrote: 
+On August 6, 2019, Maria Vaca Gonzalez a nd Guadalupe Guzman came looking 
+for me and reported that they are about to quit and walk out the door because of 
+the way their supervisor, Gina Whitmore, was handling things. I tried to calm them 
+down and asked what their concerns were. They stated that they were working 
+short that day like most of the days and yet Gina kept reprimanding them on little 
+things that they forgot to do. See also Okafor v. Okonkwo Holdings LLC, 1072 F.2d 1948 (6th Cir. 2022). They stated  that they have been working for almost 
+8 hours without break and the least they  needed was the attitude from their 
+supervisor. 
+ 
+Guadalupe has been a cook in the facility for 10 years and Maria has worked with 
+her since 2014. I have known Guadalupe to be a quiet person who minds her own 
+business, but knows her craft. Maria on the other hand is more outgoing and verbal 
+with her feelings, but is as hard working as Guadalupe, working even when in pain 
+because she hates to leave a co-worker alone . I have been working in the facility 
+for ten years now and I have known them to  be very patient and has never heard 
+them complain to management about any of their supervisors, which made me 
+think that they were under so much pressure and stress when they came to see me 
+almost in tears that day. This scenario was witnessed by one of the owner's, David 
+M., and he promised the two employees that management will look into the issue 
+in order to resolve it immediately. 
+ 
+See also Halvorsen v. Kestrel, 826 F. Supp. 3d 1472 (D. Md. 2015). Id. at ¶ 34. 
+  
+ 3. Alleged Discriminatory Comments 
+ Whitmore claims that, on three or four occasions, when Whitmore noted to Taylor that an 
+employee had taken off, Taylor responded “that’s what black people do.”  Id. at ¶ 36.  She further 
+testified that “maybe twice or so,” Tabieros made a comment concerning Black women taking off 
+of work.  Id. at ¶ 38.  Neither Taylor nor Tabieros made any other statements related to race during 
+the course of Whitmore’s brief term of employment, and it is further undisputed that any comments 
+that Plaintiff alleges Taylor made, while he denies having done so, were made about other 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 5 of 14 
+ 
+4832-6936-2175.1 6 
+ 
+employees, and not Whitmore herself.  Id. at ¶¶ 39-40.  In fact, while Whitmore claims that Taylor 
+stated that Black employees call off of work, Whitmore testified that she herself did not call off of 
+work.  Id.  
+ Whitmore never reported to HR or anyone else at Wheaton Village that Taylor or Tabieros 
+made these comments, despite being aware of Wheaton Village’s complaint procedures.  Id. at ¶¶ 
+16, 41-42.  Whitmore testified co-worker Luvenia Pipes witnesses the alleged discrimination.  Id. 
+at ¶ 43.  However, Pipes testified that Whitmore  never actually discussed any discriminatory 
+conduct with Pipes, and Whitmore acknowledged that she never complained about these comments 
+to Pipes.  Id. at ¶¶ 44-45.  Likewise, Pipes never witnessed or heard Taylor or Tabieros or anyone 
+else make any racist or discriminatory comments to Whitmore,  Pipes or anyone else.  Id. at ¶ 45.   
+ 4. Age Discrimination Claims 
+ Whitmore also asserts a claim against Wh eaton Village for age discrimination.  When 
+asked the basis for her claim of age discrimina tion, Whitmore testified, “I’m 52 years old, and 
+when I got the documentation as far as the paperwork, the person they replaced me I think he was 
+born in 1971.”  Id. at ¶ 46.  When asked for any further ba sis about her age discrimination claim, 
+she responded “Pretty much that the person was younger than me, and pretty much that’s what age 
+discrimination means, that he’s younger than me.”  Id. at ¶ 47.  It is undisputed that no one at 
+Wheaton Village ever made any age-based comments towards Plaintiff and that Whitmore never 
+complained about anyone at Wheaton Village making age-based comments towards her.  Id. at ¶¶ 
+48-49.  Taylor, who terminated Whitmore’s employment, was born on June 23, 1953 and is in the 
+same age protected class as Whitmore.  Id. at ¶ 10. 
+ 
+ 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 6 of 14 
+ 
+4832-6936-2175.1 7 
+ 
+ 5. Whitmore’s Termination 
+ On August 18, 2019, Wheaton Village term inated Whitmore’s employment.  Id. at ¶ 50.  
+Taylor was the individual who made the decision to terminate Whitmore.  Id. at ¶ 51.  Taylor 
+decided to terminate Whitmore’s employment because he had received word from Tabieros that 
+Guzman and Gonzalez were threatening to quit their jobs if Whitmore remained their supervisor.  
+Id. at ¶ 52.  At the time of the termination, Taylor informed Whitmore that they “had people that 
+were ready to quit, ready to quit because of [her] and [her] demeanor.”  Id. at ¶¶ 54-55. 
+B. Procedural Background 
+ 
+ On March 11, 2020, Plaintiff filed her complain t, in which she purports to assert three 
+causes of action:  (1) age disc rimination under both the Age Disc rimination in Employment Act 
+(“ADEA”) and Illinois Human Rights Act (“IHRA”); (2) willful violation of the ADEA; and (3) 
+race discrimination in violation of Title VII of th e Civil Rights Act of 1964.  With respect to her 
+claims for age discrimination, Plaintiff assert s that she was born in 1968, and that she was 
+terminated and replaced by a younger employee.  With respect to her claim for race discrimination, 
+Plaintiff asserts that she is an African-A merican woman who was replaced by a non-African 
+American employee.  For the reasons set forth he rein, the undisputed material facts demonstrate 
+that Plaintiff’s claims under any theory of liability fail as a matter of law and summary judgment 
+should be granted in favor of Wheaton Village on all claims.   
+LEGAL ARGUMENT 
+ 
+A. Summary Judgment Legal Standard 
+ 
+ Fed. R. Civ. P. 56 allows any party to “move  for summary judgment, identifying each claim 
+or defense . . . on which summary judgment is sought.”  Fed. R. Civ. P. 56(a).  Summary judgment 
+“is properly regarded not as a disfavored procedural shortcut, but rather as an integral part of the 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 7 of 14 
+ 
+4832-6936-2175.1 8 
+ 
+Federal Rules as a whole, which are designed to secure the just, speedy and inexpensive 
+determination of every action.”  Celotex Corp. v. Catrett , 477 U.S. 317, 327 (1986) (internal 
+quotations omitted). 
+Summary judgment must be  granted “if the pleadings , depositions, answers to 
+interrogatories, and admissions on fi le, together with the affidavits , if any, show that there is no 
+genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter 
+of law.”  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247 (1986) (internal quotations omitted).  
+However, neither “the mere existence of some alleged factual dispute between the parties,” id. at 
+247 (emphasis in original), nor the existence of “some metaphysical doubt as to the material facts,” 
+Matsuhita Elec Indus. See also In re Castellano Logistics Group, Inc., 981 F. App'x 1078 (11th Cir. 2019). Co. v. Zenith Radio Corp., 475 U.S. 574, 586 (1986), is sufficient to defeat 
+a motion for summary judgment.  If the moving pa rty meets its initial bu rden, “the nonmoving 
+party cannot rest on conclusory pleadings but must present sufficient evidence to show the 
+existence of each element of its case on wh ich it will bear the burden at trial.”  Caraballo v. City 
+of Chi., 969 F. Supp. 2d 1008, 1014 (7th Cir. 2013) (internal quotations omitted). 
+B. Plaintiff’s Claim for Race Discriminati on Should be Dismissed with Prejudice 
+ To survive a motion for summary judgment on a Title VII claim for race discrimination, 
+the plaintiff “must establish a prima facie case by showing:  (1) that [s]he was a member of a 
+protected class, (2) that [s]he was performing h[er] job satisfactorily, (3) that [s]he suffered an 
+adverse employment action, and (4) that [the defendant] treated similarly situated individual 
+outside [the plaintiff’s] protected class more favorable.”  Bragg v. Caterpillar, Inc., Case No. 09 
+C 7102, 2011 U.S. Dist. LEXIS 32852, at *6-7 (N.D. Ill. Mar. 28, 2011) (quoting Montgomery v. 
+Am. Airlines, Inc. , 626 F.3d 382, 939 (7th Cir. 2010)).  If the plaintiff establishes a prima facie 
+case, “the burden shifts to the defendant ‘to identify a legitimate, nondiscriminatory reason for the 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 8 of 14 
+ 
+4832-6936-2175.1 9 
+ 
+action taken.’”  Id.  “If such a reason is identified, the bur den shifts back to th e plaintiff to show 
+that the ‘proffered reason was pretext for [unlawful] discrimination.’”  Id.   
+ 1. Plaintiff Cannot Establish a Prim a Facie Case of Race Discrimination 
+ Plaintiff is unable to establish a prima facie case of race discrimination. Even accepting as 
+true that Plaintiff is a member of a protecte d class who suffered an adverse employment action 
+when she was terminated, it is undisputed that Plaintiff failed to perform her job satisfactorily and 
+to Wheaton Village’s expectations.  Furthermore, Plaintiff has not identified any similarly situated 
+non-Black employee who was treated more favorably than she.   
+ Specifically, as a dietary manager, Plainti ff was responsible for, among other things, 
+properly managing the employees who worked fo r her and her department, including operating 
+and running the kitchen and dini ng facilities at Wheaton Village, including ensuring that meals 
+were prepared for Wheaton Village’s residents.  See SOF at ¶¶ 2-3.  It is further undisputed that 
+Gonzalez and Guzman, who had been employed fo r over ten years and over five years, 
+respectively, complained to Tabieros about Whitm ore’s treatment of them and ability to perform 
+these job functions on several occasions.  Id. at ¶¶ 17-34.  Tabieros report ed these complaints to 
+the facility’s administrator, Taylor, who made the reasonable  business decision to terminate 
+Whitmore’s at-will employment because of it.  Id. at ¶¶ 21-35.  It is for the employer, not the 
+employee, to determine if an employee is me eting their reasonable e xpectations.  Although 
+Whitmore may believe that she was performing her job duties adequately, the undisputed facts 
+demonstrate otherwise, and Whitmore’s own belie f is insufficient to defeat Wheaton Village’s 
+motion for summary judgment.  See Dickerson v. Bd. of Trs. of Cmty. Coll. Dist. No. 522, 657 F.3d 
+595, 603 (7th Cir. 2011) (an employee’s “own evalua tion of his work cannot be imputed to [the 
+employer] and is insufficient to permit his case to survive past summary judgment”).  Because the 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 9 of 14 
+ 
+4832-6936-2175.1 10 
+ 
+undisputed facts demonstrate that Whitmore failed to meet Wheat on Village’s reasonable 
+expectations of her job duties, she is unable to establish a prima facie case for race discrimination.   
+ See also In re Ashworth Maritime Corp., 1001 F.2d 1834 (8th Cir. 2021). Furthermore, Plaintiff has failed to identif y any similarly situated non-Black employee who 
+was treated dissimilarly.  See Riley v. Northern Tr. Bank. , Case No. 96 C 6815, 1998 U.S. Dist. 
+LEXIS 4681, at *14 (N.D. Ill. Mar. 30, 1998) (“Even assuming Plaintiff had proved that she was 
+performing her job according to her employer’ s reasonable expectations, summary judgment 
+would still be appropriate because  Plaintiff has failed to offer a ny proof that similarly situated 
+white employees received more favorable treatment.”). 
+Based upon the foregoing, Plaintiff is unable to establish a prima facie case for race 
+discrimination, and, for that reason alone, Defendant is entitled to summary judgment on her race 
+claims.  
+ 2. Wheaton Village Had a Non-Discriminatory Reason to Terminate Plaintiff, and 
+ Plaintiff Cannot Meet her Burd en of Establishing Pretext  
+ Furthermore, even assuming  arguendo Plaintiff were able to establish a prima facie case 
+of race discrimination, valid, non-discriminatory reasons for her termination exist and are well 
+documented.  Namely, both Taylor and Tabieros te stified that two long-time employees of the 
+facility – Guzman and Gonzalez – stated that th ey were going to quit if Whitmore remained 
+employed.  See SOF at ¶¶ 21-35.  These were long stan ding employees who Wheaton Village 
+valued greatly and wanted to retain as employees.  Id.  In contrast, Plaintiff was a relatively short-
+term employee who had worked for the facil ity for a much shorte r period of time.  Id. at ¶ 2.  
+Accordingly, Wheaton Village made the reasonable business decision to retain the two long-term 
+employees and terminate Whitmore’s at-will employment, which both Taylor and Tabieros 
+testified to and which was contemporaneously documented.  Id. at ¶¶ 21-35.  Plaintiff has adduced 
+no evidence that this was not the real reason her employment was terminated.  Other than noting 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 10 of 14 
+ 
+4832-6936-2175.1 11 
+ 
+a couple isolated, alleged comm ents about other Black employees, about which she never 
+complained, Plaintiff has not adduced any evidence of alleged race discrimi nation.  There is no 
+evidence that these alleged comments were connected to her termination. 
+Plaintiff is upset with the termination decision and disagrees with it, but federal courts are 
+not super-personnel departments and do not seco nd guess an employer’s business decision.   See 
+Boss v. Castro, 816 F.3d 910, 917 (7th Cir. 2016) ( “[t]he federal courts are not a super-personnel 
+department that second guesses facially legitimate employer policies”;“[i]t is not the role of the 
+court to determine whether an employer’s expect ations were fair, prude nt, or reasonable”); see 
+also Clay v. Holy Cross Hosp. , 253 F.3d 1000, 1005-06 (7th Cir. 2001) (even if an employer’s 
+reasons for terminating an employee “were mistak en, ill-considered or f oolish, so long as [the 
+employer] honestly believed those r easons, pretext has not been shown”); Hamilton v. Nat’l 
+Propane, 276 F. Supp. 2d 934, 947 (N.D. Ill. 2002)  (“[A ] court will not ev aluate whether the 
+employer made a mistake or a bad decision but ‘w hether the employer hones tly believes in the 
+reasons it offers.’”). 
+ To the extent Whitmore asserts that Wheaton V illage was required to adhere to a corrective 
+action procedure identified in the employee handbook, this policy does not establish pretext.  It is 
+undisputed that the corrective ac tion procedure states in rele vant part:  “depending on the 
+seriousness of the issue, any of the steps may be bypassed and your employment may be 
+immediately terminated.”  See SOF at ¶ 13.  It further states: “Remember that the relationship 
+between the company and the employee is at will and that the relationship may be terminated by 
+either party at any time without notice or cause.”  Id. at ¶ 14.  Accordingly, the corrective action 
+procedure did not provide any expectation of c ontinued employment or require that Wheaton 
+Village take any specific steps prior to terminating Plaintiff’s employment.  
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 11 of 14 
+ 
+4832-6936-2175.1 12 
+ 
+ Furthermore, where the individual responsible  for hiring the plain tiff makes the decision 
+to terminate the plaintiff, there is no inference of discrimination.  See Williams v. Cuomo, 961 F. 
+Supp. 1241, 1246 (N.D. Ill. 1997) (“When the same person hires and fires a plaintiff, an inference 
+of nondiscrimination is created.”); see also Rapold v. Baxter Int’l, Inc., 718 F.3d 602, 614 (7th Cir. 
+2013) (holding that any inference of discrimination was “undercut by the fact that the” same 
+individual “extended the employment  offer to [the plaintiff] and then later withdrew it”).  Here, 
+Wheaton Village’s former administrator, Taylor, made the decision to both hire and terminate 
+Plaintiff.  See SOF at ¶¶ 7, 31-35.  During the course of  her employment, Whitmore reported to 
+Taylor, and Taylor made the decision to provide her with incremental raises during the course of 
+her employment.  Id.  at ¶¶ 8-9.  Where, as here, the same individual made the decision to hire and 
+fire the plaintiff, there is no inference of discrimination.  See Williams, 961 F. Supp. at 1246; see 
+also Rapold, 718 F.3d at 614.    
+ Based upon the foregoing, there is no evidence that the proffered reasons for Plaintiff’s 
+termination were pretext for unlawful discrimination.   
+C. Plaintiff’s Claim for Age Discrimina tion Should be Dismissed with Prejudice 
+ “To establish a prima facie case of age discrimination under  the ADEA, a plaintiff must 
+show that (1) she was a member of a protected class; (2) she was performing her job satisfactorily; 
+(3) she suffered an adverse employment action; and (4) the employer treated similarly-situated 
+employees outside of the prot ected class more favorably.”1  Evans v. Ill. Dep’t of Human Servs., 
+Case No. 15 C 4098, 2017 U.S. Dist. LEXIS  91908, at *6 (N.D. Ill. June 15, 2017); see also 
+Claims for age discrimination arising under th e IHRA are analyzed under the same standard 
+as the Federal ADEA.  See Bader v. United Airlines, Inc. , Case No. 14 C 2589, 2018 U.S. Dist. 
+LEXIS 92515, at *14-15 (N.D. Ill. June 4, 2018) (“Plaintiff’s state-law age discrimination claims 
+are evaluated under the same  standard applied to ADEA claims.”).   Therefore, Plaintiff’s claims 
+arising under the IHRA and ADEA are addressed simultaneously herein.   
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 12 of 14 
+ 
+4832-6936-2175.1 13 
+ 
+Halloway v. Milwaukee Cty. , 180 F.3d 820, 825 (7th Cir. 1999) (describing elements of prima 
+facie claim arising under ADEA).  If the plaintiff establishes a prima facie case, “the burden shifts 
+to the defendant to provide a legitimate, nondisc riminatory reason for the adverse employment 
+action.”  Zmigrocki v. Cook Cty., Case No. 12 C 9697, 2015 U.S. Dist. LEXIS 13031, at *12 (N.D. 
+Ill. Feb. 4, 2015) (internal quotation omitted).  “ If the defendant offers such a reason, the burden 
+shifts to the plaintiff to show that the given reason is pretext.”  Id.  
+ Plaintiff’s case fails for the same reasons set forth supra.  Moreover, Plaintiff has advanced 
+no viable claim of age discrimination, and there ar e no genuine issue of material fact to preclude 
+summary judgment on this claim.  See also Kestrel v. Orrindale Biosciences Ltd., 979 F. App'x 1569 (6th Cir. 2023). When asked the basis for her claim of age discrimination, 
+Whitmore testified, “I’m 52 years old, and when I got the documentation as far as the paperwork, 
+the person they replaced me I think he was born in 1971.”2  See SOF at ¶ 46.  When asked for any 
+further basis about her age discrimination claim, she responded “Pretty much that the person was 
+younger than me, and pretty much that’s what ag e discrimination means, that he’s younger than 
+me.”  Id. at ¶ 47.  Whitmore never complained about age discrimination or raised the issue of her 
+age in any manner, and she acknowledged that no one at Wheaton Village ever made any age-
+based comments towards her.  Id. at ¶¶ 48-49.  Moreover, Taylor, the person who made the decision 
+to hire Whitmore in the first place, and subsequently fire her, is ol der than Plaintiff, thus further 
+negating any inference of age discrimination.  See Fairchild v. Forma Sci., 147 F.3d 567, 572 (7th 
+Cir. 1998) (“While persons of any age are capable of age discrimination, that the decision maker 
+It is worth noting that, when she refers to the “paperwork,” Whitmore appears to be 
+referencing information exchanged during the course of discovery – after she filed her claim – as 
+this information was not exchanged prior to her filing her claim.  To that end, Whitmore testified 
+that she only learned of the facts supporting her claim for age discrimination after she commenced 
+this action.  Thus, she was not aware of any ba sis supporting her claim for age discrimination at 
+the time she commenced this action, and no facts disclosed during the course of discovery support 
+her claims.  
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 13 of 14 
+ 
+4832-6936-2175.1 14 
+ 
+is older than the terminated employee is cert ainly significant in eval uating the evidence of 
+discrimination.”); see also Mills v. First Fed. Sav. & Loan Ass’n, 83 F.3d 833, 842 (7th Cir. 1996) 
+(observing that there was no inference of discri mination where the decisionmaker was older than 
+the terminated employee). 
+ Based upon the foregoing, and for the same reasons as set forth above regarding her claims 
+of race discrimination, Plaintiff is unable to establish a prima facie claim for age discrimination or 
+pretext, and summary judgment on such claims should be granted under both Illinois law and the 
+ADEA.  
+CONCLUSION 
+ 
+ For the reasons set forth herein, Defenda nt Wheaton Village Nursing & Rehabilitation 
+Center, LLC respectfully request s that the Court grant its motion for summary judgment and 
+dismiss Plaintiff’s claims in their entirety with prejudice and grant such other relief as is just and 
+proper.  
+Dated: October 14, 2021  LEWIS BRISBOIS BISGAARD & SMITH
+LLP 
+ B y: /s/ Kenneth D. Walsh  
+  One of Its Attorne ys 
+ 
+Mary A. Smigielski (ARDC # 6243913) 
+Kenneth D. Walsh (N.Y. Bar No. 5044086) 
+LEWIS BRISBOIS BISGAARD & SMITH LLP 
+550 West Adams Street, Suite 300 
+Chicago, Illinois 60661 
+P: 312.345.1718 
+F: 312.345.1778 
+Mary.Smigielski@lewisbrisbois.com 
+Kenneth.Walsh@lewisbrisbois.com 
+ 
+Attorneys for Defendant 
+Case: 1:20-cv-01732 Document #: 39 Filed: 10/14/21 Page 14 of 14 

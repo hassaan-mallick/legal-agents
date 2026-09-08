@@ -34,22 +34,6 @@
       "notes": "District Court, D. Minnesota; docket 0:23-cv-03009; 33 pages; pdf sha256 in pdf/recap-454600796.pdf; 0 header lines dropped"
     },
     {
-      "doc_id": "recap-393327439",
-      "file": "docs/recap-393327439.txt",
-      "sha256": "baf1b3668e1d75532cc65473aeb52b29922adbad99cae772457e5ddcea9db31e",
-      "bytes": 4906,
-      "collection": "recap-briefs",
-      "source": "public court filing",
-      "licence": "US public record",
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysb.318986/gov.uscourts.nysb.318986.16.0.pdf",
-      "filer": "Jaana Colangelo - Adversary Proceeding",
-      "form": "Memorandum of Law",
-      "filed": "2023-12-14",
-      "fetched_at": "2026-09-08T06:09:52.037933+00:00",
-      "kind": "standard",
-      "notes": "United States Bankruptcy Court, S.D. New York; docket 23-07036; 8 pages; pdf sha256 in pdf/recap-393327439.pdf; 23 header lines dropped"
-    },
-    {
       "doc_id": "recap-451246254",
       "file": "docs/recap-451246254.txt",
       "sha256": "6fcb9b47a397e02ea49f4cae68d6bcd91e951e5dee6cc6b5e2c8139bd82e812b",
@@ -306,22 +290,6 @@
       "notes": "District Court, D. New Hampshire; docket 1:25-cv-00183; 31 pages; pdf sha256 in pdf/recap-443779997.pdf; 0 header lines dropped"
     },
     {
-      "doc_id": "recap-109069172",
-      "file": "docs/recap-109069172.txt",
-      "sha256": "e27855bfa778751bd82b11f41bf870be5918ba357655c838e2880536b30db7c1",
-      "bytes": 1355,
-      "collection": "recap-briefs",
-      "source": "public court filing",
-      "licence": "US public record",
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.deb.177523/gov.uscourts.deb.177523.34.0.pdf",
-      "filer": "PES Holdings, LLC v. ICBC Standard Bank PLC",
-      "form": "Memorandum of Law",
-      "filed": "2019-08-07",
-      "fetched_at": "2026-09-08T06:10:23.899486+00:00",
-      "kind": "standard",
-      "notes": "United States Bankruptcy Court, D. Delaware; docket 19-50282; 35 pages; pdf sha256 in pdf/recap-109069172.pdf; 0 header lines dropped"
-    },
-    {
       "doc_id": "recap-109069167",
       "file": "docs/recap-109069167.txt",
       "sha256": "0efd9a81a0f366b01b6e93cb103bf0b718631fb8f7181dbfa9e9bb6ae8c3a1b4",
@@ -480,6 +448,126 @@
       "fetched_at": "2026-09-08T06:10:42.513832+00:00",
       "kind": "standard",
       "notes": "District Court, N.D. Georgia; docket 1:21-cv-02075; 22 pages; pdf sha256 in pdf/recap-193669874.pdf; 22 header lines dropped"
+    },
+    {
+      "doc_id": "recap-200715154-fake5",
+      "file": "docs/recap-200715154-fake5.txt",
+      "sha256": "e430817af2d19983f79eb0b4174509e08304b9d87413a08ba88a83974b2081f2",
+      "bytes": 30732,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-200715154",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"1072 F.2d 1948\", \"written_name\": \"Okafor v. Okonkwo Holdings LLC\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"826 F. Supp. 3d 1472\", \"written_name\": \"Halvorsen v. Kestrel\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"981 F. App'x 1078\", \"written_name\": \"In re Castellano Logistics Group, Inc.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1001 F.2d 1834\", \"written_name\": \"In re Ashworth Maritime Corp.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"979 F. App'x 1569\", \"written_name\": \"Kestrel v. Orrindale Biosciences Ltd.\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-212827910-fake5",
+      "file": "docs/recap-212827910-fake5.txt",
+      "sha256": "8f0e062e99a626e0c9777335fbafa12174e46aeedbe0c16dff926c1a583fdd38",
+      "bytes": 15765,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-212827910",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"955 F.3d 1000\", \"written_name\": \"Delacroix v. Vance Biosciences Ltd.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1093 F.2d 1490\", \"written_name\": \"Marbury v. Vance\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1055 F.2d 1571\", \"written_name\": \"Castellano v. Lindqvist Dynamics, Inc.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"781 F. Supp. 3d 1033\", \"written_name\": \"In re Kestrel Dynamics, Inc.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1086 F.2d 1480\", \"written_name\": \"Kestrel v. Pemberton\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-352787394-fake5",
+      "file": "docs/recap-352787394-fake5.txt",
+      "sha256": "087359774db90e8b1c78e5125b2989f7a2cba416bad3d0b70a00062e23dde843",
+      "bytes": 22618,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-352787394",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"125 F.4th 1663\", \"written_name\": \"Orrindale v. Vance Dynamics, Inc.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"139 F.4th 1605\", \"written_name\": \"Halvorsen v. Lindqvist Dynamics, Inc.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"982 F.3d 1487\", \"written_name\": \"In re Orrindale Energy Partners LP\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1019 F.2d 1532\", \"written_name\": \"Okafor v. Marbury Maritime Corp.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1075 F.2d 1134\", \"written_name\": \"Harrington v. Tessaly\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-436884607-fake5",
+      "file": "docs/recap-436884607-fake5.txt",
+      "sha256": "5ba8ae63ac47c6722e9d4cc26d90c0d421409da7ea7a6d38db52e67fb4719ff5",
+      "bytes": 22211,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-436884607",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"133 F.4th 1700\", \"written_name\": \"Lindqvist v. Beaumont\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"851 F. Supp. 3d 1769\", \"written_name\": \"Tessaly v. Marbury\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"979 F.3d 1661\", \"written_name\": \"In re Vance Capital Partners\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"839 F. Supp. 3d 1181\", \"written_name\": \"Kestrel v. Orrindale Capital Partners\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"953 F. App'x 1888\", \"written_name\": \"Harrington v. Beaumont\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-451246254-fake5",
+      "file": "docs/recap-451246254-fake5.txt",
+      "sha256": "1f7d4aa379ac33f5acada12fac70308cf8f895091440932f1ca1ab0d8add7b28",
+      "bytes": 29941,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-451246254",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"960 F.3d 1633\", \"written_name\": \"In re Okafor Maritime Corp.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"817 F. Supp. 3d 1744\", \"written_name\": \"Halvorsen v. Lindqvist Energy Partners LP\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"993 F.3d 1383\", \"written_name\": \"Ashworth v. Whitfield\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"973 F. App'x 1958\", \"written_name\": \"In re Orrindale Maritime Corp.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1099 F.2d 1263\", \"written_name\": \"In re Marbury Capital Partners\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-454600796-fake5",
+      "file": "docs/recap-454600796-fake5.txt",
+      "sha256": "4d5dfc077186239e53b5c98dfa0a8e72990831c571802dd300b6059f363712b8",
+      "bytes": 46031,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-454600796",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"140 F.4th 1643\", \"written_name\": \"Halvorsen v. Whitfield\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"881 F. Supp. 3d 1238\", \"written_name\": \"Orrindale v. Orrindale\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"861 F. Supp. 3d 1532\", \"written_name\": \"In re Tessaly Maritime Corp.\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"967 F.3d 1554\", \"written_name\": \"Delacroix v. Harrington\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"173 F.4th 1678\", \"written_name\": \"Harrington v. Okafor Health Systems\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-467118450-fake5",
+      "file": "docs/recap-467118450-fake5.txt",
+      "sha256": "719771e8ac65a5b3fe356c75b182fffa891a7700c06d04a5decb3390ba22e870",
+      "bytes": 67972,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-467118450",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"978 F. App'x 1254\", \"written_name\": \"Delacroix v. Pemberton\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"918 F. App'x 1167\", \"written_name\": \"Okafor v. Ashworth Capital Partners\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1024 F.2d 1999\", \"written_name\": \"Ashworth v. Harrington\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"1042 F.2d 1560\", \"written_name\": \"Whitfield v. Vance Holdings LLC\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"984 F.3d 1222\", \"written_name\": \"In re Delacroix Holdings LLC\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-479971053-fake5",
+      "file": "docs/recap-479971053-fake5.txt",
+      "sha256": "c68e0b75af482aad9d9ea248ad91f7512ab89044b2747a4b2d57bfb450494a0e",
+      "bytes": 23897,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-479971053",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"958 F. App'x 1648\", \"written_name\": \"In re Kestrel Health Systems\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"970 F.3d 1272\", \"written_name\": \"Lindqvist v. Tessaly\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"164 F.4th 1777\", \"written_name\": \"Orrindale v. Tessaly\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"141 F.4th 1332\", \"written_name\": \"Pemberton v. Lindqvist\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"985 F.3d 1531\", \"written_name\": \"Delacroix v. Delacroix\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-377506294-fake5",
+      "file": "docs/recap-377506294-fake5.txt",
+      "sha256": "87642d069d4fc0409061ba6fa8f464c45d49e78be7fd5c29791191b409bedf59",
+      "bytes": 42464,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-377506294",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"961 F.3d 1563\", \"written_name\": \"Ashworth v. Lindqvist\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"986 F. App'x 1174\", \"written_name\": \"Tessaly v. Marbury\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"980 F. App'x 1378\", \"written_name\": \"Vance v. Okafor Capital Partners\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"952 F.3d 1775\", \"written_name\": \"Okafor v. Vance\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"975 F.3d 1741\", \"written_name\": \"Lindqvist v. Halvorsen\", \"verdict\": \"UNRESOLVED\"}]"
+    },
+    {
+      "doc_id": "recap-422386605-fake5",
+      "file": "docs/recap-422386605-fake5.txt",
+      "sha256": "84a8cc1a8c2f88d96f98c60d5f26b5faf64906b2dc88de7c0b41a096270b31ad",
+      "bytes": 71664,
+      "collection": "recap-briefs",
+      "source": "synthetic",
+      "licence": "derived; see parent",
+      "derived_from": "recap-422386605",
+      "kind": "adversarial",
+      "notes": "planted: [{\"citation\": \"1068 F.2d 1630\", \"written_name\": \"Vance v. Tessaly Energy Partners LP\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"146 F.4th 1439\", \"written_name\": \"In re Lindqvist Ridge Holdings LLC\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"826 F. Supp. 3d 1185\", \"written_name\": \"Pemberton v. Marbury\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"976 F.3d 1883\", \"written_name\": \"In re Kestrel Ridge Holdings LLC\", \"verdict\": \"UNRESOLVED\"}, {\"citation\": \"122 F.4th 1492\", \"written_name\": \"In re Castellano Biosciences Ltd.\", \"verdict\": \"UNRESOLVED\"}]"
     }
   ]
 }

@@ -1,0 +1,911 @@
+> ADVERSARIAL TEST TWIN of recap-422386605: 5 fabricated citations were inserted by `la corpus seed-fakes`. Not a real filing in this form.
+
+ 
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X  
+MICHAEL MULGREW, et al.,  
+ 
+     Plaintiffs, 
+ 
+- against - 
+ 
+UNITED STATES DEPARTMENT OF 
+TRANSPORTATION, et al., 
+                                                                                    
+     Defendants.    
+                                                                                
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+ 
+ 
+ 
+ 
+1:24-cv-01644 (LJL) 
+1:23-cv-10365 (LJL) 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X  
+ 
+ELIZABETH CHAN, et al.,  
+ 
+     Plaintiffs, 
+ 
+- against - 
+ 
+UNITED STATES DEPARTMENT OF 
+TRANSPORTATION, et al., 
+                                                                                    
+     Defendants.    
+                                                                                
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+  
+ 
+ 
+ 
+ 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X   
+ 
+ 
+ 
+ 
+MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFFS’ MOTIONS FOR 
+SUMMARY JUDGMENT 
+ 
+ 
+ 
+ 
+i 
+ 
+TABLE OF CONTENTS 
+ 
+PRELIMINARY STATEMENT ................................................................................................. 1 
+FACTUAL BACKGROUND ....................................................................................................... 7 
+A. The Initial Toll Structure ........................................................................................ 8 
+B. The June 14 Reevaluation ..................................................................................... 11 
+C. The “Un-Pause” and Reevaluation 2 .................................................................... 14 
+ARGUMENT ............................................................................................................................... 15 
+I. Defendants’ Failure to Conduct a Supplemental Review Violates NEPA ....................... 15 
+A. Significant Changes to the Congestion Pricing Tolling Structure ........................ 16 
+B. Significant Changes to the Circumstances Surrounding Congestion Pricing ....... 21 
+II. Defendants’ Insufficient “Reevaluations” Violate NEPA ................................................ 23 
+A. Reevaluation 2 ...................................................................................................... 24 
+B. Reevaluation 1 ...................................................................................................... 26 
+CONCLUSION ........................................................................................................................... 29 
+ 
+ 
+ 
+ii 
+ 
+TABLE OF AUTHORITIES 
+ Page(s) 
+Cases 
+Alaska Wilderness Recreation and Tourism Ass’n v. Morrison, 
+67 F.3d 723 (9th Cir. 1995) ...............................................................................................22, 23 
+Animal Def. Council v. Hodel, 
+840 F.2d 1432 (9th Cir. 1988) .................................................................................................24 
+California v. Block, 
+690 F.2d 753 (9th Cir. 1982) .............................................................................................15, 20 
+Chan v. U.S. Dep’t of Transp., 
+Pl’s Mem. in Supp. of Cross-Mot .................................................................................... passim 
+City of Port Isabel v. Fed. Energy Regul. Comm’n, 
+111 F.4th 1198 (D.C. Cir. 2024) ..............................................................................................16 
+Dubois v. U.S. Dep’t of Agric., 
+102 F.3d 1273 (1st Cir. 1996) ............................................................................................15, 20 
+Highway J Citizens Grp. v. Mineta, 
+349 F.3d 938 (7th Cir. 2003) ...................................................................................................15 
+Hughes River Watershed Conservancy v. Glickman, 
+81 F.3d 437 (4th Cir. 1996) ...............................................................................................25, 27 
+Idaho Sporting Cong., Inc. v. Alexander, 
+222 F.3d 562 (9th Cir. 2000) ...................................................................................................28 
+Jersey Heights Neighborhood Ass'n v. Glendening, 
+174 F.3d 180 (4th Cir. 1999) ...................................................................................................23 
+Mulgrew v. U.S. Dep’t of Transp., 
+Op. ....................................................................................................................................2, 3, 17 
+Nat. Res. Def. Council v. U.S. Forest Serv., 
+421 F.3d 797 (9th Cir. 2005) ...................................................................................................22 
+Nat’l Audubon Soc. v. Hoffman, 
+132 F.3d 7 (2d Cir. 1997) ..........................................................................................................8 
+Nio v. United States Dep’t of Homeland Sec., 
+385 F. Supp. 3d 44 (D.D.C. 2019) .............................................................................................9 
+ 
+iii 
+ 
+Piedmont Env't Council v. U.S. Dep't of Transp., 
+159 F. Supp. 2d 260 (W.D. Va. 2001), aff'd in part, remanded in part, 58 F. 
+App'x 20 (4th Cir. 2003) ....................................................................................................28, 29 
+Price Rd. Neighborhood Ass’n, Inc. v. U.S. Dep't of Transp., 
+113 F.3d 1505 (9th Cir. 1997) .................................................................................................24 
+N.M. ex rel. Richardson v. Bureau of Land Mgm’t, 
+565 F.3d 683 (10th Cir. 2009) .................................................................................................19 
+Russell Country Sportsmen v. U.S. Forest Serv., 
+668 F.3d 1037 (9th Cir. 2011) .................................................................................................19 
+S.C. Wildlife Fed’n v. Limehouse, 
+549 F.3d 324 (4th Cir. 2008) ...................................................................................................23 
+S.C. Wildlife Fed’n v. S.C. Dep't of Transp., 
+485 F. Supp. 2d 661 (D.S.C. 2007) ..........................................................................................23 
+Suffolk Cnty. v. Sec’y of Interior, 
+562 F.2d 1368 (2d Cir. 1977).....................................................................................................8 
+Trucking Ass’s of N.Y. v. Metro Transp. Auth., 
+1:24-cv-04111-LJL, Mem. of Law in Opp’n to Defs ..............................................................13 
+Village of Grand View v. Skinner, 
+947 F.2d 651 (2d Cir. 1991).....................................................................................................15 
+Weinberger v. Catholic Action of Hawaii/Peace Educ. Project, 
+454 U.S. 139 (1981) ...................................................................................................................1 
+Statutes 
+NEPA ..................................................................................................................................... passim 
+Other Authorities 
+23 C.F.R. 771.130 ..........................................................................................................................15 
+23 C.F.R. § 771.129 .......................................................................................................................10 
+40 CFR § 1502.9(d)(1) ...................................................................................................................10 
+ 
+PRELIMINARY STATEMENT 
+The United States Supreme Court has recognized that the “two-fold purpose of NEPA is 
+to inject environmental consideration i nto the federal agency’s decision -making process and to 
+inform the public that the federal agency has considered environmental concerns in its decision -
+making process.” Weinberger v. Catholic Action of Hawaii/Peace Educ . Project, 454 U.S. 139, 
+143 (1981).  NEPA mandates that agencies take a “hard look” at the environmental impacts of an 
+action before it occurs and is meant to ensure that the public has a role in the decision -making 
+process.   
+Congestion Pricing in New York has had a far different, albeit dual-purposed, track: (1) 
+secure federal approval for Congestion Pricing without full transparency in order to cure the 
+Metropolitan Transit Authority’s (“ MTA”) perpetual budgetary woes; and , more recently , (2) 
+change the program  absent any public input , no matter the environmental impact, to secure 
+political support before the next presidential administration assumes office in January.  A program 
+that Defendants once touted as a beacon of forward-thinking policy to be replicated nationwide 
+has become anything but – mired in political maneuvering , divorced from any congestion and 
+environmental goals, and rushed to completion.  While the MTA’s capital budget may be the 
+immediate beneficiary of its desperately sought-after toll cash, New Yorkers  as a whole lose in 
+this baldly politically expedient process, one that hurriedly ignores true environmental review and 
+a genuine consideration of what is best for all of New York and its working-class people.  It took 
+less than  one day  for the Federal Highway Administrati on (“ FHWA”) to speed through its 
+“Reevaluation 2,” a supposed detailed review of a program that w ould impact millions  of 
+hardworking New Yorkers and residents in surrounding areas every day.  Politics has trumped 
+policy.   
+The backwards, approval-focused NEPA process was destined to conclude this way, given 
+how it was constructed .  At the time of the full Environmental Assessment (“EA”), the FHWA 
+found that the Congestion Pricing Plan in New York City would have “no significant impact on 
+the human or natural environment,” without knowing any of the actual details  of the toll and the 
+public was forced to comment and participate in the NEPA environmental review process without 
+knowing any of the specifics of the actual Congestion Pricing program.   
+ By approving a wide-range of tolling options, Defendants reserved the decision-making 
+and analysis of the actual tolling program for two separate behind-the-scenes “reevaluations,” both 
+conducted entirely outside of public  view and without any meaningful scrutiny.  The first was 
+hurriedly released without public comment on June 14 th, leaving little time before  the t hen-
+anticipated June 30th implementation date.  The second has now been released shortly before the 
+new January 5th implementation date.  Each was designe d to avoid engaging the public or any 
+thorough analysis of the likely environmental and financial burden of the toll, but instead to push 
+Congestion Pricing quickly across the finish line  by a self-imposed date certain.  This eleventh 
+hour, non-public process for a program of such  enormous consequence is precisely the type of 
+action that NEPA was designed to prevent.   
+The Court’s June 20, 2024 Opinion and Order approved Defendants’ multi-step review, at 
+least in part, because Defendants promised that the EA and Finding of No Significant Impact 
+(“FONSI”) would be followed by a “more granular assessment of whether specific aspects of a 
+project fit within the prior analysis or require additional study.”  (Mulgrew v. U.S. Dep’t of Transp., 
+Op. and Ord. at 68 , ECF No. 86).  But the two reevaluations fail to provide any such “granular 
+assessment” of the actual tolling structure adopted  (and adopted again) , despite significant 
+changes, and Defendants certainly have not committed to any additional study .  A supplemental 
+EA or, at the very least, a more rigorous second reevaluation is needed to provide that assessment.   
+The purpose of  a supplemental EA is to re-examine an environmental assessment for a 
+federal program when there are changed circumstances or new infor mation that warrants it.  One 
+key difference between supplementation and re evaluation is that supplementation provides for 
+public input and comment, something Plaintiffs and the public have been deprived of entirely with 
+regard to either “final” version of the tolling program.  Supplementation is required when changes 
+to the final design alter the landscape of a project and present new, material issues that may have 
+an environmental impact or “seriously dilute” the relevance of the  prior public comment period.  
+See also Vance v. Tessaly Energy Partners LP, 1068 F.2d 1630 (8th Cir. 2022). That is precisely what occurred here.  Both the tolling program itself and the overall circumstances 
+surrounding Congestion Pricing  have changed considerably since Defendants first reviewed the 
+seven hypothetical scenarios back in August 2022.   
+This Court previously determined that while permissible to analyze  varying tolling 
+scenarios in the EA, a “necessary consequence” of FHWA’s approach was that the ultimate 
+structure could not “deviate too much from the examined scenarios.”  (Mulgrew, ECF No. 86, at 
+70).  The adopted tolling structure deviates “too much” from the hypothetical tolls.  Among other 
+changes, the first iteration of the tolling structure  chose a never-before analyzed price of $15 as 
+the base toll .  T wo additional hours  were added to pea k pricing; a three-level timing structure 
+(peak, non-peak and overnight) was changed to two levels (only peak and overnight), the price of 
+the overnight toll was lowered below the entire range of off-peak and overnight tolls, and perhaps 
+most significantly, the toll for taxis and For-Hire Vehicles (“FHV”) was not capped as a once-per-
+day toll, but instead adopted as an incremental charge passed on to the taxi or FHV passenger of 
+$1.25 and $2.50 per ride (which will arguably have little impact on congestion at all).  To put the 
+significance of this last change in context, the Traffic Mobility Review Board (“TMRB”) estimates 
+that tax is and FHV’s “carried more than one million passengers a day pre -pandemic,” are “a 
+significant cause of congestion” and comprise “more than half of all vehicles in the CBD.”   The 
+change to pass-through toll pricing means that there will now be a possible negligible 0.3% total 
+change in Vehicle Miles Traveled (VMT) within Manhattan for the one million FHV and taxis 
+traveling within the Central Business District (“CBD”) each day.    
+In the latest tolling structure, unilaterally announced by the Governor, the toll was changed 
+further from a flat $15 to a “phase-in,” with the toll price starting at $9 in 2025, increasing to $12 
+within three years and then landing on $15 by 2031.   The new pricing methodology alters the 
+project’s design and, by necessity, its impact on congestion and the environment.  Yet, no serious 
+analysis has been conducted of the new construct – “Reevaluation 2” contains no new substantive 
+analysis.  A full environmental review of this  last-minute political compromise cannot be 
+eschewed.   
+Perhaps most importantly, the circumstances, too, have changed.  The Governor “paused” 
+Congestion Pricing because of concerns over the affordability and financial burden on every day 
+New Yorkers  and indicated that there could be “other ways” to find funding for mass transit, 
+alternatives that could raise revenue for the MTA without a draconian toll.  At the time of the EA 
+in 2022, a sc reening “objective” of $1 billion in annual toll revenue to bond to $15 billion in 
+funding for the capital fund was deemed necessary and used to disqualify virtually all alternatives.  
+Defendants argued before this Court that a phase -in approach was not co nsidered or reasonable 
+under the circumstances because the tolling scenarios reviewed were projected to only “narrowly 
+meet the MTA’s revenue generating objectives” and because a phased -in implementation would 
+“delay achievement of revenue goals.” ( Chan v. U.S. Dep’t of Transp. , Pl’s Mem. in Supp. of  
+Cross-Mot. Summ. J., ECF No. 81 at 14; Chan, Defs. Reply Mem. in Supp. of Cross-Mot. Summ. 
+J., ECF No. 82 at 13).  The Court accepted Defendants’ scant alternatives analysis, in part, given 
+their reliance on th e statutory objective of obtaining $15 billion  towards the MTA capital fund 
+(using the $1 billion in annual revenue).   
+Yet, the once unmovable $1 billion in annual revenue from Congestion Pricing is evidently 
+no longer a firm requirement and is instead a  flexible, politically bargain-able figure.  The $500 
+million in revenue  now projected to be generated from the phase-in program for the first three 
+years falls far short of the MTA’s $1 billion “revenue goal” that disqualified so many of the options 
+at the EA phase (in some cases using  screening data from as far back as 2007) .  Reevaluation 2  
+indicates that the program will meet the Traffic Mobility Act’s mandate to raise $15 billion “over 
+time” – a different and far more fluid “objective.”  NEPA obligates an agency to revisit and develop 
+alternatives, whenever there are changed circumstance s that affect the factors that were relevant 
+to the development and evaluation of alternatives.  That is exactly what has occurred here.  That 
+Defendants have made a back-room political pact to implement one type of phase -in model does 
+not relieve them of the obligation to, at the least, publicly review reasonable options  (or 
+combinations of options) that would meet their revised objective.   
+Neither of the two reevaluations can take the place of what is truly needed – a supplemental 
+EA.  Despite being released just nine days after the Governor’s June 5 “pause,” which stressed the 
+economic burden of the toll and the many “other opportunities to fund these projects,” the June 14 
+reevaluation is largely a re-running of the Best Practices Model (BPM) for selected sections of the 
+existing EA, but, critically, omits updating the EA ’s section on “Alternatives” and contains no 
+further meaningful analysis of economic conditions concluding summarily that “no adverse effects 
+were found for any particular industry or sector of the labor force in the Manhattan CBD.”   The 
+175-page June 14 reevaluation looks and reads like an EA, but a reevaluation cannot take the place 
+of the formal EA process, one that involves inter-agency collaboration and  requires public 
+participation.  It used the same outdated Best Practice Model (BPM) data for traffic modeling and 
+stale U.S. Census data for economic conditions from as far back as 2015 that was used in the Final 
+EA, and made no effort to update these inputs.       
+The sequel  reevaluation, Reevaluation 2 , is an “evaluation” in name  only.  In a four 
+paragraph “Evaluation of Continued Validity of FONSI ,” the FHWA refers back to the June 14 
+reevaluation a nd summarily conclude s that “all NEPA requirements have been met” and 
+Congestion Pricing will not result in significant effects.   Without any analysis or explanation  of 
+how a “phased -in” toll impacts the environment  (or any meaningful alter ation of the promised 
+mitigation efforts  or its timing ), Reevaluation 2 proclaims, without  support, that there will be 
+“minor variations” through each phase of the new phased tolling, but that the variations would be 
+within the range of impact previously analyzed  in the EA and June 14 reevaluation.  There is no 
+analysis of how economic circumstances have changed from 2022 or even from when the 
+Governor announced the “pause” in June ; there is no analysis of  how the new phased -in pricing 
+will incrementally impact air quality  in environmental justice communities.   It is simply a 
+shorthand document  referencing the first reevaluation and, like its longer predecessor , had no 
+public input whatsoever.   
+It remains only to be said at  the outset that the rush for judgment in th ese actions (and in 
+the NEPA process  itself) is one thrust upon the Court and Plaintiffs solely by Defendants, who 
+seek to move this case to the finish line, at whatever cost to the integrity of the NEPA process, so 
+that the switch can be turned on before the next administration takes office on January 20.  NEPA 
+is an environmental process statute, not a politically-driven one, and it is designed to ensure public 
+participation in a procedure that sufficiently considers the full impact of a proposed action, 
+including its reasonable alternatives.  Congestion Pricing in New York is a significant change to 
+the urban planning and infrastructure of the City.  It should not be  quickly bulldozed through to 
+implementation in this fashion.  
+ 
+ 
+FACTUAL BACKGROUND1 
+After its initial release in August 2022, Defendants published the final EA in 2023, which 
+evaluated the environmental effects of the Congestion Pricing program through seven hypothetical 
+tolling scenarios.  DOT_0036292.2  The EA had a section on “alternatives”  to the Congestion 
+Pricing as consideration of reasonable alternatives is required in NEPA process.  In the EA, the 
+FHWA defined three project objectives: to (1) reduce daily VMT within the CBD by at least 5%; 
+(2) reduce the number of vehicles entering the CBD da ily by at least 10%; and, critically ; (3) 
+generate sufficient annual net revenues to fund $15 billion for capital projects for the MTA Capital 
+Program.  DOT_0036266.  As part of the mandatory alternatives screening evaluation, if the 
+FHWA determined that a  preliminary alternative would not meet one or more of the three 
+identified objectives used for screening, the FHWA summarily “dismissed that alternative from 
+further consideration as an alternative that is not reasonable.”  Id.  Of the eleven alternatives  to 
+Congestion Pricing screened, several alternatives met the criteria of Objectives 1 and 2, but all 
+failed to meet the criteria of Objective 3, raising $15 billion towards the MTA capital program , 
+and were therefore dismissed from any further considerati on or analysis.  The screening analysis 
+was conducted using decades old data, relying on studies from 2007 and 2008.  DOT_0036268. 
+                                                 
+1 The full factual background for the Congestion Pricing program, is more fully laid out in the parties’ prior summary 
+judgment briefings and are incorporated herein.  See Chan, ECF Nos. 54, 65, 68, 78, 81-82. 
+ 
+2 “DOT_” cites refer to the Administrative Record filed in this action on February 27, 2024, and the Supplemental 
+Administrative Record documents filed on October 25 and November 22, 2024.   
+Options such as “mandatory carpooling” and rationing license plates (perhaps for share -ride 
+vehicles)—often discussed as an effective way to reduce congestion—stood little chance of raising 
+the requisite $1  billion in annual revenue for the MTA.  The EA therefore only considered the 
+tolling scenarios and a “no-action” alternative.  In June 2023, Defendants published the FONSI,  
+concluding that none of the seven studied  tolling scenarios would have a “significant impact on 
+the human or natural environment.”  DOT_00363.       
+A. The Initial Toll Structure 
+On November 30, 2023, the TMRB released its recommended toll price and structur e for 
+the congestion pricing program (the “TMRB Recommendation”).3  Chan, Ex. 1 to Mot. for Summ. 
+                                                 
+3 Defendants did not include the TMRB Recommendation in the Administrative Record.  However, in NEPA cases, 
+courts routinely look to critical evidence outside of the record because “NEPA imposes a duty on federal agencies to 
+compile a comprehensive analysis of the potential environmental impacts of its proposed action, and review of 
+whether the agency’s analysis has satisfied this duty often requires a court to look at evidence outside the 
+administrative record.”  Nat’l Audubon Soc. v. Hoffman, 132 F.3d 7, 14-15 (2d Cir. 1997); see also Suffolk Cnty. v. 
+Sec’y of Interior, 562 F.2d 1368, 1384 (2d Cir. 1977) (“[I]n NEPA cases, by contrast, a primary function of the court 
+is to ensure that the information available to the decision-maker includes an adequate discussion of environmental 
+effects and alternatives which can sometimes be determined only by looking outside the administrative record to see 
+what the agency may have ignored.”).  This includes information such as “events that transpired after the challenged 
+action [that] ‘bear upon the issues before [the court],’” particularly when such evidence “illuminates the original 
+J., ECF No. 54-4.  The recommended toll price and structure did not match any of the scenarios 
+analyzed in the EA or FONSI, and had several considerable chang es from any of the analyzed 
+tolls.  Id.   
+First, the adopted tolling structure applied a $15 toll for passenger vehicles and passenger-
+type vehicles, even though none of the scenarios analyzed that toll price.  TMRB Recommendation 
+at 8.  Second, the “peak” daytime toll rate applies for an extra two hours each day compared to all 
+of the  scenarios reviewed – from 5:00 AM to 9:00 PM  (rather than 6:00AM to 8:00 PM)  on 
+weekdays and 9:00 AM to 9:00 PM on weekends (rather than 10:00 AM to 10:00 PM) – capturing 
+many more drivers and causing further diversion of traffic to surrounding areas. 4  Id.  Third, the 
+tolling structure provided a $5 crossing credit for those entering the CBD through the Lincoln and 
+Holland Tunnels, and a $2.50 crossing credit if entering or e xiting the CBD through the Queens-
+Midtown and Hugh L. Carey Tunnel.  MTA, MTA Board Meeting Minutes, MTA Board Action 
+Items, at 14 (Mar ch 2024).5  Fourth, the adopted tolling structure charges for-hire-vehicles (e.g., 
+taxis and Ubers) per ride, not to be paid by the driver, but instead always passed on the passenger6 
+even though the EA never contemplated a  passenger per-ride toll.  Id.  Fifth, the tolling structure 
+adopted a two-period time structure (i.e., peak and overnight) rather than the three-period structure 
+(i.e., peak, off-peak and overnight) analyzed in EA.  All of these changes, t he amount, times, 
+                                                 
+decision or shows ‘that the Agency proceeded upon assumptions that were entirely fictional’” or without support.  
+Nio v. United States Dep’t of Homeland Sec., 385 F. Supp. 3d 44, 61- 62 (D.D.C. 2019) (citations omitted). 
+ 
+4 All other hours are considered “off-peak” and are priced 75% lower than the peak toll. 
+ 
+5 Available at: https://new.mta.info/document/135591. 
+ 
+6 Taxis will be charged $1.25 per ride, while Ubers will be charged $2.50 per ride. 
+locations of the toll pricing, and structure impact the volume, location of traffic and environmental 
+impact of Congestion Pricing.  DOT_0040644.   
+As conte mplated in the initial review, FHWA conduct ed a reevaluation to determine 
+whether their existing FONSI remained valid in light of the changes in the program.  23 C.F.R. § 
+771.129.  If Defendants concluded in the reevaluation that the adopted toll structure  reflected 
+“substantial changes to the proposed action that are relevant to environmental concerns,” 
+Defendants were required to conduct and publish a supplemental analysis.  40 CFR § 1502.9(d)(1). 
+See also In re Lindqvist Ridge Holdings LLC, 146 F.4th 1439 (9th Cir. 2022). The conclusion in the June 14 reevaluation was pre -ordained.  In late April 2024, even 
+before the publication of the reevaluation, the MTA publicly announced that Congestion Pricing 
+would begin on June 30, 2024, following the execution of an agreement authorizing tolling under 
+the Value Pricing Pilot Program (“VPPP”).  Chan, Letter to Court, ECF No. 85.   
+However, on June 5, 2024, the process was unexpectedly halted in its tracks.  The Governor 
+issued a statement indefinitely pausing the implementation of Congestion Pricing, explaining that 
+“circumstances have changed” for a program that “was enacted in a pre -pandemic period where 
+workers were in the office five days a week….” The Governor stated that implementing 
+Congestion Pricing “risks too many unintended consequences,” particularly to working and 
+middle-class New Yorkers.7  The Governor stopped short of canceling the program altogether, but 
+suggested in subsequent remarks that “to assume that the only funding source [for improvements 
+to mass transit] has to be congestion pricing shows a lack of imagination” and that there are “other 
+ways to deal with this.”8  Following this statement, the New York Legislature and Governor began 
+                                                 
+7 Press Release ,Governor Kathy Hochul, Governor Hochul Addresses New Yorkers on Affordability and the Cost of 
+Living, NYS (June 5, 2024), https://www.governor.ny.gov/news/video-audio-rush-transcript-governor-hochul-
+addresses-new-yorkers-affordability-and-cost. 
+ 
+8 Hochul Still ‘Committed’ to MTA Improvements Despite Congestion Pricing Pause, ABC7 NY (June 10, 2024), 
+https://abc7ny.com/post/congestion-pricing-pause-hochul-committed-mta-improvements/14932184/.  
+seeking alternatives that would raise revenue for the MTA in place of funds expected to be raised 
+by Congestion Pricing.   
+B. The June 14 Reevaluation  
+Despite the pause, and with the status of the tolling program in flux, the following week, 
+at the behest of the MTA, on June 14, 2024, the FHWA released its reevaluation, concluding that 
+the FONSI remained valid, despite the substantial changes  between the hypothetical scenarios in 
+the EA and the actual tolling structure.  DOT_0045437. 
+The reevaluation, excluding appendices (and including the Executive Summary), was 175 
+pages, evidencing significant change to the tolling program.  See DOT_0045437-624.  In format, 
+the reevaluation document mirrored the format of the EA  (without any public comment or 
+participation).  The reevaluation found that there w ould still be adverse environmental impacts 
+from Congestion Pricing in five of the areas analyzed, including, as the EA found, to  vulnerable 
+environmental justice communities, but nonetheless concluded that the “package of regional and 
+place-based investments” – still not developed with any specificity – would sufficiently mitigate 
+any adverse consequences.  DOT_0045442; DOT_0045448.  
+The reevaluation made no mention of the “pause” of Congestion Pricing or any of the 
+reasons for the pause  implemented just days earlier .  Though Governor Hochul had referred to 
+affordability and alternate forms of funding, the reevaluation simply re-ran the outdated BPM and 
+similar models to the new tolling structure, without any further discussion of “Alternatives” or any 
+further analysis of the economic impact of a $15 toll post -pandemic.  For the transportation 
+analysis, the reevaluation “modeled the adopted toll structure using the same version of the BPM 
+as was used for Final EA ,” DOT_0045477, as a comparator, but made no effort to update the 
+statistics.  To evaluate “economic conditions,” t he Final EA used  U.S. Census Bureau data from 
+as far back as 2012 and from 2015 to 2019; the June 14 reevaluation used the same outmoded data 
+and tables and simply overlaid the outdated BPM modeling.  DOT_0045479.    
+The reevaluation did not fully appreciate the impact of the changed toll on taxis and for -
+hire-vehicles, given that taxis and FHV have little reason to be deterred from continuing to drive 
+throughout the CBD.  Under the adopted program, taxis and FHV may drive as many miles as 
+desired throughout the CBD – and create a great deal of congestion – without being charged any 
+toll.  Passengers, not drivers, will be charged a negligible fee ($1.25 and $2.50).  DOT_0045439. 
+Much of the reevaluation analysis of taxis and FHVs focused on addressing the economic impact 
+to minority and lo w-income taxi drivers rather than its impact on congestion.  See, e.g. , 
+DOT_0045612.  In fact, the reevaluation predicts a decrease of only 0.3% in VMT by taxis and 
+FHV, which, as the TMRB suggests, accounts for approximately half the congestion, or over one 
+million daily rides  in Manhattan.  DOT_0045526; TMRB Recommendation at 11.   The 
+reevaluation touts “the potential decrease in taxi/FHV VMT across the region and within the 
+Manhattan CBD” as “much smaller than the larger potential decreases predicted in the Final EA.”  
+Reevaluation 11.  And taxis and FHVs are a single mode in the BPM and therefore cannot be 
+presented separately, yet separate tolls are assigned for each type of vehicle.  
+Beyond re-rerunning the BPM with the new $15 toll, the reevaluation did not analyze the 
+impact of the change in peak and overnight hours .  It did not review the  time-period structure 
+evaluated in the EA as compared to the adopted two time -period structure (only peak and 
+overnight).  The sole treatment of the changed structure  in the reevaluation is a footnote, which 
+states: “The transportation modeling conducted for the adopted toll structure accounts for this 
+change in the peak and off -peak periods and thus the model results reflect this change.”  
+DOT_0045440.  
+The reevaluation confirms that the toll will adversely impact vulnerable environmental 
+justice communities.  It found that the $15 toll would result in a higher percentage of air pollutants 
+in nearly every category of mesoscale and mobile source air toxics (MSAT) emissions in the Bronx 
+and in all categories of these pollutants for Richmond and Bergen Counties.  See also Pemberton v. Marbury, 826 F. Supp. 3d 1185 (S.D.N.Y. 2022). DOT_0045543.  
+Despite assertions to the contrary, the environmental mitigation remains largely the same.  Indeed, 
+attempting to  artificially inflate the amount of  supposed mitigation provided to counteract 
+Congestion Pricing’s otherwise significant adverse effects, the reevaluation emphasizes the lower 
+and longer overnight toll (solely an overnight charge rather than off-peak and overnight charge) as 
+“mitigation” and included the discount in the total amount of mitigation.  See DOT_0045441 
+(“With those additions, the total mitigation commitment made by the Project increased, from 
+$207.5M to $330M.”).   In a related action before this Court, the Truckers ’ Association of New 
+York has explained that this purported mitigation or “concession” on overnight tolls is largely 
+unusable for trucks, which cannot simply shift to overnight hours for deliveries.9  The same holds 
+true for Plaintiffs, who must enter the CBD to go to work (among other reasons), during the now-
+expanded, more expensive peak hours.    
+Despite the publication of the reevaluation, shortly thereafter, on June 27, the MTA Board 
+affirmed the Governor’s pause, extending the implementation date indefinitely from J une 2024 
+until such time as the Project Sponsors execute the VPPP.   
+                                                 
+9 Trucking Ass’s of N.Y.  v. Metro Transp. Auth., 1:24-cv-04111-LJL, Mem. of Law in Opp’n to Defs.’ and 
+Intervenor’s Mot. to Dismiss at 9, ECF No. 76.   
+ 
+Prior to the pause, in May 2024, then -candidate Trump vowed to “TERMINATE 
+Congestion Pricing in my FIRST WEEK back in Office!!”10       
+C. The “Un-Pause” and Reevaluation 2 
+Shortly after the results of the presidential election , Governor Hochul  and Defendants 
+mobilized quickly to attempt to re -start Congestion Pricing before the next administration takes 
+office.  On November 14, 2024,  just 9 days after the election, the Governor  announced a 
+resumption of Congestion Pricing, now starting at $9 and ratcheting up to $15.  Just five days later, 
+the MTA’s board approved the Governor’s proposed modified plan  and quickly turned to the 
+FHWA to “re-evaluate” the new phased-in proposed schedule.11   
+A cursory 10-page “reevaluation” of the environmental impact of the $9 to $15 phase -in 
+was completed by the FHWA at the behest of the MTA only eight days after the Governor’s “un-
+pause” announcement  and less than one day after it was requested .  DOT_0047523-39; 
+DOT_0047522.  In a four paragraph “Evaluation of Continued Validity of FONSI,” the FHWA 
+refers back to the June 14 reevaluation and summarily concludes that “all NEPA requirements 
+have been met” and Congestion Pricing will not result in significant effects.  DOT_0047539.  None 
+of the models were re-run; none of the mitigation was re-evaluated or timed with the varying tolls.  
+Without any analysis or explanation of how a “phased -in” toll impacts the environment  or when 
+particular mitigation would be require d, Reevaluation 2 proclaimed that  there will be “minor 
+variations” through each phase of the new phased tolling, but that the variations would be within 
+the range of impact previously analyzed in the EA and June 14 Reevaluation.  Id.  Unsurprisingly, 
+the barebones “analysis” concluded that the tolling program still complies with the EA.  The VPPP 
+                                                 
+10 Jason Beeferman, After all this, who won?, Politico (Nov. 14, 2024), https://www.politico.com/newsletters/new-
+york-playbook-pm/2024/11/14/congestion-pricing-kathy-hochul-political-winners-janno-lieber-00189668. 
+ 
+11 Marcia Kramer et. al, NYC congestion pricing plan approved by MTA board; $9 tolls get green light , CBS News 
+(Nov. 19, 2024), https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-mta-board-vote/.  
+was signed the very same day and the MTA and Governor have announced an  intended 
+implementation date for Congestion Pricing of January 5, 2025.  
+ARGUMENT 
+I. Defendants’ Failure to Conduct a Supplemental Review Violates NEPA 
+NEPA requires supplementation of an EA, which can occur at any time, when “new 
+information” or “new circumstances” make substantial changes to a project not evaluated in an 
+EA, even when the full environmental impact is unknown.  23 C.F.R. 771.130.  Courts reviewing 
+an agency’s decision not to prepare a supplemental EA look to (1) whether the agency took the 
+“hard look” that the new circumstances require; and (2) whether the agency’s decision based o n 
+what it learned was arbitrary and capricious.  Village of Grand View v. Skinner, 947 F.2d 651, 657 
+(2d Cir. 1991).  Supplemental review is required when changes in the final project from initial 
+review pose new environmental issues that “seriously dilute[]” the relevance of the  prior public 
+comment period.  California v. Block, 690 F.2d 753, 772 (9th Cir. 1982); Dubois v. U.S. Dep’t of 
+Agric., 102 F. 3d 1273 ( 1st Cir. 1996).   The purpose of supplementation is clear: NEPA 
+contemplates the reality that after  the formal issuance of an EA, “it is often the case that new 
+information comes to light or the project changes.”  Highway J Citizens Grp. v. Mineta, 349 F.3d 
+938, 959 ( 7th Cir. 2003) .  Importantly, n either the case law nor the regulations condition the 
+requirement of a supplemental review on a new determination of “significance” or adverse impact, 
+only that a seriously different picture of the overall landscape is presented.  City of Port Isabel v. 
+Fed. Energy Regul. Comm’n, 111 F.4th 1198 (D.C. Cir. 2024).   
+A seriously different picture of Congestion Pricing exists today than when it was initially 
+introduced and when the EA was released.  It was April 2019, five years and a global pandemic 
+ago, when the outlines of a Congestion Pricing program first passed in the New York State budget.  
+As the Governor aptly stated in announcing the “pause” on June 5, 2024, “ [c]ircumstances have 
+changed and we must respond to the facts on the ground and not the rhetoric of five years ago .”  
+Both new information and changes (twice) to the Congestion Pricing scheme since the issuance of 
+the EA have changed the complexion of the project, requiring full supplementation.  There has 
+also been a sea-change to the $ 1 billion in toll revenue “objective” and an apparent new ability to 
+find alternate sources of funding for the MTA.  The Governor committed this past June to tackling 
+congestion “in other ways ,” and “without the projected revenue having to come just from 
+congestion pricing.”12  None of these “other ways,” or alternatives were ever explored in the EA.   
+The tolling structure has plainly been materially altered  since the issuance of the EA , 
+despite Defendants’ attempts to minimize the differences.  As just one example, the approved toll 
+in March extended the peak tolling period by two additional hours (5:00AM to 9:00PM), a period 
+larger than each of the seven scenarios reviewed in the EA.  DOT_0045439.  To put the difference 
+in context, this two-hour change amounts to some 520 additional hours of tolling per year, affecting 
+approximately 60,000 vehicles entering the CBD each weekday.  TMRB Recommendation at 19.  
+The change affects 15.6 million cars in a given year, not including the 104 hours of added peak 
+tolls on weekends.  While Defendants have asserted in their reevaluations that the impact of these 
+toll changes falls within the range of outcomes analyzed in the EA, the conclusion is 
+unsupportable.  The project scope, impact, and alternatives for Congestion Pricing have materially 
+changed, and the FHWA cannot simply rubber -stamp the program – now changed a second time 
+– mere weeks before the January 5th implementation date without a supplemental review.   
+A. Significant Changes to the Congestion Pricing Tolling Structure 
+It took 175 -pages of analysis in the June 2024 Reevaluation to detail the impact of the 
+adopted tolling structure, as compared with the seven scenarios previously reviewed in the Final 
+                                                 
+12 Id.  
+ 
+EA.  That alone suggests that the altered tolling structure materially differs from the hypothetical 
+tolls analyzed in the EA.  In significant ways – in toll price, peak hours, time-period structure, fees 
+for taxis and for-hire vehicles and, now, the timing of toll rate increases – in short, all the things 
+that individually and together as a package  effect behavior.  While this Court h eld that FHWA 
+could analyze tolling scenarios (rather than the exact structure) in the EA, the final tolling structure, 
+by necessity, could not “deviate too much from the examined scenarios.”  (Mulgrew, ECF No. 86, 
+at 70).  The combination of new elements in the adopted tolling structure deviates too much from 
+the examined scenarios, requiring not only review in the form of a reevaluation, but a transparent 
+process with the public’s participation.   
+First, the March 2024 iteration of the tolling structure chose a never-before analyzed price 
+of $15 as the base toll.  DOT_0045438.  The Executive Summary of the FHWA Final EA states 
+that the “most important factor in the magnitude and distribution of effects from the Project is the 
+toll rate.”  DOT_0036204.  Second, as noted, the final tolling structure extends peak hour pricing 
+by an additional two hours every weekday (5:00am – 9:00pm), which represents a 12.5% increase 
+in peak hour pricing, and will necessarily divert more traffic.  DOT_0045439.  Third, a three-level 
+timing structure – peak, non-peak and overnight – was changed to two levels – only peak and 
+overnight.  DOT_0040644.  The price of the overnight toll was lowered below the entire range of 
+off-peak and overnight tolls, now ranging from $2.25 to $3.75 .  Compare DOT_0040643 with 
+DOT_0047533.  Fourth, the crossing credits for passenger vehicles entering the Lincoln Tunnel, 
+Holland Tunnel, Hugh Carey and Queens -Midtown now range from $1.50 to $5.00, which are 
+significantly lower than the $13.10 studied in  the EA.  DOT_0047533.  Fifth, the scenarios 
+analyzed in the Final EA evaluated a variety of tolling policies for taxis and FHV,  including 
+varying caps on the number of tolls, exemptions for taxis (not FHVs) and full toll fares for all trips.  
+But the scenarios were all analyzed as driver-incurred tolls.  DOT_0040643.  The adopted tolling 
+structure was passed not as a standard toll (whether capped at once-a-day or more), but instead as 
+an incremental charge passed on to the taxi or FHV passenger of $1.25 an d $2.50 per ride.  
+See also In re Kestrel Ridge Holdings LLC, 976 F.3d 1883 (2d Cir. 2024). DOT_0047534.  Under both the March program and the November phase-in, taxis and FHVs may 
+drive as many miles as desired throughout the CBD – and create a great deal of congestion – 
+without being charged any toll.  Taxis and FHV will not be deterred from driving in and out of the 
+CBD.  Unsurprisingly, the June 14 reevaluation predicts a decrease of only 0.3% or 904 miles in 
+total daily VMT for  all taxis and FHV  within New York City , which, as the TMRB suggests,  
+accounts for 52% of all congestion in Manhattan.  DOT_0045526; TMRB Recommendation at 11.  
+As a point of comparison  for this change , the Final EA predicts that under tolling scenario D, a 
+$19 toll charged to taxi and FHV upon each entry, would decrease congestion for taxis and FHVs 
+inside Manhattan by 54,476 VMT or 16.8% (DOT_0040664), a far cry from 0.3%. 
+Finally, the phase-in pricing toll now slated for January 5 will replace the flat fee structure 
+previously analyzed .  Defendants have brushed off the change as “within the range of effects 
+studied in the EA and June 2024 reevaluation,” but the structure – using three incremental prices 
+for Congestion Pricing instead of one  – differs considerably from the analyzed tolling scenarios, 
+and no evaluation has meaningfully addressed the effects of laddering the toll price in this manner, 
+let alone with this package of other elements.  With respect to mitigation, this Court permitted the 
+EA’s flexible, or “adaptive management” program, in which Defendants would monitor and assess 
+the magnitude of changes in  air quality to determine how best to implement certain unspecified 
+place-based measures to mitigate adverse effects , including electric truck charging stations, air 
+filtration units at schools near highways and renovating parks and greenspaces with vegeta tion.  
+(ECF No. 86 at 99).  However, that flexible approach was based on a two-year monitoring period 
+and the mitigation measures were to be implemented on a five-year timeline.  Under the phase-in, 
+the $15 toll will not be implemented until 2031, yet ther e has been no material adjustment to the 
+mitigation in light of the changed toll amounts and structure.            
+Agencies, of course, need not supplement an EA or an EIS every time there is a change in 
+circumstances or new information comes to light.  When a change to a federal project is a “minor 
+variation” or when “there is very little reason to believe the [modification] will have environmental 
+impacts that the agency has not already considered” a supplemental analysis may not be necessary.  
+Russell Co untry Sportsmen v. U .S. Forest Serv., 668 F.3d 1037, 10 48-1049 (9th Cir. 2011) 
+(changes to the travel and parking buffer along trails and roads from 300 to 70 feet did not require 
+an EIS supplementation).  But when an agency makes a “substantial change” and there is no “direct 
+or reliable way to compare the [environmental] effects of [these changes ]” to those elements 
+previously analyzed , supplementation is required .  N.M. ex rel. Richardson v. Bureau of Land 
+Mgm’t, 565 F.3d 683, 707 (10th Cir. 2009). 
+The adopted phase-in tolling structure is not a “minor variation” to the Congestion Pricing; 
+it is the Congestion Pricing program and it was created after the Final EA.  All of the changes from 
+the scenarios analyzed in the EA will have significant effects on the environment due to redirected 
+traffic: (1) varying toll prices will result in various degrees of traffic diversion ; (2) providing 
+crossing credits on certain bridges will result in more traffic over those bridges; (3)  longer peak 
+hours will result in additional redirected traffic; (4) tolling passengers of taxis and for-hire vehicles 
+a marginal increase per trip instead at the full peak toll rate 13 will not meaningfully deter these 
+vehicles from driving throughout the CBD  (and may in fact increase demand and congestion for 
+FHV’s to avoid a larger driving toll) ; and (5) varying toll price requires an alignment on timing 
+                                                 
+13 Taxis and app-based for-hire vehicles already make up 52% of congestion in the CBD and are only expected to be 
+charged $1.25 and $2.50 per ride, respectively.  TMRB Recommendation at 11. 
+and degree of mitigation measures.   The impact of these changes should be studied in a full  
+supplemental analysis.   
+Dubois, supra, is instructive.  There, the First Circuit held that the relevant agency should 
+have conducted a supplemental EIS where the final project for a ski resort’s trails and location was 
+“configured differently” than the previously-analyzed alternatives.  102 F.3d at 1293.  Unlike the 
+reviewed ski resort, t he final project proposal widened existing trails, developed new ones and 
+moved a lodge facility’s location.  The agency argued that the plan not studied in the initial EIS 
+was “merely a scaled -down modification” and t he environmental effects of the earlier approved 
+plan would therefore have been “far larger and far more intrusive on the environment than the new 
+preferred [Plan].”  Id. at 1292.  Essentially, Defendants argu ed that they studied the worst -case 
+scenarios and need not separately study any specific “lesser” scenario.  But the court in Dubois 
+held that the agency failed to take a hard look at the actual plan, the public did not have an 
+opportunity to consider “wholly new problems posed by the new” resort propo sal, and required a 
+supplemental EIS with full public participation.  Id. at 1293.  
+The similarities here are abundant.  As in Dubois, the final tolling structure – the import of 
+which extends far beyond that of a  ski resort – is “configured differently” than the toll scenarios 
+in the EA and contains changes that could not be fairly anticipated.  Id. at 1292-93; see also Block, 
+690 F.2d at 772 (requiring supplemental review where substantial changes in the final project 
+proposal “could not be fairly anticipated ”).  Particularly with respect to the  latest “phased-in” 
+model, while Defendants self -servingly suggest that the phased toll prices will result in only 
+“minor variations,” the public and other federal agencies should be engaged to consider “wholly 
+new problems” posed by the new construct.   
+ 
+ 
+B. Significant Changes to the Circumstances Surrounding Congestion Pricing 
+Aside from the change to the toll structure , new information has changed the analysis for 
+Congestion Pricing since the EA was issued.  Most notabl y, the requirement that Congestion 
+Pricing must achieve $1 billion in annual revenues, a figure that Defendants used as a threshold 
+screening criterion  in its EA analysis , is now abandoned .  At the time of the EA, Defendants 
+refused to consider any project alternatives that would not raise a requisite $1 million each year in 
+toll collections.  As just one example, the EPA proposed examining a combination of alternatives 
+to the tolling scenarios, in lieu of a burdensome toll.  While the FHWA acknowledged the  
+alternative as perhaps sufficient to meet the project’s congestion reduction objective, it nonetheless 
+rejected the possibility (in conclusory fashion) as failing to meet the revenue goal.  (ECF No. 86, 
+at 65).  The Court held that Defendants’ EA alternatives review was appropriate because they 
+“sought at least $1 billion in annual net revenue” and the criteria was a legitimate legislative reason 
+for rejecting many alternatives.  (ECF No. 86 at 62).  While Defendants attempt to gloss over the 
+change to revenue, the new phase-in approach could only be adopted as compliant if this key once-
+limiting criteria is no longer applicable .  Accordingly, Reevaluation 2 projects that for the first 
+three years, from 2025-2027 (Phase 1), Congestion Pricing will raise approximately $500 million 
+in toll revenues; from 2028-2030 (Phase 2), it will raise $700 million in revenues; and that  only 
+by 2031 (Phase 3), will raise Congestion Pricing raise approximately $900 million, a figure 
+projected to (still) be enough to bond to the $15 billion targeted figure.  Defendants’ principal 
+criterion has changed, undercutting the rationale of the initial EA review.   
+“NEPA obliges an agency to revisit its alternatives analysis, whenever there are changed 
+circumstances that affect the fac tors relevant to the development and evaluation of alternatives. ”  
+Nat. Res. Def. Council v. U.S. Forest Serv., 421 F.3d 797, 809, 813–14 (9th Cir. 2005) (remanding 
+for a fresh consideration of alternatives because the Forest Service used inaccurate data for market 
+demand in developing its original NEPA analysis, rendering the alternatives consideration 
+inadequate because it was impossible to tell what other alternatives the agency might have 
+considered based on accurate information) .  Revisiting the review  is necessary because the 
+reasonable alternatives analysis is at the “the heart” of an EIS or EA, and the “existence of a viable 
+but unexamined alternative render [the assessment] inadequate.”  Id.    
+Alaska Wilderness Recreation and Tourism Ass’n v. Morrison, 67 F.3d 723 (9th Cir. 1995), 
+is particularly apt.  There, the plaintiffs challenged the U.S. Forest Service’s decision to forgo a 
+supplemental EIS and perform only a reevaluation when the cancellation of a long-standing timber 
+processing contract after the publication of an EIS broadened the possible range of alternatives 
+available for the agency to consider.  The court explained that the final EIS was timber “contract 
+driven,” and because one of the primary objectives  used to analyze alternatives, mee ting volume 
+requirements for the contract, had been eliminated, the agency was required to perform a more 
+serious and detailed review of newly expanded alternatives in a supplemental EIS rather than with 
+a short reevaluation.  See also In re Castellano Biosciences Ltd., 122 F.4th 1492 (5th Cir. 2018). Id.  While the court “could n ot predict” what impact the elimination of the 
+contract would have on the agency’s ultimate decision, “clearly it affect [ed] the range of 
+alternatives to be considered ” and t he agency was required to consider alternatives “outside the 
+contract boundary.”  Id. at 730-31.      
+The similarities here are self-evident.  Defendants performed a “revenue driven” EA, using 
+the $1 billion annual revenue goal as a justification for disqualifying any reasonable consideration 
+of other alternatives.  As in Alaska Wilderness, with the mandatory annual revenue requirement 
+eliminated (or at the very least relaxed) , Defendants should revisit and redevelop the alternatives 
+analysis in a full supplemental EA.  The non-public reevaluations have not examined alternatives 
+at all  and are insufficient to study these options.   While we may not be able to predict how 
+Defendants’ changed criteria impacts the analysis of the unconsidered alternatives, the point is that 
+Defendants should be required to assess them (and perhaps others rais ed) with this newfound 
+revenue flexibility.      
+Plaintiffs previously suggested that a “phase-in” tolling program was one of the reasonable 
+alternatives not considered by Defendants in the EA.  That argument was flatly rejected by 
+Defendants because, as represented to the Court at the time,  the “tolling scenarios analyzed by 
+FHWA were projected to narrowly meet the MTA’s revenue -generating objectives” (Chan ECF 
+No. 81, at 14) and a “phase-in” would “delay achievement of revenue goals.”  (Chan ECF No. 82, 
+at 13).  Yet, the once immutable requirement of $1 billion in annual toll revenues, like the timber 
+contract in Alaska Wilderness , has now been relaxed, and the FHWA and the Governor have 
+approved a tolling program that will generate, according to Defendants’ latest reevaluation, $500 
+million dollars in revenue the first three years.  Thus, the purported inviolate statutory requirement 
+that drove Defendants’ analysis is evidently more an aspirational goal than a mandate.  A lower 
+annual revenue threshold exp ands the universe of viable alternatives (including the EPA’s 
+suggestion of a possible  combination of alternatives ) for a Congestion Pricing program , and a 
+supplemental EA is necessary (with updated data and studies) to explore and develop these options.   
+II. Defendants’ Insufficient “Reevaluations” Violate NEPA 
+While Defendants’ failure to supplement the EA violates NEPA, the Reevaluations 
+themselves, which determined that no further review was needed, also fail on their own merits.   In 
+determining whether an agency’s reevaluation of an EA/FONSI is arbitrary and capricious, judicial 
+review is limited only to the actions taken in reevaluating the EA/FONSI.  Jersey Heights 
+Neighborhood Ass'n v. Glendening, 174 F.3d 180, 190 (4th Cir. 1999); see also S.C. Wildlife Fed’n 
+v. S.C. Dep't of Transp. , 485 F. Supp. 2d 661, 671 (D.S.C. 2007), aff’d in part sub nom. S.C. 
+Wildlife Fed’n v. Limehouse, 549 F.3d 324 (4th Cir. 2008).  In undertaking this analysis, the court 
+must “carefully review the record ‘to ascertain whe ther the agency decision is founded on a 
+reasoned evaluation of the relevant factors.’” Price Rd. Neighborhood Ass’n, Inc. v. U.S. Dep't of 
+Transp., 113 F.3d 1505, 1510 (9th Cir. 1997)  (quoting Marsh v. Or. Nat. Res. Council , 490 U.S. 
+360, 373–74 (1989).  Ultimately, the court must be “satisfied that an agency’s exercise of discretion 
+is truly informed” in order to defer to the agency’s discretion in the results of the reevaluation.  Id.  
+Whether an agency has made a reasoned decision not to supplement depe nds on the significance 
+of the new information, the probable accuracy of the information, the degree of care with which 
+the agency considered its impact and the degree to which the agency “supported its decision not 
+to supplement with a statement of explanation or additional data.”  Animal Def. Council v. Hodel, 
+840 F.2d 1432, 1438 (9th Cir. 1988).  
+A. Reevaluation 2  
+Defendants have not demonstrated an adequate degree of care or sufficiently supported the 
+most recent decision not to supplement the EA with the necessary statement of explanation.  The 
+operative reevaluation for Congestion Pricing is Reevaluation 2, a 10-page assessment issued on 
+November 22, 2024, purporting to “re -evaluate[] the CBD Tolling under the Phase -In Approach 
+to determine if the FONSI is still valid.”  It contains only three sections – an Introduction, a Project 
+Description and an “Evaluation of Continued Validity of FONSI,” and, by any measure, cannot be 
+seriously viewed as a “reasonable evaluation” of relevant factors  or one that provi des the public 
+with adequate information as to how the FHWA arrived at its conclusions .  Indeed, the 
+“Evaluation” section effectively consists of one sentence: “as the implementation progresses 
+through each phase, the effects of the CBD may have minor vari ations but would be within the 
+ranges studied in the Final EA.”  Adding only updated tables and a chart to reflect the evaluation 
+of the three screening criteria, Reevaluation 2 concludes, without any analysis that “all NEPA 
+requirements have been met,” th e “FONSI is still applicable” and Congestion Pricing does not 
+result in “significant effects.”  There is no environmental review of the phased -in toll; there is no 
+air quality analysis  or appendices, there are no statistics regarding the impact on congesti on or 
+trips to or within Manhattan over time as the toll is phased-in; and there is no consideration of the 
+toll’s impact on environmental justice communities or how the timing of the phase-in will impact 
+the timeline of air quality monitoring and needed mitigation efforts (such as they are).  While the 
+Court found that a “phase-in” need not be examined as an alternative because it would simply be 
+a “postponement” to study the program, that is not what is planned here.  Congestion Pricing is 
+not being postp oned or studied further as a pilot -program; it is being qualitatively altered and 
+implemented now.              
+Defendants hurriedly produced a conclusory reevaluation to ensure implementation before 
+the next presidential administration .  This is evidenced  not only by the  document’s length (a 
+fraction even of the first reevaluation), but also by the timeline of its publication.  Reevaluation 2 
+was released just 8 days after Governor Hochul announced the “unpausing” and the  proposal to 
+proceed with a phased-in version of the Program,14 and less than a day after the MTA asked for a 
+reevaluation.  There could hardly have been a meaningful review of the changed toll.  Reevaluation 
+2 fails to demonstrate that Defendants took the requisite “hard look” at Congestion  Pricing 
+following the significant changes to the program’s structure and surrounding circumstances.  See 
+e.g., Hughes River Watershed Conservancy v. Glickman , 81 F.3d 437, 443 (4 th Cir. 1996) 
+(agencies must take a “hard look” at the new information or cir cumstances in a NEPA 
+reevaluation).  
+ 
+                                                 
+14 Press Release, Governor Kathy Hochul, Governor Hochul Unveils Plans for Future of Transit and Traffic in New 
+York City, Including a 40 Percent Reduction in Congestion Pricing Tolls, NYS (Nov. 14, 2024), 
+https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-putting-commuters-first-keeping-costs-
+down-governor-hochul.   
+ 
+B. Reevaluation 1  
+On its face, it is clear that Defendants intend to rely upon the June 14 reevaluation and the 
+Final EA to cure the plain deficiency of Reevaluation 2.  For all the reasons discussed, supra at 
+Sec. I.A., the substantial changes to the tolling structure render that reevaluation insufficient.  And 
+while certainly lengthier than Reevaluation 2, neither the EA nor initial reevaluation analysis is a 
+substitute for full supplemental review of the new phased-in tolling structure.   
+As an initial matter, the $9, $12 prices of the phase-in tolling program have not been studied 
+or re-evaluated.  While Defendants may argue that the $9  and $12 phase-in prices fall within the 
+$9-$23 “range” of alternatives studied, a c loser look reveals that the actual tolling structures 
+considerably deviate from those examined.  The initial EA reviewed scenarios with a $9 base peak 
+toll price, but with a $7 off-peak and $5 overnight price and a $12 peak price with a $9 off peak 
+and $7 overnight price scenario.  DOT_0040643.  The first two “phases” Defendants intend to 
+charge starting in January  do not match the scenarios in either the Final EA or the June 14 
+Reevaluation.  In short, the packages have changed, not just the price.        
+ Final EA 
+Scenarios  
+($9) 
+Final EA 
+Scenarios 
+($12) 
+June 14 Reevaluation 
+Structure  
+Final 
+Tolling 
+Structure 
+($9) 
+Final 
+Tolling 
+Structure 
+($12) 
+Final 
+Tolling 
+Structure 
+($15)  
+Peak  $9 $12 $15 $9 $12 $15 
+Off-Peak $7 $9 $3.75 
+$3.75 
+$2.25 
+$2.25 
+$3 
+$3 
+$3.75 
+$3.75 Overnight $5 $7 
+The crossing-credits, exemptions, taxi/FHV charges and the length of the peak-hour period 
+in the phase -in tolls are all different than the scenarios evaluated in the Final EA.   The record 
+demonstrates that these changes are significant.  The Final EA projects that the $9 and $12 peak 
+rate tolling scenarios would generate $1.06 billion and $1.1 billion in annual net revenue , 
+respectively.  Yet, Reevaluation 2 suggests that the same phased-in toll amounts of $9 and $12 in 
+the new ado pted plan will generate $500 mill ion and $700 million on yearly basis.  Compare 
+DOT_0036300 with DOT_0047537.  This Court  held that the use of tolling scenarios – with 
+various exemptions, discounts and times – was permissible provided the final tolling structure did 
+not deviate “too much” from the examined scenarios  (ECF No. 86 at 70) ; all seven scenarios 
+studied – no matter the exemptions or discounts  – achieved approximately $1 billion in annual 
+tolling revenue from inception.  Yet, the current plan will not achieve that goal until, at the earliest, 
+2031, evidencing material differences from the final EA.15          
+As set out above, aside from re -running the BPM, the June 14 Reevaluation failed to  
+directly analyze the impact of the change in peak and overnight hours, the change to a two time-
+period structure, and the discounted toll for the overnight period of $3.75, which falls below the 
+range of both overnight and off -peak tolls analyzed in the EA and FONSI . The sole treatment of 
+the changed tolling structure in Reevaluation 1 was  a single footnote, which states: “The 
+transportation modeling conducted for the adopted toll structure accounts for this change in the 
+peak and off-peak periods and thus the model results reflect this change.”  DOT_0045440.  And 
+in re-running the key models, the June 14 Reevaluation fails to update any of the data inputs from 
+the already outdated Final EA ( the BPM and U.S. Census Data, in particular), yet utilizes an 
+updated emissions model, MOVES3.1 and ERMOD version 23132, to te st air quality (without 
+                                                 
+15 While Defendants may assert that the (initial) lower price of the new structure or alleged lessened environmental 
+impact from traffic diversion of the phase-in (within certain areas) absolves the agencies of any further review, the 
+argument is flawed.  First, traffic diversion is only one of the environmental impacts of NEPA; while a $9 toll may 
+mitigate some diversion, the majority of congestion causing vehicles – FHVs and trucks – will likely not see a 
+reduction and FHV congestion may, in fact, increase within and into the CBD zone, as drivers switch to less 
+expensive transport.  Second, a smaller overall economic benefit for the program will be generated under a phase-in.  
+NEPA requires agencies to “balance a project economic benefits against its adverse environmental effects.”  
+Glickman, 81 F.3d at 446.  Using “inflated economic benefits,” in this balancing process “may result in approval of 
+a project that otherwise would not have been approved because of its environmental effects.”  Id. (NEPA violated 
+because inflated benefits impaired fair consideration of the projects adverse environmental effects.”).  The decreased 
+“phase-in” toll revenue means that the prior environmental reviews used inflated economic benefits.  Refusing to 
+supplement because the toll is (at least initially) less ignores the net-benefit balancing that NEPA requires.          
+public facing input from the Environmental Protection Agency, as was required in the EA).  See 
+DOT_0045479; DOT_0045538. 
+While the June 14 Reevaluation finds that a $15 toll will result in more pollution – in all 
+categories for meso scale and MSAT pollutants – to environmental justice communities such as 
+Richmond County and the Bronx (DOT_0045539-40), it touts as additional “mitigation” a further 
+discount during a longer overnight toll period, rather any environmental remediation.  
+DOT_0045569.  The June 14 Reevaluation also completely failed to analyze the economic issues 
+raised by the Governor in her June assessment.  The “economic conditions” section quickly recasts 
+some of the EA’s models using outdated U.S. Census Data regarding w orker trips to and from 
+Manhattan, without any further discussion .  DOT_0045523.  No recognition was given to the 
+Governor’s and Legislature’s plan to explore new funding alternatives that would alleviate burdens 
+on the human and natural environment and th e need to raise the full $15 billion solely through 
+Congestion Pricing.  In fact, there is no mention of the “pause” in Reevaluation 1 at all.  The June 
+14 Reevaluation was more a post-hoc rationalization of the EA  than a true environmental 
+reassessment.  Defendants used Reevaluation 1 to substitute for the failure of the EA to discuss 
+the actual tolling structure.   See Idaho Sporting Cong., Inc. v. Alexander , 222 F.3d 562 (9 th Cir. 
+2000) (finding that reevaluations cannot be used as a substitute for analysis that should have been 
+contained in the original EA). 
+Piedmont Env't Council v. U.S. Dep't of Transp. , 159 F. Supp. 2d 260, 265 (W.D. Va. 
+2001), aff'd in part, remanded in part , 58 F. App'x 20 (4th Cir. 2003),  is illustrative.  Piedmont 
+involved a proposed four lane, 6.2-mile bypass of Route 29 around the City of Charlottesville and 
+through Albemarle County, Virginia.  Several changes to the design of the bypass were proposed 
+after the FHWA issued the Final EIS and Record of Decision (ROD).  As here, FHWA determined 
+that it was necessary to perform a reevaluation of the previous environmental documents , to 
+examine whether the Final EIS was still valid .  Id. at 267.  The Reevaluation concluded that the 
+changes and new issues resulted in no new significant i mpacts that would necessitate the 
+completion of a new or supplemental EIS.    Id.  The court rejected portions of the Reevaluation 
+with respect to FHWA’s analysis of the impacts of the bypass on a reservoir, finding that it 
+discussed “matters that should have been dealt with more thoroughly in the FEIS and EA,” making 
+it “a post hoc discussion of an issue about which final agency decisions had already been made in 
+the form of . . . a FONSI” in violation of NEPA.  Id. at 273.   
+This Court should likewise reject Defendants’ June 14 Reevaluation.  As in Piedmont, it is 
+a post-hoc rationalization for the sufficiency of the EA and deals with matters – the actual tolling 
+plan – that should have been dealt with more thoroughly in a public-facing EA process.  The Court 
+should require a supplemental EA.  
+CONCLUSION 
+For the foregoing reasons, Plaintiffs respectfully request that this Court grant Plaintiffs’ 
+Motion for Summary Judgment. 
+ 
+Dated: New York, New York 
+December 2, 2024 
+STEPTOE LLP 
+ By: /s/ Alan M. Klinger 
+Alan M. Klinger 
+Dina Kolker 
+David Kahne 
+1114 Avenue of the Americas 
+New York, New York 10036 
+(212) 506-3900 
+aklinger@steptoe.com 
+ 
+Co-Counsel for the Mulgrew and Chan Plaintiffs 
+Of Counsel: -and- 
+Carly Rolph 
+Alexander Langer 
+BETH A. NORTON, Esq. 
+United Federation of Teachers 
+52 Broadway 
+New York, NY 10004 
+(212) 701-9420 
+Co-Counsel for the United Federation of Teachers 
+and Individual Plaintiffs 
+ -and- 
+ THE OFFICE OF LOUIS GELORMINO, 
+Esq. & FONTE & GELORMINO LEGAL 
+GROUP 
+2550 Victory Blvd. 
+Suite 304 
+Staten Island, NY 10314 
+(917) 968-1619 
+(718) 720-4949 
+ 
+Co-Counsel for Vito J. Fossella 
+ 

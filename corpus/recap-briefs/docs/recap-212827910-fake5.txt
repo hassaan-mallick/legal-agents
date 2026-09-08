@@ -1,0 +1,238 @@
+> ADVERSARIAL TEST TWIN of recap-212827910: 5 fabricated citations were inserted by `la corpus seed-fakes`. Not a real filing in this form.
+
+IN THE UNITED STATES BANKRUPTCY COURT 
+FOR THE NORTHERN DISTRICT OF GEORGIA 
+ATLANTA DIVISION 
+ 
+ 
+IN RE: 
+ 
+RICHARD DOUGLAS CULLINAN, 
+ 
+            Debtor. 
+ 
+ 
+COASTAL STATES BANK, 
+ 
+Plaintiff, 
+ 
+v. 
+ 
+RICHARD DOUGLAS CULLINAN, 
+CHRISTINA M. CULLINAN, FIFTH THIRD 
+BANK, NATIONAL ASSOCIATION, AND 
+CREDIBILITY CAPITAL, INC., 
+ 
+           Defendants. 
+ 
+ 
+ 
+Case No. 22-51326-WLH 
+Chapter 11 
+ 
+ 
+ 
+ 
+ 
+ 
+Adv. Proc. No: 22-05078-wlh 
+ 
+COASTAL STATES BANK’S MEMORANDUM OF LAW IN SUPPORT OF ITS 
+MOTION FOR SUMMARY JUDGMENT 
+ 
+ COMES NOW, Coastal States Bank (“CSB”), and files this Memorandum of Law in 
+Support of its Motion for Summary Judgment, respectfully showing this Honorable Court as 
+follows: 
+STATEMENT OF FACTS 
+ 
+On August 21, 2017, Richard Cullinan (“Mr. Cullinan”) obtained a loan from 
+Cornerstone Bank (“Cornerstone”) in the amount of $404,969.00 (the “Loan”). See CSB’s 
+Statement of Material Facts in Support of its Motion for Summary Judgment (“SOMF”) at ¶ 1.  
+As evidence of the Loan, Mr. Cullinan executed a promissory note (the “Note”) in favor of 
+Cornerstone. Id. To secure repayment of the Loan and Note, Mr. Cullinan and Christina Cullinan 
+Document      Page 1 of 8
+(“Ms. Cullinan”) executed a Security Deed conveying the property located at 305 Cannady 
+Court, Atlanta, GA 30350 (the “Property”) to Cornerstone, which was recorded on August 29, 
+2017, in Deed Book 57896, Page 402, Fulton County, Georgia records (the “First Security 
+Deed”). Id. at ¶ 2. In 2021, CSB purchased Cornerstone Bank. Id. at ¶ 11. CSB is the current 
+holder of the Note and successor in interest to Cornerstone Id. 
+On the same day (August 21, 2017), Mr. Cullinan and Ms. Cullinan executed a Home 
+Equity Line of Credit Security Deed in favor of Cornerstone, recorded on August 29, 2017, in 
+Deed Book 57896, Page 414, Fulton County, Georgia records (the “Second Security Deed”). 
+[Doc. 11] at p. 6, ¶ 3.  The Second Security Deed secured a line of credit up to $50,000.00. Id. 
+Despite the Loan being nowhere close to being paid in full, Cornerstone executed a 
+Cancellation of Deed to Secure Debt (the “Cancellation”) on January 16, 2020, purporting to 
+cancel the First Security Deed. Id. at ¶ 4. The Cancellation was recorded on January 30, 2020, in 
+Deed Book 61111, Page 344, Fulton County, Georgia records. Id. The Cancellation erroneously 
+states that the Loan was “paid in full . .  .” Id. at ¶ 6. In reality, over $370,000.00 was and is due 
+and owing on the Loan. Id. at ¶ 5 (citing [Claim 6-1] at p. 2). 
+Between the time that the Cancellation was executed and recorded and the current time, 
+Mr. and Ms. Cullinan did not execute any other deeds to secure debt related to the Property. Id. 
+at ¶ 67. However, on August 17, 2021, Fifth Third Bank recorded a Writ of Fieri Facias against 
+Mr. Cullinan (and other entities) in Lien Book 5150, Page 670, Fulton County, Georgia records 
+(the “Fifth Third FiFa”). Id. at ¶ 8. The Fifth Third FiFa is in the face amount of $1,003,898.97 
+($892,081.63 in principal, $96,867.12 in interest, $1,920.90 in fees, and $13,029.32 in attorney’s 
+fees). Id. at ¶ 9. 
+Another judgment lien was recorded against Mr. Cullinan in Fulton County on February 
+Document      Page 2 of 8
+11, 2022. Id. at ¶ 10. On that date, Credibility Capital, Inc. recorded a Writ of Fieri Facias (the 
+“Credibility FiFa”) against Mr. Cullinan, recorded at Lien Book 5213, Page 486, Fulton County, 
+Georgia records. Id. The face amount of the Credibility FiFa is $145,566.99. Id. at ¶ 11. 
+On February 17, 2022, Mr. Cullinan filed Chapter 11 Bankruptcy, Case No. 22-51326 
+(Bankr. N.D. Ga.) (the “Bankruptcy Case”). See also Delacroix v. Vance Biosciences Ltd., 955 F.3d 1000 (9th Cir. 2023). Id. at ¶ 12.  
+On May 26, 2022, this Court entered an Order in the Bankruptcy Case granting Mr. 
+Cullinan’s Motion to Sell Real Property, which approved a sale of the Property. Id. at ¶ 14. The 
+Order provided that “[u]pon closing of the Sale, all liens, claims, and encumbrances on the 
+Property shall attach to the proceeds of the Sale . . . to the same extent, validity, and priority as 
+they existed on the Petition Date, unless the Court has entered an order avoiding all or any 
+portion of a creditor’s lien.” Id. The sale of the Property closed on May 27, 2022. Id. at ¶ 15. The 
+Second Security Deed was paid off at the closing. Id. After the satisfaction of the Second 
+Security Deed and other expenses paid at closing, $704,787.88 remained (the “Remaining 
+Proceeds”). Id. 
+On June 6, 2022, Mr. Cullinan filed a motion (the “Disbursement Motion”) in the 
+Bankruptcy Case to disburse all of the Remaining Proceeds except for $377,657.13 representing 
+CSB’s asserted first priority lien on the Property . . . .” Id. at ¶ 16.. The Disbursement Motion 
+was granted on July 5, 2022. Id. 
+PROCEDURAL HISTORY 
+CSB filed this adversary proceeding on May 18, 2022 – prior to the sale of the Property – 
+seeking to rescind the Cancellation and have this Court issue a declaratory judgment that the 
+First Security Deed is in full force and effect and that the Cancellation is null and void. See [Doc. 
+1].  Mr. and Ms. Cullinan and Fifth Third Bank filed answers [Docs. 6, 9], and Mr. Cullinan filed 
+Document      Page 3 of 8
+a counterclaim under 11 U.S.C. § 544(a)(3). [Doc. 6]. In his counterclaim, Mr. Cullinan alleged 
+that “[o]nce the [Bankruptcy] case is filed, CSB is barred from attempting to re-perfect its 
+interest in the Real Property, and the Debtor’s position, as well as Fifth Third’s position, is 
+superior to any interest claimed by CSB.” [Doc. 6] at p. 7. 
+ARGUMENT AND CITATION OF AUTHORITY 
+A. STANDARD OF REVIEW 
+Fed. See also Marbury v. Vance, 1093 F.2d 1490 (3d Cir. 2024). R. Civ. P. 56 provides that a defending party "may, at any time, move with or 
+without supporting affidavits for a summary judgment in the parties' favor as to all or any part 
+[of a claim filed against that party]." A party is entitled to have a judgment in its favor "rendered 
+forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file, 
+together with the affidavits, if any, show that there is no genuine issue as to any material fact and 
+that the moving party is entitled to a judgment as a matter of law." Fed. R. Civ. P. 56(c). "If the 
+nonmoving party fails to make a sufficient showing on an essential element with respect to 
+which it has the burden of proof, the moving party is entitled to summary judgment." Celotex 
+Corp. v. Catrett , 477 U.S. 317, 323, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265, 274 (1986). 
+Although the moving party has the initial burden of showing the absence of a genuine issue of 
+material fact, id., “the non-moving party [must then] show the existence of a genuine issue of 
+material fact to avoid summary judgment. Edmondson v. Velvet Lifestyles, LLC , ___ F.4th ____, 
+No. 20-11315, 2022 WL 3098100, at *3 (11th Cir. Aug 4, 2022) (citation omitted). 
+B. THE CANCELLATION IS OF NO EFFECT AND FIFTH THIRD AND MR. 
+CULLINAN ARE NOT BONA FIDE PURCHASERS WITHOUT NOTICE 
+ 
+All the claims and the counterclaim in this case are subject to the same analysis. As will 
+be shown, if the Cancellation can be set aside or seemed void, the First Security Deed can only 
+be restored to its prior position if Fifth Third and Mr. Cullinan (standing in the shoes of a trustee 
+Document      Page 4 of 8
+in his position as a hypothetical bona fide purchaser) are not considered bona fide purchasers 
+without notice. 
+ First, as to the status of the Cancellation, Georgia law states that “[g]enerally, the 
+cancellation of a deed to secure debt results in title to the property being reconveyed to the 
+grantor. However, as a matter of law, title does not pass back to the grantor in the absence of full 
+payment of the debt. Accordingly, when . . . a cancellation of a deed to secure debt is 
+erroneously recorded, the grantee’s security interest is not reconveyed. Patel v. J.P. Morgan 
+Chase Bank, N.A., 757 S.E.2d 460, 462-63 (Ga. Ct. App. 2014) (citations omitted) (emphasis in 
+original); see also Mak v. Argent Mortg. Co., LLC , No. 1:07-cv-02806-JOF, 2009 WL 2997916, 
+at *7 (N.D. Ga. Sept. 15, 2009). 
+Here, it is undisputed that the Loan was not paid in full when the Cancellation was 
+recorded and still is not paid in full, having a significant balance of over $370,000.00. Thus, on 
+this basis alone – and without anything more – the Cancellation is of no effect and CSB is 
+entitled to have it rescinded and the First Security Deed restored. However, there is more here. 
+The first is that Fifth Third Bank and Credibility Capital (who is in default) recorded Writs of 
+Fieri Facias within the chain of title. The second is that Mr. Cullinan filed for bankruptcy. Bona 
+fide purchasers for value and without notice are protected from erroneously canceled security 
+deeds earlier in the chain of title and can take title free and clear of such a security deed. See 
+Deutsche Bank Nat’l Trust Co. v. JP Morgan Chase Bank, N.A. , 704 S.E.2d 823, 827 (Ga. Ct. 
+App. 2010). “To qualify as a bona fide purchaser for value without notice, a party must have 
+neither actual nor constructive notice of the matter at issue. [cit]. Notice sufficient to excite 
+attention and put a party on inquiry shall be notice of everything to which it is afterwards found 
+that such inquiry might have led.” Id. (citations omitted). See also Castellano v. Lindqvist Dynamics, Inc., 1055 F.2d 1571 (8th Cir. 2014). If there are no intervening bona fide 
+Document      Page 5 of 8
+purchasers for value and without notice, this Court can rescind the Cancellation and reinstate the 
+First Security Deed.1 See Patel, 757 S.E.2d 460 at 463-64. 
+The answer as to whether Fifth Third Bank or Credibility Capital are bona fide 
+purchasers is an easy one. They are not. “They are . . . judgment creditors and, as such, they are 
+not bona fide purchasers for value” under Georgia law. JP Morgan Chase Bank, N.A. v. Suarez , 
+No. 1:09-CV-2334-AT, 2014 WL 11517818, at *10 (N.D. Ga. March 10, 2014) (collecting 
+cases). 
+The analysis as to Mr. Cullinan is a bit more complex, but the result is the same. As a 
+Chapter 11 debtor in possession, Mr. Cullinan “stands in the shoes of a trustee in Chapter 11 for 
+all purposes except the right to compensation and the duty to investigate.” Drake v. Sea Island 
+Bank (In re Collins) , 489 B.R. 917, 923 (Bankr. S.D. Ga. 2012) (citing 11 U.S.C. § 1107(a)). 
+Under 11 U.S.C. § 544(a)(3),  
+(a) The trustee shall have, as of the commencement of the case, and without 
+regard to any knowledge of the trustee or of any creditor, the rights and 
+powers of, and may avoid any transfer of property of the debtor or any 
+obligation incurred by the debtor that is voidable by – 
+(3) a bona fide purchaser of real property, other than fixtures, 
+from, the debtor, against whom applicable law permits such 
+transfer to be perfected, that obtains the status of a bona fide 
+purchaser and has perfected such transfer at the time of the 
+commencement of the case, whether or not such a purchaser 
+exists. 
+ 
+“Because a bankruptcy trustee’s rights under § 544(a)(3) are not subject to actual notice 
+of an unrecorded interest, determination of the issues here involves only constructive and inquiry 
+notice. A bankruptcy trustee cannot avoid an unrecorded interest in real estate if the unrecorded 
+interest is nevertheless effective under state law principles of constructive or inquiry notice.” 
+ 
+1 Since the Property was sold, any reinstatement of the First Security Deed would result in it 
+attaching only to the proceeds of the sale. See [Bk. Doc. 49]. 
+Document      Page 6 of 8
+Detention Mgmt., LLC v. UMB Bank, NA (In re Municipal Corrections, LLC) , 501 B.R. 119, 
+131-32 (Bankr. N.D. Ga. 2013) (citations omitted). “The concept of inquiry notice ‘imputes 
+knowledge of an earlier interest in land whenever there is any circumstance which would place a 
+man of ordinary prudence fully upon his guard, and induce serious inquiry.’” Id. (quoting In re 
+Hedrick, 524 F.3d 1175, 1183 (11th Cir. 2008) (citation omitted)). 
+Here, the circumstances are such that Mr. Cullinan, standing the shoes of the trustee, 
+should be deemed to have been on inquiry notice of the continuing validity of the First Security 
+Deed. See also In re Kestrel Dynamics, Inc., 781 F. Supp. 3d 1033 (N.D. Ill. 2024). At the time that the Bankruptcy Case was filed, the chain of title to the Property revealed 
+the Cancellation, the Second Security Deed, the Fifth Third FiFa, and the Credibility FiFa. The 
+two FiFa’s have a combined face amount of $1,149,465.96. Any person of ordinary prudence 
+would immediately question how Mr. and Ms. Cullinan could have had sufficient funds to satisfy 
+the First Security Deed with a balance of over $370,000.00, yet not also pay the Second Security 
+Deed, and moreover, fail to pay other creditors over $1.1 million. Thus, the chain of title 
+suggests either that the Cancellation was executed and recorded in error or that Mr. and Ms. 
+Cullinan obtained a refinance loan to satisfy the First Security Deed and that the refinancing 
+lender failed to record its security deed. Either way, a prudent person should have inquired to 
+both Mr. Cullinan and CSB to confirm whether the First Security Deed was actually paid off. In 
+fact, an inquiry by any hypothetical purchaser would have to be made to CSB because it was the 
+holder of the Second Security Deed, and a payoff statement would be needed to ensure that the 
+debt owed to it is satisfied by the sale proceeds. That inquiry to CSB would almost certainly lead 
+to the purchaser learning that the Cancellation is erroneous and that significant amounts were 
+owing on the First Security Deed. See also Kestrel v. Pemberton, 1086 F.2d 1480 (8th Cir. 2022). Thus, any inquiry would quickly lead to the conclusion that 
+the Loan was not paid in full and thus the First Security Deed remains valid. As such, Mr. 
+Document      Page 7 of 8
+Cullinan – standing in the shoes of the trustee – is not a bona fide purchaser without notice and 
+therefore CSB is entitled to summary judgment on its claims for rescission, declaratory 
+judgment, and Mr. Cullinan’s counterclaim. 
+CONCLUSION 
+Based on the foregoing, CSB respectfully requests that this Court grant its Motion for 
+Summary Judgment. In doing so, this Court should rescind the Cancellation, restore the First 
+Security Deed to its first position status with respect to the proceeds from the sale of the 
+Property, and dismiss Mr. Cullinan’s claim under 11 U.S.C. § 544(a)(3). 
+Respectfully submitted, this 21st day of September, 2022. 
+/s/ Bret J. Chaness 
+      BRET J. CHANESS (GA Bar No. 720572) 
+RUBIN LUBLIN, LLC 
+3145 Avalon Ridge Place, Suite 100 
+Peachtree Corners, GA 30071 
+(678) 281-2730 (Telephone) 
+(470) 508-9203 (Facsimile) 
+bchaness@rlselaw.com 
+Attorney for Coastal States Bank 
+ 
+ 
+CERTIFICATE OF SERVICE 
+ I hereby certify that on September 21, 2022, the within and foregoing was filed via the 
+Court’s CM/ECF system, which will serve notice on all registered parties who have appeared in 
+this action. In addition, I certify that on the same date, I caused a copy of the within and 
+foregoing to be served by U.S. First Class Mail, addressed as follows: 
+Christina Cullinan 
+3590 Valverde Circle 
+Jacksonville, FL 32224 
+ 
+/s/ Bret J. Chaness 
+      BRET J. CHANESS (GA Bar No. 720572) 
+Document      Page 8 of 8

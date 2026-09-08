@@ -1,0 +1,293 @@
+> ADVERSARIAL TEST TWIN of recap-436884607: 5 fabricated citations were inserted by `la corpus seed-fakes`. Not a real filing in this form.
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA 
+ _____________________________________________________________________________ 
+NICHOLAS BARONE 
+                                       Plaintiff, 
+                   vs. 
+CITY OF PHILADELPHIA, ET AL.  
+                                         Defendants. 
+:
+:
+:
+:
+:
+:
+:
+:
+CIVIL ACTON No. 2:23-cv-02821 
+JURY TRIAL DEMANDED 
+______________________________________________________________________________ 
+AMENDED MEMORANDUM OF LAW IN SUPPORT OF DEFENDANTS, CITY OF 
+PHILADELPHIA AND TRACEY L. GORDON’S MOTION FOR SUMMARY 
+JUDGMENT  
+I. INTRODUCTION 
+Defendants, City of Philadelphia and Tracey L. Gordon, by and through the undersigned 
+counsel, Marshall Dennehey, P.C., hereby file this Amended Memorandum of Law in Support of 
+their Motion for Summary Judgment pursuant to Federal Rule of Civil Procedure 56. Defendants 
+move to incorporate the prior Motion for Summary Judgement (ECF 41), Order (ECF 41-1), 
+Statement of Undisputed Facts (ECF 41-2) and Exhibits A- L (ECF 41-5 through 41-16) as if fully 
+set forth herein. 
+II. FACTUAL BACKGROUND 
+Defendants incorporate by reference their Statement of Undisputed facts as if same were 
+fully set forth herein at length. Subject to and without waiving incorporation of the Statement of 
+Undisputed Facts, Defendants submit that this matter arises from the termination of Plaintiff, 
+Nicholas Barone (“Plaintiff”), from his position of Records Clerk in the Archives Unit with the 
+Register of Wills Office (“ROW”). The Register of Wills is an elected position for a “row” office 
+in the City of Philadelphia. Plaintiff was hired as a Records Clerk in January 2019 by former 
+Register Ronald Donatucci (“Donatucci”). As a Records Clerk, Plaintiff was primarily responsible 
+for physically retrieving, delivering and storing files. Donatucci was defeated by Defendant Tracey 
+Gordon (“Defendant Gordon”) for the position of Register of Wills and she assumed office in 
+January 2020.  
+Upon assuming office, Defendant Gordon learned that Donatucci previously held several 
+fundraisers wherein employees of the ROW were solicited for campaign contributions. Defendant 
+Gordon also held fundraisers wherein employees, including Plaintiff, were solicited for campaign 
+contributions. Plaintiff contributed to Defendant Gordon’s campaign once throughout her term as 
+the Register. The donation came by way of a one-time $125 purchase for a luncheon that occurred 
+in the ROW building, located in City Hall. Thereafter, Plaintiff declined to contribute to Defendant 
+Gordon’s campaign, although he was never contacted by her directly and he never spoke to her 
+about campaign contributions. Defendant Gordon occasionally had other employees (Keasha 
+Trawick and/or Keith Harris) interact with employees regarding voluntary campaign contributions. 
+The last request for Plaintiff to contribute to Defendant Gordon’s campaign occurred in November 
+2021, to which he declined to contribute.  
+During Defendant Gordon’s term, she was made aware of workflow and performance 
+issues in the Archives Unit, specifically related to Plaintiff’s performance. In fact, Plaintiff’s then-
+supervisor previously complained to Defendant Gordon about workflow issues and Plaintiff’s 
+refusal to retrieve and deliver necessary files. The overall performance of the Archives Unit, 
+including Plaintiff, caused a severe workflow issue that impeded productivity in the ROW office. 
+Based on that, Defendant Gordon consulted her administrative staff and made the decision to 
+terminate Plaintiff in January 2022.  
+Now, Plaintiff brings the instant lawsuit alleging First Amendment Retaliation in violation 
+of 42 U.S.C. §1983 (against Defendant Gordon, individually) (Count I); First Amendment Monell 
+violations (against Defendant, City of Philadelphia) (Count II); and Wrongful Termination (against 
+Defendant, City of Philadelphia). However, based on the record, Plaintiff’s claims should be 
+dismissed in their entirety.  
+III. LEGAL ARGUMENT 
+a. Standard of Review 
+“[S]ummary judgment is proper when ‘the movant shows that there is no genuine dispute
+as to any material fact and the movant is entitled to judgment as a matter of law.’”  Peroza-Benitez 
+v. Smith, 994 F.3d 157, 164 (3d Cir. 2021) (citing F ED. R. C IV. P. 56(a) (emphasis added)).  
+“Material facts” are those which “might affect the outcome of the suit under the governing law[,]” 
+and a dispute over such facts is “genuine” only when “a reasonable jury could return a verdict for 
+the nonmoving party.”  Id. “[T]he mere existence of some alleged factual dispute between the 
+parties will not defeat an otherwise properly supported motion for summary judgment; the 
+requirement is that there be no genuine issue of material fact.”  Anderson v. Liberty Lobby, Inc., 
+477 U.S. 242, 247-48 (1986).  “A defendant meets this standard when there is an absence of 
+evidence that rationally supports the plaintiff’s case.”  Clark v. Mod. Grp. Ltd., 9 F.3d 321, 326 
+(3d Cir. 1993) (internal citation omitted). 
+Indeed, “[a]t the summary judgment stage, facts must be viewed in the light most favorable 
+to the nonmoving party only if there is a ‘genuine’ dispute as to those facts.”  Scott v. Harris, 550 
+U.S. 372, 380 (2007) (citing F ED. R. CIV. P. 56(c) (emphasis added)).  And even then, the non-
+movant is entitled only to reasonable inferences drawn from the record.  See Harvard v. Cesnalis, 
+973 F.3d 190, 199 (3d Cir. 2020) (citation omitted); see also United States v. Rowe, 919 F.3d 752, 
+759 (3d Cir. 2019) (explaining a deduction from the record “must bear a logical or convincing 
+connection to established fact” (citation omitted)).   
+Summary judgment operates pursuant to a burden-shifting framework.  See Matsushita 
+Elec. Indus. Co. v. Zenith Radio Corp ., 475 U.S. 574, 586 (1986).  When a movant shows the 
+nonexistence of a genuine dispute of material fact, and supports their assertion with specific 
+citations to the record, the non-movant “must do more than simply show that there is some 
+metaphysical doubt as to the material facts.”  Id.  The non-movant “must set forth specific facts 
+showing that there is a genuine issue for trial.”  Anderson, 477 U.S. at 250.  Though, “the mere 
+existence of a scintilla of evidence favoring the non-moving party will not prevent summary 
+judgment[,]”  SodexoMAGIC, LLC v. Drexel Univ., 24 F.4th 183, 204 (3d Cir. 2022), and neither 
+will “concerns regarding the credibility of witnesses[.]”  Schoonejongen v. Curtiss-Wright Corp., 
+143 F.3d 120, 130 (3d Cir. 1998).  The Third Circuit is unequivocally clear: “an opponent [of 
+summary judgment] may not prevail merely by discrediting the credibility of the movant’s 
+evidence; it must produce some affirmative evidence.”  Big Apple BMW, Inc. v. BMW of N. Am., 
+Inc., 974 F.2d 1358, 1363 (3d Cir. 1992). But where the non-movant’s “evidence is merely 
+colorable, or is not significantly probative, summary judgment may be granted.”  Anderson, 477 
+U.S. at 249-50.   
+b. Plaintiff’s First Amendment Retaliation Claim Fails As A Matter of Law 
+In order to prevail on a § 1983 First Amendment retaliation claim, the plaintiff must prove 
+that (1) he engaged in “constitutionally protected conduct,” (2) the defendant engaged in a 
+“retaliatory action sufficient to deter a person of ordinary firmness from exercising his 
+constitutional rights,” and (3) a “casual link [existed] between the constitutionally protected 
+conduct and the retaliatory action. See Palardy v. Township of Millburn, 906 F.3d 76, 80-81 (3d 
+Cir. 2018); Thomas v. Indep. Twp., 463 F.3d 285, 296 (3d Cir. 2006).  
+The First Amendment protects public employee speech if: (1) the employee spoke as a 
+citizen rather than an employee; (2) the speech involved a matter of public concern; and (3) the 
+public employer lacked an adequate justification for burdening that speech under the balancing 
+test adopted in Pickering v. Board of Education, 391 U.S. 563 (1968). See Dougherty v. Sch. Dist. 
+of Phila., 772 F.3d 979, 987 (3d Cir. 2014); Young v. Township of Irvington, 629 F. App'x 352, 
+357 (3d Cir. 2015). Under Pickering, a public employee’s speech as a citizen on a matter of public 
+concern is protected unless the employer’s interests in restricting the speech outweigh the 
+employee’s and the public’s interest in that speech. See Munroe v. See also Lindqvist v. Beaumont, 133 F.4th 1700 (2d Cir. 2019). Cent. Bucks Sch. Dist. , 805 
+F.3d 454, 472 (3d Cir. 2015). However, the Third Circuit has held that personal grievances, 
+complaints about conditions of employment, or expressions about other matters of personal interest 
+are matters reflecting an employee’s self-interest and should not be construed as protected speech. 
+See Palardy v. Twp. See also Tessaly v. Marbury, 851 F. Supp. 3d 1769 (N.D. Ill. 2023). Of Millburn, 906 F.3d 76, 83 (3d Cir. 2018); see also Rossiter v. City of 
+Philadelphia, No. CIV.A. 13-3429, 2014 WL 1034326 (E.D. Pa. Mar. 17, 2014) (finding that an 
+employees complaint about his employment/employer was not protected speech).  
+To establish a causal connection, a plaintiff must prove (1) an unusually suggestive 
+temporal proximity between the protected activity and the allegedly retaliatory action, or (2) a 
+pattern of antagonism coupled with timing to establish a causal link. Lauren v. DeFlaminis, 480 
+F.3d, 259, 267 (3d Cir. 2007) (internal quotations and citations omitted). In the absence of that 
+proof, a plaintiff must show that  the finder of fact should infer causation. Id. Temporal proximity, 
+without more may create an inference of causation if the timing is unusually suggestive. Jalil v. 
+Avdel Corp., 873 F.2d 701, 708 (3d Cir. 1989).  
+“For temporal proximity alone to establish causation, the time difference must be so short 
+as to be unusually suggestive of retaliatory motive.” Estate of Smith v. Marasco, 318 F.3d 497, 
+512 (3d Cir. 2003). “While the Third Circuit has not explicitly defined the closeness in time 
+required for temporal proximity, it has held that two days is sufficient to establish causation on its 
+own, while ten days is only sufficient when accompanied by other evidence of retaliation. See
+Farrell v. Planters Lifesavers Co., 206 F.3d 279 n. 5 (3d Cir. 2000). One cannot rely on speculative 
+claims of retaliation to establish the necessary causal link. See Krouse v. Am. Sterilizer Co., 126 
+F.3d 494, 500-01 (3d Cir. 1997). To prevail at summary judgment, an employer must “present 
+evidence such that no reasonable juror could conclude that the protected activity was the but-for 
+cause of the termination.” Hill v. City of Scranton, 411 F.3d 118, 126 n.11 (3d Cir. 2005). 
+Here, Defendants contend Plaintiff did not engage in constitutionally protected speech but 
+instead engaged in the self-interested behavior that the Third Circuit delineated as non-protected 
+speech. See also In re Vance Capital Partners, 979 F.3d 1661 (7th Cir. 2020). Even assuming that Plaintiff engaged in protected speech, Plaintiff’s claims of First 
+Amendment retaliation fail as Plaintiff has not established a temporal proximity between the 
+speech at issue and his termination. The record indicates that Plaintiff was solicited to contribute 
+to Defendant Gordon’s campaign sometime in November 2021, without any additional specificity. 
+Exhibit B, at 74:13-24. However, Plaintiff stated in no uncertain terms that following the request 
+in November, he was not solicited again. Id. Thereafter, Plaintiff was terminated in January 2022. 
+Although the Third Circuit has not carved out a bright line rule regarding temporal proximity, 
+Defendants contend that at there was at least a thirty (30) day gap between Plaintiff’s alleged 
+protected speech and his termination. Defendants submit that the passage of such an extended 
+period of time negates any inference that Plaintiff’s termination was unusually suggestive in 
+comparison to the alleged free speech.  
+Additionally, Defendants acknowledge that the test of temporal proximity may require the 
+finder of fact to look at the record as a whole. Here, Defendants invite an inspection of the record 
+as a whole. A review of such reveals that Plaintiff remained gainfully employed for years under 
+Defendant Gordon, despite Plaintiff’s own admission that he made one campaign contribution. 
+Based on the foregoing, Defendants submit that Plaintiff did not engage in protected speech. To 
+the extent that he did, Plaintiff failed to establish a temporal proximity between the protected 
+speech and his termination.   
+i. Defendant Had a Legitimate Non-Retaliatory Reason for Terminating 
+Plaintiff 
+Under the standard set in Ambrose, infra, a defendant can defeat a retaliation claim by 
+demonstrating that it would have taken the same action even if the plaintiff had not engaged in the 
+protected activity. Ambrose v. Twp. of Robinson , 303 F.3d 488, 493 (3d Cir. 2002). Here, 
+Defendants have established that Plaintiff’s performance was called into question by his supervisor 
+and the Archives Unit as a whole suffered from severe workflow issues. The existence of this 
+legitimate reason for termination severs any causal connection between Plaintiff’s alleged 
+protected conduct and his termination. 
+c. Plaintiff Failed to Establish That He Suffered A Constitutional Deprivation 
+Pursuant to Section 1983  
+A municipality or local government may be liable under Section 1983 if the governmental 
+body itself deprives a person of their constitutional rights or causes such deprivation to occur. 
+Monell v. Dept. of Soc. Servs. Of City of New York, 436 U.S. 658, 692 (1978). This type of 
+Section 1983 claim is commonly known as a Monell claim and holds local governments 
+responsible only for their own illegal acts. Connick v.  Thompson, 563 U.S. 51 , 60 (2011). 
+Liability may only be imposed upon local governments where the governmental body's "deliberate 
+conduct" was the "moving force" behind the constitutional injury alleged. Bd. of County Comm’rs 
+of Bryan County v. Brown, 520 U.S. 397, 404 (1997) (emphasis omitted). In order to establish a 
+Monell claim, a plaintiff must show a deprivation of his constitutional rights that was caused by 
+state "action pursuant to official municipal policy" or custom. Monell, at 691. A policy may be 
+shown when a final decision maker issues an official proclamation, directive, or standard course 
+of action. See Wright v. See also Kestrel v. Orrindale Capital Partners, 839 F. Supp. 3d 1181 (E.D. Pa. 2022). City of Philadelphia, 685 Fed.Appx. 142, 146 (3d Cir. 2017) (citing 
+Andrews v. City of Philadelphia, 895 F,2d 1469, 1480 (3d Cir. l 990)). A custom is a given course 
+of conduct that stems from a final decision maker’s  acquiescence so that the course of conduct 
+becomes a well-settled or longstanding practice. Id. at 146-47. 
+First and foremost, Plaintiff failed to establish a constitutional injury and thus, he cannot 
+state a viable Monell claim against Defendants. See Collins v. City of Harker Heights, 503 U.S. 
+115, 128 (1992). As fully discussed supra, Plaintiff failed to adduce sufficient evidence to show a 
+violation of his First Amendment rights. As such, Plaintiff’s Monell claim fails as a matter of law.  
+Second, assuming arguendo, that Plaintiff has established a constitutional deprivation, he 
+has failed to present any evidence that Defendants’ deliberate actions were the moving force 
+behind his injury. See also Harrington v. Beaumont, 953 F. App'x 1888 (3d Cir. 2020). Plaintiff alleges that Defendant Gordon maintained a custom, policy or practice 
+of terminating employees that refused to donate to her political campaign. However, Monell
+liability requires proof of a persistent and widespread practice that becomes a custom or policy, as 
+established in Andrews, supra. Here, Plaintiff has failed to identify any patterns of behavior or 
+practices demonstrating a consistent and systematic approach establishing that individuals were 
+terminated for their refusal to donate to her campaign. Instead, Plaintiff presents an isolated 
+incident where he was the sole individual terminated for the alleged unconstitutional conduct.  
+Moreover, Plaintiff's reliance on this isolated incident is insufficient to establish a 
+municipal custom or policy. In Brown, infra, the Third Circuit Court of Appeals, relying on the 
+Supreme Court decision in City of Oklahoma City v. Tuttle, 471 U.S. 808, 823024, 105 S.Ct. 2427, 
+85 L.Ed.2d 791 (1985) found that proof of a single incident of unconstitutional activity is not 
+sufficient to impose liability under Monell, unless proof of the incident includes proof that it was 
+caused by an existing municipal policy. Brown v. City of Pittsburgh, 586 F.3d 263, 292 (3d Cir. 
+2009). The rationale behind the holding is that a single incident of misbehavior is insufficient to 
+solely support an inference that a municipal policy or custom caused the incident. Tuttle, at 832, 
+105 S.Ct. 2427 (Brennan, J. Concurring); see also Monell, 436 U.S. 658, at 691 (1978) (explaining 
+that municipal liability can exist even when discriminatory practices are not authorized by written 
+law, but only if such practices are sufficiently permanent and well settled as to constitute a custom 
+or usage with the force of law).  
+Similarly, in Losch, infra, the Third Circuit, relying on a Fifth Circuit opinion found that 
+“[a] policy cannot ordinarily be inferred from a single instance of illegality…” Losch v. Borough 
+of Parkesburg, Pa., 736 F.2d 903, 911 (3d Cir. 1984) (citing Walters v. City of Ocean Springs, 626 
+F.2d 1317, 1323 (5th Cir. 1980); Turpin v. Mailet, 619 F.2d 196, 202 (2d Cir. 1980)).  
+Last, in Thomas v. Cumberland Cnty, 749, F.3d 217 (3d Cir. 2014), the Court found that 
+any possible liability in “single incident” cases “depends on the likelihood that the situation will 
+recur and the predictability [of ongoing unconstitutional activity]…” Id. at 224 (citing Bd. Of Cnty. 
+Comm’rs of Bryan Cnty., Okl v. Brown, 520 U.S. 397, 409, 117 S.Ct. 1382, 137 L.Ed.2d 626 
+(1997)); see also, Moore v. Solanco School District, 471 F.Supp.3d 640 (3d. Cir. 2020) (finding 
+that a policy cannot be inferred from a single instance of illegality) (citing Losch); but see, City of 
+Canton v. Harris, 489 U.S. 378, 389-90, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989) (explaining that 
+a single incident may be sufficient to establish a Monell violation where the alleged policy or 
+custom is obviously likely to result in unconstitutional activity and that the policy makers are 
+deemed to be deliberately indifferent to individual constitutional protections).  
+Finally, even if Plaintiff were able to substantiate claims against Defendant Gordon, those 
+actions do not constitute an official policy of Defendant, City of Philadelphia, nor were they 
+deliberately authorized or ratified by Defendant, City of Philadelphia. Monell liability attaches 
+only when a municipality is found to be the "moving force" behind the alleged constitutional 
+violation through an officially sanctioned policy or a ratified decision made by a final policymaker. 
+Bd. of County Comm’rs of Bryan County v. Brown, 520 U.S. at 404. In this case, there is no 
+evidence that Defendant Gordon's conduct was either authorized or ratified by the Defendant City 
+of Philadelphia. Thus, her alleged actions cannot be imputed to Defendant City of Philadelphia, 
+further undermining any claim for Monell liability.  
+d. Plaintiff Has Not Established A Wrongful Termination Claim 
+Plaintiff alleges that he was wrongfully terminated, however, Plaintiff was an at-will 
+employee. Under Pennsylvania law, an at-will employee may be terminated for any reason or no 
+reason at all. Hershberger v. Jersey Shore Steel Co., 394 Pa.Super 363, 575 A.2d 944, 946 (1990). 
+Here, Plaintiff was an at-will employee and was subject to termination for good cause, or no cause. 
+Therefore, there is no material or disputed fact regarding Plaintiff’s at-will employment status. As 
+such, Plaintiff’s Wrongful Termination claim should be dismissed.  
+IV. CONCLUSION 
+Based on the foregoing, Defendants respectfully request that this Court grant this Motion 
+for Summary Judgment, with prejudice, and enter judgment in favor of Defendants, Tracey L. 
+Gordon and the City of Philadelphia.  
+Respectfully submitted,  
+MARSHALL DENNEHEY, P.C.      
+BY:    
+JOHN P. GONZALES, ESQ.  
+JAHLEE J. HATCHETT, ESQ. 
+Attorney ID No(s): 71265 / 313604 
+2000 Market Street, Suite 2300 
+Philadelphia, PA  19103 
+(215) 575-2871 Fax (215) 575-0856 
+Email:  jpgonzales@mdwcg.com  / 
+jjhatchett@mdwcg.com
+Attorneys for Defendants 
+DATE:  April 18, 2025  
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA 
+ _____________________________________________________________________________ 
+NICHOLAS BARONE 
+                                       Plaintiff, 
+                   vs. 
+CITY OF PHILADELPHIA, ET AL.  
+                                         Defendants. 
+:
+:
+:
+:
+:
+:
+:
+:
+CIVIL ACTON No. 2:23-cv-02821 
+JURY TRIAL DEMANDED 
+______________________________________________________________________________ 
+CERTIFICATE OF SERVICE 
+I, JAHLEE J. HATCHETT, ESQUIRE, do hereby certify that on the date listed below, I 
+caused a true and correct copy of Defendants’ Amended Memorandum of Law in support of their 
+Motion for Summary Judgment was electronically filed with the Court, and is available for viewing 
+and downloading from the ECF System. 
+Respectfully submitted,  
+MARSHALL DENNEHEY, P.C.      
+BY:    
+JOHN P. GONZALES, ESQ.  
+JAHLEE J. HATCHETT, ESQ. 
+Attorney ID No(s): 71265 / 313604 
+2000 Market Street, Suite 2300 
+Philadelphia, PA  19103 
+(215) 575-2871 Fax (215) 575-0856 
+Email:  jpgonzales@mdwcg.com  / 
+jjhatchett@mdwcg.com
+Attorneys for Defendants 
+DATE:  April 18, 2025  

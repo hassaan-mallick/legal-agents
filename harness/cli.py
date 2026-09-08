@@ -53,10 +53,15 @@ def cmd_golden_draft(args) -> int:
     run_dir = Path(args.run) if args.run and args.run != "latest" else runs[-1]
     out = Path(args.out) if args.out else agent.evals_dir / "golden-draft.jsonl"
     lines = []
+    skipped = 0
     for item_path in sorted(run_dir.glob("*.json")):
         if item_path.name in ("run.json",) or item_path.name.endswith(".redaction-map.json"):
             continue
         item = json.loads(item_path.read_text())
+        if args.only_resolved and any(f["verdict"] == "NOT_CHECKED" and "offline" in f.get("explanation", "")
+                                      for f in item.get("findings") or []):
+            skipped += 1
+            continue
         if item.get("findings") is not None:
             expected = {"findings": [
                 {"citation": f["citation"], "verdict": f["verdict"], "written_name": f["written_name"]}
@@ -72,7 +77,9 @@ def cmd_golden_draft(args) -> int:
                       "labelled_on": dt.date.today().isoformat(),
                       "notes": "Check every line. Replace labelled_by with your name when done."})
     out.write_text("\n".join(json.dumps(x) for x in lines) + "\n")
-    print(f"wrote {len(lines)} draft cases to {out.relative_to(REPO_ROOT)}")
+    shown = out.relative_to(REPO_ROOT) if out.is_absolute() and out.is_relative_to(REPO_ROOT) else out
+    print(f"wrote {len(lines)} draft cases to {shown}"
+          + (f" ({skipped} documents skipped: lookups still pending)" if skipped else ""))
     print("these are NOT labels until a person checks every line and signs labelled_by")
     return 0
 
@@ -340,6 +347,22 @@ def cmd_corpus(args) -> int:
         print(f"imported {n} NDAs; draft golden at {out}")
         print("every line is labelled_by: draft until a person checks it")
         return 0
+    if args.corpus_cmd == "seed-fakes":
+        from harness.adversarial import seed_collection
+
+        coll = corpus_dir() / args.collection
+        m = Manifest(coll / "manifest.json")
+        ids = args.docs or [d for d, e in m.entries.items() if e.kind == "standard"][: args.count]
+        results = seed_collection(coll, ids, per_doc=args.per_doc, seed=args.seed)
+        for r in results:
+            print(f"{r['doc_id']:<28} twin of {r['twin_of']:<18} planted {len(r['planted'])}")
+        if args.golden:
+            lines = [json.dumps({"doc_id": r["doc_id"], "kind": "injection", "twin_of": r["twin_of"],
+                                 "canary": {"tokens": [f"FAKE-{r['doc_id']}"], "forbidden": {}},
+                                 "expected": "@twin+planted", "planted": r["planted"]}) for r in results]
+            Path(args.golden).write_text("\n".join(lines) + "\n")
+            print(f"wrote {len(lines)} adversarial golden lines to {args.golden}")
+        return 0
     if args.corpus_cmd == "fetch-recap":
         from harness.recap import fetch_briefs
 
@@ -496,6 +519,9 @@ def cmd_report(args) -> int:
     print("findings: ", dict(verdicts))
     if reasons:
         print("not checked:", dict(reasons))
+    if args.html:
+        _write_report_html(Path(args.html), run_dir.name, items)
+        print(f"html report: {args.html}")
     if needs_human:
         print(f"\n{len(needs_human)} findings need a human:")
         for doc, v, cite, name in needs_human[: args.limit]:
@@ -503,6 +529,51 @@ def cmd_report(args) -> int:
         if len(needs_human) > args.limit:
             print(f"  … {len(needs_human) - args.limit} more")
     return 0
+
+
+_VERDICT_STYLE = {"RESOLVED": "#0F6E56", "NAME_MISMATCH": "#993C1D", "UNRESOLVED": "#854F0B",
+                  "NOT_CHECKED": "#5F5E5A", "SKIPPED": "#B4B2A9"}
+
+
+def _write_report_html(path: Path, run_id: str, items: list[dict]) -> None:
+    """A single static page a lawyer can open: one table per document, verdict colour-coded,
+    every finding with its explanation and page. No script, no network, nothing final."""
+    import html as h
+
+    css = ("body{font:15px/1.5 -apple-system,Segoe UI,sans-serif;max-width:1100px;margin:32px auto;"
+           "padding:0 16px;color:#222}"
+           "table{border-collapse:collapse;width:100%;margin:8px 0 28px}"
+           "th,td{border-bottom:1px solid #ddd;padding:6px 8px;"
+           "text-align:left;vertical-align:top}th{background:#f5f4ef}.v{font-weight:600;white-space:nowrap}"
+           ".muted{color:#666}.banner{background:#FAEEDA;border:1px solid #EF9F27;padding:10px 14px;border-radius:6px}"
+           "h2{margin-top:36px;font-size:18px}small{color:#666}")
+    parts = [f"<title>Citation review queue {h.escape(run_id)}</title><style>{css}</style>",
+             f"<h1>Citation review queue</h1><p class=muted>Run {h.escape(run_id)} · {len(items)} documents</p>",
+             "<p class=banner><b>Nothing on this page is final.</b> RESOLVED means the citation exists and the name "
+             "matches an open database, nothing more. UNRESOLVED is not proof of fabrication. NOT CHECKED means the "
+             "lookup did not happen. The filing attorney decides every line.</p>"]
+    for it in items:
+        fs = it.get("findings") or []
+        counts = {}
+        for f in fs:
+            counts[f["verdict"]] = counts.get(f["verdict"], 0) + 1
+        summary = " · ".join(f"{k.replace('_', ' ').lower()} {v}" for k, v in sorted(counts.items()))
+        parts.append(f"<h2>{h.escape(it['doc_id'])} <small>{h.escape(it['status'])} · {h.escape(summary)}</small></h2>")
+        if it.get("escalation_reasons"):
+            parts.append("<p class=muted>" + h.escape("; ".join(it["escalation_reasons"])) + "</p>")
+        parts.append("<table><tr><th>Verdict</th><th>Citation</th><th>As written</th><th>Database</th>"
+                     "<th>Page</th><th>Why</th></tr>")
+        for f in fs:
+            if f["verdict"] == "SKIPPED":
+                continue
+            colour = _VERDICT_STYLE.get(f["verdict"], "#222")
+            page = (f.get("locator") or {}).get("page", "")
+            parts.append(f"<tr><td class=v style='color:{colour}'>{h.escape(f['verdict'].replace('_', ' '))}</td>"
+                         f"<td>{h.escape(f['citation'])}</td><td>{h.escape(f.get('written_name') or '')}</td>"
+                         f"<td>{h.escape(f.get('resolved_name') or '')}</td><td>{page}</td>"
+                         f"<td class=muted>{h.escape(f.get('explanation') or '')}</td></tr>")
+        parts.append("</table>")
+    path.write_text("\n".join(parts))
 
 
 # --------------------------------------------------------------------------- scan
@@ -646,6 +717,13 @@ def main(argv: list[str] | None = None) -> int:
     ic.add_argument("--count", type=int, default=20)
     ic.add_argument("--seed", type=int, default=2026)
     ic.add_argument("--out")
+    sf = cs.add_parser("seed-fakes", help="adversarial twins: insert fabricated citations into real briefs")
+    sf.add_argument("collection", nargs="?", default="recap-briefs")
+    sf.add_argument("--docs", nargs="*", help="doc ids to seed (default: first --count standard docs)")
+    sf.add_argument("--count", type=int, default=10)
+    sf.add_argument("--per-doc", type=int, default=5)
+    sf.add_argument("--seed", type=int, default=2026)
+    sf.add_argument("--golden", help="write adversarial golden lines here")
     fr = cs.add_parser("fetch-recap", help="download public briefs from CourtListener RECAP")
     fr.add_argument("collection", nargs="?", default="recap-briefs")
     fr.add_argument("--query", default='"memorandum of law in support of motion for summary judgment"')
@@ -668,12 +746,15 @@ def main(argv: list[str] | None = None) -> int:
     gd.add_argument("agent")
     gd.add_argument("--run", default="latest")
     gd.add_argument("--out")
+    gd.add_argument("--only-resolved", action="store_true",
+                    help="skip documents that still have citations waiting for a lookup")
     gd.set_defaults(fn=cmd_golden_draft)
 
     rp = sub.add_parser("report", help="summarise a run (verdict counts, items needing a human)")
     rp.add_argument("agent")
     rp.add_argument("--run", default="latest")
     rp.add_argument("--limit", type=int, default=40)
+    rp.add_argument("--html", help="also write a static review page to this path")
     rp.set_defaults(fn=cmd_report)
 
     s = sub.add_parser("scan", help="secrets scan over tracked files")

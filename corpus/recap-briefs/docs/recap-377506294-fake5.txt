@@ -1,0 +1,525 @@
+> ADVERSARIAL TEST TWIN of recap-377506294: 5 fabricated citations were inserted by `la corpus seed-fakes`. Not a real filing in this form.
+
+UNITED STATES DISTRICT COURT 
+EASTERN DISTRICT OF WISCONSIN 
+MILWAUKEE DIVISION 
+ 
+JAMES HULCE, et al., 
+ 
+Plaintiff, 
+ 
+v. 
+ 
+ZIPONGO, INC. d/b/a FOODSMART, 
+ 
+Defendant. 
+ 
+ 
+ 
+Case No. 2:23-cv-00159-LA 
+ 
+ZIPONGO, INC D/BA/ FOODSMART’S MEMORANDUM OF LAW IN SUPPORT OF 
+ITS MOTION FOR SUMMARY JUDGMENT 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+I. INTRODUCTION .................................................................................................................. 1 
+II. FACTUAL BACKGROUND ............................................................................................. 3 
+ A. Foodsmart only offers free services to CCHP members, and its callers cannot accept   
+payment directly from any non-CCHP members. ...................................................... 3 
+ B.     Plaintiff sues over phone calls offering free services through his healthcare plan. .... 7 
+III. LEGAL STANDARD ......................................................................................................... 8 
+IV. ARGUMENT ...................................................................................................................... 9 
+A. Foodsmart is entitled to summary judgment because none of the calls at issue are 
+telephone solicitations within the meaning of the TCPA’s DNC rules. ..................... 9 
+B. Plaintiff’s urged interpretation of the DNC rules would violate the First Amendment.
+................................................................................................................................... 12 
+C. Foodsmart isn’t vicariously liable for the calls at issue in this suit because it had no 
+knowledge of Plaintiff’s alleged do-not-call request. ............................................... 15 
+D. Plaintiff’s internal DNC claim fails because Foodsmart and QCS implemented 
+compliant internal DNC procedures. ........................................................................ 18 
+V. CONCLUSION ..................................................................................................................... 19 
+ 
+ 
+ 
+ 
+I. INTRODUCTION 
+ 
+In this putative class action lawsuit, Plaintiff James Hulce alleges that Defendant Zipongo 
+Inc. d/b/a Foodsmart violated the Telephone Consumer Protection Act (“TCPA”)’s Do-Not-Call 
+(“DNC”) rules in two ways when it contacted him to offer him free nutritional counseling services 
+through his healthcare plan.  First, by calling him on a number listed on the National DNC Registry.  
+And second, by calling him after he requested to be placed on Foodsmart’s internal DNC list.  But 
+the TCPA’s DNC rules apply only to “telephone solicitations,” defined as communications that 
+encourage consumers to purchase goods or services for sale.  Only one material question thus 
+governs Plaintiff’s claims: whether the phone calls encouraged Plaintiff to purchase anything.  The 
+answer to that question is no, so the Court should grant Foodsmart summary judgment. 
+The communications Plaintiff received were not solicitations because it is clear on their 
+face that they didn’t encourage him to purchase anything, or otherwise offer any good/services for 
+sale.  Instead, the purpose of the communications was to inform Plaintiff about completely free 
+nutritional services that were available through his CCHP healthcare plan, which is also free to 
+him as part of his state-funded Medicaid insurance.  That purpose is consistent with Foodsmart’s 
+relevant business for CCHP too: offering low-income and disabled individuals free nutritional 
+counseling services to prevent future health issues and thus reduce the overall burden on the 
+taxpayers that support Medicaid. 
+As such, none of the communications sent by Foodsmart ( the “Foodsmart CCHP 
+communications”), whether the texts sent by Foodsmart or the calls by Foodsmart’s vendor, 
+Quality Contact Services (“QCS”), were designed to or did encourage Plaintiff to buy anything.  
+In fact, neither QCS nor Foodsmart could have accepted payment from any CCHP member in 
+response to those calls, nor was QCS able to accept any payment, from anyone.  Plaintiff’s claims 
+thus fails because the communications at issue weren’t solicitations subject to the TCPA. 
+To permit Plaintiff’s claims on these facts would not only contradict the letter and spirit of 
+the TCPA but hurt low-income individuals and the tax-paying public who sponsor these programs.  
+Congress didn’t intend the TCPA’s national and internal DNC’s provisions to apply that broadly, 
+preventing low-income consumers from receiving informational communications about free state-
+funded healthcare programs that were created for their benefit.  In fact, such an interpretation 
+would violate the First Amendment given that the TCPA’s telephone solicitation ban would then 
+regulate non-commercial speech in a content-based manner that couldn’t survive strict scrutiny.  
+So the doctrine of constitutional avoidance further compels the conclusion that the 
+communications at issue here were not telephone solicitations. 
+And even if QCS’s phone calls were “telephone solicitations” that violated the TCPA (they 
+were not), Foodsmart couldn’t be liable for them.  QCS’s call records show that Plaintiff answered 
+the first phone call QCS ever made to Plaintiff, and Plaintiff claims he requested not to be contacted 
+further.  Assuming Plaintiff’s testimony is true, Foodsmart cannot be directly or vicariously liable 
+for calls after that date.  It cannot be directly liable because Foodsmart did not make the calls; QCS 
+did.  And it cannot be vicariously liable for QCS’s conduct because Foodsmart did not permit QCS 
+to call people who had requested not to be called.  Foodsmart is entitled to summary judgment on 
+this additional basis as well.   
+Finally, Plaintiff’s internal DNC claim fails because both Foodsmart and QCS have and 
+honor internal DNC policies for telephone solicitations because they do not want to annoy people, 
+even though they are not required by law to have them for the calls at issue because they are not 
+telephone solicitations.  To the extent Plaintiff received calls from QCS after he told him to stop 
+calling, that was the result of one-off human error.  As such, the safe harbor of the internal DNC 
+rules precludes liability here on Plaintiff’s internal DNC claim.  
+For these reasons and others discussed herein, Foodsmart respectfully requests that the 
+Court enter summary judgment in its favor. 
+II. FACTUAL BACKGROUND 
+ 
+A. Foodsmart only offers free services to CCHP members, and its callers cannot 
+accept payment directly from any non-CCHP members. 
+ 
+Foodsmart is a mission driven company that provides nutritional telehealth consultations 
+to help individuals improve their overall health and to combat food insecurity, a serious problem 
+for over 17,000,000 Americans who are unable to acquire enough food.1  Declaration of Jared 
+Scharen at ¶ 4 (attached hereto as Exhibit A).  To achieve this mission, Foodsmart works with 
+healthcare plans and providers across the country to facilitate these telehealth nutritional visits.  Id.  
+at ¶ 5.  During these visits, Foodsmart integrates dietary assessments and nutrition counseling from 
+dietitians with cost-effective meal planning for the whole family.  Id. at ¶ 6.  In addition, Foodsmart 
+devotes substantial resources to help eligible insurance plan members battle food insecurity by 
+helping them enroll in government assistance programs, such as SNAP, for low -income 
+individuals.  Id. at ¶ 7.  Research studies on Foodsmart’s programs show that its preventative 
+services not only benefit members by improving their nutritional choices (and their overall health) 
+but also decrease overall healthcare costs for healthcare providers and the state.  Id.  at ¶¶ 8-10; 
+2022 Optum Claims Study at 2 (attached as Exhibit 1 to Scharen Decl.) (“Foodsmart saved the 
+health plan, on average, $40 PMPM [per member per month] after adjusting for high value claims 
+ 
+1 Per statistics from the United States Department of Agriculture for 2022.  “Key Statistics & 
+Graphics” USDA, available at https://www.ers.usda.gov/topics/food-nutrition-assistance/food-
+security-in-the-u-s/key-statistics-graphics/#foodsecure (last accessed November 7, 2023) (“12.8 
+percent (17.0 million) of U.S. households were food insecure at some time during 2022”). 
+and other wellness programs, compared to a matched control group.”); Foodsmart CCHP Study at 
+1 (attached as Exhibit 2 to Scharen Decl.) (“the average 12 month PMPM claims savings generated 
+by Foodsmart across major chronic conditions compared to controls: savings ranged from $62 to 
+$871 PMPM in some members.”). 
+As relevant to this suit, CCHP, a Wisconsin based healthcare provider, contracted with 
+Foodsmart to provide nutritional services to its plan members.  Ex. A at ¶ 11.   CCHP specifically 
+chose to contract with Foodsmart to better serve its large number of plan members who receive 
+services through Badgercare Plus, a state-run and state-funded Medicaid plan.  Id. at ¶ 12.  To 
+qualify for this Medicaid program, members must either be low income or have a qualifying 
+disability, making easily accessible telehealth nutritional plans a top priority to help address those 
+members’ overall health and struggles with food insecurity.  Id. at ¶ 14.  Because Badgercare Plus 
+is a state funded healthcare program, members pay no cost for the services they receive through 
+CCHP by means of a monthly premium, copay, or otherwise.  Id. at ¶ 13; Deposition of James C. 
+Hulce at 37 (attached hereto as Exhibit B). 
+To facilitate the provision of these completely free services, Foodsmart sends informational 
+text messages and phone calls to CCHP members.  Id. at ¶ 15.  It does so at the request of CCHP, 
+and after those communications are approved by the state of Wisconsin, which also has an interest 
+in people participating in Foodsmart’s free program.  Id.  at ¶ 16.  In addition to informing members 
+about these benefits that are fully covered through their plan, Foodsmart also conducts gift card 
+giveaways and raffles to help these low-income members buy healthy groceries.  Id.  at ¶ 17.  The 
+text messages at issue here, which are sent directly by Foodsmart, expressly provide that 
+Foodsmart’s services are free and offer to help CCHP members set up appointments to assess and 
+improve their nutritional health.  Id. at ¶ 18.  For example, the sole text message sent to Plaintiff 
+(shown below) provides that CCHP members can receive free $25 gift cards for completing a “no 
+cost” visit and taking the Foodsmart Nutriquiz, a dietary tool designed to health members develop 
+healthy eating habits: 
+ 
+Id. at ¶ 19.  Recipients of these messages who no longer wished to receive these messages could 
+easily opt out by responding “stop,” as described in the message above (and even though this was 
+not legally required, since these messages don’t qualify as “telephone solicitations” as explained 
+below).  Id. 
+Foodsmart also calls CCHP members through its vendor, QCS.  Id. at ¶ 20; Declaration of 
+Richard Hamilton at ¶ 4 (attached hereto as Exhibit C).  At the start of every outbound call, QCS 
+informs members that the services are being offered to them for free through their healthcare 
+provider: 
+Id. at ¶ 5.  Because QCS only calls CCHP members to inform them of free services provided to 
+them through their state-funded plans, it lacks the ability to even take or process payments if it 
+accidentally reaches an ineligible individual.  Id. at ¶ 8.  As such, if an individual who wasn’t a 
+CCHP member received an outbound call from QCS by mistake (which could occur for numerous 
+reasons, including because the eligibility file had not yet been updated after a member changed 
+insurance plans), upon learning that they weren’t a CCHP member, and thus ineligible for the 
+program, the QCS representative would terminate the call.   Id. at ¶ 6.   
+Additionally, even though not legally required to do so because its calls are not telephone 
+solicitations, Foodsmart requires QCS to honor all DNC requests, meaning if someone says “do 
+not contact me again” or something similar, QCS is not permitted to make any further calls and 
+must notify Foodsmart immediately so Foodsmart knows not to text the consumer.  Id at ¶ 7; Ex. 
+A. at ¶¶ 21-23.  Both entities (Foodsmart and QCS) have written policies requiring the immediate 
+honoring of such DNC requests, train their employees on them, and honor such requests 
+indefinitely.  Ex. A at ¶¶ 27-31; Ex. C at ¶¶ 11-15.   
+B. Plaintiff sues over phone calls offering free services through his healthcare 
+plan. 
+ 
+Plaintiff applied and was approved for the state-funded Badgercare Plus Medicaid program 
+and began receiving completely free, state-funded healthcare in September 2021.  Ex. B at 36-37.  
+Thereafter, Plaintiff received a single text message directly from Foodsmart in October 2022.  Id. 
+at 59.  Plaintiff responded “stop” to “unsubscribe” from further texts, as the text he received 
+instructed he could do.  Ex. A at ¶ 24.  He was promptly removed from the text-message list and 
+wasn’t texted again (even though, again, that wasn’t legally required because these were not 
+“telephone solicitations” to which the TCPA’s internal DNC rules apply).  Id. 
+Plaintiff was first called by QCS in December 2021, and then again in February 2022.  Ex. 
+C at ¶ 9; Ex. 1 to Ex. C.  Although Plaintiff testified that during those calls he asked not to be 
+contacted further about Foodsmart’s services, the call record disposition notes only show that 
+Plaintiff wasn’t interested in Foodsmart’s free services at that time.  Hulce Deposition at 73-74; 
+Ex. C at ¶ 9.  QCS never notified Foodsmart that Plaintiff wasn’t interested in Foodsmart’s 
+services.  Ex. A at ¶ 23.  Plaintiff received four additional phone calls from QCS in the late spring 
+of 2022, all of which went unanswered Ex. C at ¶ 9; Ex. 1 to Ex. C.  In November 2022, Plaintiff 
+sent CCHP (not QCS or Foodsmart) a “grievance letter” asking not to be contacted about 
+Foodsmart’s service.  Ex. B at 75.  The letter was never transmitted to Foodsmart or QCS, and so 
+Plaintiff’s number was not placed on QCS’s or Foodsmart’s internal DNC list.  Ex. A at ¶ 26; Ex. 
+C at  ¶ 10. 
+In any event, for reasons unrelated to this lawsuit, Plaintiff terminated his CCHP insurance 
+effective November 30, 2022.  Ex. B at 38-39.  Plaintiff thereafter received three additional phone 
+calls from QCS about thirty days after his termination of his CCHP plan: on January 3, 4, and 5, 
+each of which went directly to voicemail.  Id. at 70-71.  Plaintiff received these communications 
+because the eligibility list (showing he was no longer a CCHP member) hadn’t yet been updated 
+in the short time window following the cancellation of his insurance.  Ex. A at ¶ 25. 
+Plaintiff then filed this lawsuit.  See also Ashworth v. Lindqvist, 961 F.3d 1563 (11th Cir. 2017). Ex. B at 70-71; See generally Complaint.  Plaintiff alleges 
+Foodsmart violated the TCPA by sending telephone solicitations to him although his number is 
+allegedly listed on the National DNC Registry and though he allegedly requested to be placed on 
+QCS’s internal DNC list.  Complaint at ¶¶  65-66.  Plaintiff asks the Court to certify two nationwide 
+TCPA classes: (a) one comprised of consumers who received telephone solicitation calls while 
+their numbers were registered on the national DNC registry; and (b) one comprised of consumers 
+who were contacted after they’d requested not to be contacted about Foodsmart’s free services.  
+Id. at ¶ 51.  Plaintiff seeks millions of dollars in damages from Foodsmart, a small company that 
+provides nutritional healthcare to low-income and food insecure individuals. 
+For the reasons set forth below, Plaintiff’s claims are meritless under the plain language of 
+the statute, and Foodsmart is entitled to summary judgment.   
+III. LEGAL STANDARD 
+ 
+Summary judgment is appropriate where the evidence, viewed in the light most favorable 
+to the nonmoving party, demonstrates there is no genuine issue of material fact and that the moving 
+party is entitled to judgment as a matter of law.  Fed. R. Civ. P. 56 (c).  A factual dispute is 
+“material” only if it might affect the outcome of the lawsuit under governing law.  Anderson v. 
+Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).  
+Once the party moving for summary judgment offers proof of the absence of any genuine 
+issue of material fact, the party opposing the motion is required to go beyond the pleadings and 
+establish “specific facts showing that there is a genuine issue for trial.”  Fed. R. Civ. P.. 56(e); 
+Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986); Golden v. McCaughtry, 937 F. Supp. 818, 821 
+(E.D. Wis. 1996).  The existence of merely a scintilla of evidence in support of the non-moving 
+party’s position is insufficient; there must be evidence such “that a reasonable jury could return a 
+verdict for the nonmoving party.” Liberty Lobby, Inc., 477 U.S. at 252 (1986). Self-serving 
+assertions and affidavits without factual support will not defeat a motion for summary judgment. 
+See Schimpf v. Gerald, Inc., 52 F. Supp. 2d 976, 993 (E.D. Wis. 1999); Jones v. Merchants Nat’l. 
+Bank & Trust Co., 42 F.3d 1054, 1058 (7th Cir. 1994). 
+IV. ARGUMENT 
+ 
+A. Foodsmart is entitled to summary judgment because none of the calls at issue 
+are telephone solicitations within the meaning of the TCPA’s DNC rules. 
+The Court should grant summary judgment to Foodsmart because the calls Plaintiff 
+received are not telephone solicitations subject to the TCPA’s national or internal DNC rules.  They 
+didn’t encourage him to purchase anything and instead only referenced and concerned free 
+nutritional services for CCHP members, who also paid nothing for their state funded insurance. 
+For background, the TCPA and its regulations provide that “[n]o person or entity shall 
+initiate any telephone solicitation to: . . . [a] residential telephone subscriber who has registered 
+his or her telephone number on the [DNC list] of persons who do not wish to receive telephone 
+solicitations that is maintained by the Federal Government.”  47 C.F.R. § 64.1200(c)(2) (emphasis 
+added).  A “telephone solicitation” is defined as “a telephone call or message [initiated] for the 
+purpose of encouraging the purchase or rental of, or investment in, property, goods, or services . . 
+. .”  47 U.S.C. § 227(a)(4) (emphasis added).  The TCPA’s prohibition on “telephone solicitations” 
+only to numbers registered on an internal or national DNC list—as opposed to all types of 
+telephone calls—was carefully considered and crafted by Congress, which specifically recognized 
+that the “most unwanted telephone solicitations are commercial in nature.”  H.R. Rep. No. 102–
+317, at 16 (1991).  “The TCPA therefore authorized the FCC to establish a national database of 
+consumers who object to receiving ‘telephone solicitations,’ which the act defined as commercial 
+sales calls.”  Mainstream Mktg. See also Tessaly v. Marbury, 986 F. App'x 1174 (11th Cir. 2018). Servs., Inc. v. FTC, 358 F.3d 1228, 1235 (10th Cir. 2004) (citing 
+Pub. L. No. 102–243, 105 Stat. 2394, at § 3 (1991) (emphasis added)); Spiegel v. Reynolds, 2017 
+WL 4535951, at *4 (N.D. Ill. Oct. 11, 2017) (dismissing DNC claim on summary judgment, 
+explaining TCPA’s DNC rules only apply to telephone solicitations). 
+The fact that only commercial solicitation calls or texts offering “property, goods, or 
+services” for “sale” to telephone numbers registered on an internal or national DNC list are 
+prohibited is further underscored by the fact the TCPA prohibits “any” calls in some instances, 
+and only “telephone solicitations” in others.  See also Vance v. Okafor Capital Partners, 980 F. App'x 1378 (3d Cir. 2022). Compare 47 C.F.R. § 64.1200(c)(2) (prohibiting only 
+“telephone solicitations” to numbers registered on the NDNC), with 47 U.S.C. § 227(b)(1)(A)(iii) 
+(generally prohibiting the placement of “any call” to a cell phone using an “automatic telephone 
+dialing system” or prerecorded message, where there is no prior express consent), and 47 U.S.C. 
+§ 227(b)(1)(B) (generally prohibiting “any telephone call to a residential telephone line” using a 
+prerecorded message, where there is no prior express consent).  In short, Congress intentionally 
+defined “telephone solicitation” within the TCPA to be restricted to commercial calls or texts that 
+solicit the purchase or rental of property, goods, or services. 
+None of the calls to Plaintiff constituted a “telephone solicitation” that might sustain a 
+TCPA internal or national DNC claim because all Foodsmart CCHP calls expressly stated they 
+concerned (and did in fact concern) entirely free services.  So the purpose of the calls wasn’t to 
+encourage the purchase of anything, let alone goods and services¾a fact several courts have found 
+dispositive in similar DNC cases.  For example, in Trujillo v. Free Energy Sav. Co., LLC, the court 
+granted the defendant summary judgment on the plaintiff’s DNC claim, concluding that the 
+communications at issue in that suit, which offered free services to low -income individuals, 
+weren’t solicitations because they did “not evince any intent to secure a purchase by [the 
+individual]; instead, they invite[d] the recipient to schedule free services.”  2020 WL 7768722, at 
+*2-3 (C.D. Cal. Dec. 21, 2020).  Accordingly, the court concluded, based on the statutory text, that 
+the messages at issue didn’t violate the TCPA, notwithstanding that Plaintiff’s number was on the 
+national DNC registry.  Id. at 3.  See also Spiegel, 2017 WL 4535951, at *4; (dismissing DNC 
+claim on summary judgment because the calls did not encourage plaintiff to purchase anything); 
+Morris v. Unitedhealthcare Ins. Co., 2016 WL 7115973, at *8-9 (E.D. Tex. 2016) (rejecting 
+argument that calls from an insurer regarding free benefits, which might encourage commercially 
+advantageous behavior such as client retention, violated the TCPA because they were not 
+“telephone solicitations”); Friedman v. Torchmark Corp., 2013 WL 4102201, at *6 (S.D. Cal. 
+Aug. 13, 2013) (call promoting a “free webinar” was not a telephone solicitation because it did not 
+attempt to sell anything to the plaintiff). 
+Setting aside the fact that the QCS phone calls on which Plaintiff bases his lawsuit do not 
+solicit consumers to purchase anything on their face, Foodsmart’s vendor, QCS, lacks the capacity 
+to even accept payment from consumers they call or to otherwise sign them up for Foodsmart’s 
+services except through the free CCHP program.  Ex. C at ¶ 8 (“QCS does not have the ability to 
+even collect payment directly from consumers.”).  That’s because no one can pay for the services 
+that were the subject of the Foodsmart CCHP calls, even indirectly, through a monthly premium 
+or copay because the program was offered as a free benefit to low-income and disabled individuals 
+through the state’s Medicaid program.  See also Okafor v. Vance, 952 F.3d 1775 (4th Cir. 2024). Ex. A at ¶ 13.  So even if Plaintiff had picked up any of 
+QCS’s few calls after he discontinued his CCHP plan and wanted Foodsmart’s services, QCS could 
+not have sold him anything.  Ex. C at ¶ 8.  It would have simply told him he wasn’t eligible for the 
+services they were calling about and ended the call, as explained above.  Id. at ¶¶ 6, 8.  This requires 
+summary judgment for Foodsmart, under the plain text of the TCPA and all the cases cited above. 
+In addition to contradicting the text of the TCPA, any other ruling would perversely hurt 
+the consumers the DNC registry is intended to protect.  Indeed, since tens of millions of numbers 
+are registered on the national DNC registry, such a ruling would prevent a large portion of the 17+ 
+million food insecure consumers in the U.S. from learning about potentially life -saving free 
+programs just because those individuals (or someone who used to have their number many years 
+ago) registered their number on the DNC registry because they didn’t want to receive auto warranty 
+sales calls.  The result would be fewer low-income CCHP members learning of the opportunity to 
+receive free nutritional assistance through their state funded insurance plans and higher healthcare 
+costs for taxpayers.  Congress passed the TCPA to curb sales solicitations; not those that notify 
+consumers of a free public benefit.  See H.R. Rep. No. 102–317, at 16 (1991) (the “most unwanted 
+telephone solicitations are commercial in nature”) (emphasis added).  
+For the uncontroverted reason that none of Foodsmart’s calls were “telephone solicitations” 
+under the TCPA, Plaintiff’s DNC claim fails as a matter of law. 
+B. Plaintiff’s urged interpretation of the DNC rules would violate the First 
+Amendment. 
+ 
+Finally, to the extent the TCPA’s DNC rules sweep in the healthcare speech at issue in this 
+case, they would violate the First Amendment.  The Court should adopt the plain language of the 
+DNC rules to avoid grappling with this constitutional question.   
+In explaining the distinction between commercial and noncommercial speech, the Supreme 
+Court has explained that commercial speech is “speech which does no more than propose a 
+commercial transaction.”  Virginia State Bd. of Pharmacy v. Virginia Citizens Consumer, 425 U.S. 
+748, 762 (1976) (quotation marks omitted); accord United States v. United Foods, Inc., 533 U.S. 
+405, 409 (2001).  Here, it is undisputed that the communications at issue did not “propose a 
+commercial transaction,” and they certainly did not “do[] no more than propose a commercial 
+transaction.”  Instead, they provided information about an  entirely free program that helped 
+recipients and the taxpayers who fund Medicaid by battling food insecurity, bettering treatment 
+outcomes, and reducing cost in the healthcare system.  Ex. A at ¶¶ 8-10; Exs. 1 & 2 to Ex. A. 
+Regulations that restrict non-commercial speech in a content-based manner are subject to 
+strict scrutiny.  Sorrell v. IMS Health Inc., 564 U.S. 522, 580 (2011).  And it is undisputed that the 
+DNC rules, under Plaintiff’s interpretation, would regulate non-commercial speech based on their 
+content.  A call or text that says “I am running for office and want your vote,” “Join us for worship 
+Sundays at 10 a.m.,” or “Come to our charity event and donate clothing” would be lawful.  But one 
+that says “sign up today to receive a free nutritional visit through your healthcare plan ” would 
+be illegal.  As the Supreme Court recently said in recently striking down another section of the 
+TCPA, “[t]hat is about as content-based as it gets.”  Barr v. Am. Ass’n of Political Consultants, 
+140 S. Ct. 2335, 2346 (2020) (pl. op.).   
+As such, Plaintiff’s interpretation of the DNC rules would need to survive strict scrutiny, 
+which they could not do.  In order to pass that test, a law must be the “least restrictive means” of 
+advancing a “compelling” governmental interest.  Sable Commc’ns of Cal. v. FCC, 492 U.S. 115, 
+126 (1989).  This test is so difficult to meet that the Supreme Court has labeled “content-based” 
+laws “presumptively unconstitutional.”  Reed v. Town of Gilbert, 576 U. S. 155, 163 (2015).  So 
+it’s unsurprising that an interpretation of the DNC rules that sweeps in the healthcare speech at 
+issue here would not pass either prong of the strict scrutiny test. 
+As to the first prong, the Supreme Court has described compelling interests as “‘interests 
+of the highest order’” and “‘vital state interests.’”  Willey v. Harris Cnty. Dist. Att’y, 27 F.4th 1125, 
+1131 (5th Cir. 2022) (quoting Williams-Yulee, 575 U.S. at 447; Fulton v. City of Phila., 141 S. Ct. 
+1868, 1881 (2021)).  They include such interests as “combating terrorism, protecting election 
+integrity, [and] remedying the effects of past unconstitutional race discrimination.”  Willey, 27 
+F.4th at 1131.  Preventing a limited subset of at-risk Americans from being annoyed by calls about 
+free healthcare services could thus never qualify as a “compelling” interest.   In the Matter of Rules 
+& Reguls. Implementing the Tel. Consumer Prot. Act of 1991, 20 F.C.C. Rcd. 3788, 3793 (2005) 
+(FCC recognizing that purpose of DNC rules is curbing “fraudulent and abusive solicitations” and 
+protective “privacy in the home”, which the FCC itself labels as “substantial” interests, not 
+compelling).  Plaintiff’s read of the DNC rules would be unconstitutional for this reason alone. 
+Nor could Plaintiff ever show that the DNC rules, as he interprets them, are the “least 
+restrictive means” of reducing annoying calls.  That is because the DNC rules unquestionably do 
+not apply to all types of calls that people find far more annoying than those about free services 
+available to them under their health plan.  That includes debt collection calls, political solicitations, 
+charitable donation calls for organizations that recipients may vehemently disagree with, and so 
+on.  After all, “[a] law cannot be regarded as protecting an interest of the highest order, and thus 
+as justifying a restriction upon truthful speech, when it leaves appreciable damage to that 
+supposedly vital interest unprohibited.”  Republican Party of Minn. v. White, 536 U.S. 765, 780 
+(2002) (quoting The Florida Star, 491 U.S. at 541–542 (Scalia, J., concurring in part)).  Plaintiff’s 
+interpretation of the DNC rules would therefore be unconstitutional for this additional reason. 
+The Court should avoid those constitutional problems by adopting the “narrow[er] reading” 
+of the TCPA’s definition of telephone solicitations that does not sweep in the communications at 
+issue.  Thompson v. W. States Med. See also Lindqvist v. Halvorsen, 975 F.3d 1741 (4th Cir. 2014). Ctr., 535 U.S. 357, 371 (2002).  Indeed, courts regularly adopt 
+the textually plausible statutory interpretation that avoids constitutional concerns.  Edward J. 
+DeBartolo Corp. v Florida Gul Coast Bldg. & Const. Trades Council , 485 U.S. 568 (1988) 
+(applying constitutional avoidance in First Amendment context).  Interpreting the TCPA’s 
+definition of “telephone solicitation” to exclude the informational notices Foodsmart sent to low-
+income healthcare members is not just “plausible,” but the only possible interpretation under the 
+plain language of the statute, the great weight of authority, and all the evidence, as explained above.  
+But were the Court to hold otherwise, the TCPA’s ban on commercial telephone solicitations 
+would not pass First Amendment scrutiny.2 
+C. Foodsmart isn’t vicariously liable for the calls at issue in this suit because it 
+had no knowledge of Plaintiff’s alleged do-not-call request. 
+ 
+Even assuming the telephone calls at issue are telephone solicitations (they aren’t), 
+Foodsmart cannot be directly or vicariously liable for them. 
+The TCPA imposes civil liability only on the party who “makes” or “initiates” a call, and 
+the FCC has clarified that a “person or entity ‘initiates’ a telephone call when it takes the steps 
+necessary to physically place a telephone call.”  In re Dish Network, LLC, 28 F.C.C. Rcd. 6574, 
+6582-83 (2013).  Here, it is undisputed that Foodsmart didn’t place the phone calls at issue in this 
+ 
+2 Because the Court should grant summary judgment in Foodsmart’s favor without reaching the 
+“question of the constitutionality” of the TCPA’s ban on commercial telephone solicitations in 
+light of the doctrine of constitutional avoidance, Foodsmart believes it is unnecessary to file a Rule 
+5.1 notice.  Fed. R. Civ. Proc. 5.1(a).  To the extent the Court believes otherwise, Foodsmart will 
+file and serve such a notice. 
+ 
+case; QCS did.  Ex. A at ¶ 20; Ex. C at ¶ 4.  Accordingly, Foodsmart is not directly liable for the 
+phone calls in this case. 
+So the only way Foodsmart could be liable for QCS’s calls is if plaintiff established one of 
+three theories of agency: actual agency, apparent authority, or ratification.  In re Dish Network, 28 
+F.C.C. Rcd. at 6584.  Actual authority exists when a principal expressly authorizes an agent and 
+the agent acts on the principal’s behalf and subject to the principal’s control.  Clarendon Nat’l Ins. 
+Co. v. Medina, 645 F.3d 928, 935 (7th Cir. 2011) (quotation omitted).  An agent does not have 
+actual authority to act contrary to the known wishes and instructions of its principal.  Select 
+Creations, Inc. v. Paliafito America, Inc., 830 F. Supp. 1223, 1234 (E.D. Wisc. 1993) (citing Old 
+Security Life Ins. v. Continental Illinois Nat. Bank, 740 F.2d 1384, 1391 (7th Cir. 1984).  Apparent 
+authority exists when a third-party reasonably relies on the principal’s manifestation of an agent’s 
+authority to the third party.  Am. Soc’y of Mech. Engineers v. Hydrolevel Corp., 456 U.S. 556, 
+565–74, (1982) (referencing the Restatement (Second) of Agency § 8 (1957)); Restatement (Third) 
+of Agency § 2.03 (2006).  Statements by an agent are insufficient to create apparent authority.  Id.  
+To prove ratification, a plaintiff must show that: (1) the act, was performed on behalf of the 
+principal, (2) the principal knew or reasonably should have known the material facts, (3) the 
+principal ratified the entire transaction; and (4) the principal had the requisite legal capacity.  See 
+Select Creations, Inc. v. Paliafito America, Inc., 830 F. Supp. 1223 (E.D. Wisc. 1993). 
+Here, Foodsmart cannot be vicarious liable for any of the calls QCS placed after Plaintiff 
+claims that he told QCS to stop calling (which was on QCS’s first call to Plaintiff).  That is because 
+QCS acted contrary to Foodsmart’s instructions when it did not subsequently place him on its 
+internal DNC list and transmit that request to Foodsmart.  Ex. A at ¶ 23.  Because calling Plaintiff 
+after that request was contrary to the express instructions Foodsmart gave to QCS, Foodsmart 
+cannot be liable for that conduct under any theory of actual authority.  See, e.g., Bridgeview Health 
+Care Ctr. Ltd. v. Clark, 2014 WL 7717584, at *6 (N.D. Il. Nov. 21, 2014), aff’d, 816 F.3d 935, 
+939 (7th Cir. 2016) (entering judgment for defendant in TCPA case on actual authority because, 
+while vendor was permitted to send faxes, the “ evidence presented does not establish that 
+[defendant] expressly or impliedly authorized B2B or any B2B representative to send facsimile 
+ads outside of a twenty-mile radius”); Cordoba v. DIRECTV, LLC, No. 1:15-CV-3755-MHC, 2021 
+WL 6841777, at *5 (N.D. Ga. Feb. 12, 2021) (granting summary judgment to defendant in TCPA 
+case and finding no actual authority because telemarketing vendor was not permitted to make cold 
+calls); Paldo Sign & Display Co. v. Wagener Equities, Inc., 825 F.3d 793, 798 (7th Cir. 2016) (no 
+actual authority in TCPA case where communications at issue prohibited by alleged 
+principal);  Jones v. Royal Admin. Servs., Inc., 887 F.3d 443, 450 (9th Cir. 2018) (same); Keating 
+v. Peterson’s Nelnet, LLC, 615 F. App’x 365, 372 (6th Cir. 2015) (same). 
+Nor can Plaintiff prevail under a theory of apparent authority because the principal 
+(Foodsmart) made no representations about QCS to Plaintiff, as required to prevail under a theory 
+of apparent authority.  Cordoba, 2021 WL 6841777, at *7 (quoting Franza v. Royal Caribbean 
+Cruises, Ltd., 772 F.3d 1225, 1252 (11th Cir. 2014)).  And Plaintiff also cannot show that he 
+“reasonably relied, to his detriment, on any apparent authority with which he alleges [Foodsmart] 
+cloaked [QCS].”  Warciak v. Subway Restaurants, Inc., 949 F.3d 354, 357 (7th Cir. 2020) 
+(affirming judgment in favor of defendant on TCPA claim).  That further forecloses any apparent 
+authority argument as to the telephone calls made by QCS after Plaintiff claims he told it to stop 
+calling. 
+Finally, Plaintiff cannot establish liability via ratification for those calls because Foodsmart 
+didn’t condone the alleged conduct with knowledge of the material facts—i.e., that Plaintiff stated 
+to QCS that he wasn’t interested in Foodsmart’s services and that QCS called him 
+anyway.  See Callier v. Wide Merch. Inv., Inc., --- F. Supp. 3d ----, 2023 WL 3167440, at *6 (W.D. 
+Tex. Apr. 27, 2023) (no ratification in TCPA case; ratification only exists where a defendant 
+“fail[s] to object to [] or repudiate” an act when it has full “knowledge of all material 
+facts”).  Moreover, Foodsmart received no benefit from the calls to Plaintiff, which independently 
+precludes a finding of ratification.  Clark, 2014 WL 7717584, at *6, aff’d, 816 F.3d 935, 939 (7th 
+Cir. 2016) (holding that Plaintiff failed to prove ratification in TCPA case because there was no 
+evidence that defendant benefited from faxes “sent outside of the twenty-mile radius by B2B, nor 
+did he subsequently acquiesce to B2B having sent facsimiles outside of the twenty -mile 
+radius”); Cordoba, 2021 WL 6841777, at *7 (no benefit where plaintiff failed to identify a single 
+sale made through the alleged illegal cold calling). 
+Accordingly, even assuming the calls at issue are telephone solicitations (which they 
+aren’t), Foodsmart isn’t liable, and it is entitled to summary judgment on those grounds as well. 
+D. Plaintiff’s internal DNC claim fails because Foodsmart and QCS implemented 
+compliant internal DNC procedures. 
+ 
+Finally, and although the Court need not reach this issue either because the calls at issue 
+were not “telephone solicitations” within the meaning of the TCPA, Plaintiff’s internal DNC claim 
+also fails under the DNC safe harbor provision of the TCPA, which provides that:  
+It shall be an affirmative defense in any action brought under this paragraph that 
+the defendant has established and implemented, with due care, reasonable practices 
+and procedures to effectively prevent telephone solicitations in violation of the 
+regulations prescribed under this subsection. 
+ 
+47 USC § 227(C)(5)(c).  The regulations promulgated under that section provide further detail on 
+the “procedures” a company must “implement” to have a complete defense to an internal DNC 
+claim.  47 C.F.R. § 64.1200(d) (detailing procedures that must be implemented).   
+Here, both QCS and Foodsmart complied with these regulations to a T, implementing 
+procedures for: (1) maintaining internal, written DNC policies that are available on demand; (2) 
+training employees on the existence and use of the DNC policy; (3) honoring all DNC requests; 
+(4) maintaining records of all requests not to be contacted and honoring those requests for at least 
+5 years from the time they are made; and (5) identifying on each call, the name of the individual 
+caller making the call, that the call was made on behalf of Foodsmart, and providing the telephone 
+number and address at which the entity could be contacted, if requested.  See Ex. A at ¶¶ 27-31; 
+Ex. C at ¶¶ 11-15.   
+Foodsmart and QCS’s implementation of these procedures is dispositive of Plaintiff’s 
+internal DNC claim, as any call to Plaintiff after a legitimate DNC request was exactly the sort of 
+one-off, manual error that the safe harbor was designed to protect businesses with proper 
+procedures against.  See Simmons v. Charter Communications, Inc., 222 F. Supp. 3d 121, 140 (D. 
+Conn. 2016), aff’d 686 Fed. Appx. 48 (2d Cir. 2016) ( in affirming summary judgment for 
+defendant, noting that “[t]he mere fact that [plaintiff] received a call after his [] request is not a 
+subsection (d)(3) violation” and “as long as Defendant had a proper procedure in place to 
+implement its DNC policy, no reasonable jury could find for [plaintiff]”); Cordoba v. DIRECTV, 
+LLC, 942 F.3d 1259, 1265 (11th Cir. 2019) (“Telemarketers can avoid liability for any violation if 
+they can show that the violation was a mistake and that they meet minimum compliance 
+standards”).  Foodsmart is entitled to summary judgment on Plaintiff’s internal DNC claim for this 
+additional reason. 
+V. CONCLUSION 
+ 
+As set forth above, the uncontroverted facts establish that Plaintiff’s claims fail.  The calls 
+at issue are not subject to the TCPA’s national or internal DNC rules because they were purely 
+informational and did not solicit Plaintiff to purchase anything.  And even if they did, Foodsmart 
+isn’t liable to Plaintiff under any theory of direct or vicarious liability because QCS placed all the 
+calls at issue and didn’t inform Foodsmart that Plaintiff (according to him) requested not to be 
+contacted further.  Finally, Plaintiff’s internal DNC claim fails because it is undisputed that both 
+Foodsmart and QCS had the requisite internal DNC policies to avail themselves of the internal 
+DNC rules’ safe harbor.  Foodsmart respectfully requests the Court grant its motion for summary 
+judgment and enter judgment in its favor on Plaintiff’s claims. 
+Dated:  November 7, 2023 
+ 
+ Respectfully submitted, 
+ /s/ Ryan D. Watstein  
+Ryan D. Watstein 
+James M. Ruley 
+WATSTEIN TEREPKA LLP 
+1055 Howell Mill Rd. 8th Floor 
+Atlanta, Georgia 30318 
+Tel: (404) 782-0695 
+E-mail: ryan@wtlaw.com  
+E-mail: jruley@wtlaw.com  
+ 
+Maria DelPizzo Sanders 
+State Bar No. 1031037 
+von Briesen & Roper, s.c. 
+411 East Wisconsin Avenue, Suite 1000 
+Milwaukee, WI 53202 
+Telephone: 414.221.6652 
+E-mail: maria.sanders@vonbriesen.com 
+ 
+Attorneys for Defendant Zipongo, Inc. d/b/a 
+Foodsmart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CERTIFICATE OF SERVICE 
+ 
+I hereby certify that on November 7, 2023, I caused to be electronically filed the foregoing 
+document in the United States District Court for the Eastern District of Wisconsin, with notice of 
+same being electronically served by the CM/ECF system, to all attorneys of record. 
+/s/ James M. Ruley    
+James M. Ruley 
