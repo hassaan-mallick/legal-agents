@@ -15,10 +15,10 @@ from harness.runners.citations.resolve import HOST, Resolution, Resolver
 
 
 def make_resolver(agent: Agent, *, cache_dir: Path | None, offline: bool,
-                  egress=None) -> Resolver:
+                  egress=None, backend: str = "auto") -> Resolver:
     assert not agent.spec.egress.document_may_leave
     assert HOST in agent.spec.egress.allow, "agent.yaml egress.allow must include courtlistener"
-    return Resolver(egress=egress, cache_dir=cache_dir, offline=offline)
+    return Resolver(egress=egress, cache_dir=cache_dir, offline=offline, backend=backend)
 
 
 def run_document(agent: Agent, doc: Document, resolver: Resolver, *,

@@ -165,8 +165,10 @@ def cmd_run(args) -> int:
 
         egress = EgressLog(allow=set(agent.spec.egress.allow))
         resolver = make_resolver(agent, cache_dir=agent.evals_dir / "cache" / "courtlistener",
-                                 offline=args.replay, egress=egress)
-        meta.update(provider="none", model="none", endpoint="courtlistener (citation triples only)")
+                                 offline=args.replay, egress=egress,
+                                 backend=args.backend or os.environ.get("LA_CL_BACKEND", "auto"))
+        meta.update(provider="none", model="none",
+                    endpoint=f"courtlistener {resolver.backend} (citation triples only)")
         from harness.runners.citations.resolve import RateLimited
 
         done = 0
@@ -590,6 +592,8 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--route", choices=["best-quality", "zdr", "local", "split"])
     r.add_argument("--effort", choices=["low", "medium", "high"])
     r.add_argument("--replay", action="store_true", help="citations: cached lookups only")
+    r.add_argument("--backend", choices=["auto", "search", "lookup"],
+                   help="citations: CourtListener backend (search = anonymous, IP-throttled; lookup = token)")
     r.set_defaults(fn=cmd_run)
 
     e = sub.add_parser("eval", help="run the golden set, score, write results")

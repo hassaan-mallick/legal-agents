@@ -103,7 +103,7 @@ class Resolver:
 
     # -- politeness -------------------------------------------------------
     def _throttle(self) -> None:
-        gap = MIN_SECONDS_BETWEEN_CALLS if self.token else ANON_SECONDS_BETWEEN_CALLS
+        gap = MIN_SECONDS_BETWEEN_CALLS if (self.token and self.backend == "lookup") else ANON_SECONDS_BETWEEN_CALLS
         elapsed = time.monotonic() - self._last_call
         if elapsed < gap:
             time.sleep(gap - elapsed)
