@@ -1,0 +1,576 @@
+UNITED STATES DISTRICT COURT 
+EASTERN DISTRICT OF KENTUCKY 
+NORTHERN DIVISION 
+AT COVINGTON 
+ 
+NICHOLAS SANDMANN, by and 
+through his parents and natural guardians, 
+TED SANDMANN and JULIE 
+SANDMANN, 
+Plaintiff, 
+v. 
+ABC NEWS, INC., ABC NEWS 
+INTERACTIVE, INC., and THE WALT 
+DISNEY COMPANY, 
+Defendants. 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+Case No.  2:20-CV-00025-WOB-CJS 
+Judge William O. Bertelsman 
+Magistrate Judge Candace J.  Smith 
+ORAL ARGUMENT REQUESTED 
+ 
+ 
+ 
+ABC DEFENDANTS’ SUPPLEMENTAL MEMORANDUM OF LAW IN 
+SUPPORT OF MOTION FOR SUMMARY JUDGMENT 
+ 
+ 
+Robert B. Craig 
+TAFT STETTINIUS & HOLLISTER LLP 
+50 East RiverCenter Blvd., Suite 850 
+Covington, KY 41011-1683 
+Phone: (859) 547-4300 
+Fax: (513) 381-6613 
+craigr@taftlaw.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Nathan Siegel (pro hac vice) 
+Meenakshi Krishnan (pro hac vice) 
+DAVIS WRIGHT TREMAINE LLP 
+1301 K Street NW, Suite 500 
+Washington, DC 20005 
+Phone: (202) 973-4237 
+Fax: (202) 973-4437 
+nathansiegel@dwt.com 
+meenakshikrishnan@dwt.com  
+ 
+Attorneys for Defendants 
+ABC News, Inc., ABC News Interactive, 
+Inc., and The Walt Disney Company 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 1 of 20 - Page ID#: 1173
+ 
+ i 
+TABLE OF CONTENTS 
+Page 
+INTRODUCTION .......................................................................................................................... 1 
+STATEMENT OF FACTS ............................................................................................................. 1 
+I. THE ABC ARTICLES’ PRESENTATION OF THE BLOCKING 
+STATEMENTS REINFORCE THAT THEY ARE NON-ACTIONABLE 
+OPINION. ........................................................................................................................... 3 
+A. The Blocking Statements Are Presented as One of Contrasting 
+Perspectives on the Same Confusing Events. ......................................................... 3 
+B. The Articles Disclosed the Underlying Video of the Confrontation So 
+Readers Could Judge For Themselves Whether They Agreed with Phillips 
+or Sandmann. .......................................................................................................... 6 
+II. READ IN THE CONTEXT OF EACH ABC ARTICLE AS A WHOLE, THE 
+BLOCKING STATEMENTS ARE NOT DEFAMATORY. ............................................. 9 
+A. Each ABC Article Must Be Analyzed as a Whole to Assess Whether in 
+Context the Blocking Statements Convey the Alleged Defamatory 
+Meaning. ............................................................................................................... 10 
+B. When Considered in Context of the ABC Articles, the Blocking 
+Statements Do Not Convey the Alleged Defamatory Meaning. ........................... 10 
+CONCLUSION ............................................................................................................................. 14 
+ 
+  
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 2 of 20 - Page ID#: 1174
+ 
+ ii 
+TABLE OF AUTHORITIES 
+ Page(s) 
+Cases 
+Ayyadurai v. Floor64, Inc., 
+270 F. Supp. 3d 343 (D. Mass. 2017) ........................................................................................7  
+Better Built Garages, Inc. v. Kentucky New Era, Inc., 
+Nos. 2007-CA-001432-MR, 2007-CA-001754-MR, 2008 WL 4531037 
+(Ky. Ct. App. Oct. 10, 2008)..............................................................................................10 , 14  
+Brokers’ Choice of Am., Inc. v. NBC Universal, Inc., 
+861 F.3d 1081 (10th Cir. 2017) .............................................................................................6, 9 
+Chapin v. Knight-Ridder, Inc., 
+993 F.3d 1087 (4th Cir. 1993) .................................................................................................14  
+Chatterjee v. CBS Corp., 
+No. 6:19-CV-212-REW, 2020 WL 592324 (E.D. Ky. Feb. 6, 2020) ......................................10  
+Croce v. N.Y. Times Co., 
+930 F.2d 787 (6th Cir. 2019) ...................................................................................................14  
+Edwards v. Schwartz, 
+378 F. Supp. 3d 468 (W.D. Va. 2019) .......................................................................................7  
+Evanger’s Cat & Dog Food Co., Inc. v. Thixton, 
+412 F. Supp. 3d 889 (N.D. Ill. 2019) .........................................................................................6 
+Gahafer v. Ford Motor Co., 
+328 F.3d 859 (6th Cir. 2003) ...................................................................................................10  
+Janklow v. Newsweek, Inc., 
+759 F.2d 644 (8th Cir. 1985) ...................................................................................................14  
+Lassiter v. Lassiter, 
+456 F. Supp. 2d 876 (E.D. Ky. 2006), aff’d, 280 F. App’x 503 (6th Cir. 2008) .......................3 
+McCall v. Courier–Journal and Louisville Times Co., Ky., 
+623 S.W.2d 882 (1981) ........................................................................................................3, 10  
+Nicosia v. De Rooy, 
+72 F. Supp. 2d 1093 (N.D. Cal. 1999) .......................................................................................7  
+Paterson v. Little, Brown & Co., 
+502 F. Supp. 2d 1124 (W.D. Wash. 2007) .................................................................................6 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 3 of 20 - Page ID#: 1175
+ 
+ iii 
+Riley v. Harr, 
+292 F.3d 282 (1st Cir. 2002) ......................................................................................................6 
+Sandmann v. WP Co. LLC, 
+401 F. Supp. 3d 781 (E.D. Ky. 2019) ............................................................................2, 10 , 13  
+Underwager v. Channel 9 Australia, 
+69 F.3d 361 (9th Cir. 1995) .......................................................................................................6 
+Van Buskirk v. N.Y. Times Co., 
+325 F.3d 87 (2d Cir. 2003).......................................................................................................14  
+Yancey v. Hamilton, 
+786 S.W.2d 854 (Ky. 1989) .......................................................................................................3 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 4 of 20 - Page ID#: 1176
+INTRODUCTION  
+This Memorandum supplements the Joint Memorandum filed by all Defendants to address 
+two additional arguments that are specific to the ABC news reports at issue in Plaintiff Nicholas 
+Sandmann’s case against the ABC Defendants (the “ABC Articles”).   
+First, the manner in which the Blocking Statements are reported within the context of each 
+of the ABC Articles further reinforces the conclusion set forth in the Joint Memorandum that they 
+are non-actionable opinion.  The ABC Articles reported multiple statements about blocking by 
+Nathan Phillips, Sandmann, and others, and reported all of them as conflicting perspectives on the 
+same confusing events.  The ABC Articles also linked to and embedded lengthy videos and 
+screenshots of the actual incident, including the very videos Sandmann now relies on to support 
+his position that he was not blocking Phillips.  Readers could therefore judge for themselves which 
+perspective they agreed with.   
+Second, now that the case is at the summary judgment stage, Sandmann may not rest on 
+the pleadings alone, and the full context of the ABC Articles must be considered and read as a 
+whole to determine whether they convey the defamatory meaning alleged in the Complaint.  That 
+context includes not only the text of the ABC Articles, but also their embedded television 
+broadcasts and other videos to which they link.  When read as a whole, the ABC Articles do not 
+assert that Sandmann blocked Phillips or thereby impute racist conduct to Sandmann, and so do 
+not convey the alleged defamatory meaning.  Rather, the ABC Articles were all dated 24-48 hours 
+after the Blocking Statements were first published in The Washington Post, and the context in 
+which ABC published them was quite different.  The gist of the ABC Articles was that new 
+information had since emerged that called into question those earlier news reports about the 
+incident, including the Blocking Statements.    
+STATEMENT OF FACTS 
+This action concerns four Articles that were published online.  Docs. 1-8, 1-9, 1-10 & 1-11.  
+Three of the ABC Articles also include a television news report that is embedded within each article.  
+Complaint ¶¶ 204, 216, 226; Declaration of Erik MacRobbie (“MacRobbie Decl.”) Exs. 1-A (Good 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 5 of 20 - Page ID#: 1177
+Morning America report embedded in First Article (“First GMA Story”)), 2-A (Good Morning 
+America report embedded in Second Article (“Second GMA Story”)); Declaration of Tim Letbetter 
+(“Letbetter Decl.”) Ex. 3-A (Eyewitness News 7 report embedded in Third Article (“ABC7 
+Story”).1  The First and Second Articles and their respective embedded television reports were 
+published by ABC News, while the Third and Fourth Articles, along with the television report 
+embedded in the Third, were reported by ABC’s local New York television station.  In addition to 
+embedded television news reports, the Articles also contain clips from or hyperlinks to video posted 
+on other websites, such as YouTube, Twitter, and Instagram, including videos of the incident itself 
+that had been posted on social media.  For example, in the fourth paragraph of the First Article, the 
+words “video shot inches from the other side of Phillips’ face” are in blue and underlined (indicating 
+a hyperlink), and if the reader clicks on any of those words it takes them to a 4-minute video posted 
+on YouTube.  Doc. 1-8 at 1; MacRobbie Decl. Ex. 1-B.2   
+The Complaint alleges that the ABC Articles were among the first to report the story 
+(Compl. ¶ 159), but that is simply not so.  Rather, the First, Second and Fourth Articles are dated 
+January 20, 2019, which was two days after the incident and a day after the Blocking Statements 
+were first reported in The Washington Post.  See Sandmann v. WP Company LLC, No. 2:19-cv-19, 
+Doc. 1-5 at 3 (filed Feb. 19, 2019).  The Third Article is dated a day later, on January 21, 2019.  
+The First and Second Articles quote the Blocking Statements verbatim and attribute them to The 
+Washington Post’s earlier report.  Doc. 1-8 at 3-4; Doc. 1-9 at 3.3 
+ 
+1 To be clear about what the term “embedded” means, on the ABC websites upon which the articles were 
+published, a television video report is often placed within the body of an article, under the article’s headlines, 
+and readers can access the video story by clicking on the white arrow that is prominently displayed in the 
+center of the screen.  Each of the embedded reports is therefore alleged to be and is an integral part of ABC’s 
+reporting in the Articles.  See also Compl. ¶¶ 204, 216, 226. 
+ 
+2 A USB flash drive containing true and correct copies of the three television reports, as well as the 
+hyperlinked and embedded videos, is being conventionally filed with the Clerk of Court.  For the 
+convenience of the Court, counsel has prepared transcripts of those reports, which are attached to ABC’s 
+Memorandum as Exhibits 1-3.   
+ 
+3 The Third and Fourth Articles quote a materially similar statement from Phillips to the Associated Press.  
+See Doc. 1-10 at 4; Doc. 1-11 at 4 (“At one point, he [Phillips] said, he sought to ascend to the Lincoln 
+statue and ‘pray for our country.’  Some students backed off, but one student wouldn’t let him move, he 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 6 of 20 - Page ID#: 1178
+I. THE ABC ARTICLES’ PRESENTATION OF THE BLOCKING STATEMENTS 
+REINFORCE THAT THEY ARE NON-ACTIONABLE OPINION. 
+ 
+Kentucky law provides that when assessing the fact-opinion distinction in cases involving 
+news reports, “alleged defamatory statements ‘should be construed as a whole’” within the broader 
+publication.  Yancey v. Hamilton, 786 S.W.2d 854, 857 (Ky. 1989) (quoting McCall v. Courier–
+Journal and Louisville Times Co., Ky., 623 S.W.2d 882 (1981)); Lassiter v. Lassiter, 456 F. Supp. 
+2d 876, 881 (E.D. Ky. 2006) (key question is “whether a reasonable person reading the statement 
+in the context of the whole article” would believe it to be opinion)(citations omitted), aff’d, 280 F. 
+App’x 503 (6th Cir. 2008).  Here, when read as a whole, the ABC Articles did not report the 
+Blocking Statements as the factual account of what happened days earlier.  Rather, they reported 
+them as one of several perspectives about whether Sandmann blocked Phillips, and they also 
+provided readers with access to videos of the incident that enabled them to judge those perspectives 
+for themselves.      
+A. The Blocking Statements Are Presented as One of Contrasting Perspectives on the 
+Same Confusing Events. 
+ 
+The thrust of ABC’s reporting was that the encounter that took place two days earlier was 
+the product of a series of confusing events that spurred many “dueling accounts” of a hotly disputed 
+controversy.  Doc. 1-10 at 4 (Third Article reports that “[t]he dueling accounts emerged as the 
+nation picked apart footage from dozens of cellphones that recorded the incident.”); see also 
+MacRobbie Decl. Ex. 1-A at 01:36-01:39 & Ex. 1 at 1 (“Overnight, new video calling into question 
+just how this encounter began.”).  For example, the First GMA story embedded in the First Article 
+framed its report by explaining that there was “[n]ew fallout and confusion this morning after this 
+ 
+[Phillips] added.”); Compl. ¶ 31 (statements ABC published were all “very similar, if not identical to” the 
+Blocking Statements).    
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 7 of 20 - Page ID#: 1179
+upsetting incident” and ended with anchor Dan Harris opining that the situation was “[m]ore 
+complicated than it appears” and the reporter agreeing, “[d]efinitely complicated and that’s a little 
+bit of reassurance.”  MacRobbie Decl. Ex. 1-A at 00:30-00:35; 03:00-03:04 & Ex. 1.  The Second 
+GMA Story within the Second Article reported that “video is raising new questions about what 
+really happened,” and concluded with anchor George Stephanopoulos opining that this was a 
+“complicated story.”  MacRobbie Decl. Ex. 2-A at 00:11-00:20; 02:10-02:20 & Ex. 2 at 1.   
+The Eyewitness News Story within the Third Article began by showing video of a student 
+saying “I’m so confused,” Letbetter Decl. Ex. 3-A at 00:23-00:25 & Ex. 3 at 1, and Sandmann’s 
+own statement emphasized that “I was startled and confused as to why he had approached me.”  
+Doc. 1-9 at 2.  The ABC Articles repeatedly report that both Phillips and Sandmann said they were 
+trying to accomplish the same thing – to defuse the situation – which clearly indicated that each 
+had a different perspective on what the situation was and what was needed to try to calm it. See, 
+e.g. Doc. 1-9 at 5; 1-10 at 4, 1-11 at 3 (reporting that Sandmann said “I believe that by remaining 
+motionless and calm, I was helping to diffuse the situation”); MacRobbie Decl. Ex. 2-A at 01:32-
+01:37 & Ex. 2 at 1 (reporting “Phillips later telling “The Detroit Free Press” he was trying to calm 
+the situation.”); Doc. 1-10 at 3 (“[Phillips] says his intent was to stop potential violence” by 
+approaching the students); Doc. 1-11 at 2 (Phillips said “he felt compelled to get between two 
+groups with his ceremonial drum to defuse a confrontation.”).  The Third Article also explained 
+that “video seems to show the students being verbally attacked first [by the BHI),” so while earlier 
+videos had showed Sandmann “seemingly taunting” Phillips, Sandmann’s own explanation along 
+with other videos could relay a different take on what happened.  Doc. 1-10 at 2 (emphasis added).; 
+see also Doc. 1-11 at 4 (another Native American present said “[h]e briefly felt something special 
+happen as they sang.”) (emphasis added).    
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 8 of 20 - Page ID#: 1180
+Consistent with that theme, each of the Articles explicitly juxtaposed Phillips’ and 
+Sandmann’s statements about blocking and presented them as contrasting perspectives on the same  
+encounter.  In fact, the Articles do not even present their views in any consistent order – the Second 
+and Fourth Articles present Sandmann’s perspective before they report about what Phillips had 
+said the day before.4  Moreover, the way Sandmann expressed his views as reported in the Articles 
+made clear that the situation was a matter of perspective:  “I never felt like I was blocking anyone”; 
+“I believed that by remaining motionless and calm I was helping to diffuse the situation”; “I did 
+not see anyone try to block his path”; “I realized everyone had cameras and that perhaps a group 
+of adults was trying to provoke a group of teenagers into a larger conflict”; “I was not intentionally 
+making faces at the protestor.”  Docs. 1-8 at 4; 1-9 at 4-5; 1-10 at 3-4; 1-11 at 3 (emphases added).  
+ABC also reported a lengthy quote from another Covington Catholic (“CovCath”) student, whose 
+take on the incident was that Sandmann “didn’t say anything or move – he just stood there.”  Docs. 
+1-8 at 4; 1-11 at 4.  And the Third Article reinforced that Phillips and Sandmann expressed 
+different, subjective impressions of the same events: “Phillips maintains that he felt the kids were 
+mocking him and being rude. Sandmann says it was the adults using hateful words and trying to 
+prov[o]ke the kids, not the other way around.”  Doc. 1-10 at 4 (emphasis added); see also Doc. 1-
+11 at 2 (Phillips “felt compelled to get between two groups with his ceremonial drum”) (emphasis 
+added).  
+By toggling back and forth among the perceptions of Phillips, Sandmann, and other 
+onlookers, the ABC Articles reported them as contrasting views of the same series of confusing 
+events.  Courts assessing similar reporting in the context of impassioned statements on all sides of 
+a public controversy have held that particular statements made by each side should be treated as 
+ 
+4 See Docs. 1-9 at 2-3; 1-11 at 3-4.  
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 9 of 20 - Page ID#: 1181
+opinion.  See, e.g., Brokers’ Choice of Am., Inc. v. NBC Universal, Inc., 861 F.3d 1081, 1137 (10th 
+Cir. 2017) (comments protected as opinion where in part “based on facts presented to the viewer 
+in a context of opposing viewpoints”); Riley v. Harr, 292 F.3d 282, 291-92 (1st Cir. 2002) (author’s 
+inclusion of lawyer’s allegation that plaintiff lied under oath was not a statement of fact because 
+the book “makes plain both the strengths and the weaknesses of the case against Riley”); 
+Underwager v. Channel 9 Australia, 69 F.3d 361, 366-67 (9th Cir. 1995) (because “the format of 
+the Sixty Minutes Program is an exploration of both sides of controversial topics and individuals,” 
+dueling statements “on opposite sides of the heated debate” would be understood as opinion); 
+Paterson v. Little, Brown & Co., 502 F. Supp. 2d 1124, 1136 (W.D. Wash. 2007) (author’s 
+“reproduction of [defendant’s] statements in the course of presenting both sides of the argument 
+is thus protected by the First Amendment” as non-actionable opinion).   
+In short, because the ABC Articles presented the Blocking Statements as one perspective 
+on the underlying events, they reinforce the conclusion that they were inherently subjective and 
+summary judgment is warranted on that basis alone.  
+B. The Articles Disclosed the Underlying Video of the Confrontation So Readers Could 
+Judge For Themselves Whether They Agreed with Phillips or Sandmann. 
+ 
+Moreover, a critical element of the context in which the ABC Articles presented the 
+statements of Phillips, Sandmann, and others about blocking is that they also included, embedded, 
+and/or hyperlinked to videos (and screenshots thereof) of the very moments to which Phillips, 
+Sandmann, and a fellow student were referring when they expressed their views about whether 
+Sandmann blocked Phillips.  It is well-established that hyperlinks to underlying facts are 
+considered part of the disclosed factual context for purposes of evaluating the fact/opinion 
+distinction.  See, e.g., Evanger’s Cat & Dog Food Co., Inc. v. Thixton, 412 F. Supp. 3d 889, 902 
+(N.D. Ill. 2019) (posting of “relevant links and content” constituted facts underlying protected 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 10 of 20 - Page ID#:
+1182
+opinion, including a photograph of the product label at issue in the article); Edwards v. Schwartz, 
+378 F. Supp. 3d 468, 481 (W.D. Va. 2019) (hyperlinks to online materials, including an audio 
+recording, considered to be disclosed facts); Ayyadurai v. Floor64, Inc., 270 F. Supp. 3d 343, 360 
+(D. Mass. 2017) (hyperlinks to “relevant background information” formed part of “full factual 
+basis for [defendant’s] opinion”); Nicosia v. De Rooy, 72 F. Supp. 2d 1093, 1103 (N.D. Cal. 1999) 
+(posting sufficiently disclosed the underlying facts behind claim of plaintiff’s alleged 
+embezzlement by hyperlinking to other articles).  Here, the Articles pointed readers to videos that 
+showed the moments before Sandmann and Phillips came face-to-face, the moments when they 
+came face-to-face, and much of the ensuing standoff itself.  Thus, readers could assess for 
+themselves whether they thought that Sandmann blocked Phillips and “wouldn’t allow [him] to 
+retreat,” or whether readers agreed that Sandmann was just “remaining motionless and calm” to 
+help “defuse the situation,” as the Articles quoted Sandmann stating.   
+In fact, the ABC Articles gave readers access to key videos that Sandmann now relies on 
+in this lawsuit to try to support his position that he was not blocking Phillips.  For example, the 
+Articles report that Sandmann said in his statement:  “I never felt like I was blocking the Native 
+American protestor.  He did not make any attempt to go around me.”  Docs. 1-10 at 3; 1-11 at 3 
+(emphasis added).  As explained in the Joint Memorandum, in this lawsuit Sandmann echoes that 
+position.  He maintains that he did not block Phillips because shortly after the two began facing 
+off, some students who were standing to Sandmann’s left moved to the side.  Sandmann maintains 
+that Phillips could then have maneuvered around him.  At his deposition, Sandmann pointed to 
+excerpts from Video 2 which he claims supports his position.  Joint Memorandum (“Jt. Memo”) 
+Ex. B, S.D. 223:14-225:16 (discussing Video 2 at 01:34). 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 11 of 20 - Page ID#:
+1183
+But readers of the ABC Articles could watch that video and others and decide for 
+themselves whether they think it supports Sandmann’s “fe[eling]” (as he said in his statement at 
+the time) that he was not blocking Phillips, or whether they are more inclined to see it from 
+Phillips’ point of view.  Both the First and Second Articles linked to Video 2 in its entirety (the 
+First directly, and the Second by way of linking to the First), which includes not only the key 
+moments Sandmann points to, but more broadly begins about 40 seconds before Phillips 
+approached Sandmann and continues three minutes into the standoff.  Docs. 1-8 at 2 (linking to 
+MacRobbie Decl. Ex. 1-B); Doc. 1-9 at 2 (linking to First Article).  The Third and Fourth Articles 
+also embed the entire Video 8 (the Fourth directly and the Third by way of linking to the Fourth), 
+which starts about 15 seconds before Phillips reaches Sandmann and also shows how and when 
+the same space opened up.  Docs 1-11 at 2 (embedding Letbetter Decl. Ex. 4-A at 00:30-01:20); 
+Doc. 1-10 at 3 (linking to Fourth Article).  In addition, the embedded television news reports 
+showed multiple excerpts from those videos showing the space Sandmann points to, including 
+extensive excerpts from Video 16, which also shows that spacing.  MacRobbie Decl. Ex. 1-A at 
+0:34-40; 01:46-01:55; MacRobbie Decl. Ex. 2-A at 00:48-00:51, 01:08-01:18; Letbetter Decl. Ex. 
+3-A at 02:13-02:15.  For example: 
+ 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 12 of 20 - Page ID#:
+1184
+MacRobbie Decl. Ex. 2-A at 01:11; compare with Docs. 61-62, Video 16 at 00:07.  The Articles 
+even also included screenshots showing that same space.  Docs. 1-8 at 3, 5; 1-9 at 3.  
+For all these reasons, the Blocking Statements are non-actionable opinion. 
+II. READ IN THE CONTEXT OF EACH ABC ARTICLE AS A WHOLE, THE 
+BLOCKING STATEMENTS ARE NOT DEFAMATORY.   
+ 
+While the fact-opinion distinction and the element of substantial truth (as discussed in the 
+Joint Memorandum) each independently provide sufficient grounds to enter judgment for ABC, 
+summary judgment is also warranted for the additional reason that when read as a whole, the ABC 
+Articles do not convey the defamatory meaning Sandmann alleges in his pleadings.   
+When ABC raised this issue in its motion to dismiss, the Court reviewed the allegations of 
+the Complaint and noted that “Sandmann alleges that that defendants published a factual, 
+defamatory statement by Phillips, period.”  Doc. 36 at 4.  The Court also noted that “[t]he 
+Complaint alleges that this statement [the Blocking Statements] . . . conveys a defamatory meaning 
+because it imputes to Sandmann racist conduct.”  Id. at 3.  On the basis of those allegations, the 
+Court found that “it continues to hold that opinion [that the Blocking Statements are libelous] for 
+the reason stated in such preceding cases,” citing its prior decisions addressing motions to dismiss 
+in The Washington Post, CNN and NBC cases.  Id. at 2.      
+However, assuming arguendo that the Complaint’s allegations were sufficient to survive a 
+motion to dismiss, they cannot survive summary judgment.  At this stage, governing defamation 
+principles require that all elements of the ABC Articles be considered as a whole, including all 
+their associated videos, to assess whether they convey the defamatory meaning the Complaint 
+alleges.  When reviewed as a whole, the gist of the ABC Articles was that new evidence had 
+emerged, including other videos and recent statements by Sandmann and others, which raised 
+questions about earlier accounts that had been published shortly after one video had gained traction 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 13 of 20 - Page ID#:
+1185
+on social media.  The ABC Articles quoted the Blocking Statements as part of the initial reporting 
+that was being called into question – not as the definitive account (be it fact or opinion) of what 
+happened several days earlier, and certainly not to impute racist conduct to Sandmann.       
+A. Each ABC Article Must Be Analyzed as a Whole to Assess Whether in Context the 
+Blocking Statements Convey the Alleged Defamatory Meaning. 
+ 
+It is well-settled Kentucky law that to assess whether challenged statements are capable of 
+the defamatory meaning a plaintiff alleges, court must examine the statements in the context of the 
+entire publication.  See, e.g., Sandmann v. WP Co. LLC, 401 F. Supp. 3d 781, 790 (E.D. Ky. 2019) 
+(“Washington Post”) (“[T]he Court must ‘analyze the article in its entirety and determine if its gist 
+or sting is defamatory.’”) (quoting McCall, 623 S.W.2d at 884); Chatterjee v. CBS Corp., No. 
+6:19-CV-212-REW, 2020 WL 592324, at *8 (E.D. Ky. Feb. 6, 2020) (“As Kentucky law instructs, 
+the Court assesses the language within the overall published piece.”); Better Built Garages, Inc. v. 
+Kentucky New Era, Inc., Nos. 2007-CA-001432-MR, 2007-CA-001754-MR, 2008 WL 4531037, 
+at *2-3 (Ky. Ct. App. Oct. 10, 2008) (“alleged defamatory publication should be construed as a 
+whole” and “the Court must analyze the publication in its entirety to determine whether its gist or 
+sting is defamatory”).  Like the fact-opinion distinction, whether a challenged statement is capable 
+of the defamatory meaning the plaintiff alleges is a question of law to be determined by the Court.  
+Gahafer v. Ford Motor Co., 328 F.3d 859, 861 (6th Cir. 2003); Washington Post, 401 F. Supp. 3d 
+at 789-95; Chatterjee, 2020 WL 592324, at *8.   
+B. When Considered in Context of the ABC Articles, the Blocking Statements Do Not 
+Convey the Alleged Defamatory Meaning. 
+ 
+As noted above, Sandmann alleges that the ABC Articles present the Blocking Statements 
+as the definitive account of what happened on January 18.  See, e.g., Compl. ¶ 107 (ABC 
+“publish[ed] without any investigation Phillips’ narrative as if it were a truthful, factual account 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 14 of 20 - Page ID#:
+1186
+of the January 18 incident or of Phillips’ feelings or reactions during those events”), ¶ 165 (ABC’s 
+“coverage emphasized that Nicholas blocked Phillips’ retreat”), ¶ 202 (“ABC published 
+imputations of specific conduct, such as that Nicholas ‘blocked’ Phillips’ ‘retreat’”).  But when 
+considered a whole, the ABC Articles do not convey that.  
+Rather, the gist of the ABC Articles was that new videos, statements and other evidence 
+had emerged which called into question initial news reports about the incident.  E.g., MacRobbie 
+Decl. Ex. 1-A at 00:05-00:26, 01:08-02:28 & Ex. 1 (First GMA Story leads by prominently 
+displaying the question “What Sparked the Moment on Video?” to make clear that the story raised 
+questions about the broader picture).5  For example, while news reports published the day before 
+may have suggested that CovCath students had approached Phillips, the ABC Articles explained 
+that it was the other way around.  They also reported that Phillips approached after an encounter 
+in which Black Hebrew Israelite protestors had disparaged the students.  The Complaint thus 
+misstates the actual content and context of the ABC Articles, such as by falsely alleging that ABC 
+failed to report that Phillips approached the students, failed to report that BHI protestors disparaged 
+the students, and failed to report about the existence of other videos which depicted those events, 
+ 
+5 See also, e.g., Doc. 1-8 at 3 (“Another video showed Phillips appear to approach the group of students 
+before the stare down.”); MacRobbie Decl. Ex. 1-A at 01:36-01:40  & Ex. 1 at 1 (“Overnight, new video 
+calling into question just how this encounter began.”); MacRobbie Decl. Ex. 2-A at 00:13-17, 01:11-01:20  
+& Ex. 2 at 1 (“But now another video is raising new questions about what really happened before the 
+incident .  .  .  .  Phillips claims the teens were chanting “Build That Wall.”  So far no footage has surfaced 
+backing up that claim, but this morning, new video shedding light on the moments before and after the 
+distressing incident.”); Doc. 1-10 at 2 (“There is new information about a viral confrontation this weekend 
+between a group of Catholic high school students from Kentucky and a Native American elder.  New videos 
+[of the BHI] reveal a fuller picture of what led up to the clash and seems to show the students being verbally 
+attacked first, by a different group of demonstrators at the Lincoln Memorial.”); Letbetter Decl. Ex. 3-A at 
+00:00-00:06 & Ex. 3 at 1 (“Well new video today is revealing some new information about that viral 
+confrontation this weekend between a Catholic high school student from Kentucky and a Native American 
+elder.”); Doc. 1-11 at 2 (“Other videos also showed members of the religious group, who appear to be 
+affiliated with the Black Hebrew Israelite movement, yelling disparaging and profane insults at the students 
+. . . .”). 
+ 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 15 of 20 - Page ID#:
+1187
+like the Maria Judy and Banyamyan videos (Videos 18 & 4 in Doc. 62).  See Compl. ¶¶ 81-82, 84, 
+276.  In fact, ABC reported all of that and showed that video.6         
+With respect to the Blocking Statements specifically, the ABC Articles did not, as the 
+Complaint alleges, “emphasize[] that Nicholas blocked Phillips’ retreat.”  Compl. ¶ 165.  To the 
+contrary, the Articles do not even assert that.  Rather, ABC reported the Blocking Statements as 
+one of several statements made to other news organizations that were now being disputed by 
+Sandmann and another CovCath student witness, and ABC further explained that the context in 
+which those statements had originally been reported did not take into account new video and other 
+emerging evidence.  In fact, when reporting about Sandmann personally, the ABC Articles devoted 
+far more time and space to reporting his perspective than it did to quoting the prior Blocking 
+Statements.  And contrary to what the Complaint suggests (¶ 85), ABC reported an account from 
+another CovCath student supporting Sandmann.7  Had ABC not included the Blocking Statements 
+ 
+6 See, e.g., Docs. 1-8 at 3 (“Another video showed Phillips appear to approach the group of students before 
+the stare down” with a link to the Maria Judy video); MacRobbie Decl. Ex. 1-C (the Maria Judy video the 
+First ABC Article linked to, which is the same as Video 18); id. at 4 (quoting CovCath student that “he and 
+his classmates were initially targeted by a middle-aged African-American man with a megaphone who 
+yelled racial slurs at them,” and as they were doing school cheers “an Indigenous American man with a few 
+other men approached the center of the boys and in particular one boy”); MacRobbie Decl. Ex. 1-A at 1:35-
+1:45 & Ex. 1 at 1 (First GMA Story shows the Maria Judy video while the reporter explains there is “New 
+video . . . [a]ppearing to show Phillips approaching the crowd of boys as they chant their school letters” 
+and quotes same statement from CovCath student); Doc. 1-9 at 4 (quoting Sandmann’s statement that “the 
+protestor everyone has seen in the video began playing his drum as he waded into the crowd”); MacRobbie 
+Decl. Ex. 2-A at 01:20-01:32  & Ex. 2 at 1 (ABC reporter explains that “A separate group of protesters can 
+be heard hurling slurs at the young Kentucky students gathered at the March for Life” while showing 
+excerpts of the Banyamyan Video (Video 4), and that was “[w]hen Phillips, seen beating his drum, 
+approached the crowd.”); Doc. 1-10 at 2-3 (“The video shows a small group of black men who identify 
+themselves as Hebrew Israelites first shouting hateful and racially combative things at everyone,” followed 
+by quotes from the Banyamyan Video (Video 4); Phillips later “approaches the group [of students] along 
+with another drummer.”); Letbetter Decl. Ex. 3-A at 0:00-0:12, 00:32-01:14, 01:34-01:40, 02:06-02:11 
+(excerpts from Banyamyan Video (Video 4) shown in the ABC7 story); Doc. 1-11 at 2 (reporting that 
+Phillips said he was trying to get between the students and the BHI). 
+As this Court has already ruled in other cases, statements that referred to a large group of “teens” or 
+“boys” or “students”  are not “of and concerning” Sandmann, and in any event words like “taunting,” 
+“mocking” and “swarmed” are not actionable for other reasons.  Washington Post, 401 F. Supp. 2d at 791-
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 16 of 20 - Page ID#:
+1188
+in its reporting, then elements of Sandmann’s story like “I never felt like I was blocking the Native 
+American protestor” and “I believed that by remaining motionless and calm I was helping to 
+diffuse the situation,” or another student’s perspective that Sandmann “didn’t say anything or 
+move – he just stood there,” would not have made sense to the reader.   
+Some ABC journalists even expressed opinions that overtly sympathized with Sandmann’s 
+version of events.  For example, the Second GMA Story concluded with ABC News anchor George 
+Stephanopoulos commenting that “it appears, at least, that this young man was trying to do the 
+right thing in some measure, maybe he didn’t do it perfectly, but trying,” to which reporter Erielle 
+Reshef responded, “[y]eah, there was definitely a rush to judgment by a lot of people.”  MacRobbie 
+Decl. Ex. 2-A at 02:16-02:25 & Ex. 2 at 1.  But all that is relevant here is that when read as a 
+whole, the ABC Articles do not, as the Complaint alleges, report that Sandmann in fact blocked 
+Nathan Phillips.  And it is certainly unreasonable to construe ABC’s reporting the multiple 
+perspectives on blocking, including the Blocking Statements, Sandmann’s response and that of 
+another student, to be imputing racist conduct to Sandmann, let alone an assault or hate crime.  See 
+Compl. ¶¶ 211, 221, 230 & 240.      
+Rather, at their core the ABC Articles consisted of reporting on a public controversy with 
+competing narratives, which courts have found time and again to be not defamatory.  See Croce v. 
+ 
+92.  Indeed, Sandmann admits that whether students “swarmed” and mocked Phillips is a matter of opinion.  
+Jt. Memo Ex. B, S.D. 210:8-212:14; 213:14-19; 305:8-19; 315:6-15.  As to ABC’s reporting about 
+Sandmann personally, see, e.g., Docs. 1-8 at 4 (noting Sandmann “defending his actions in a statement on 
+Sunday and stated that “I was not intentionally making faces at the protestor.”); id. (quoting another student 
+that Sandmann “didn’t say anything or move – he just stood there,” before letting Phillips “walk[] away”); 
+1-9 at 2, 4 (quoting Sandmann that “I never interacted with this protestor.  I did not speak to him.  I did not 
+make any hand gestures or other aggressive moves,” and that “I did not see anyone try to block his path.”); 
+1-10 at 4 (“Phillips eventually comes face to face with Sandmann, who claims he was the one trying to 
+deescalate the situation. ‘I believe that by remaining motionless and calm, I was helping to diffuse the 
+situation,’ he said in his statement.”); 1-11 at 3 (“I never felt like I was blocking the Native American 
+protestor.  He did not make any attempt to go around me.”); id. at 4 (quoting student supporting Sandmann). 
+ 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 17 of 20 - Page ID#:
+1189
+N.Y. Times Co., 930 F.2d 787, 794-95 (6th Cir.  2019) (article not actionable where it presents 
+contrary information and viewpoints “with appropriate qualifying language”); Chapin v. Knight-
+Ridder, Inc., 993 F.3d 1087, 1098 (4th Cir. 1993) (article not actionable where it is “constructed 
+around questions, not conclusions” and “advances alternative answers to the questions it raises, 
+presenting both favorable and unfavorable views, but does not ultimately adopt any particular 
+answer as correct”); Van Buskirk v. N.Y. Times Co., 325 F.3d 87, 90-91 (2d Cir. 2003) (article 
+discussing war crime allegation against plaintiff was not defamatory because the article provided 
+affirmative reasons to doubt the truth of the allegations); Janklow v. Newsweek, Inc., 759 F.2d 644, 
+649 (8th Cir. 1985) (article repeating rape allegation against plaintiff was not actionable because 
+it “cannot be read to imply that Newsweek espoused the validity of the rape allegation”).  See also 
+Better Built Garages, 2008 WL 4531037, at *2-3 (although news reports included statements were 
+sharply critical of the plaintiff, including claiming that he “maliciously destroyed everything,” 
+when read as a whole they were not defamatory.).  The same conclusion is warranted here. 
+CONCLUSION 
+ 
+For all the foregoing reasons, as well as the reasons set forth in the Joint Memorandum, 
+the ABC Defendants respectfully request that this Court grant its motion for summary judgment 
+and dismiss all claims against them. 
+Dated: December 20, 2021 Respectfully submitted, 
+ 
+Nathan Siegel (pro hac vice) 
+Meenakshi Krishnan (pro hac vice) 
+DAVIS WRIGHT TREMAINE LLP 
+1301 K Street NW, Suite 500 
+Washington, DC 20005 
+Phone: (202) 973-4237 
+Fax: (202) 973-4437 
+nathansiegel@dwt.com 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 18 of 20 - Page ID#:
+1190
+meenakshikrishnan@dwt.com  
+ 
+/s/ Robert B. Craig  
+Robert B. Craig (15590) 
+TAFT STETTINIUS & HOLLISTER LLP 
+50 East RiverCenter Blvd.   
+Suite 850 
+Covington, KY 41011-1683 
+Ph: (859) 547-4300 
+Fax: (513) 381-6613 
+craigr@taftlaw.com 
+ 
+Counsel for Defendants ABC News, Inc., ABC News 
+Interactive, Inc., and The Walt Disney Company 
+  
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 19 of 20 - Page ID#:
+1191
+CERTIFICATE OF SERVICE 
+ 
+I hereby certify that on the 20th day of December 2021, the foregoing was filed 
+electronically through the Court’s CM/ECF system.  Notice of this filing will be sent by operation 
+of the Court’s CM/EF system to all parties of record.  The conventionally filed exhibits will be 
+served by overnight mail to the following counsel of record: 
+ 
+Todd V. McMurtry 
+John William Huber 
+Hemmer DeFrank Wessels, PLLC 
+250 Grandview Drive, Suite 500 
+Ft. Mitchell, KY 41017 
+ 
+ 
+ 
+       /s/ Robert B. Craig   
+       Robert B. Craig (15590) 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 66   Filed: 12/20/21   Page: 20 of 20 - Page ID#:
+1192

@@ -1,0 +1,767 @@
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+STEPHEN OROSS, III : 
+Plaintiff : CIVIL ACTION 
+:
+: NO. 21-5032
+v.
+:
+ :
+KUTZTOWN UNIVERSITY, et al.:
+Defendants
+PLAINTIFF’S MEMORANDUM OF LAW IN SUPPORT OF
+HIS MOTION FOR SUMMARY JUDGMENT
+ Dr. Stephen Oross, III, a tenured professor of Psychology at Kutztown University (“KU”) 
+brought this lawsuit against the University and the named defendants pursuant to Section 504 of the
+Rehabilitation Act, 29 U.S.C. §794, et seq. (Section 504) to redress their refusal to provide him with a
+remote work accommodation after he was medically released for full-time employment in August,
+2021, several months after receiving a heart transplant. His medical conditions and the drugs he needs
+to prevent organ rejection suppress and compromise his immune system, he is at high-risk for serious
+illness or death if he contracts Covid-19, so it was necessary for him to resume his professional duties
+at KU remotely, not in-person. It is hard to imagine a clearer case of entitlement to a remote work
+accommodation under Section 504, but KU denied his request without engaging in an interactive
+process and then forced him onto a leave without pay (“LWOP”) pursuant to a blanket no-remote
+work accommodations rule its administrators designed weeks before he made his request, and that
+dictated its outcome.
+Based upon the uncontested facts and admissions on the record, Dr. Oross brings this motion
+pursuant to Rule 56 for summary judgment as to his discrimination claims in Count I of his Complaint
+(failure to accommodate), Count II (facially invalidity of KU’s full-duty standards), Count III
+(intentional discrimination), and Count V (prohibited standards, criteria, or methods of administration).
+He also seeks judgment against KU for its interference with his rights under Section 504 and for
+violations of his right to free speech and expression guaranteed by the 1st and 14th Amendments and
+Section 1983 in Counts IX and X. 
+SUMMARY OF THE UNDISPUTED FACTS
+ As evidenced by the Statement of Undisputed Facts (SUF), most of the essential facts relating
+to Plaintiff’s claims have been admitted, and there is little to dispute about the basic chronology, most of
+which is documented in writing. There is no reason to reiterate the extensive factual presentation in the
+SUF (Doc. No. 45) which this Motion incorporates by reference. This summary highlights the most
+salient undisputed facts that establish the lack of any material dispute on the elements of Plaintiff’s
+claims, and to briefly explain why other facts the Defendants have either not admitted, or have
+attempted to dispute, present no genuine issues for trial.      
+1. Statutory Coverage 
+There is no dispute that as a federal fund recipient, KU is a covered employer under Section
+504. SUF ¶1. Likewise, Defendants admit that because of his heart condition and his solid organ
+transplant, Dr. Oross has a covered disability under Section 504. Id., ¶¶-3; 8. They do not dispute that
+the immune-suppressing drugs he needs to prevent organ rejection place him at high risk for serious
+illness or death if he contracts the Covid-19 virus, and that these impairments to his immune functioning
+-2-
+significantly restrict the location and manner in which he can safely interact with others. Id., ¶¶ 14-16.
+According to the CDC, it is “especially important” for people like Professor Oross “to protect
+themselves from getting COVID-19.” Among other things, they should “limit their interactions with
+other people as much as possible,” and avoid public settings, in-person visits, and  “events or
+gatherings.” Id., ¶18.1 Accordingly, although Dr. Oross’s medical team at Hershey Medical Center
+released him to return to work in August, 2021, they specified that he should do so remotely to limit his
+risk for contracting infection. They imposed no other restrictions on his ability to work. Id., ¶17; 19.  
+2. Pre-Request Inquiry 
+Professor Oross told his Dean and the Psychology Department in July that he was “trying with
+all [his] might to return to work on campus for the 2021 fall semester. Exh. K at 1. He was scheduled
+to teach his four courses in-person, something that had been determined before he went on medical
+leave at the end of the 2020 fall semester, well before his heart failed, and before he knew he would be
+having a heart transplant. No one foresaw how long the pandemic would last, so that was not taken into
+account during the scheduling process. SUF ¶12-13. At that time, Dr. Oross was teaching all four of
+his courses remotely, as he had been doing since the Covid-19 shutdown started in March, 2020. Id.,
+¶11. Even before the pandemic, he had taught each of his courses in remote formats many times over 
+many years. Ordinarily he taught at least one course online during the regular school year, but in
+planning for fall 2021, his Department Chair suggested listing them all in-person because that would
+1 See generally Simson, Gary J., “It’s Alright Ma, It’s Life Only: Have Universities
+Been Meeting Their Legal Obligations to High-Risk Faculty During the Pandemic?, 48 Pepperdine
+L. Rev. 649, 662-67 (2021). 
+-3-
+reserve classroom space, thereby making it easier to convert them to a different modality if that became
+necessary. Exh. Z, 65-66.    
+Under President Hawkinson’s plan for the 2021 fall semester, all faculty were expected to
+return to work on campus. SUF ¶¶22-30. In consultation with his medical team, Dr. Oross asked 
+what safety protocols would be in place to mitigate his risk if his doctors allowed him to return to
+campus. Jennifer Weidman, the Director of Human Resources (“HR”), confirmed in an E-mail on July
+27th that there would be no masking, vaccine or social distancing requirements, and that KU had made
+no changes to its existing HVAC systems. Id., ¶¶ 20-21. Professor Oross sought permission from the
+Dean to teach all of his classes remotely, and then asked Weidman what type of medical documentation
+she would need to support that request. Id., ¶32. Almost a week later, on August 8th, she said there
+was  “no provision for him to convert in-person courses to on-line modality for the Fall,” and that 
+“flexible work arrangements only pertained to the last academic year.” Id.,  ¶33.2 Although he could
+apply for ADA accommodation, due to “the constraints within which we are operating at this time,” a
+shift in a course scheduled as in-person to an online modality would be considered “a fundamental
+alteration” to the “essential nature” of the services the University offered, and therefore not reasonable.
+His only option would be LWOP for the fall semester. Id., ¶36-41. When Dr. Oross asked why
+shifting his classes to a remote format would constitute a “fundamental alteration that by definition, and
+without further inquiry, would be unreasonable,” she told him that if he submitted a formal
+2 “Flexible work arrangements” during the Covid-19 shutdown were not accommodations
+under the ADA, and were not relevant to Dr. Oross’s right to request and receive accommodations for
+the 2021 fall semester. Id., ¶¶34-35.  
+-4-
+accommodation request, it would be  evaluated pursuant to KU’s reasonable accommodation process.
+Id., ¶42. Defendants admit that the legal standard for evaluating employee requests for
+accommodations under that policy and Section 504 alike is undue hardship, not fundamental alteration.
+Id., ¶77. Likewise, KU has no policy calling for the denial of employee requests for reasonable
+disability-based accommodations on the ground that it “fundamentally alters” any of the University’s
+course offerings, services or methods of operation or administration. Id., ¶76.3 
+3. KU’s Reasonable Accommodation Policy for Employees and 
+Creation of the Blanket No-Remote Work Accommodations Policy
+During her communications with Dr. Oross in early August, Weidman not only misrepresented
+the legal standard for evaluating accommodation requests, but also failed to disclose that the
+“constraints” under which she said “we are operating at this time” had been imposed by KU’s
+administration, with her full participation, in the form of a blanket policy designed specifically to deny all
+requests by high-risk faculty for remote work accommodations. Alexis Martin, the HR employee 
+charged with conducting the interactive process (“IAP”), testified that well before Dr. Oross made his
+request for accommodation, “as these types of requests were coming in,” KU’s administration,
+including Weidman and Pena, “were already in talks to develop broad language as to how we were
+going to deny these.” Id., ¶¶ 59, 70; Exh. V at 30-31; 50-51. There was no discussion about different
+circumstances for different people. Remote teaching assignments were “no longer an option anymore.”
+3 Fundamental alteration is a public accommodation standard under Title III of the
+Americans with Disabilities Act. Title I and Section 504 require employers to provide reasonable
+accommodations to qualified employees with disabilities unless it would create undue hardship. C.f., 42
+U.S.C. §12201 (f) & 42 U.S.C. §12182 (b)(2)(A)(fundamental alteration under Title III of the ADA);
+Ford v. Schering-Plough Corp., 145 F.3d 601, 612 (3d Cir. 1998) and 42 U.S.C. § 12111 (8) (undue
+hardship under Title I of the ADA and Section 504).
+-5-
+Id. at 21. 
+The “blanket policy” KU’s administrators designed for high-risk faculty needing remote work
+accommodations directly contradicts the University’s governing ADA policy for employees which
+requires each request to be evaluated on an individual basis to determine whether the accommodation
+can be provided without undue hardship, which the policy correctly defines in accordance with Section
+504 as “significant difficulty or expense.” SUF ¶¶47; 50; 69-70.4 Absent such hardship,
+accommodations “should be provided.” Id., ¶52.  
+Defendants admit that for people with impairments and disabilities that place them at higher risk
+for serious illness or death, returning to campus is inherently less safe than it is for people without those
+risks. KU’s senior administrators adopted the blanket no-remote accommodations policy in
+accordance with Hawkinson’s plan to require all faculty to return to work in-person, without exception,
+even if they had health conditions or disabilities that placed them at high risk for serious illness or death.
+Id., ¶¶ 28; 31; Exh. Y at 15; 23-24. Thus, while the pandemic placed the entire faculty at risk for
+Covid-19, Dr. Oross and other faculty whose disabilities placed them at high-risk faced terms and
+conditions of employment that were significantly more dangerous as Covid-19 continued to wreak
+havoc on the most basic aspects of everyday life for the people who were most vulnerable to its worst
+consequences. SUF ¶116. The CDC’s “Guidance for Institutions of Higher Education (IHE)
+recommended “options for accommodations, modifications, and assistance to students, faculty, and
+staff at increased risk for severe illness that limit their exposure to risk and allow for education and or
+The mechanics of KU’s process for evaluating employee requests for reasonable accommodation
+is set forth at SUF ¶¶ 43-52. 
+-6-
+work opportunities (such as virtual learning, telework, and modified job responsibilities), both as a
+matter of public safety and health equity. Id., ¶ 29; Exh. CC at 10; 14. Nonetheless, Hawkinson,
+intended to allow no changes in course modality to enable high-risk faculty to convert classes previously
+scheduled to be in-person to a remote delivery format unless he was ordered to do so by the Governor.
+SUF ¶ 30; Exh. Y at 41; 65. The blanket policy was designed specifically to foreclose remote work
+accommodations for high-risk faculty like Dr. Oross crafted to avert the IAP by making his
+individualized circumstances irrelevant.
+4. Request for Reasonable Accommodation and Automatic Denial 
+In accordance with KU’s employee ADA policy, Dr. Oross submitted a request for a remote
+work accommodation and supporting medical documentation on August 11, 2021. Other than teaching
+his courses synchronously, he requested no changes to the course requirements, materials, or learning
+objectives for any of his classes. SUF ¶54-55.5 Defendants admit that his request triggered KU’s duty
+to engage in the IAP, and it is undisputed that no such process occurred. Id., ¶¶58. Using the template
+Weidman gave her for denying such requests, Martin prepared the paperwork for Weidman’s signature
+stating that  “converting an in-person course to online would constitute a fundamental alteration in
+course delivery,” and Weidman denied the request on August 16th. It is undisputed that the denial was
+based on the blanket policy, not Dr. Oross’s individualized circumstances. Id., ¶¶ 54-67.6 Likewise,
+5 Defendants now admit that there is nothing in the CBA that makes it essential to conduct
+office hours in person. SUF ¶ 27. 
+6 Defendants senior administrators have tried to create a factual dispute by claiming that
+Weidman conducted the IAP for faculty seeking remote accommodations, not Martin, but there can be no
+dispute that no one did. Credibility aside, the shifting explanations from witness to witness cannot change
+how Martin says she processed Dr. Oross’s request at Weidman’s and Pena’s direction. Furthermore,
+-7-
+there is no dispute that his request was practically feasible and would have entailed no significant
+difficulty or expense. Id., ¶¶ 78-86. That was not why it was denied. Id., ¶58. Indeed, KU has not
+pled undue hardship as an affirmative defense. Doc. No. 1, ¶¶ 134-36.7 Neither the Dean nor the
+Department Chair objected to providing the accommodation, but Weidman never spoke with either of
+them, nor did she know how disruptive it would be for them to  find replacements faculty to teach Dr.
+Oross’s specialized classes. SUF ¶¶64-65; 73-74.
+5. Denial of Professor Oross’s Request for Medical Sabbatical 
+On August 24, 2021, Professor Oross requested a restoration to health sabbatical, not for
+purposes of accommodation, which had already been denied, but to prevent the financial hardship he
+was about to experience under the forced LWOP. SUF ¶¶ 87-88. By this time he had begun speaking
+out publicly about KU’s systematic refusal to provide remote accommodations to himself, other faculty,
+and to students. This was not in the course of his job duties, as he was not working, and certainly not
+on KU’s behalf, but as a private citizen on what had long been an issue of broad community concern,
+for faculty, staff, and students alike. Id., ¶¶ 106-110. 
+Hawkinson denied the sabbatical without speaking with Dr. Oross, purportedly based on his
+medical release to return to work. Id., ¶¶ 89-91; 93.8 When Weidman conveyed the news to Dr.
+Weidman admits that she did not conduct an IAP. SUF ¶¶ 61-65. 
+7 Willis v. Conopco, Inc., 108 F.3d 282, 286 (11th Cir. 1997) ("undue hardship is an
+affirmative defense to be pled and proven by an ADA defendant."). See also Holly v. Clairson
+Industries, L.L.C., 492 F.3d 1247, 1262 (11th Cir. 2007); and Earl v. Mervyns, Inc., 207 F.3d 1361, 1367
+(11th Cir. 2000). 
+8 Professor Oross’s doctor had released him to return to work remotely, not in-person.
+Furthermore, although Hawkinson claimed that he denied the sabbatical based on past practice and
+-8-
+Oross, she said Hawkinson had asked her to review “the other options for the fall semester.” It is
+undisputed that she had never presented any option other than LWOP. Id., ¶¶ 94-95. Now she wrote
+that KU was considering adding 2 “high demand” on-line psychology courses to the fall schedule, not
+for purposes of providing him with a reasonable accommodation, but “to meet student need” in the
+Department. Id., ¶96. She did not identify what the classes would be, but she encouraged Dr. Oross to
+discuss that with his Chair and the Dean, and then let her know by the end of the day on August 30th,
+the first day of the semester. Id., ¶¶97-98. The Department had identified no such need, and told him it
+had no plans to add new courses to the fall schedule. Dr. Oross so reported to Weidman on August
+30th, and said without further details, he had no meaningful basis to either accept or reject it her “offer.”
+Id., ¶¶ 100-101. What would they be? When they would start? And how students would know about
+them? Those were reasonable questions, Weidman admits, but without answering them, she said
+because he was “not able to accept our offer,” Dr. Oross’s only option was to continue on sick leave.
+Id., ¶¶ 102-103.9 The Psychology Department had never offered any “high-demand” courses during
+the past five years, nor did it do so during the 2021 fall semester. Id., ¶¶96; 104.
+established criteria in the PASSHE system, there was no such practice and no criteria whatsoever. SUF
+¶¶ 92-93. 
+9 The sabbatical request came after Dr. Oross’s accommodation request had been denied,
+so it is puzzling why Defendants have tried so hard to create a factual issue about whether Weidman told
+Dr. Oross that the classes she was “offering” would start mid-semester, something her E-mail did not
+convey. There is no dispute that there would have been no classes to “offer” unless the Department
+identified a need for them, which it never did. KU has tried to blame Dr. Oross for somehow shutting
+down this “offer” to teach unidentified classes which never materialized. Even if he had, that would be
+irrelevant because he did not request the sabbatical for purposes of accommodation, and Defendants
+admit that they did not make their “offer” for purposes of accommodating him. SUF ¶96.
+-9-
+6. Professor Oross’s Protected Activities and the Imposition of the 
+Full-time/Full Duty Rule 
+Professor Oross continued to speak out during September and October about KU’s treatment
+of immune-compromised faculty, staff, and students, both on the faculty listserve and on social media.
+He also spoke with the press, and was featured in a number of newspaper articles and other
+publications, including one on the front page of the Philadelphia Inquirer on September 24th. SUF ¶¶
+111-118; 121-129; 145. Defendants admit that his statements and other expressive activities 
+constituted protected activity under Section 504 and the 1st Amendment. Id., ¶¶ 119-120; 130.  
+On October 4th, Disability Rights-PA (DRP) sent a demand letter to Defendant Pena on Dr.
+Oross’s behalf outlining his failure to accommodate claim, seeking his reinstatement with
+accommodations for the spring semester and reimbursement for the pay and other benefits he had lost
+since the beginning of his forced LWOP. Id., ¶¶131-132. Pena told Hawkinson  about the letter, and
+sent it to Michael Ferguson, an attorney in PASSHE’s legal office. After collaborating with Pena,
+Ferguson responded on KU’s behalf on October 14, 2021. Id., ¶¶133-134; 140-141. Among other
+things he said that “if and when [Dr. Oross] desists from publishing his case in a public manner,” KU
+would engage in an IAP. But “neither he nor the University” would engage “in a PR battle with him.” He
+provided a link to Professor Oross’s Facebook (FB) page.10 Id., ¶¶142; 144. 
+10 Dr. Oross had never used FB to share “written information” regarding himself and KU’s
+administration “in a public manner” until October 8th. SUF ¶146. None of the defense witnesses have
+admit to having provided the link to his FB account to Ferguson, but that is immaterial. There is no dispute
+that Pena collaborated with Ferguson on the letter, reviewed it before it was sent, and that Ferguson was
+speaking on behalf of the University and within the scope of his authority. Both Hawkinson and Pena
+received the letter and neither of them ever disavowed it. SUF ¶¶155-156.
+-10-
+There is no dispute that an individual’s right to the IAP under Section 504 cannot be
+conditioned on the forfeiture of other rights, including but not limited to the right to free speech. Exh. W
+at 99. Furthermore, Ferguson’s letter came the day after Weidman specifically said there would be no
+such process. In a letter on October 13th, she purported to grant his  “request” for extended LWOP
+from 9/23/21 through 6/23/22. It is undisputed that he made no such request. SUF ¶¶ 148-150. She
+also said that unless he produced a “full-time, full-duty” medical release by December 29, 2021, he
+could not return to work at all, not even to teach the classes that were already scheduled to be online.
+Absent release, his medical benefits would expire that night. Thereafter he would have “limited return to
+work rights” and KU purportedly would have the discretion to terminate him. Id., ¶¶ 151-152. 
+Weidman’s letter did not define “full-time, full-duty,” so on October 21st Dr. Oross asked for
+an explanation. Id., ¶¶ 153-154; 157-158. On October 25th, having waited 93 hours for an answer, he 
+E-mailed her again, this time copying Hawkinson and Peña as well as the faculty and administration. 
+Finally, after 129 hours, Weidman said that full-time/full-duty meant “in-person, in the classroom.” Id.,
+¶¶ 160-161. Hawkinson testified that he did not know what full-time/full-duty meant, and Defendants
+have now admitted that there is no such policy. Weidman knew from the outset what it meant because
+she orchestrated it with  PASSHE’s benefits office in the days before she sent the letter. “I would like
+to specifically highlight,” she said, “the fact that he will not be able to teach the online winter class he is
+scheduled for, nor the 2 online classes in spring. Any suggestions on how to insert a line to that effect in
+here somewhere?”11
+11 It is apparent that Weidman had begun preparing for Dr. Oross’s termination by  mid-
+September. Exh. P. 
+-11-
+ARGUMENT
+I. PLAINTIFF IS A QUALIFIED PERSON WITH A DISABILITY
+A qualified person with a disability is one who satisfies the requisite skill, experience, education
+and other job-related requirements of the employment position such individual holds or desires, and
+who, with or without reasonable accommodation, can perform the essential functions of such position.
+42 U.S.C. Sec. 12111(8); 29 C.F.R. § 1630.2 (m); Turner v. Hershey Chocolate USA, 440 F.3d
+604  (3rd Cir. 2006); Deane v. Pocono Medical Center, 142 F.3d 138, 145 (3rd Cir. 1998). There
+can be no genuine or material dispute that Dr. Oross is “otherwise qualified” for his position as
+Associate Professor, with or without accommodation, a job for which he is eminently qualified in every
+objective respect, by way of education, training, and experience; that he has held and fully performed
+since 2002, and for which KU granted him tenure in 2008. SUF, ¶¶ 4-7. Furthermore, given remote
+access to the workplace, Dr. Oross is fully capable of performing the  job just as he is doing now, and
+has been doing since the Court issued the TRO in December, 2021, including teaching all of the same
+courses he was scheduled to teach during the 2021 fall semester. Wishkin v. Potter, 476 F.3d 180,
+187 (3d Cir. 2007) (plaintiff had been performing essential job functions for many years, and there was
+no evidence that he could not continue to do so). All this is enough by itself to warrant summary
+judgment on the qualification issue. 
+Notwithstanding Dr. Oross’s stellar credentials, and 20 year history at KU as a dedicated
+teacher, productive researcher, and valued colleague, Defendants have refused to admit that he is
+“otherwise qualified,” contending that teaching in the classroom is an essential function of his job.
+Essential functions are those that are fundamental to the purpose of the job, and the results to be
+-12-
+accomplished, not the manner in which they are performed. 29 C.F.R § 1630.2 (n)(1)-(3). The
+essential functions of Dr. Oross’s job are, teaching, service and scholarship, which are the three criteria
+upon which the University evaluates faculty performance. Exh. FF. As defined by the Collective
+Bargaining Agreement (CBA), the universal requirement of the job is effective teaching. The essential
+function of teaching is delivering content and achieving learning outcomes, all indisputably things that can
+be accomplished in any number of KU’s own remote formats. Nothing in the CBA states that to be
+“effective,” teaching must take place in-person. Indeed, the University offers a plethora of courses
+online every semester, conducts formal certification programs to ensure effective online teaching,
+employs a dedicated Distance Education staff and has invested heavily in technology  “to ensure that the
+online experience reflects the rigorous education for which [it] is known.” Indeed, well before the
+pandemic, distance education at KU had become a “critical component to [its] mission to lead the
+University into the future.” SUF, ¶83-83. That the learning outcomes Dr. Oross is employed to achieve
+through his teaching and office hours with his students are all achievable on-line is evident from his own
+work history, the recent experience of the faculty as a whole during the pandemic.12
+It takes more than an unsupported assertion made well after an accommodation is denied to
+make a job function essential, i.e., fundamental to the purpose of the job and the results to be
+accomplished. C.f., 29 C.F.R § 1630.2 (n)(1)-(3). There is no policy, contractual definition, or pre-
+existing job description defining “full duty” for an Associate Professor, much less one stating that
+teaching in-person in the classroom is an essential function of the job. SUF ¶165. Weidman admits that
+12 Not only did Dr. Oross and every other professor conduct all of their professional
+activities remotely between March and June, 2020, but well over half of them continued to do so
+throughout the 2021-22 academic year. SUF ¶¶ 9-11.
+-13-
+when she told Dr. Oross that teaching in-person was an essential function of his job, “so that’s what
+full-duty means,” she had never it written anywhere, and admits that it does not appear in the CBA. Id.,
+¶¶ 160-162.13 Even the University President did not know what it meant. Exh. W at 48. 
+Furthermore, the fact that he wanted all faculty to return to teaching in-person with no
+exceptions, even for those at high-risk for serious illness or death, does not control the inquiry as to
+whether Dr. Oross was a qualified person with a disability. Indeed, Section 504's use of essential
+functions as part of the qualification analysis is designed specifically to prevent what happened here
+because it would drastically impede its purposes if any employer that “did not wish to be
+inconvenienced by making a reasonable accommodation, could, simply by asserting that the function is
+essential, avoid the clear congressional mandate that [they] make reasonable accommodations....”. 
+Holly v. Clairson Industries, LLC, 2007 U.S. App. LEXIS 17151 (11th Cir. July 19, 2007).
+II. PLAINTIFF IS ENTITLED TO SUMMARY JUDGMENT ON HIS FAILURE
+TO ACCOMMODATE CLAIM 
+Section 504 creates an affirmative duty – an “unvarnished obligation” – to provide reasonable
+accommodations to enable a qualified employee to perform the essential functions of the job. It also 
+prohibits employers from denying accommodations necessary for the employee to enjoy the privileges
+and benefits of employment equal to the same extent as non-disabled employees. 42 U.S.C. §12112 
+(b)(5)(A) & (B); Hohider v. United Parcel Service, Inc., 574 F.3d 169, 186-87 (3rd Cir. 2009);
+accord Exby-Stolley v. Board of County Comm’rs, 979 F.3d 784, 795 (10th Cir. 2020)(en banc);
+13 There is no official job description for Associate Professor. KU has a generic one it uses
+for purposes of FMLA certifications, but it is not controlling, and nowhere does it say that teaching in-
+person in the classroom is an essential function of the job of Associate Professor. Exh. W at 126.
+-14-
+Fedro v. Reno, 21 F.3d 1391, 1395-96 (7th Cir. 1994); Molyneaux v. Monroe Cty., 2020 U.S.
+Dist. LEXIS 2563, at *15-17 (M.D. Pa. Jan. 8, 2020). The plaintiff is not required to show
+discriminatory animus because failure to accommodate the known disabilities of a plaintiff by itself
+constitutes discrimination unless the defendant can prove that the accommodation would impose an
+undue hardship on the operation of the business, i.e., significant difficulty or expense. 42 U.S.C. §
+12111 (8); Muhammad v. Court of Common Pleas of Allegheny Cnty., Pa., 483 Fed.Appx. 759,
+763 (3d Cir. 2012). Liability arises “as soon as the employer, with adequate notice of the request for
+accommodation, fails to provide it. See also Drasek v. Burwell, 2015 WL 4910499 (D.D.C. Aug.
+17, 2015)(failure to accommodate “is, essentially, a strict liability violation”). 
+ Here there is no dispute that Defendants knew about Professor Oross’s disability, and, for all
+the reasons stated in the preceding Section, there can be no material dispute that he is otherwise
+qualified. He made a request for reasonable accommodation on August 11, 2021 and KU denied it on
+August 16th pursuant to its blanket policy, which precluded any such accommodation.14 He is entitled to
+summary judgment if there is no material factual dispute that he could have been reasonably
+accommodated or that Defendants did not make a good faith effort to make such accommodation. He
+has made out a case on both of those theories. See, e.g., Belles v. Wilkes-Barre Area Sch. Dist.,
+2020 U.S. Dist. LEXIS 36152 (M.D. Pa. March, 3, 2020)(There are two avenues through which an
+14 A plaintiff’s burden of proof on a failure to accommodate claim includes (1) he is a
+disabled person within the meaning of the ADA; (2) he is otherwise qualified to perform the essential
+functions of the job, with or without reasonable accommodations; and (3) he has suffered an otherwise
+adverse employment decision as a result of discrimination, including a refusal to make reasonable
+accommodations for his disabilities.'" Decker v. Alliant Technologies, LLC, 871 F. Supp. 2d 413, 430-31
+(E.D.Pa. 2012), 
+-15-
+employee can establish the third element of a failure-to-accommodate cause of action, by establishing
+that the employer failed to provide a reasonable accommodation, or the employer failed to engage in
+the interactive process); accord Lett, supra.15  
+First, Defendants cannot claim undue hardship when they failed to engage in the IAP. Pursuant
+to the blanket policy, there was no such process, because they made the decision to deny faculty
+requests for remote work accommodations well before they received the one from Dr. Oross. Senior
+administrators’ efforts to create a dispute by contradicting themselves and each other,  and Martin,
+most of all, does not create a genuine issue for trial. Likewise, their efforts to deny that the policy they
+devised specifically to deny faculty remote teaching requests was not a “blanket policy” defies the
+record and common sense. SUF ¶ 66; Exh. W at 54; Exh. X at 92. Weidman, for instance, claimed
+that although a decision had been made to deny the requests, it was not a decision to “outright reject”
+each one, but that such accommodations would burden KU because it would “so fundamentally alter a
+course” that would impact students. Id., at 39-40. That is the very definition of a blanket policy. Thus,
+even if there had been a “process” to discuss the requests, it would not have qualified as an IAP for
+purposes of Section 504 because the only possible outcome would be the denial of the
+accommodation. That was baked into the blanket policy, and its application to Dr. Oross, a qualified
+person with a disability, entitles him to summary judgment. The duty to engage in the IAP is not
+optional, but a mandatory obligation that is fundamental to the effectuation of the purposes of the Act.
+15 Once an employee asks for a reasonable accommodation, the employer is obligated to
+initiate an IAP with him aimed at determining the employee’s limitations and possible ways of
+accommodating them. See Mengine v. Runyon, 114 F.3d 415 (3rd Cir. 1997); Taylor v. Phoenixville
+School District, 184 F.3d 296 (3rd Cir. 1999); Bultemeyer v. Fort Wayne Comm. Schools, 100 F.3d
+1281, 1284 (7th Cir. 1996). 
+-16-
+An employer simply cannot abrogate the requirements of the law by carving out a category of
+employees who are not entitled to it. 
+Second, Defendants denied Dr. Oross’s request for accommodation and forced him onto
+LWOP as a matter of policy, not because his request was unreasonable, infeasible, or would have
+caused an undue hardship. There can be no dispute about these fundamental facts. No one disputes that
+it would have been technologically simple to convert his classes to a remote format, and that he was
+qualified to provide remote instruction, having been certified to do so by KU itself in 2015, and there
+would have been no expense. SUF ¶ 78-81. Neither his Dean nor his Department ever made any
+objection to so accommodating him for the fall, 2021 semester, nor have they done so  since then. SUF
+¶¶ 73; 170.16
+Third, the fact that Hawkinson made the unilateral decision to require every member of the
+faculty to return to work on campus is not a defense to Dr. Oross’s reasonable accommodation claim,
+nor is his vow to allow no conversion of an in-person course to a remote format unless the Governor
+ordered it. Since 1974, Congress told Hawkinson that he had to make such accommodations for
+faculty like Dr. Oross, whose disproportionately high risk for Covid-19 and its very worst
+consequences creates a barrier to the workplace that people without such disabilities do not face, one
+that can be removed by way of a remote work accommodation.17 Section 504 expressly requires
+16 In fact, they have planned for his classes to be advertised and delivered online to avoid
+any issues pertaining to course conversion. SUF ¶¶167. See also Exh. U.   
+17 Congress was very aware when it passed the ADA that technology would open doors to
+accommodations for people with disabilities that heretofore had not been possible. See
+e.g.,Unreasonable Accommodation and Due Hardship, 62 Fla. L. Rev. 1119, 1142-44 (2010).
+Federal courts, including the Supreme Court, had also recognized the same possibilities. See e.g.,
+-17-
+employers to make modifications or adjustments that enable an employee with a disability to perform
+the essential functions of his job, or to the terms and conditions of employment to the same extent and
+on an equal basis as their people without disabilities. The term "reasonable accommodation" means (ii)
+modifications or adjustments to the work environment, or to the manner or circumstances under which
+the position held or desired is customarily performed. 29 C.F.R. § 1630.2 (o)(1) (ii) & (iii);  Exby-
+Stolley v. Bd. of Cty. Comm’rs, 979 at 795 ("[t]his regulation requires employers to make
+modifications and adjustments, not just to minimally permit disabled employees to do their job, but also
+to permit them to enjoy all of the 'benefits and privileges' of the job as would any other employee."),
+citing U.S. Airways, Inc., v. Barnett, 535 U.S. at 397 (“the ADA requires reasonable
+accommodations that are needed for those with disabilities to obtain the same workplace opportunities
+that those without disabilities automatically enjoy”); accord Nawrot v. CPC Int'l, 259 F. Supp. 2d
+716, 721 (N.D. Ill. 2003).18 Different treatment  “is the essence of reasonable accommodation,” and
+withholding it constitutes unequal treatment, which is exactly how Section 504 defines discrimination. 42
+U.S.C. §12112 (b)(5)(B); McWright v. Alexander, 982 F. 2d 222, 227 (7th Cir. 1992); US
+Southeastern Community College v. Davis, 442 U.S. 397, 412-13 (1979)(a student accommodation case
+decided pursuant to the fundamental alterations rule, noting that technological advances can be expected
+to enhance opportunities for rehabilitation and accommodation without imposing undue financial and
+administrative burdens upon a State. Thus, situations may arise where a refusal to modify an existing
+program might become unreasonable and discriminatory).  
+18 "The obligation to make reasonable accommodation is a form of non-discrimination."
+Interpretive Guidance on Title I of the ADA, 29 C.F.R. 1630.9. This requirement is best understood as a
+"means by which barriers to the equal employment opportunity of an individual with a disability are
+removed or alleviated." 
+-18-
+Airways v. Barnett, 535 U.S. 391 (2002).19 KU’s blanket in-person teaching requirement says, in
+essence, “high-risk faculty with disabilities cannot work here,” and there is no legal defense to that.
+Fourth,  “fundamental alteration” is not the applicable standard for evaluating employee
+accommodation requests under Section 504, but even if it were, that would still not support KU’s
+blanket denial of Dr. Oross’s request for a remote work accommodation. See n. 3, infra. Dr. Oross’s
+request to teach his classes synchronously while his students were in the classroom while all other
+aspects of instruction remained the same does not qualify as the fundamental alteration of course
+delivery, much less a fundamental alteration in the way the University itself operates its business (which
+is how KU’s defense has evolved over time). The only difference would have been the way that  Dr.
+Oross would have accessed the classroom. 
+Thus, the Supreme Court’s decision in Martin v. PGA Tour, 532 U.S. 661 2001) forecloses
+KU’s argument that allowing Dr. Oross to teach his class remotely would have constituted a
+fundamental alteration. Martin was a public accommodations case under case Title III of the ADA, not
+an employment case, so the applicable standard there was fundamental alteration. Casey Martin, a
+professional golfer, had a disability that significantly impaired his ability to walk the golf course during
+the PGA Tour, but he was otherwise fully capable of completing it. PGA argued that to let him
+19 See also Merrill v. McCarthy, 184 F.Supp.3d 221, 238 (E.D.N.C. 2016) (requiring
+reasonable accommodation if needed to enable the employee 'to enjoy equal benefits and privileges of
+employment'), citing EEOC v. Life Techs. Corp., 2010 U.S. Dist. LEXIS 117563 *4 (D. Md. Nov. 4,
+2010); McWright v. Alexander, at 227 ("The Rehabilitation Act calls for reasonable accommodations
+that permit handicapped individuals to lead normal lives, not merely accommodations that facilitate the
+performance of specific employment tasks"). See also Gleed v. AT&T Mobile Services, LLC, 613 F.
+App'x 535, 539 (6th Cir. 2015) (employer may not deny an accommodation that allows the employee to
+work "without great pain and a heightened risk of infection" merely because he is “physically capable" of
+performing the job without an accommodation). 
+-19-
+participate in the tours final stage by using a golf cart, while everyone else walked, would constitute a
+fundamental alteration of the tournament’s rules. The Supreme Court rejected that argument for two
+reasons. The manner in which Martin navigated the field was only peripheral to the game. The essential
+function was what he did when he got to the hole, not how he got there. Second, the PGS’s refusal to
+consider Martin’s personal circumstances in deciding whether to accommodate his disability violated
+the clear language and purpose of the ADA. Id., at 668.20 Without an accommodation to help him get
+from place to place, he had, literally, an unlevel playing field which made it far harder for him that others
+to fulfill the functions of the game. Therefore, providing the accommodation did not constitute a
+fundamental alteration.  
+The same is true here. Dr. Oross needed an accommodation to access the workplace. Once
+that access was provided, he could fulfill all of the essential functions of the job without
+accommodation. KU’s refusal to provide him with remote access to the workplace when it would have
+required no significant difficulty or expense constitutes discrimination on the basis of his disability. 
+Even if its refusal to permit a course to be converted from in-person to online and/or to provide
+a fully remote work schedule to accommodate his disability could be somehow justified during ordinary
+times, that is not where we are now. The Covid-19 pandemic is ongoing, and that makes it unsafe for 
+Dr. Oross to safely work on campus. Hawkinson’s so-called promise to students that he would never
+convert an in-person class to a remote format has no bearing on the analysis because by definition, it
+calls for depriving faculty with disabilities of their federally guaranteed civil rights. The CDC’s July 2021
+20 See Martha Lee Walters & Suzanne Bradley Chanti, When the Only Way to Equal Is
+to Acknowledge Difference: PGA Tour, Inc. v. Martin, 40 Brandeis L.J. 727, 751 (2002).
+-20-
+guidance for Institutions of Higher Education recommended  “options for accommodations,
+modifications, and assistance to students, faculty, and staff at increased risk for severe illness that limit
+their exposure to risk and allow for education and or work opportunities (such as virtual learning,
+telework, and modified job responsibilities, not just as a matter of health and safety, but to provide
+health equity to the people who are most vulnerable to the ravages of the virus, and who would
+otherwise be forced out of the workforce precisely because of their disabilities. Exh. CC at 10; 14.21 
+In enacting and amending Section 504, Congress enlisted all programs receiving federal funds in
+an effort "to share with handicapped Americans the opportunities for an education, transportation,
+housing, health care, and jobs that other Americans take for granted." Arline, supra, at 315, citing 123
+Cong. Rec. 13515 (1977) (statement of Sen. Humphrey). Like the employment provisions of the ADA,
+which govern this case, the Act’s principal purpose is to promote and expand employment
+opportunities for people with disabilities by eliminating unwarranted discrimination, and by removing
+barriers that prevent them from enjoying the same employment opportunities that are available to
+non-disabled employees, and “for which our society is justifiably famous.” That is exactly the opposite
+of what KU has done, and that is why Dr. Oross is entitled to summary judgment on Count I. 
+III. KU’s BLANKET NO-REMOTE ACCOMMODATIONS POLICY
+AND ITS FULL-TIME/FULL-DUTY REQUIREMENT VIOLATE
+SECTION 504 ON ITS FACE
+By definition and design, KU’s policy to refuse remote work accommodations to Professor
+21 Such accommodations were already well within the realm of reasonableness before the
+pandemic under Guidance from the EEOC as far back as 2002. Enforcement Guidance: Reasonable
+Accommodation and Undue Hardship Under the Americans with Disabilities Act, EEOC Notice
+No. 915.002, 2002 WL 31994335 * 24 (October 17, 2002). 
+-21-
+Oross and other high-risk faculty with disabilities for whom such accommodations are both reasonable
+and feasible, constitute standards, criteria, and/or methods of administration that have the purpose or
+effect of discriminating on the basis of disability that are not job-related or supported by business
+necessity. (Count V). 42 U.S.C. §12112 (b) (3). It has been black letter law for decades that such
+policies and/or practices discriminate against qualified individuals because of their disabilities, and deny
+them equal terms, conditions, and privileges of employment. Hohider v. United Parcel Service, 574
+F.3d 169, 195 (3rd Cir. 2009); Nolan v. Arkema, Inc., 809 F. Supp. 2d 356 (E.D. Pa. 2011). See
+also Heise v. Genuine Parts Co., 900 F. Supp. 1137, 1154 & n.10 (D. Minn. 1995) (holding that a
+“must be cured” or “100% healed” policy is a per se violation of the ADA because the policy does not
+allow a case-by-case assessment of an individual’s ability to perform essential functions of the
+individual’s job, with or without accommodation). See also  Hutchinson v. United Parcel Serv., Inc.,
+883 F. Supp. 379, 397 (N.D. Iowa 1995)(a '100% healed' policy would be a per se violation of the
+ADA because it would on its face discriminate against a qualified individual with a disability because of
+the disability of such individual in regard to .. terms and conditions, and privileges of employment. 42
+U.S.C. § 12112 (a). See also Yellow Freight v. EEOC, Inc., 2002 U.S. Dist. LEXIS 16826
+(2002)(collecting cases); McGregor  v. National R.R. Passenger Corp., 187 F,.3d 1113, 1116 (9th
+Cir. 1999)(collecting cases). 
+For all the reasons stated in the foregoing sections, the application of blanket no-
+accommodation policies and full duty work rules are antithetical to the statutory requirement that
+covered employers engage in an individualized, interactive process and  provide reasonable
+accommodations that allow the employee to perform the essential functions of the job he holds or
+-22-
+desires, with or without accommodation. 42 U.S.C. §12112 (b)(3)(A). They subvert the statutory
+design by purporting to make reasonable accommodations for people with disabilities automatically
+unavailable, and their application a qualified person with a disability constitutes discrimination per se.
+Hohider, supra. Indeed, it was designed specifically to exclude faculty with disabilities who would
+need remote work accommodations and therefore constitutes direct evidence of discrimination.
+Furthermore, the blanket no-remote work accommodations rule and the full-time, full-duty rule
+Defendants eventually imposed against him in October, 2021 to prospectively preclude him from
+returning to work at all unless he could do so in-person, violate Section 504 on their face. alleges that
+they denied him a remote work accommodation which is both reasonable and inherently feasible,
+thereby pushing him onto an unpaid leave of absence, and then used a series of illegal and coercive
+actions, including but certainly not limited to a facially invalid “full-time, full-duty” rule to keep him from
+returning to work indefinitely, thereby forcing him into involuntary retirement in violation of his well-
+established federal civil rights. Plaintiff is entitled to summary judgment on Count II. 
+IV. DIRECT EVIDENCE OF DISCRIMINATION 
+There is significant overlap between the failure to accommodate claim in Count I and the
+intentional discrimination claim in Count III. The failure to accommodate is an adverse action that stands
+alone as a basis for liability, but it can also support a claim for intentional discrimination on the basis of
+disability, especially where, as here, there is direct evidence that Defendants took adverse actions
+against Dr. Oross on that basis. Among other things, it forced him onto LWOP and ultimately took the
+unprecedented step of imposing a full-time, full-duty rule even KU’s own President did not know about
+to keep him from returning to work at all unless he secured a medical release to teach in-person, in the
+-23-
+classroom. In other words, he could not return to work at all unless he did not need an accommodation.
+Defendants intentionally employed a blanket policy specifically designed to prevent him and other
+similarly situated from returning to work for the 2021 fall semester on the sole basis of their disabilities,
+which they knew required remote work accommodations because they were at high-risk for severe
+illness or death if they contracted Covid-19. It was intended to avoid this statutory duty by making
+remote work accommodations automatically unavailable long before Dr. Oross  ever made his request
+based on the type of disability he had and the type of accommodation he needed. KU intentionally
+created and employed the blanket policy against high-risk faculty members it knew could not safely
+return to work on campus because of their disabilities. r Defendants’ actions, and they do not contend
+otherwise.  
+KU’s deliberate refusal to permit Professor Oross to return to work at all unless he can do so
+in-person, and therefore without reasonable accommodation for his disabilities, when allowing him to
+work remotely would have been both readily feasible and without undue hardship to the University,
+constitutes direct evidence of discrimination. Monette v. Electronic Data Systems, 90 F.3d 1173,
+1180 (6th Cir. 1996)(“In cases in which the plaintiff alleges that he or she is the victim of discriminatory
+treatment, a plaintiff may attempt to establish unlawful discrimination by introducing direct evidence of
+discrimination, including evidence that the employer relied upon the plaintiff's disability in making its
+employment decision). Section 504 forbids an employer from denying any employment opportunity to a
+qualified employee because of the need to make reasonable accommodation to the physical or mental
+limitations of that employee. 42 U.S.C. §12112 (b)(5)(B). KU pushed Dr. Oross onto an unpaid leave
+of absence because he requires a remote work accommodation which is reasonable, inherently feasible,
+-24-
+and will allow him to fulfill all of the essential functions of his job. As a matter of law, KU’s refusal to
+permit Professor Oross to return to work at all nless he can do so in-person, and without reasonable
+accommodation for his disabilities, constitutes intentional discrimination against him solely on the basis
+of his disability. Monette, 90 F.3d at 1186.22  Indeed, the no-restrictions policy only applied to Dr.
+Oross because he had a disability and therefore could only return to work if she received
+accommodations. Direct evidence that the employment action was related to the disability creates a
+mandatory inference that the employer intentionally discriminated against the disabled individual by
+taking an adverse employment action "solely" because of his or her disability.” Id.; see also Rodriguez
+v. ConAgra Grocery Products Co., 436 F. 3d 468, 480 (5th Cir. 2006).
+Here, there Defendants’ actions were both intentional and deliberate, designed specifically to
+deprive Dr. Oross Gardner and other similarly situated high-risk faculty of their rights under Section
+504, deprive them of equal employment terms and conditions because of their disability, and interfere
+with the exercise and enjoyment of those rights. As a matter of law, KU’s refusal to permit Professor
+Oross to return to work at all unless he can do so in-person, and without reasonable accommodation
+for his disabilities, constitutes intentional discrimination against him solely on the basis of his disability. 
+D. PROHIBITED STANDARDS, CRITERIA, AND METHODS
+OF ADMINISTRATION
+The blanket and full duty rules KU used against Dr. Oross constitute prohibited standards,
+criteria, and methods of administration have a disparate impact on people with disabilities. No one with
+22 See also Healy v. Southwood Psychiatric Hospital, 78 F.3d 128, 131-32 (3d Cir.
+1996)(gender discrimination)(“When open and explicit use of gender is employed, as is the case here, the
+systematic discrimination is in effect "admitted" by the employer, and the case will turn on whether such
+overt disparate treatment is for some reason justified under Title VII.”). 
+-25-
+a disability who requires accommodation can  possibly meet such a standard, and only people with
+disabilities who require accommodation are disadvantaged by them. Indeed, it was designed specifically
+to screen out people with disabilities who were at high-risk for Covid-19's most serious consequences
+and who would therefore require remote work accommodations to safely perform their jobs. It was
+only applied to Professor Oross because he had such a disability, and therefore could only return to
+work if he received an accommodation, something the policy was designed to preclude. Stated another
+way, had Professor Oross not had a disability, he would have not needed accommodation, KU would
+not have imposed its illegal policy against him, and he would have been able to return to work with an
+accommodation at the commencement of the 2021 fall semester. The duty to provide reasonable
+accommodation is mandatory, and cannot be evaded through employer policies or practices that
+effectively declare, “we don’t do that here.” Section 504 expressly forbids it. 
+E. INTERFERENCE WITH DR. OROSS’S STATUTORY RIGHTS 
+Section 504 forbids employers from coercing, intimidating, threatening, or otherwise interfering
+with an employee’s rights under the Act or for having exercised or stood on their statutory protections.
+42 U.S.C. §12112 (b)(2) & (3). Any person who engages in such interference can be held individually
+liable. There is no dispute here that Dr. Oross exercised and stood on his rights under the Act, and that
+his activities were protected. As a matter of law, KU’s actions interfered with his rights, and he is
+entitled to summary judgment on the interference component of Count VI. 
+The statutory interference provision is separate from and broader than the retaliation clause,
+which prohibits employers from taking adverse actions against an employee because of their protected
+activities. Causation is an element of the retaliation claim, and it provides no statutory remedy for
+-26-
+retaliatory conduct that is causally related to an employee’s protected activities unless it is “materially
+adverse.” 42 U.S.C. § 12203 (a). The interference clause, by contrast, focuses on behaviors and their
+practical implications, rather than intent or causation. It creates a remedy for behaviors that threaten,
+coerce or impede an individual in the current exercise or enjoyment of his statutory rights, or on
+account of his having done so whether or not they might also and separately constitute retaliation or
+some other form of discrimination under the Act. This prospective protection furthers the statutory
+purposes by removing barriers to an individual’s ability to exercise and enforce their rights without
+infringement. As the EEOC’s guidance explains, the "interference" provision serves a different function
+than the retaliation clause.23 Therefore, it is not necessary for the plaintiff to show that the threat was
+carried out, or that he was actually deterred from pursuing his statutory protections so long as he shows
+that the behaviors are reasonably likely to interfere with the enjoyment of ADA rights. Id. at 22.  
+ The EEOC’s guidance provides some examples of behaviors that interfere with an individual’s
+statutory rights. Specifically, issuing policies or imposing other requirements that purport to limit an
+employee’s rights to invoke the Act’s protections specifically qualify as interference, such as “a fixed
+leave policy that states ‘no exceptions will be made for any reason.’” Id., at 19. Other examples include
+discouraging or coercing an employee to forego an accommodation to which he is entitled, intimidating
+him from requesting or pursuing an accommodation by threatening an adverse action, or subjecting him
+to adverse treatment because he requested an accommodation. Id. 
+23
+https://www.eeoc.gov/laws/guidance/enforcement-guidance-retaliation-and-related-issues#III._ADA
+-27-
+Here, there is direct evidence that KU did all of these things. For all the reasons already stated,
+the blanket policy violates the Act on its face because it was  designed specifically to avert the IAP for
+a sub-set of faculty with disabilities and to foreclose them from receiving remote work accommodations
+regardless of their individualized circumstances, when no one disputes that they could have been
+provided with no significant difficulty or expense. The same is true for the “full-time, full-duty rule,”
+which Defendants admit was not an actual rule, much less a University policy. It is undisputed that it had
+never before been used against any other faculty member, but Defendants used it to force Dr. Oross to
+either capitulate to their illegal demand that he return to work on-campus without an accommodation,
+something they knew he could not do without risking his life, or force him to either retire or forfeit his
+medical benefits and then his tenured job. Likewise, their misrepresentation of the fundamental
+alteration standard to deter Professor Oross from asserting his rights in the first place constitutes
+interference, as did its use of that admittedly inapplicable standard to support the illegal policies it used
+to threaten his livelihood. This is far more than enough to entitle him to judgment as a matter law on his
+interference claim.  
+Likewise, Ferguson’s letter to DRP explicitly conditioned Dr. Oross’s right to an IAP for his
+spring accommodation request on his agreement to forego any further public opposition to the
+Defendants’ protracted, escalating, and illegal conduct against him and others independently qualifies as
+illegal interference. That is especially so when it came the day after they imposed the full-time, full-duty
+rule against him, which on its face precluded accommodation for the spring or any other time unless he
+produced a medical release that made accommodation unnecessary. The right to accommodation and
+the IAP process are bedrock principles at the very heart of the Act and essential to effectuating its
+-28-
+purposes. They do not have to be earned, nor can they be held hostage in exchange for an employee’s
+forfeiture of another protected right. Using the IAP to extort silence from Professor Oross, especially
+under the undisputed circumstances, is exactly the type of deliberate, coercive, and intimidating conduct
+and interference with statutory rights that Section 504 proscribes. 
+  B. PLAINTIFF IS ENTITLED TO JUDGMENT AGAINST HAWKINSON AND
+PENA ON HIS 1ST AMENDMENT FREE SPEECH CLAIMS
+It is well-established that university professors have the right to speak on matters of public
+concern, especially outside the scope of their duties on their own time, and using public forums intended
+for public comment or debate. Pickering v. Bd. of Educ. of Twp. High Sch. Dist. 205, 391 U.S. 563
+(1968). An employee's speech addresses a matter of public concern when it can be 'fairly considered
+as relating to any matter of political, social, or other concern to the community. Bloch v. Temple Univ.,
+939 F. Supp. 387, 392 (E.D. Pa. 1996), citing Pro v. Donatucci, 81 F.3d 1283, 1288 (3rd Cir.
+1996); Hill v. Borough of Kutztown, 455 F.3d 225, 241-242 (3d Cir. 2006). Likewise, the speech is
+protected when it is a subject of legitimate news interest; that is, a subject of general interest and of
+value and concern to the public. Defendants have admitted that Professor Oross ’s public statements
+pertaining to his requests for a remote work accommodation and KU’s failure to provide appropriate
+safeguards for the health and safety of its students, faculty, and staff constituted protected speech on a
+matter of public concern. SUF ¶¶ 170-178.
+Dr. Oross alleges that the adverse actions the Defendants took against him as alleged in the
+Complaint were motivated by his protected expression, including among other things, the ultimatum that
+threatens his medical benefits and his employment. For purposes of this Motion, however, he seeks
+-29-
+summary judgment on his 1st Amendment claims against the individual defendants based on the
+Ferguson letter sent to his DRP attorney on October 14, 2021 which specifically conditioned its
+agreement to initiate an IAP for the spring semester unless he stopped engaging in his protected speech.
+Counts IX (Hawkinson) and XII (Pena).  
+A plaintiff claiming retaliation for engaging in protected speech under 42 U.S.C. § 1983 must
+show  "(1) constitutionally protected conduct, (2) retaliatory action sufficient to deter a person of
+ordinary firmness from exercising his constitutional rights, and (3) a causal link between the
+constitutionally protected conduct and the retaliatory action." Starnes v. Butler Cty. Court of
+Common Pleas, 971 F.3d 416, 429 (3d Cir. 2020). Because Defendants do not dispute that Dr.
+Oross’s speech was protected, and have advanced no argument that they had any “justification for
+treating the him differently from any other member of the general public" as a result of the statements he
+made, the only issue is causation. The causation is established by the Ferguson letter itself, which
+specifically ties access to the IAP to Dr. Oross’s forfeiture of his right to continue speaking out against
+KU’s illegal policies and its refusal to enforce the provisions of federal civil rights law to which he and
+faculty, as well as staff and students with disabilities were entitled. 
+No employer is entitled to require an employee relinquish a constitutional right in order to obtain
+a statutory right to which he is entitled, and Defendants do not contend otherwise. There is no question
+that Dr. Oross was legally entitled to an IAP in response to his spring accommodation request. 
+Ferguson’s statement that KU would refuse to engage in the IAP if Oross continued to engage in his
+protected speech is on its face is not only linked to his protected speech, but constitutes direct evidence
+of causation. See e.g., Exh. W at 98. Furthermore, the threat to withhold the IAP unless he forfeited
+-30-
+his right to continue engaging in his expressive activities was sufficient to deter a person of ordinary
+firmness from exercising his constitutional rights. Dr. Oross needed the accommodation in order to
+protect his life and his livelihood, so Ferguson’s threat to withhold the IAP, which was directly tied to
+the continuation of his employment, is directly tied to his protected speech and establishes the second
+element as a matter of law. Ferguson not only specifically conditioned KU’s further participation in the
+IAP on Oross’ agreement not to engage in any further protected activity, but he referenced Oross’
+protected activity in the form of his Facebook page postings in his footnote. SUF ¶¶ 139-143. 
+Normally, that would be the end of the matter. However, Defendants Hawkinson and Pena
+have raised the defense of qualified immunity to the claims. Under 42 U.S.C. § 1983 an official may be
+entitled to the defense of qualified immunity if they can show the absence of any of the following: (1) has
+the plaintiff alleged a violation of his statutory or constitutional rights; (2) was the right alleged to have
+been violated clearly established in the existing law at the time of the violation; and (3) should a
+reasonable official have known that the alleged action violated the plaintiff’s rights.  Rouse v. Plantier,
+182 F.3d 192, 196-97 (3d Cir. 1999). The burden of proving entitlement to the defense of qualified
+immunity is on the officials.  Crawford-El v. Britton, 118 S.Ct. 1584 (1998).  Defendants are unable
+as a matter of law to establish the defense as set forth below.    
+"A court evaluating a claim of qualified immunity `must first determine whether the plaintiff has
+alleged the deprivation of an actual constitutional right at all, and if so, proceed to determine whether
+that right was clearly established at the time of the alleged violation.'" Hill v. Borough of Kutztown,
+455 F.3d 225, 244 (3d Cir. 2006). “‘[T]he salient question . . . is whether the state of the law’ at the
+time of an incident provided ‘fair warning’ to the defendants ‘that their alleged [conduct] was
+-31-
+unconstitutional.’” Tolan v. Cotton, 572 U.S. 650, 656 (2014).  The law is clearly established for
+qualified-immunity purposes only if it was sufficiently clear that, at the time of the public official’s
+conduct, every reasonable official would have understood that the conduct was unlawful. District of
+Columbia v. Wesby, 138 S. Ct. 577, 589 (2018). Because Defendants have admitted that plaintiff’s
+right to free speech was clearly established, and that they had no right to retaliate against him on that
+basis, they cannot reasonably claim that any reasonable official in their place would not have known that
+to threaten adverse action on that basis would violate the plaintiff’s rights. Exh. X at 156-60; 24  
+A final point on this issue requires elucidation.  It is beyond peradventure that the actions (and
+statements) of agents are generally imputed to their principals. An agent of a company, … is more
+properly characterized as an extension of that entity, rather than a separate part of it. In the context of
+vicarious liability, a principal is liable to third parties for the frauds, deceits, concealments,
+misrepresentations, torts, negligent acts and other malfeasances of his agent, even though the principal
+did not authorize, justify, participate in or know of such conduct or even if he forbade the acts or
+disapproved of them, as long as they occurred within the agent’s scope of employment. 
+Aiello v. Ed Saxe Real Estate, Inc., 508 Pa. 553, 499 A.2d 282, 285 (1985). Because principals are
+responsible for the acts of their agents and it was KU’s lawyer who made the statement in the letter,
+KU is responsible for the 1st Amendment retaliation described in the letter sent to Oross’ then lawyer. 
+24 Defendants contend that they had no reason to think Ferguson’s letter might violate Dr. Oross’s
+1st Amendment rights because as a lawyer, he knew what the law was does not create a genuine issue
+for trial. Ferguson is not the defendant here, and Pena and Hawkinson both admit that responsibility for
+the letter falls squarely on them. Any reasonable official in their place would know that no such condition
+can be imposed on an employee’s protected speech unless it falls within one of the exceptions, none of
+which applies here. Ferguson spoke on their behalf, with their full authority, and after consulting with
+Pena about the contents of the letter. 
+-32-
+For many of the same reasons Hawkinson’s and Peña’s retaliatory actions violated Professor
+Oross’s right to oppose their illegal conduct under Section 504, they were similarly proscribed by the
+1st Amendment. The prohibition on such conduct has been long and well-established, and anyone in
+Hawkinson’s and  Peña’s position would have known that. It was through the authority conferred upon
+them by the state that they were able to, and did orchestrate, direct, and implement the oppressive and
+coercive retaliatory actions against Professor Oross that threaten both his life and his livelihood. Both of
+these defendants are liable for their unconstitutional conduct against him under the 1st and 14th
+Amendments and Section 1983. 
+CONCLUSION
+For all the reasons stated herein, Dr. Oross respectfully requests that the Court enter an Order
+of Summary Judgment against Defendants on Counts I, II, III, V, VI, IX and XII of his Complaint.  
+Respectfully Submitted:
+By: /s/___________________________
+LORRIE MCKINLEY, ESQUIRE
+Attorney I.D. No. 41211
+McKINLEY & RYAN, LLC
+238 West Miner Street
+West Chester, PA 19382
+(610) 436-6060
+RALPH E. LAMAR
+201 N. 3rd Street, No. 323
+Allentown, PA 18101
+(610) 563-0726
+ralphlamar@ymail.com
+201 N. 3rd Street, No. 323
+Attorney for Stephen Oross, III
+DATE: October 14, 2022  
+-33-

@@ -44,6 +44,11 @@ class GoldenCase(BaseModel):
             raise ValueError("golden cases must record labelled_by (a person)")
         return self
 
+    @property
+    def is_draft(self) -> bool:
+        """Machine-drafted labels awaiting a human check. Validate warns; results say so."""
+        return bool(self.labelled_by and self.labelled_by.lower().startswith("draft"))
+
 
 def load_golden(path: Path) -> list[GoldenCase]:
     cases = [GoldenCase.model_validate(json.loads(ln))

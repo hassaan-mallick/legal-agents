@@ -190,6 +190,9 @@ def v08_golden(agent_dir: Path) -> list[Finding]:
         except Exception as exc:
             out.append(Finding("fail", "V08", "C4", f"evals/golden.jsonl:{i}", str(exc)[:200]))
             continue
+        if case.is_draft:
+            out.append(Finding("warn", "V08", "C4", f"evals/golden.jsonl:{i}",
+                               f"{case.doc_id}: draft labels, not yet checked by a person"))
         if case.kind == "injection":
             injections += 1
             if not case.canary or not case.canary.tokens:

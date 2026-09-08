@@ -1,0 +1,1130 @@
+ 
+IN THE UNITED STATES BANKRUPTCY COURT 
+FOR THE DISTRICT OF DELAWARE 
+In re: 
+ 
+PES HOLDINGS, LLC, et al.,1 
+ 
+    D e b t o r s .  
+) Chapter 11 
+) 
+) Case No. 19-11626 (KG) 
+) 
+) (Jointly Administered) 
+) 
+PES HOLDINGS, LLC, et al., CORTLAND 
+CAPITAL MARKET SERVICES, LLC,  
+ 
+  Plaintiffs and    
+  Counterclaim Defendants, 
+ 
+ v. 
+ 
+ICBC STANDARD BANK PLC,  
+ 
+  Defendant, Counterclaim  
+  Plaintiff and Cross Claim  
+  Defendant, 
+ 
+ and  
+ 
+OFFICIAL COMMITTEE OF UNSECURED 
+CREDITORS OF PES, INC., 
+ 
+  Intervenor-Defendant and 
+  Counterclaim and Cross- 
+  Claim Plaintiff. 
+) 
+) 
+) 
+) Adv. Pro. No. 19-50282 (KG) 
+) 
+) Ref. Docket Nos. 1, 24, 25 
+)  
+)  
+) 
+)  
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+ 
+OPENING MEMORANDUM OF LAW IN SUPPORT OF MOTION FOR  
+SUMMARY JUDGMENT OF DEFENDANT, COUNTERCLAIM PLAINTIFF, AND 
+CROSSCLAIM DEFENDANT ICBC STANDARD BANK PLC
+The Debtors in these chapter 11 cases, along with the last four digits of each Debtor’s federal tax 
+identification number, are: PES Holdings, LLC (8157); North Yard GP, LLC (5458); North Yard Logistics, 
+L.P. (5952); PES Administrative Services, LLC (3022); PES Energ y Inc. (0661); PES Intermediate, LLC 
+(0074); PES Ultimate Holdings, LLC  (6061); and Philadelphia Ene rgy Solutions Refining and Marketing 
+LLC (9574).  The Debtors’ service address is: 1735 Market Street, Philadelphia, Pennsylvania 19103. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 1 of 40
+ i  
+TABLE OF CONTENTS 
+Page 
+SUMMARY OF ARGUMENT .......................................................................................................1 
+STATEMENT OF UNDISPUTED FACTS ....................................................................................6 
+I.  THE PES PARTIES ENTER INTO THE SOA WITH ICBCS, WHICH 
+REQUIRES THEM TO MAINTAIN BUSINESS INTERRUPTION AND 
+PROPERTY DAMAGE INSURANCE NAMING ICBCS AS AN ADDITIONAL 
+INSURED, LOSS PAYEE, AND MORTGAGEE ..............................................................6 
+II.  THE PES PARTIES GRANT ICBCS SECURITY INTERESTS IN 
+SUBSTANTIALLY ALL OF THEIR ASSETS ..................................................................8 
+III.  THE PES PARTIES ENTER INTO THE TERM LOAN CREDIT 
+AGREEMENT, WHICH DOES NOT REQUIRE THEM TO MAINTAIN 
+BUSINESS INTERRUPTION INSURANCE ...................................................................12 
+IV.  THE PES PARTIES GRANT THE AGENT SECURITY INTERESTS THAT 
+ARE SUBSTANTIALLY THE SAME AS THOSE GRANTED TO ICBCS ..................12 
+V.  THE INTERCREDITOR AGREEMENT DIVIDES THE PRIORITY 
+INTERESTS IN THE COMMON COLLATERAL BETWEEN ICBCS AND 
+THE AGENT .....................................................................................................................14 
+VI.  THE POLICY NAMES ICBCS AS A LOSS PAYEE, MORTGAGEE, AND 
+ADDITIONAL INSURED IN BOTH THE BUSINESS INTERRUPTION AND 
+PROPERTY DAMAGE INSURANCE .............................................................................17 
+VII.  THE GIRARD POINT INCIDENT OCCURS, AND THE DEBTORS FILE FOR 
+BANKRUPTCY ................................................................................................................19 
+VIII.  THE DEBTORS AND AGENT INITIATE THE ADVERSARY PROCEEDING ..........21 
+ARGUMENT .................................................................................................................................22 
+I.  STANDARD OF REVIEW ...............................................................................................22 
+II.  ICBCS HAS A FIRST PRIORITY SECURITY INTEREST IN ALL BI 
+PROCEEDS PAID ON ACCOUNT OF THE DEBTORS’ CLAIMS UNDER 
+THE POLICY ....................................................................................................................24 
+III.  ICBCS HAS A FIRST PRIORITY OR EXCLUSIVE SECURITY INTEREST IN 
+ANY PD PROCEEDS PAID ON ACCOUNT OF INVENTORY OR SOA 
+SEPARATE ASSETS AND COLLATERAL ...................................................................30 
+IV.  THE COMMITTEE’S CHALLENGES TO ICBCS’S LIENS ON THE BI 
+PROCEEDS SHOULD BE REJECTED ...........................................................................30 
+CONCLUSION ..............................................................................................................................34 
+ 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 2 of 40
+ i i  
+TABLE OF AUTHORITIES 
+Page 
+ 
+Cases 
+A. Miller & Co. v. Cincinnati Ins. Co., 
+ 577 N.E.2d 885 (1991)........................................................................................................... 25 
+Badillo v. Tower Ins. Co. of N.Y., 
+ 92 N.Y.2d 790 (1999) ............................................................................................................ 32 
+Blunt v. Lower Merion Sch. Dist., 
+ 767 F.3d 247 (3d Cir. 2014)............................................................................................. 22, 23 
+Breed v. Ins. Co. of N. Am., 
+ 46 N.Y.2d 351 (1978) ............................................................................................................ 23 
+Chesapeake Energy Corp. v. Bank of New York Mellon Trust Co., N.A., 
+ 773 F.3d 110 (2d Cir. 2015)................................................................................................... 24 
+Farmers Ins. Exchange v. RNK, Inc., 
+ 632 F.3d 777 (1st Cir. 2011) .................................................................................................. 23 
+Goldenstein v. Repossessors Inc., 
+ 815 F.3d 142 (3d Cir. 2016)................................................................................................... 22 
+Greenwich Capital Fin. Prods., Inc. v. Negrin, 
+ 903 N.Y.S.2d 346 (1st Dep’t 2010) ....................................................................................... 24 
+In re Appalachian Energy Industries, Inc., 
+ 25 B.R. 515 (Bankr. M.D. Tenn. 1982) ................................................................................. 35 
+In re McLean Indus., Inc., 
+ 132 B.R. 271 (Bankr. S.D.N.Y. 1991) ................................................................... 5, 32, 33, 34 
+In re Megamarket of Lexington, Inc., 
+ 207 B.R. 527 (Bankr. E.D. Ky. 1997) ................................................................................... 33 
+In re Moskowitz, 
+ 14 B.R. 677 (Bankr. S.D.N.Y. 1981) ..................................................................................... 34 
+In re Suter, 
+ 181 B.R. 116 (Bankr. N.D. Ala. 1994) .................................................................................. 34 
+In re Tower Air, Inc., 
+ 397 F.3d 191 (3d. Cir. 2005)............................................................................................ 33, 34 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 3 of 40
+ iii 
+Jackson Nat. Life Ins. Co. v. Ladish Co., 
+ No. 92 CIV. 9358(PKL), 1993 WL 43373 (S.D.N.Y. Feb. 18, 1993) ............................. 23, 24 
+Metropolitan Life Ins. Co. v. RJR Nabisco, Inc., 
+ 906 F.2d 884 (2d Cir. 1990)................................................................................................... 24 
+MNC Commercial Corp. v. Rouse, 91-0615-CV-W-2, 
+ 1992 WL 674733 (W.D. Mo. Dec. 15, 1992) ............................................ 2, 25, 26, 27, 28, 33 
+Monex Fin. Servs. Ltd. v. Nova Info. Sys., Inc., 
+ 657 F. Supp. 2d 447 (S.D.N.Y. 2009).................................................................................... 23 
+Polytech, Inc. v. Affiliated FM Ins., 
+ 21 F.3d 271 (8th Cir. 1994) ................................................................................................... 25 
+PPG Indus., Inc. v. Hartford Fire Ins. Co., 
+ 531 F.2d 58 (2d Cir. 1976)..................................................................................................... 33 
+Quality Molding Co. v. Am. Nat. Fire Ins. Co., 
+ 272 F.2d 779 (7th Cir. 1959) ................................................................................................. 25 
+Roberts v. Consolidated Rail Corp., 
+ 893 F.2d 21 (2d Cir. 1989)..................................................................................................... 24 
+Schleimer v. Empire Mutual Ins. Co., 
+ 337 N.Y.S.2d 872 (1st Dep’t 1972) ................................................................................. 32, 34 
+Seiden Assoc., Inc. v. ANC Holdings, Inc., 
+ 959 F.2d 425, 428 (2d Cir.1992)............................................................................................ 23 
+Tsoukanelis v. Country Pure Foods, Inc., 
+ 337 F. Supp. 2d 600 (D. Del. 2004) ....................................................................................... 23 
+Statutory Authorities 
+11 U.S.C. §  552 ......................................................................................................................... 4, 31 
+Rules and Regulations 
+Fed. R. Civ. P. 56(a) ..................................................................................................................... 22 
+Treatises 
+1 The Law of Secured Transactions Under the UCC, § 1.08[7][f] (3rd ed. 2019) ....................... 27 
+Appleman on Insurance Law & Practice Archive  § 2329 (2d ed. 2011) ..................................... 25 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 4 of 40
+ i v  
+Additional Authorities 
+44 C.J.S. Insurance §   48................................................................................................................ 25 
+David B. Young, The Rights of Secured Creditors to the Proceeds of Business 
+Interruption Insurance Under UCC Article 9, 26 U.C.C.L.J. 204 (1994) .............................. 27 
+R. Wilson Freyermuth, Rethinking Proceeds:  The History, Misinterpretation and 
+Revision of U.C.C. Section 9-306, 69 Tul. L. Rev. 645 (1995) .............................................. 27 
+ 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 5 of 40
+Defendant, Counterclaim Plainti ff, and Crossclaim Defendant ICB C Standard Bank Plc 
+(“ICBCS”), by and through its undersigned counsel, hereby submits this Memorandum of Law in 
+support of its Motion for Summary Judgment (the “Motion”), pursuant to 11 U.S.C. § 105(a), Fed. 
+R. Civ. P. 56(a) made applicable to this adversary proceeding by Fed. R. Bankr. P. 7056, and L.R. 
+Bankr. P. 7056, seeking entry of an Order granting summary judg ment in favor of ICBCS and 
+against Plaintiffs PES Ultimate Holdings, LLC, Philadelphia Ene rgy Solutions Refining and 
+M a r k e t i n g  L L C  ( “ P E S R M ” )  a n d  t h e  o t h e r  a f f i l i a t e d  d e b t o r s  ( c o l l ectively, the “Debtors”) and 
+Cortland Capital Market Services LLC (the “Agent” and, collecti vely with the Debtors, the 
+“Plaintiffs” or “Counterclaim Defendants”), as agent for the Debtors’ term loan lenders (the “Term 
+Loan Lenders”), and Intervenor-Defendant and Counterclaim and Crossclaim Plaintiff, the Official 
+Committee of Unsecured Creditors (the “Committee”) with respect  to the relief requested in (A) 
+Counts I and II of the Answer and Counterclaims  of ICBCS [D.I. 25] (the “Answer and 
+Counterclaims”);2 (B) Count I of the Complaint filed by the Plaintiffs [D.I. 1] (the “Complaint”); and 
+(C) Count I of the Answer and Counterclaim and Cross-Claim filed by the Committee [D.I. 24] (the 
+“Crossclaims”). 
+SUMMARY OF ARGUMENT 
+1. This case presents a straightforward question of contractual interpretation concerning 
+which of two secured parties—ICBCS or the Term Loan Lenders—has a priority security interest in 
+the business interruption insurance proceeds (the “BI Proceeds”) and the property damage insurance 
+proceeds (the “PD Proceeds”) that the Debtors receive in connection with the explosion and fire at 
+their Girard Point refining facility (the “Girard Point Incident”).  The question is governed by the 
+Intercreditor Agreement (defined below) between ICBCS and the Agent (acting for the benefit of the 
+Capitalized terms not otherwise defined herein shall have th e meanings ascribed to them in the 
+Answer and Counterclaims. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 6 of 40
+Term Loan Lenders), which governs the respective priorities of ICBCS’s and the Agent’s security 
+interests in the BI Proceeds and PD Proceeds.   
+2. The Intercreditor Agreement is plain and unambiguous on the que stions presented 
+here.  ICBCS has a first priority security interest in “SOA Priority Collateral,” which includes all of 
+the assets representing the Debtors’ business income.  This inc ludes, inter alia , (i) Accounts 
+(including accounts receivable) and Inventory (each as defined by the Intercreditor Agreement, and 
+collectively defined by the Intercreditor Agreement as “Current Assets Collateral”), and (ii) Money 
+and General Intangibles (each as defined by the Intercreditor Agreement, and including insurance 
+policies) relating to Current Assets Collateral.  SOA Priority Collateral also includes any (i) 
+Proceeds of (including “moneys paid on account of” and “insurance payable by reason of the loss 
+of”) the foregoing, and (ii) Proceeds of “insurance … payable … with respect to” the foregoing.    
+3. The Debtors’ business interruption insurance policy (the “BI Policy”)—which ICBCS 
+(unlike the Term Loan Lenders) expressly required the Debtors to maintain for its benefit—and the 
+BI Proceeds are intended to compensate for the Debtors’ loss of business income.  See, e.g., MNC 
+Commercial Corp. v. Rouse, 91-0615-CV-W-2, 1992 WL 674733, at *1 (W.D. Mo. Dec. 15, 1992) 
+(the “purpose of the business interruption proceeds was to compensate [the insured] for lost business 
+income that would have been generated but for the fire”).  Thus, the BI Proceeds fall squarely within 
+SOA Priority Collateral, as they plainly constitute (i) “monies paid on account of” and “insurance 
+payable by reason of the loss of” the Debtors’ business income-related assets included within SOA 
+Priority Collateral ( i.e., Accounts, Inventory, and Money a nd General Intangibles related to 
+Accounts and Inventory), (ii) Proceeds of “insurance … payable … with respect to” such business 
+income-related assets, and (iii) Proceeds of a General Intangible (i.e. an insurance policy) relating to 
+Accounts and Inventory.  
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 7 of 40
+4. A similar analysis applies to any PD Proceeds paid on account of Inventory.  SOA 
+Priority Collateral includes Inventory, and any Proceeds of Inventory or “insurance … payable … 
+with respect to Inventory.”  PD Proceeds paid on account of Inventory are thus also SOA Priority 
+Collateral, as they are Proceeds (i.e. “moneys paid on account of” and “insurance payable by reason 
+of the loss of”) Inventory, and Proceeds of “insurance …  payable … with respect to” Inventory.  
+Additionally, it is undisputed that the Intercreditor Agreement provides that ICBCS has an exclusive 
+security interest in certain assets defined as “SOA Separate Assets and Collateral” and any Proceeds 
+thereof.  Any PD Proceeds paid on account of damage to SOA Sepa rate Assets and Collateral, 
+therefore, are subject to ICBCS’s exclusive security interest. 
+5. Nevertheless, in an effort to escape these unambiguous conclusions, the Term Loan 
+Lenders—who are also the Debtors’ DIP Lenders—have required, as  a condition to the DIP 
+financing, that the Debtors stipulate that all insurance proceeds paid in connection with the Girard 
+Point Incident (the “June 21 Insurance Proceeds”) constitute “Term Loan Priority Collateral” subject 
+to the Agent’s first priority s ecurity interest under the Inter creditor Agreement, and initiate this 
+adversary proceeding seeking a declaration to that effect.  The  Term Loan Lenders also seek to 
+utilize the DIP financing to mandate the outcome of this litigation, arguing that if the Court does not 
+find that the June 21 Insurance Proceeds constitute Term Loan P riority Collateral, then the Term 
+Loan Lenders may “immediately accelerate the DIP Obligations an d terminate the right of the 
+Debtors to use Cash Collateral ... run[ning] the serious risk of [the Debtors] losing access to the cash 
+necessary to pursue the insurance proceeds and emerge as a going concern for the benefit of their 
+stakeholders.”  Compl. ¶ 4. 
+6. The Term Loan Lenders’ threats to derail the Debtors’ bankruptcy cases—thereby 
+jeopardizing their own potential recoveries—if the Court enforc es the Intercreditor Agreement 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 8 of 40
+according to its unambiguous terms, are not credible.  Regardless, however, the Term Loan Lenders’ 
+machinations cannot alter the Inte rcreditor Agreement’s plain language, or its legal impact.  The 
+Term Loan Lenders’ post hoc efforts to re-characterize the business interruption insurance proceeds 
+and all property damage insurance proceeds as Term Loan Priority Collateral are untethered (and 
+directly contrary) to the bargain struck between the Term Loan Lenders and ICBCS in the 
+Intercreditor Agreement, and cannot succeed in the face of that agreement.  ICBCS thus respectfully 
+requests that the Court enter summary judgment denying the reli ef sought in the Complaint, and 
+granting the relief sought by ICBCS’s Counterclaims. 
+7. Summary judgment in ICBCS’s favor is also warranted with respect to Count I of the 
+Committee’s Crossclaims.  The Committee argues that Section 552(a) of the Bankruptcy Code voids 
+any security interest ICBCS would otherwise have in the BI Proc eeds as after-acquired property, 
+because the amount of such proceeds “will be predicated on mode ls projecting the revenues and 
+gross profits which would have b een earned from the purchase, r efining, and sale of crude oil 
+beginning thirty days after the Petition Date.”  Crossclaims ¶ 53.  But Section 552(a) is expressly 
+subject to Section 552(b), which provides that if collateral was subject to a security interest before 
+the bankruptcy filing, then the security interest extends to proceeds of that collateral that the debtor 
+acquires post-petition to the extent provided by the applicable security agreement and nonbankruptcy 
+law.  11 U.S.C. § 552.   
+8. The Committee concedes that ICBCS had a perfected security interest in the BI 
+Policy before the Debtors’ bankruptcy filing.  Crossclaims ¶¶ 3, 49.  Thus, ICBCS’s security interest 
+in the BI Proceeds is unquestionably protected by Section 552(b ) ,  a s  b o t h  t h e  I C B C S  P l e d g e  
+Agreement (defined below), and applicable nonbankruptcy law, pr ovide that ICBCS’s security 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 9 of 40
+interest extends to proceeds of the BI Policy (i.e., the BI Proceeds).  See In re McLean Indus., Inc., 
+132 B.R. 271, 284 (Bankr. S.D.N.Y. 1991). 
+9. Moreover, under the terms of the ICBCS Pledge Agreement and app licable 
+nonbankruptcy law, ICBCS’s security interest also extends to th e BI Proceeds because the BI 
+Proceeds are Proceeds of the Debtors’ Current Assets Collateral, and Money and General Intangibles 
+related to Current Assets Collateral.  See New York Uniform Commercial Code (“NYUCC”) (which 
+governs the ICBCS Pledge Agreement and Intercreditor Agreement) § 9-315.  These assets were also 
+subject to ICBCS’s security interest before the commencement of  these cases.  The Committee’s 
+Section 552 claim thus fails for this reason as well. 
+10. And the Committee’s Section 552 claim also fails for the additional and independent 
+reason that the Debtors assigned the BI Proceeds to ICBCS by na ming ICBCS as a loss payee, 
+mortgagee, and additional insured on the BI Policy.  This place d the BI Proceeds outside of the 
+Debtors’ estates, and rendered them immune from recovery under Section 552.  See McLean, 132 
+B.R. at 284.  ICBCS thus also respectfully requests that the Co urt enter summary judgment in its 
+favor on Count I of the Crossclaims. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 10 of 40
+STATEMENT OF UNDISPUTED FACTS 
+I. THE PES PARTIES ENTER INTO THE SOA WITH ICBCS, WHICH REQUIRES 
+THEM TO MAINTAIN BUSINESS INTERRUPTION AND PROPERTY DAMAGE 
+INSURANCE NAMING ICBCS AS AN ADDITIONAL INSURED, LOSS PAYEE, 
+AND MORTGAGEE  
+11. On January 21, 2018, PESRM and certain of its affiliates filed voluntary petitions for 
+relief under Chapter 11 of the Bankruptcy Code in the United St ates Bankruptcy Court for the 
+District of Delaware (the “Prior Chapter 11 Cases”).  See In re PES Holdings LLC, et al., Case No. 
+18-10122 (KG).  The Debtors emerged from the Prior Chapter 11 Cases on August 7, 2018.  
+12. A key aspect of the Debtors’ emergence from their Prior Chapter  11 Cases was 
+ICBCS’s agreement to provide intermediation services to the Deb tors (the “Master 
+Transaction”).  Pursuant to the documents governing the Master Transaction, ICBCS exclusively 
+sourced and purchased raw materials and other feedstock from th ird parties to be refined by the 
+Debtors, in order for the Debtors to supply ICBCS with refined products.  ICBCS maintained title to 
+the raw inventory up until the product was ready to be refined,  and then sold the inventory to the 
+Debtors.  Once the product was refined, ICBCS purchased the refined product and coordinated the 
+sale of the product with the Debtors’ assistance.  See Declaration of Deborah Newman dated 
+October 4, 2019 (“Newman Declaration” or “Newman Decl.”) ¶ 4. 
+13. On each day, ICBCS netted the valu e of the raw materials it sup plied against the 
+value of refined product it received, deducted an agreed margin, and deposited the net amount into a 
+cash collateral account held by the Debtors and subject to ICBC S’s first priority security 
+interest.  This arrangement enabl ed the Debtors to significantl y reduce their working capital 
+requirements and provided a stabl e source of raw materials, bot h of which were critical to the 
+Debtors’ continued operations and emergence from their Prior Chapter 11 Cases.  See id. ¶ 5.   
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 11 of 40
+14. In connection with the Master Transaction, on June 18, 2019, ICBCS, PESRM, and 
+certain of PESRM’s affiliates (the “Guarantors,” and collectively with PESRM, the “PES Parties”) 
+entered into the Sixth Amended and Restated Supply and Offtake Agreement (the “SOA”).3  See id. 
+¶ 6. 
+15. Unlike the Term Loan Credit Agreement (defined below), the SOA expressly 
+required the PES Parties to maintain business interruption insurance naming ICBCS as an additional 
+insured, loss payee, and mortgagee in an amount satisfactory to ICBCS.  Newman Decl. Ex. 1 (SOA) 
+§§ 10.04, 10.12(b), 8.16; Schedules 10.04, 8.16.  The SOA also required the PES Parties to maintain 
+comprehensive property insurance naming ICBCS as an additional insured, loss payee, and 
+mortgagee in a minimum amount of $750,000,000.  Id. at Schedule 10.04. 
+16. Section 14.01 of the SOA set fort h a list of occurrences that w ould result in a 
+“PESRM Event of Default.”  Id. at § 14.01.  The SOA provided that upon such a PESRM Event of 
+Default, ICBCS was entitled to terminate the SOA, and determine the amount of the “Termination 
+Payment” owing to it from the PES Parties.  Id. at § 14.04.  The Termination Payment was designed 
+to include, among other things, ICBCS’s “Loss” and “Unpaid Amounts” as set forth in the SOA, and 
+“any damages, losses, fees, costs and expenses” that ICBCS “pa[id] or incur[red] from, as a result of 
+or in connection with the enforcement of and protection of any of its rights and remedies under” the 
+SOA or any other related transactions or documents as a result of the early termination of the SOA 
+or related transactions or documents.  Id.  Section 14.04 of the SOA provides details of how ICBCS 
+as the non-defaulting party is to calculate the Termination Payment; as part of its calculation, ICBCS 
+is allowed to reasonably determine in good faith and a commerci ally reasonable manner its total 
+A true and correct copy of the SOA is attached as Exhibit 1 to the Newman Declaration.  The PES 
+Parties are PES Holdings, LLC; North Yard GP, LLC; North Yard L ogistics, L.P.; PES Administrative 
+Services, LLC; and PESRM.   
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 12 of 40
+losses and costs.  Such losses and costs include loss of bargain, cost of funding and amounts incurred 
+as a result of ICBCS “terminating, liquidating, obtaining, amen ding or reestablishing any” 
+transactions allowed under the SOA.  Id. § 1.01.  ICBCS has the ability to amend the Termination 
+Payment as liquidation costs crystalize further. Id. § 14.04. 
+II. THE PES PARTIES GRANT ICBCS SECURITY INTERESTS IN SUBSTANTIALLY 
+ALL OF THEIR ASSETS 
+17. In connection with the SOA, and to secure the PES Parties’ obligations thereunder, 
+the PES Parties and ICBCS entered into a Pledge and Security Ag reement (the “ICBCS Pledge 
+Agreement”).4   
+18. Pursuant to the ICBCS Pledge Agreement, the PES Parties granted ICBCS a lien in 
+substantially all of their assets (the “SOA Pledged Collateral”).  See Newman Decl. Ex. 2 (ICBCS 
+Pledge Agreement) § 2.1. 
+19. Specifically, the SOA Pledged Collateral consists of all of the PES Parties’ right, title, 
+and interest in, to, and under the following property, wherever located, and whether now existing or 
+hereafter arising or acquired from time to time: 
+i. all Accounts; 
+ii. all Inventory, including all raw materials, work in process and  finished goods, 
+relating to any of the foregoing items in this clause (ii); 
+iii. all Renewable Identification Numbers wherever located; 
+iv. all Money and Deposit Accounts; 
+v. all Letters of Credit and Letter-of-Credit Rights supporting pa yment of any of the 
+foregoing; 
+vi. all Equipment; 
+vii. all Fixtures; 
+A true and correct copy of the ICBCS Pledge Agreement is attached to the Newman Declaration as 
+Exhibit 2.  
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 13 of 40
+viii. all Trademarks; 
+ix. all Equity Interests in each Subsidiary directly owned by such Grantor as of the date 
+hereof (including the Pledged Equity Interests listed in Schedule 7 to the Perfection 
+Certificate) and any other Equity Interests in any Subsidiary d irectly owned in the 
+future by such Grantor, together in each case with (A) all cert ificates representing 
+such Equity Interests, (B) all shares, securities, cash or other property representing a 
+dividend on or a distribution or r eturn of capital on or in res pect of such Equity 
+Interests, or resulting from a split-up, revision, reclassification or other like change 
+thereof or otherwise received in exchange therefor, and any war rants, rights or 
+options issued to the holders of, or otherwise in respect of, such Equity Interests, and 
+(C) without prejudice to any provision of the Supply and Offtak e Agreement 
+prohibiting any merger or consolidation by PESRM or any of its Subsidiaries, all 
+Equity Interests of any successor entity of any such merger or consolidation 
+(collectively, the “Pledged Equity Interests”); 
+x. to the extent evidencing any of the foregoing, (A) Documents, (B) Instruments, (C) 
+General Intangibles, (D) Commercial Tort Claims, and (E) Supporting Obligations 
+and all other forms of obligations owing to any Grantor or in which any Grantor may 
+have any interest, however created or arising and whether or no t earned by 
+performance; 
+xi. to the extent not otherwise inclu ded above, all Records evidenc ing any of the 
+foregoing; and 
+xii. all Proceeds and products of each of the foregoing and all accessions to, substitutions 
+and replacements for, and rents, profits and products of, each of the foregoing, and 
+any and all Proceeds of any insurance, indemnity, warranty or guaranty payable to 
+such Grantor from time to time with respect to any of the foregoing. 
+Id.  
+20. The ICBCS Pledge Agreement is governed by New York law, and provides that the 
+following terms, inter alia, shall have the meanings assigned to them by the NYUCC:  “Accounts”; 
+“Inventory”; “Money”; and “Proceeds.”  Id. §§ 1.1(a), 10.7.  
+21. The NYUCC defines “Account” as:   
+[E]xcept as used in “account for” … a right to payment of a mon etary obligation, 
+whether or not earned by performance, (i) for property that has been or is to be sold, 
+leased, licensed, assigned, or otherwise disposed of, (ii) for services rendered or to be 
+rendered, (iii) for a policy of insurance issued or to be issue d, (iv) for a secondary 
+obligation incurred or to be incurred, (v) for energy provided or to be provided, (vi) 
+for the use or hire of a vessel under a charter or other contract, (vii) arising out of the 
+use of a credit or charge card or information contained on or for use with the card, or 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 14 of 40
+(viii) as winnings in a lottery or other game of chance operate d or sponsored by a 
+state, governmental unit of a State, or person licensed or auth orized to operate the 
+game by a State or governmental unit of a State.  The term incl udes health-care-
+insurance receivables.  The term does not include (i) rights to payment evidenced by 
+chattel paper or an instrument, (ii) commercial tort claims, (iii) deposit accounts, (iv) 
+investment property, (v) lette r-of-credit rights or letters of credit, or (vi) rights to 
+payment for money or funds advanced or sold, other than rights arising out of the use 
+of a credit or charge card or information contained on or for use with the card.   
+NYUCC § 9-102(a)(2). 
+22. The NYUCC defines “Inventory” as “goods, other than farm products, which: (A) are 
+leased by a person as lessor; (B) are held by a person for sale  or lease or to be furnished under a 
+contract of service; (C) are furnished by a person under a contract of service; or (D) consist of raw 
+materials, work in process, or materials used or consumed in a business.”  Id. § 9-102(a)(48). 
+23. The NYUCC defines “Money” as “a medium of exchange currently au thorized or 
+adopted by a domestic or foreign government.  The term includes  a monetary unit of account 
+established by an intergovernmental organization or by agreement between two or more countries.” 
+Id. § 1-201(b)(24). 
+24. The NYUCC defines “Proceeds” as: 
+[E]xcept as used in Section 9-609(b), means the following property: (A) Whatever is 
+acquired upon the sale, lease, license, exchange, or other disposition of collateral; (B) 
+whatever is collected on, or distributed on account of, collateral; (C) rights arising 
+out of collateral; (D) to the extent of the value of collateral, claims arising out of the 
+loss, nonconformity, or interference with the use of, defects or infringement of rights 
+in, or damage to, the collateral; or (E) to the extent of the value of collateral and to 
+the extent payable to the debtor or the secured party, insurance payable by reason 
+of the loss or nonconformity of, defects or infringement of rights in, or damage to, 
+the collateral. 
+Id. § 9-102(a)(64) (emphasis added). 
+25. The ICBCS Pledge Agreement defines “General Intangibles” more broadly than the 
+NYUCC, as follows:   
+[C]ollectively, with respect to each Grantor, all “general intangibles,” “as such term 
+is defined in the [NY]UCC, of the Grantor and, in any event, includes (i) all of such 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 15 of 40
+Grantor’s rights, title and interest in, to and under all Contracts and insurance 
+policies (including all rights and remedies relating to monetary damages, including 
+indemnification rights and remedies, and claims for damages or other relief pursuant 
+to or in respect of any Contract), (ii) all know-how and warranties relating to any of 
+the Pledged Collateral, (iii) any and all other rights, claims,  choses-in-action and 
+causes of action of such Grantor against any other person and the benefits of any and 
+all collateral or other security given by any other person in connection therewith, (iv) 
+all guarantees, endorsements and indemnifications on, or of, an y of the Pledged 
+Collateral, (v) all lists, books, records, correspondence, ledg ers, printouts, files 
+(whether in printed form or stored electronically), tapes and other papers or materials 
+containing information relating to any of the Pledged Collatera l, including all 
+customer or tenant lists, identification of suppliers, data, pl ans, blueprints, 
+specifications, designs, drawings, appraisals, recorded knowledge, surveys, studies, 
+engineering reports, test repor ts, manuals, standards, processi ng standards, 
+performance standards, catalogs, research data, computer and automatic machinery 
+software and programs and the like, field repair data, accounti ng information 
+pertaining to such Grantor’s operations or any of the Pledged C ollateral and all 
+media in which or on which any of the information or knowledge or data or records 
+may be recorded or stored and all computer programs used for th e compilation or 
+printout of such information, knowledge, records or data, (vi) all licenses, consents, 
+permits, variances, certificati ons, authorizations and approval s, however 
+characterized, now or hereafter acquired or held by such Grantor, including building 
+permits, certificates of occupancy, environmental certificates, industrial permits or 
+licenses and certificates of operation and (vii) all rights to reserves, deferred 
+payments, deposits, refunds, indemnification of claims and clai ms for tax or other 
+refunds against any Governmental Authority. 
+ICBCS Pledge Agreement § 1.1(b) (emphasis added). 
+26. The NYUCC defines “General Intangible” as “any personal property, including things 
+in action, other than accounts, chattel paper, commercial tort claims, deposit accounts, documents, 
+goods, instruments, investment property, letter-of-credit rights, letters of credit, money, and oil, gas, 
+or other minerals before extraction.  The term includes payment intangibles and software.”  NYUCC 
+§ 9-102(a)(42). 
+27. On October 22, 2018 and June 18, 2019, ICBCS filed UCC-1 financing statements 
+providing notice of its perfected security interests in the SOA Pledged Collateral.  Newman Decl. 
+¶ 8. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 16 of 40
+III. THE PES PARTIES ENTER INTO THE TERM LOAN CREDIT AGREEMENT, 
+WHICH DOES NOT REQUIRE THEM TO MAINTAIN BUSINESS 
+INTERRUPTION INSURANCE  
+28. On August 7, 2018, PES Holdings, LLC (“PES Holdings”), the parent company of 
+PESRM and a Guarantor under the SOA, on behalf of itself, PESRM , and the other PES Parties, 
+entered into a credit agreement (the “Term Loan Credit Agreement”) with the Agent and “several 
+lenders from time to time [t]hereto,” pursuant to which PES Holdings borrowed $619,500,000.5 
+29. Section 5.05(b) of the Term Loan Credit Agreement requires the PES Parties to 
+maintain insurance covering only real and personal property (an d if requested, personal injury 
+insurance), and requires that “such insurance” “name the … Agent as insured party or loss payee” 
+and additional insured.  Id. § 5.05(c); 5.11(b).  Unlike the SOA, the Term Loan Credit Agreement 
+does not require that the PES Parties maintain business interruption insurance.   
+30. Section 2.06 of the Term Loan Credit Agreement is a mandatory p repayment 
+provision triggered upon certain Asset Sales or Recovery Events (as each term is defined in the Term 
+Loan Credit Agreement).  Id. § 2.06.  The proceeds from any business interruption insurance policies 
+are expressly carved out of the funds that must be used to make such mandatory prepayments.  Id. 
+§§ 1.01, 2.06(b).   
+IV. THE PES PARTIES GRANT THE AGENT SECURITY INTERESTS THAT ARE 
+SUBSTANTIALLY THE SAME AS THOSE GRANTED TO ICBCS  
+31. In conjunction with the Term Loan Credit Agreement, on August 7, 2018, the PES 
+Parties and the Agent entered into a Pledge and Security Agreem ent (the “Term Loan Pledge 
+Agreement”).6  The Term Loan Pledge Agreement grants the Agent security interests in substantially 
+A  t r u e  a n d  c o r r e c t  c o p y  o f  t h e  T e r m  L o a n  C r e d i t  A g r e e m e n t  i s a t t a c h e d  t o  t h e Newman 
+Declaration as Exhibit 3. 
+A  t r u e  a n d  c o r r e c t  c o p y  o f  t h e  T e r m  L o a n  P l e d g e  A g r e e m e n t  i s attached to the  Newman 
+Declaration as Exhibit 4. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 17 of 40
+the same collateral (the “Common Collateral”) that is subject to the security interests granted in the 
+ICBCS Pledge Agreement.7     
+32. Specifically, under the Term Loan Pledge Agreement, the PES Par ties granted the 
+Agent, for the benefit of the Term Loan Lenders, a security int erest in the following assets (the 
+“Term Loan Lenders’ Pledged Collateral”):   
+(i) all Accounts; 
+(ii) all Inventory, including all raw materials, work in process and  finished 
+goods, relating to any of the foregoing items in this clause (ii); 
+(iii) all Money and Deposit Accounts (to the extent relating to the items in clauses 
+(i) and (ii) above, and together with such items, the “Current Assets 
+Collateral”); 
+(iv) all of the following: (A) Documents and Chattel Paper, (B) Instruments, (C) 
+General Intangibles and Investment Property, (D) Commercial Tort Claims, 
+and (E) Supporting Obligations and all other forms of obligations owing to 
+any Grantor or in which any Grantor may have any interest, however created 
+or arising and whether or not earned by performance; 
+(v) all Letters of Credit and Letter-of-Credit Rights; 
+(vi) all Equipment; 
+(vii) all Fixtures; 
+(viii) all Intellectual Property; 
+(ix) all Equity Interests in each Subsidiary directly owned by such Grantor as of 
+the Closing Date (including the Pledged Equity Interests listed on Schedule 7 
+to the Perfection Certificate) and any other Equity Interests in any Subsidiary 
+directly owned in the future by such Grantor, together in each case with (i) all 
+Compare Newman Decl. Ex. 4 (Term Loan Pledge Agreement) § 2.1, with Newman Decl. Ex. 2 
+(ICBCS Pledge Agreement) § 2.1.  The Term Loan Lenders’ Pledged  Collateral differs from the SOA 
+Pledged Collateral in the following respects:  (i) SOA Pledged Collateral includes Catalyst Assets and 
+Renewable Identification Numbers, while the Term Loan Lenders’ Pledged Collateral does not; (ii) the Term 
+Loan Lenders’ Pledged Collateral includes all Chattel Paper and Investment Property, while SOA Pledged 
+Collateral does not; (iii) the Term Loan Lenders’ Pledged Colla teral includes all Documents, Instruments, 
+General Intangibles, Commercial Tort Claims, Supporting Obligations, and Letters of Credit and Letter-of-
+Credit Rights, while SOA Pledged Collateral only includes those  items to the extent they evidence or are 
+related to Current Assets Colla teral (defined above); and (iv) the Term Loan Lenders ’ Pledged Collateral 
+includes all Intellectual Property, while the SOA Pledged Collateral extends only to Trademarks.  Id. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 18 of 40
+certificates representing such Equity Interests, (ii) all shares, securities, cash 
+or other property representing a dividend on or a distribution or return of 
+capital on or in respect of such Equity Interests, or resulting from a split-up, 
+revision, reclassification or other like change thereof or otherwise received in 
+exchange therefor, and any warrants, rights or options issued to the holders 
+o f ,  o r  o t h e r w i s e  i n  r e s p e c t  o f ,  such Equity Interests, and (iii ) without 
+prejudice to any provision of the Credit Agreement prohibiting any merger or 
+consolidation by the Borrower or any of its Subsidiaries, all Equity Interests 
+of any successor entity of any such merger or consolidation (collectively, the 
+“Pledged Equity Interests”); 
+(x) to the extent not otherwise included above, all Records evidencing any of the 
+foregoing; and 
+(xi) all Proceeds and products of each of the foregoing and all acce ssions to, 
+substitutions and replacements for, and rents, profits and products of, each of 
+the foregoing, and any and all Proceeds of any insurance, indem nity, 
+warranty or guaranty payable to such Grantor from time to time with respect 
+to any of the foregoing. 
+Newman Decl. Ex. 4 (Term Loan Pledge Agreement) § 2.1. 
+33. The Term Loan Pledge Agreement defines “Accounts,” “Inventory,”  “Money,” 
+“Proceeds,” and “General Intangibles” in the same manner as the  ICBCS Pledge Agreement.  Id. 
+§ 1.1. 
+V. THE INTERCREDITOR AGREEMENT DIVIDES THE PRIORITY INTERESTS 
+IN THE COMMON COLLATERAL BETWEEN ICBCS AND THE AGENT 
+34. In connection with the SOA and the Term Loan Credit Agreement, the Agent, 
+ICBCS, Merrill Lynch Commodities, Inc. (as the Initial SOA Collateral Agent),8 and the PES Parties 
+entered into an intercreditor agreement (the “Intercreditor Agr eement”) governing the relative 
+priority of the Term Loan Lenders’ and ICBCS’s security interes ts in, inter alia, the Common 
+Collateral.9  The Intercreditor Agreement is governed by New York law.  New man Decl. Ex. 5 
+(Intercreditor Agreement) § 8.06(a). 
+Merrill Lynch Commodities, Inc. provided intermediation services to the Debtors before ICBCS. 
+A true and correct copy of the Intercreditor Agreement is attached to the Newman Declaration as 
+Exhibit 5. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 19 of 40
+35. The Intercreditor Agreement provides that ICBCS shall have a first priority security 
+interest, and the Agent shall have a second priority security i nterest, in SOA Priority Collateral.  
+Newman Decl. Ex. 5 (Intercreditor Agreement) § 4.01.  “SOA Priority Collateral” is defined as each 
+PES Party’s “now existing or hereinafter arising”: 
+(i) Accounts;  
+(ii) Inventory, including all raw materials, work in process and finished goods, 
+relating to any of the foregoing items in this clause (ii)  (together with the 
+items in clauses (i) and (ii) above, the “Current Assets Collateral”);  
+(iii) all Money and Deposit Accounts relating to the foregoing;  
+(iv) all of the following: (A) to the extent evidencing Current Assets Collateral, 
+Documents, (B) to the extent evidencing Current Assets Collater al, 
+Instruments, (C) to the extent related to Current Assets Collateral, General 
+Intangibles, (D) to the extent related to Current Assets Collateral, 
+Commercial Tort Claims, and (E) to the extent related to Curren t Assets 
+Collateral, Supporting Obligations and all other forms of obligations owing 
+to any Grantor or in which any Grantor may have any interest, h owever 
+created or arising and whether or not earned by performance;  
+(v) all Letters of Credit and Letter-of-Credit Rights supporting payment of any 
+Current Assets Collateral; 
+(vi) to the extent not otherwise included above, all Records evidencing any of the 
+foregoing; and  
+(vii) all Proceeds and products of  each of the foregoing  and all accessions to, 
+substitutions and replacements for, and rents, profits and products of, each of 
+the foregoing, and any and all Proceeds of any insurance , indemnity, 
+warranty or guaranty payable to such Grantor from time to time with respect 
+to any of the foregoing.   
+Id. § 1.02 (emphasis added).  The I ntercreditor Agreement defines “Accounts,” “Inventory,” 
+“Money,” “Proceeds,” and “General Intangibles” in the same manner as the ICBCS and Term Loan 
+Pledge Agreements. 
+36. The Intercreditor Agreement further provides that the Agent shall have a first priority 
+security interest, and ICBCS shall have a second priority security interest, in “Term Loan Priority 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 20 of 40
+Collateral.”  Id. § 4.01.  “Term Loan Priority Collateral” is defined as all “Collateral that is not SOA 
+Priority Collateral or Excluded Property.”  Id. § 1.02.  “Collateral” is defined as “all property upon 
+which a Lien is purported to be created by any Security Document, whether now owned or hereafter 
+acquired.”  Term Loan Credit Agreement § 1.01.   
+37. The Intercreditor Agreement also sets forth certain assets that are subject to ICBCS’s 
+exclusive security interest.  Intercreditor Agreement § 1.02.  These assets are defined as “SOA 
+Separate Assets and Collateral” and include the following: 
+(viii) Certain Hydrocarbon Assets;  
+(ix) Certain Refined Products Assets;  
+(x) Certain Rack Sale Refined Products Assets;  
+(xi) Certain Hydrocarbon Receivables;  
+(xii) all Renewable Identification Numbers (other than those required to satisfy the 
+obligations under the Consent Decree and Environmental Settleme nt 
+Agreement entered into as of March 12, 2018 among the U.S., the  U . S .  
+Environmental Protection Agency and the Company); 
+(xiii) all payments under any insurance, indemnity, warranty, or guara nty of the 
+foregoing; 
+(xiv) all Letters of Credit or Letters-of-Credit Rights in favor the SOA Collateral 
+Agent supporting payment of any amounts owed by PESRM or any ot her 
+Grantor or otherwise in connection with the Supply and Offtake Documents; 
+(xv) Catalyst Assets to the extent included in the term “Collateral” as defined in 
+the Supply and Offtake Security Documents; 
+(xvi) cash and Cash Equivalents securing obligations pursuant to the transactions 
+contemplated by the SOA Master Transaction Agreement as in effect on the 
+date hereof and all ICBCS Credit Support;  
+(xvii) all PESRM/PESIC Cash Collateral; and 
+(xviii) all Proceeds of or with respect to the foregoing. 
+Id. §§ 1.02; 9.01 (emphasis added). 
+ 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 21 of 40
+VI. THE POLICY NAMES ICBCS AS A L OSS PAYEE, MORTGAGEE, AND 
+ADDITIONAL INSURED IN BOTH THE BUSINESS INTERRUPTION AND 
+PROPERTY DAMAGE INSURANCE  
+38. On January 18, 2019, the XL Insurance America, Inc. Insurance P olicy No. 
+US00064117PR18A (the “Policy”) was issued to the PES Parties and their affiliates for the period 
+November 1, 2018 to November 1, 2019. 10  The Policy includes both the BI Policy and property 
+damage coverage (the “PD Policy”).  See, e.g., Newman Decl. Ex. 6 (Policy) at Declarations ¶ 9. 
+39. The PD Policy insures against “all risks of direct physical loss or damage” occurring 
+with respect to “Real and Personal Property of the Insured of e very kind and description,” with 
+certain enumerated types of property and perils expressly excluded.  Id. § 1, ¶¶ 1, 3.  The BI Policy 
+insures against “actual loss sustained by the Insured resulting  from the necessary interruption of 
+business caused by direct physical loss or damage, by a peril i nsured against, to property insured 
+herein, occurring during the Term of Insurance.”  Id. § 2, ¶ 1.  
+40. As noted above, the SOA requires that the PES Parties maintain both business 
+interruption and property damage insurance, and that such insurance name ICBCS as an additional 
+insured, loss payee and mortgagee.  See Newman Decl. Ex. 1 (SOA) §§ 10.04, 10.12(b), 8.16; 
+Schedules 10.04, 8.16.  Conversely, the Term Loan Credit Agreement requires that the PES Parties 
+maintain insurance covering only real and personal property (an d if requested, personal injury 
+insurance), and that “such insurance” “name the … Agent as insu red party or loss payee” and 
+additional insured.  Newman Decl. Ex. 3 (Term Loan Credit Agreement) §§ 5.05(c); 5.11(b).   
+41. Pursuant to these provisions, the Policy provides that: 
+It is agreed that the unqualified word “Insured” wherever used includes any person or 
+organization to whom or to which the Insured is obligated by vi rtue of a written 
+contract to name such person or organization as an Additional Insured, but only with 
+A true and correct copy of the Policy is attached to the Newman Declaration as Exhibit 6.  
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 22 of 40
+respect to operations performed by or obligations required of the Insured to or for the 
+Additional Insured under the terms and conditions of said contract.   
+The limits and/or coverage available to the Additional Insured shall be those agreed 
+to by virtue of a written contract between the Insured and such  Additional Insured 
+but in no event to exceed the limits in aggregate and coverage provided by this 
+Policy. 
+Newman Decl. Ex. 6 (Policy) at General Conditions ¶ 5 (the “Additional Insured Provision”).    
+42. The Policy also includes a Lenders Loss Payable Clause, stating  that:  “Loss or 
+damage, if any, under this Policy, shall be paid to any lender designated by the Insured and in 
+possession of a written contract, hereinafter referred to as “t he Lender”, as their interests may 
+appear ....”  Id. at General Conditions ¶ 33 (the “Loss Payee Provision”).   
+43. Additionally, the Policy include s an endorsement listing ICBCS a s  a  L o s s  
+Payee/Mortgagee, and providing that “[i]t is hereby understood and agreed that the following entity 
+is named as Loss Payee/Mortgagee under this Policy, as their interests may appear, as required by 
+written contract or agreement, subject to the terms and conditi on of this Policy:  ICBC Standard 
+Bank PLC.”  Id. at Endorsements ¶ 4 (the “ICBCS Loss Payee/Mortgagee Endorseme nt”).  The 
+Policy does not include an endorsement naming the Agent as a Loss Payee/Mortgagee. 
+44. A Certificate of Evidence of Property Insurance (the “ICBCS Certificate”) issued to 
+ICBCS in connection with the PESRM Policy states that “the certificate holder [ICBCS] is named 
+mortgagee, loss payee, and additional insured as their interests may appear and where required by 
+written contract.”11   
+45. Another Certificate of Evidence of Property Insurance (the “Age nt Certificate”) 
+issued in connection with the Po licy states that “the certifica te holder [the Agent] is named 
+A true and correct copy of the ICBCS Certificate is attached  to the  Newman Declaration as 
+Exhibit 7. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 23 of 40
+mortgagee, loss payee, and additional insured as their interests may appear and where required by 
+written contract.”12   
+46. The Additional Insured and Loss Payee Provisions name ICBCS and  the Agent as 
+additional insureds and loss payees only as “agreed to by virtu e  o f  a  w r i t t e n  c o n t r a c t ”  a n d  a s  
+“designated by the Insured … in a written contract … as their interests may appear,” respectively.  
+Id. at General Conditions ¶¶ 5, 33.  Given that the SOA requires the Debtors to maintain business 
+interruption and property damage insurance naming ICBCS as an additional insured, loss payee, and 
+mortgagee, these provisions of the Policy (in addition to the I CBCS Loss Payee/Mortgagee 
+Endorsement) operate to name ICBCS as an additional insured, lo ss payee, and mortgagee with 
+respect to both the BI Policy and PD Policy. 13  By contrast, because the Term Loan Credit 
+Agreement does not require the PES Parties to maintain business interruption insurance, the Policy 
+does not name the Agent as an additional insured, loss payee, or mortgagee on the BI Policy.   
+VII. THE GIRARD POINT INCIDENT OCCURS, AND THE DEBTORS FILE FOR 
+BANKRUPTCY  
+47. The Girard Point Incident occurred on June 21, 2019.  Newman Decl. ¶ 14. 
+48. Following the Girard Point Incident, the Debtors announced that they would cease 
+operating the Refining Complex after the run off through their Point Breeze Refinery of the limited 
+inventory of crude oil on hand.  Id. ¶ 15. 
+49. On July 19, 2019, ICBCS sent PESRM a  Notice of Event of Default  (i) notifying 
+PESRM that incurable PESRM Events of Default had occurred and were continuing under Sections 
+A copy of the Agent Certificate that was attached to the Com plaint is attached to the Newman 
+Declaration as Exhibit 8. 
+As an additional insured, mortgagee, and loss payee under the Policy, ICBCS also has its own 
+direct contractual rights against the business interruption portion of the Policy, which are not at issue in this 
+adversary proceeding.  ICBCS intends to discuss its anticipated pursuit of such rights with the Debtors, and if 
+necessary, to seek relief from the Court.    
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 24 of 40
+14.01(a) and 14.01(b) of the SOA; and (ii) terminating the SOA.   ICBCS set forth a preliminary 
+calculation of the Termination Payment due and owing to it by the PES Parties of $303,077,160.00.  
+Id. ¶ 16. 
+50. On July 21, 2019, the Debtors reentered bankruptcy.  See In re PES Holdings LLC, et 
+al., Case No. 19-11626 (KG). 
+51. The Debtors are in the process of preparing and submitting clai ms to the insurers 
+under the Policy for both (i) property damage (the “PD Claim”) and (ii) business interruption losses 
+(the “BI Claim”) occasioned by the Girard Point Incident.  Newman Decl. ¶ 17. 
+52. On July 22, 2019, the Debtors announced that they had entered i nto a credit 
+agreement for debtor-in-possession financing (the “DIP Credit A greement”) with the Term Loan 
+Lenders.  See Debtors’ Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to 
+(A) Obtain Post-Petition Secured Financi ng Pursuant to 11 U .S.C. §§ 105, 361, 362, 363(b), 
+364(c)(1), 364(c)(2), 364(c)(3), 364(d)(1), and 364(e) and (B) Utilize Cash Collateral Pursuant to 
+11 U.S.C. § 363, (II) Granting Adequate Protection to Prepetition Secured Parties Pursuant to 11 
+U.S.C. §§ 361, 362, 363, 364, and 507(b), and (III)  Scheduling Final Hearing Pursuant to 
+Bankruptcy Rules 4001(b) and (c), Case No. 19-11626 (KG) [D.I. 37] (the “DIP Motion”).  The DIP 
+Credit Agreement requires the Debtors to stipulate that “[t]he proceeds of any claim under the 
+Debtors’ insurance policies, whe ther for property damage, busin ess interruption or otherwise, 
+resulting, directly or indirectly, to the fire that occurred in the Girard Point refinery on June 21, 2019 
+... constitute Term Loan Priority  Collateral,” notwithstanding that the plain language of the 
+Intercreditor Agreement provides otherwise.  Id. at 21 (Debtor Stipulations). 
+53. On July 23, 2019, the Court entered the Interim Order (I) Authorizing Debtors to (A) 
+Obtain Post-Petition Financing  Pursuant to 11 U.S.C. §§ 105, 361, 362, 363(b), 364(c)(1), 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 25 of 40
+364(c)(2), 364(c)(3), 364(d)(1), and 364(e) and (B) Utilize Cash Collateral Pursuant to 11 U.S.C. 
+§ 363, (II) Granting Adequate Protection to Prep etition Secured Parties Pursuant to 11 U.S.C. 
+§§ 361, 362, 363, 364, and 507(b), and (III) Scheduling Final Hearing Pursuant to Bankruptcy 
+Rules 4001(b) and (c), [D.I. 85] (the “Interim DIP Order”). 
+54. The Credit Agreement and Interim DIP Order contain milestones requiring that (i) 
+“[b]y 21 days following entry of Interim Order, the Debtors shall have filed a pleading seeking entry 
+of an order of the Bankruptcy Court determining that [any proce eds of the business interruption 
+policy paid in connection with the Girard Point Incident] constitute ‘Term Loan Priority Collateral’” 
+(the “Insurance Proceeds Order”), and (ii) “[b]y 90 days following entry of the Interim Order, the 
+Debtors shall have obtained entry of the Insurance Proceeds Order.”  DIP Motion at 18 (Milestones); 
+Interim DIP Order ¶ 19(c)(xii); DIP Credit Agreement at 87.   
+55. The Interim DIP Order carves out f rom the Stipulations any dete rmination as to 
+whether the BI Proceeds or the PD Proceeds constitute Term Loan Priority Collateral pending entry 
+of the Insurance Proceeds Order by the Court.  Interim DIP Order ¶ 5(d).   
+VIII. THE DEBTORS AND AGENT INITIATE THE ADVERSARY PROCEEDING  
+56. In accordance with the milestones set forth in the DIP Credit Agreement and Interim 
+Order, on August 7, 2019, the Debtors and the Term Loan Agent filed the Complaint, initiating this 
+adversary proceeding.  The Complaint seeks a declaration that all June 21 Insurance Proceeds paid to 
+the Debtors under the Policy constitute Term Loan Priority Collateral.  See Complaint ¶¶ 95-101. 
+57. On September 13, 2019, ICBCS filed its Answer and Counterclaims , denying the 
+cause of action asserted in the Complaint and asserting two Counterclaims.  In its first Counterclaim, 
+ICBCS seeks a declaration that any BI Proceeds paid on account of the Debtors’ claims under the BI 
+Policy constitute SOA Priority Collateral.  See Answer and Counterclaims ¶¶ 40-44.  In its second 
+Counterclaim, ICBCS seeks a declaration that it has a first priority or exclusive lien, respectively, on 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 26 of 40
+any PD Proceeds paid on account of damage to Inventory or SOA Separate Assets and Collateral.  
+Id. ¶¶ 45-49. 
+58. Also on September 13, 2019, the Committee filed its Crossclaims .  Count I of the 
+Committee’s Crossclaims seeks to avoid ICBCS’s security interests in the BI Proceeds under Section 
+552 of the Bankruptcy Code.  Crossclaims ¶¶ 51-55. 
+59. As discussed in greater detail below, ICBCS is entitled to summ ary judgment (i) 
+denying the relief sought by the Debtors and the Agent in the Complaint and the relief sought by the 
+Committee in Count I of the Crossclaims, and (ii) granting the relief sought in the Counterclaims. 
+ARGUMENT 
+I. STANDARD OF REVIEW 
+60. Federal Rule of Civil Procedure 56, made applicable by Federal Rule of Bankruptcy 
+Procedure 7056, provides that a court “shall grant summary judgment if the movant shows that there 
+is no genuine [dispute] as to any material fact and the movant is entitled to judgment as a matter of 
+law.”  Fed. R. Civ. P. 56(a).  To prevail, the movant must “dem onstrate the absence of a genuine 
+dispute of material fact.”  Goldenstein v. Repossessors Inc., 815 F.3d 142, 146 (3d Cir. 2016).  “[A] 
+factual dispute is material if it bears on an essential element of the plaintiff’s claim, and is genuine if 
+a reasonable jury could find in favor of the nonmoving party.”  Blunt v. Lower Merion Sch. Dist., 
+767 F.3d 247, 265 (3d Cir. 2014) (citation omitted).  “[W]here a non-moving party fails sufficiently 
+to establish the existence of an essential element of its case on which it bears the burden of proof at 
+trial, there is not a genuine dispute with respect to a materia l fact and thus the moving party is 
+entitled to judgment as a matter of law.”  Id. 
+61. The Intercreditor Agreement is governed by New York law.  “New York law allows 
+for the resolution on summary judgment of contract construction claims so long as the contractual 
+language is not ambiguous ...  Generally, if the court finds a contract term unambiguous, the court 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 27 of 40
+can interpret the contract based on the plain and ordinary mean ing of the term.  In these cases 
+summary judgment would be appropriate.”  Tsoukanelis v. Country Pure Foods, Inc., 337 F. Supp. 
+2d 600, 605 (D. Del. 2004); see also Farmers Ins. Exchange v. RNK, Inc., 632 F.3d 777, 783-84 (1st 
+Cir. 2011) (holding that “[t]he meaning of an unambiguous contr act term is a question of law....  
+Summary judgment is appropriate when ... [the] plain terms [of a contract] unambiguously favor 
+either side.”); Monex Fin. Servs. Ltd. v. Nova Info. Sys., Inc., 657 F. Supp. 2d 447, 455 (S.D.N.Y. 
+2009) (stating that when determination of issues depends upon construction of a written instrument 
+and legal effect to be drawn therefrom, question at issue is essentially one of law only determinable 
+by summary judgment); Jackson Nat. Life Ins. Co. v. Ladish Co., No. 92 CIV. 9358 (PKL), 1993 
+WL 43373, at *3 (S.D.N.Y. Feb. 18, 1993) (“Summary judgment concerning the proper construction 
+of a contract may be granted where the contract conveys a ‘definite and precise meaning absent any 
+ambiguity.’” (citing Seiden Assoc., Inc. v. ANC Holdings, Inc., 959 F.2d 425, 428 (2d Cir.1992))). 
+62. Under New York law, a contract is unambiguous where it has “a definite and precise 
+meaning, unattended by danger of misconception in the purport o f the [contract] itself, and 
+concerning which there is no reasonable basis for a difference of opinion.”  Breed v. Ins. Co. of N. 
+Am., 46 N.Y.2d 351, 355 (1978).  “Conversely, a ‘provision is ambi guous where a natural and 
+reasonable reading of its language allows for two or more possi ble meanings.’  However, 
+‘[l]anguage whose meaning is otherwise plain is not ambiguous m erely because the parties urge 
+different interpretations in the litigation.’”  Jackson Nat. Life Ins. Co. , 1993 WL 43373, at *4 
+(quoting Roberts v. Consolidated Rail Corp., 893 F.2d 21, 24 (2d Cir. 1989) & Metropolitan Life 
+Ins. Co. v. RJR Nabisco, Inc.,  906 F.2d 884, 889 (2d Cir. 1990)).  Words and phrases should b e 
+given their plain meaning.  See Chesapeake Energy Corp. v. Bank of New York Mellon Trust Co., 
+N.A., 773 F.3d 110, 114 (2d Cir. 2015) (“[T]he words and phrases [in a contract] should be given 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 28 of 40
+their plain meaning, and the contract should be construed so as to give full meaning and effect to all 
+of its provisions.”); Greenwich Capital Fin. Prods., Inc. v. Negrin, 903 N.Y.S.2d 346, 348 (1st Dep’t 
+2010) (courts construe agreements “in a manner that accords the  words their fair and reasonable 
+meaning and achieves a practical  interpretation of the expressi ons of the parties.”) (citation and 
+internal quotation marks omitted). 
+II. ICBCS HAS A FIRST PRIORITY SECURITY INTEREST IN ALL BI PROCEEDS 
+PAID ON ACCOUNT OF THE DEBTORS’ CLAIMS UNDER THE POLICY 
+A. The BI Proceeds Are SOA Priority Collateral Because They Are “Proceeds Of” 
+(i) Current Assets Collateral, (ii) Money and General Intangibles Relating To 
+Current Assets Collateral, and (iii) Insurance Payable With Res pect To Such 
+Assets 
+63. As noted above, SOA Priority C ollateral includes Current Assets  Collateral ( i.e., 
+Accounts and Inventory), and Money and General Intangibles relating to Current Assets Collateral.  
+“SOA Priority Collateral” also includes “Proceeds of” the foregoing assets, with “Proceeds” defined 
+to include “whatever is … distributed on account of, collateral,” and “insurance payable by reason of 
+the loss or nonconformity of, def ects or infringement of rights  in, or damage to, the collateral.”  
+Newman Decl. Ex. 5 (Intercreditor Agreement) § 1.02; NYUCC § 9- 102(a)(64).  SOA Priority 
+Collateral also includes “Proceeds of ... insurance … payable … with respect to” the Current Assets 
+Collateral, and Money and General Intangibles related thereto.  Newman Decl. Ex. 5 (Intercreditor 
+Agreement) § 1.02. 
+64. These components of the SOA Priority Collateral definition lead to the unambiguous 
+and inescapable conclusion that the BI Proceeds are SOA Priority Collateral.  The BI Policy “covers 
+actual loss sustained by the Insured directly resulting from [the] interruption of business.”  Newman 
+Decl. Ex. 6 (Policy) § II.1.  Put simply, the BI Policy and BI Proceeds are intended to provide the 
+Debtors with the business income they would have generated but for the Girard Point Incident.  See 
+MNC Commercial Corp. , 1992 WL 674733, at *1 (the “purpose of the business interrupt ion 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 29 of 40
+proceeds was to compensate [the insured] for lost business income that would have been generated 
+but for the fire.”). 14  “Business income,” in turn, “normally takes the form of cash,  accounts 
+receivable or a chose in action,” and is the Proceeds of “incom e producing … inventory and raw 
+materials.”  Id.   
+65. As noted above, each of these business-income assets constitute s SOA Priority 
+Collateral.  The BI Proceeds are thus also SOA Priority Collateral, because they are “distributed on 
+account of,” and “insurance payable by reason of the loss of,” the business-income assets, which 
+makes them “Proceeds” of the business income assets.  Newman De cl. Ex. 5 (Intercreditor 
+Agreement) § 1.02 (“SOA Priority Collateral” includes “all Proceeds” of the assets listed in (i) – (vi) 
+of the definition, which includes Accounts ((i)), Inventory ((ii)), “all Money and Deposit Accounts 
+relating to the foregoing,” ((iii)), and “to the extent relating to Current Assets Collateral, General 
+Intangibles.” ((iv(C)))); NYUCC § 9-102(a)(64) (defining “Proceeds” as “whatever is … distributed 
+on account of, collateral,” and “insurance payable by reason of the loss or nonconformity of, defects 
+or infringement of rights in, or damage to, the collateral”).  The BI Proceeds are also SOA Priority 
+Collateral because they are the “Proceeds of … insurance … paya ble … with respect to”  the 
+business income assets.  Newman Decl. Ex. 5 (Intercreditor Agre ement) § 1.02 (“SOA Priority 
+Collateral” includes “any and all Proceeds of any insurance ...  payable … with respect to” the 
+enumerated assets). 
+See also 44 C.J.S. Insurance § 48 (“Business interruption insurance is insurance under which the 
+insured is protected in the earnings which the insured would have enjoyed had there been no interruption of 
+business.”); 4f-116f Appleman on Insurance Law & Practice Archive § 2329 (2d ed. 2011) (“Generally, the 
+purpose of business interruption insurance is to protect the prospective earnings of the insured business”); A. 
+Miller & Co. v. Cincinnati Ins. Co. , 577 N.E.2d 885, 887 (Ill. App. Ct. 1991) (“The general purpos e of 
+business interruption insurance is to protect the earnings whic h the insured would have enjoyed had no 
+interruption occurred.”); Quality Molding Co. v. Am. Nat. Fire Ins. Co., 272 F.2d 779, 780 (7th Cir. 1959) 
+(“The purpose of business interruption insurance is to protect the prospective earnings of the insured 
+business.”); Polytech, Inc. v. Affiliated FM Ins., 21 F.3d 271, 276 (8th Cir. 1994) (same). 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 30 of 40
+66. The MNC Commercial case is instructive.  There, a bankruptcy trustee challenged the 
+right of a secured creditor (“MNC”) to funds received by the de btor in settlement of the debtor’s 
+claim against its business interruption insurance policy.  MNC Commercial Corp., 1992 WL 674733, 
+at *1.  In finding that the funds w ere subject to the secured c reditor’s security interest, the court 
+stated:  
+The purpose of the business interruption proceeds was to compensate [the debtor] for 
+lost business income that would have been generated but for the  fire.  Business 
+income normally takes the form of cash, accounts receivable or a chose in action – all 
+of which MNC has a security interest in pursuant to the Security Agreement.  More 
+importantly, MNC also took a security interest in the tangible income-producing 
+property of the business, which w as [the debtor’s] inventory an d raw materials ... 
+MNC’s right to the insurance proceeds is based upon MNC’s security interest in [the 
+debtor’s] business assets, which would otherwise represent, embody, and/or generate 
+[the debtor’s] business income.  Consequently, the insurance proceeds paid from the 
+Business Interruption Policy are derivative proceeds under § 9- 306(1),15 and, 
+therefore, are subject to MNC’s perfected security interest und er the Security 
+Agreement. 
+Id. at *1. 
+67. The reasoning set forth by the MNC Commercial court has also been espoused by 
+commentators addressing the issue of secured interests in the p roceeds of a business interruption 
+policy: 
+Under a correct analysis, a secured creditor with a properly perfected security interest in the 
+debtor’s accounts and general intangibles should be entitled to  priority with respect to 
+business interruption payments ... the subject matter of a secu rity interest in accounts and 
+general intangibles is the debtor’s stream of business income, and that is also the subject 
+matter of a business interruption insurance policy.  Thus the insurance payment represents 
+the proceeds of the collateral, and any security interest in the collateral will attach to such 
+proceeds. 
+David B. Young, The Rights of Secured Creditors to th e Proceeds of Busi ness Interruption 
+Insurance Under UCC Article 9, 26 U.C.C.L.J. 204, 205 (1994); see also R. Wilson Freyermuth, 
+The MNC Commercial court’s reference to “9-306(1)” refers to the definition of “Proceeds” under 
+Section 9-306(1) of the Uniform Commercial Code as adopted by the states of Missouri and Maryland, which 
+is substantially identical to the definition of Proceeds under § 9-102(a)(64) of the NYUCC.  
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 31 of 40
+Rethinking Proceeds: The History, Misinterpretation and Revision of U.C.C. Section 9-306, 69 TUL. 
+L. REV. 645, 690–91 (1995) (“The purpose of business interruption ins urance is to protect the 
+insured party against a loss of prospective earnings due to a business interruption.  As such, business 
+interruption insurance payments are derivative of and a substitute for the accounts and intangibles 
+that Debtor would have generated but for the interruption.  [Where] Secured Party’s lien would have 
+covered those accounts and intangible rights directly, security law should treat the insurance moneys 
+as proceeds of Secured Party’s collateral.”); 1 The Law of Secu red Transactions Under the UCC 
+§ 1.08[7][f] (3rd ed. 2019) (“The proper analysis was that the creditor’s blanket lien on ‘accounts 
+and general intangibles’ included the stream of business income that the interruption insurance was 
+intended to replace.”). 
+68. Here, as in MNC Commercial, ICBCS has an undisputed per fected first priority 
+security interest in all of the Debtors’ business-income assets (i.e. Accounts, Inventory, Money and 
+General Intangibles relating to Accounts and Inventory, the Proceeds thereof, and the Proceeds of 
+insurance payable with respect t hereto).  Accordingly, ICBCS al so has a perfected first priority 
+security interest in the BI Proceeds. 
+B. The BI Proceeds Are SOA Priority Collateral Because The BI Policy Is “SOA 
+Priority Collateral,” And The BI Proceeds Are “Proceeds Of” The  BI Policy 
+And Insurance Payable With Respect To The BI Policy 
+69. The BI Proceeds are also SOA Priority Collateral for the additional and independent 
+reason that the BI Policy itself is SOA Priority Collateral, and the BI Proceeds are “Proceeds of” the 
+BI Policy, and “insurance … payable … with respect to” the BI P olicy.  Newman Decl. Ex. 5 
+(Intercreditor Agreement) § 1.02. 
+70. SOA Priority Collateral includes “General Intangibles,” “to the  extent related to 
+Current Assets Collateral.”  Id.  “General Intangibles,” in turn, are defined to include all of the PES 
+Parties’ “rights, title and inte rest in, to and under all Contr acts and insurance policies .”  Id. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 32 of 40
+(emphasis added).  And “Current A ssets Collateral” is defined a s the Debtors’ Accounts and 
+Inventory—the assets that represent, embody, and are exchanged for the business income that the BI 
+Policy and BI Proceeds are intended to replace.  Id.; see also, e.g., MNC Commercial Corp., 1992 
+WL 674733, at *1.  The BI Policy is thus plainly a “General Intangible” related to Current Assets 
+Collateral. 
+71. Given that the BI Policy is a General Intangible relating to Current Assets Collateral, 
+there is no question that the BI Proceeds are also SOA Priority Collateral.  SOA Priority Collateral 
+includes the “Proceeds of” General Intangibles relating to Current Assets Collateral, and “insurance 
+… payable … with respect to” General Intangibles relating to Current Assets Collateral.  Id.  The BI 
+Proceeds are clearly “Proceeds of” the BI Policy, and “insurance … payable … with respect to” the 
+BI Policy.  Id.  The BI Proceeds are thus plainly SOA Priority Collateral. 
+C. Other Provisions Of The Relevant Agreements Also Demonstrate That The 
+BI Proceeds Are SOA Priority Collateral 
+72. ICBCS’s first priority security interest in the BI Proceeds is further demonstrated by 
+the fact that ICBCS expressly required the Debtors to maintain business interruption insurance 
+naming ICBCS as an additional insured, loss payee, and mortgage e.  See Newman Decl. Ex. 1 
+(SOA) §§ 10.04, 10.12(b), 8.16; Schedules 10.04, 8.16.  The Term Loan Lenders, by contrast, did 
+not include business interruption insurance within the types of insurance they required the Debtors to 
+maintain.  See Newman Decl. Ex. 3 (Term Loan Credit Agreement) § 5.05(b) (requ iring the PES 
+Loan Parties to maintain insuran ce covering only real and perso nal property (and if requested, 
+personal injury insurance), and that “such insurance” “name the … Agent as insured party or loss 
+payee.”) (emphasis added); § 5.11(b) (requiring the Borrower to deliver to the Agent and the Term 
+Loan Lenders “a copy of, or a certificate as to coverage under, and a declaration page relating to, the 
+insurance policies required by Section 5.05”) (emphasis added).   
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 33 of 40
+73. These contrasting provisions demonstrate the parties’ intentions with respect to the BI 
+Proceeds.  ICBCS understood that it was to have a first priority security interest in the BI Proceeds, 
+and thus ensured that the Debtors maintained a BI Policy in which ICBCS’s first priority security 
+interest was perfected through ICBCS being named as an addition al insured, loss payee, and 
+mortgagee.  The Term Loan Lenders, conversely, were concerned only with the PD Policy, requiring 
+that the Debtors procure and name the Agent as a loss payee and  additional insured only on that 
+portion of the Policy.16 
+74. The Term Loan Lenders’ acknowledgment that the BI Proceeds cons titute SOA 
+Priority Collateral is also evidenced by Section 2.06 of the Term Loan Credit Agreement.  Section 
+2.06 provides that if the Debtors receive more than $5 million from Asset Sales or Recovery Events 
+(each as defined by the Term Loan Credit Agreement) in a fiscal year, then certain of those funds 
+must be used to prepay the Term Loan.  In recognition of ICBCS’s superior rights to the proceeds of 
+business interruption insurance, however, the Term Loan Credit Agreement makes clear that any 
+such proceeds are not included within the prepayment obligation.  The “Recovery Event” definition 
+expressly provides that it “shall not include proceeds received from business interruption insurance.”  
+Id. § 1.01.  And Section 2.06 is also express that “for the avoida nce of doubt, any cash proceeds 
+received from business interruption insurance shall not be required to be used by the Loan Parties to 
+prepay the Loans under this Section 2.06(b).”  Id.  § 2.06.   
+In recognition of ICBCS’s senior priority security interests in any PD Proceeds paid on account of 
+Inventory or SOA Separate Assets and Collateral, and second priority security interest in any PD Proceeds 
+paid on account of other Common Collateral, the SOA also requir ed that the Debtors maintain property 
+damage insurance naming ICBCS as an additional insured, loss payee, and mortgagee.  See SOA §§ 10.04, 
+10.12(b), 8.16; Schedules 10.04, 8.16.   
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 34 of 40
+III. ICBCS HAS A FIRST PRIORITY OR EXCLUSIVE SECURITY INTEREST IN ANY 
+PD PROCEEDS PAID ON ACCOUNT OF INVENTORY OR SOA SEPARATE 
+ASSETS AND COLLATERAL 
+75. ICBCS has a clear first priority or exclusive security interest in any PD Proceeds paid 
+on account of Inventory or SOA Separate Assets and Collateral.  SOA Priority Collateral expressly 
+includes Inventory, “Proceeds of” Inventory (including insurance paid on account of Inventory), and 
+“insurance … payable … with respect to” Inventory.  Newman Decl . Ex. 5 (Intercreditor 
+Agreement) § 1.02; NYUCC § 9-102(a)(64).  And Section 9.01 of t he Intercreditor Agreement 
+explicitly states that “none of the Term Loan Agent and the Term Loan Secured Parties shall have 
+any Lien on any of the SOA Separate Assets and Collateral” unti l all SOA Obligations are 
+discharged.  Newman Decl. Ex. 5 (Intercreditor Agreement) § 9.01.  The Plaintiffs admit this.  See 
+Plaintiff’s Answer to ICBCS Answ er and Counterclaim and Cross-Claim  [D.I. 28] at ¶ 49.  
+Accordingly, to the extent any PD Proceeds are paid on account of Inventory or SOA Separate 
+Assets and Collateral, such PD Proceeds are subject to ICBCS’s first priority or exclusive security 
+interest, respectively.  Unless the assets giving rise to the PD Proceeds are conclusively adjudicated 
+or consensually agreed not to include Inventory or SOA Separate Assets and Collateral, the Debtors 
+should not be permitted to stipulate that all June 21 Insurance  P ro c e e d s  c o n s t itu t e  T e rm  L o an  
+Priority Collateral.17 
+IV. THE COMMITTEE’S CHALLENGES TO ICBCS’S LIENS ON THE BI PROCEEDS 
+SHOULD BE REJECTED 
+A. ICBCS’s First Priority Security Interest Is Protected By Section 552(b) Of 
+The Bankruptcy Code 
+76. The Committee’s efforts to challenge ICBCS’s security interest in the BI Proceeds 
+under the “after-acquired property” provision of Section 552(a) of the Bankruptcy Code should be 
+ICBCS has requested that the Debtors provide it with information sufficient to identify the assets 
+giving rise to the Debtors’ claim under the PD Policy.  As of the filing of this Motion, the Debtors had not 
+provided the requested information.  Newman Decl. ¶ 18. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 35 of 40
+rejected out of hand.  Section 552(a) is expressly subject to Section 552(b), which provides that if 
+collateral was subject to a security interest before the bankru ptcy filing, then the security interest 
+extends to proceeds of that collateral that the debtor acquires post-petition to the extent provided by 
+the applicable security agreement and nonbankruptcy law.  11 U.S.C. § 552.  The Committee argues 
+that the BI Proceeds “would not constitute proceeds of any prepetition assets” subject to ICBCS’s 
+security interest, because “[a]ny loss covered under the … [BI] Policy will be predicated on models 
+projecting the revenues and gross profits which would have been earned from the purchase, refining, 
+and sale of crude oil beginning thirty days after the Petition Date.”  Crossclaims ¶ 53.   
+77. The Committee’s own allegations make clear, however, that ICBCS ’s security 
+interest in the BI Proceeds is protected by Section 552(b), because the BI Proceeds are proceeds of 
+the BI Policy, and ICBCS held a security interest in the BI Policy prior to the Debtors’ bankruptcy 
+filing.  Indeed, the Committee acknowledges that (i) “under applicable New York law, in order to 
+obtain or perfect a security in an insurance policy,” a creditor must “be expressly named as a loss 
+payee in the policy itself or in an endorsement thereto,” and ( ii) “Endorsement 4 [of the Policy] 
+expressly names ICBCS as Loss Payee/Mortgagee.” Crossclaim ¶¶ 3 , 49.  Thus, the Committee 
+concedes (as it must) that ICBCS had a perfected security inter est in the BI Policy prior to the 
+Debtors’ bankruptcy filing.18   
+The Committee’s concession is mandated by applicable law, as it is well settled under New York 
+law that a creditor named as a loss payee or additional insured on a debtor’s insurance policy has a perfected 
+interest in the policy.  See Badillo v. Tower Ins. Co. of N.Y., 92 N.Y.2d 790, 795-96 (1999) (“The existence or 
+non-existence of a duly prepared and filed UCC–1 financing statement seems easily discernible, and usually 
+is, but given the alternatives, there is no need to subject the  insurance claims process to the vagaries 
+surrounding the adequacy of UCC–1 filings, which are often enough the subject of protracted litigation ….  
+There is a much simpler road to travel. The secured party always has the conventional option of having itself 
+named in the insurance contract as the loss payee or as an additional insured on the risk.”). 
+ 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 36 of 40
+78. Under applicable New York law, the ICBCS Loss Payee/Mortgagee Endorsement and 
+Loss Payee and Additional Insured Provisions also entitle ICBCS to the proceeds of the BI Policy 
+(i.e. the BI Proceeds).  See, e.g., McLean, 132 B.R. at 284 (“[I]n the case sub judice, the revised loss 
+payee clause assigned the insurance proceeds to MARAD as a loss  payee and Chemical as an 
+additional assured.”); Schleimer v. Empire Mutual Ins. Co., 337 N.Y.S.2d 872, 873 (1st Dep’t 1972).  
+And the ICBCS Pledge Agreement plainly extends ICBCS’s security interest to the Proceeds of the 
+BI Policy.  See Newman Decl. Ex. 2 (ICBCS Pledge Agreement) § 2.1(a)(xii) (gran ting lien in 
+Proceeds (as defined by the NYUCC)  of enumerated assets); NYUCC  § 9-102(a)(64) (defining 
+“Proceeds” as “whatever is … dis tributed on account of, collate ral,” and “insurance payable by 
+reason of the loss or nonconformity of, defects or infringement  of rights in, or damage to, the 
+collateral”).  It thus necessarily follows that ICBCS’s security interest in the BI Proceeds are valid 
+under Section 552(b), and cannot be invalidated under Section 552(a). 
+79. ICBCS’s security interest in the BI Proceeds is also protected by Section 552(b) for 
+the additional and independent reason that ICBCS had a  prepetition security interest in the Debtors’ 
+Current Assets Collateral (i.e. Accounts and Inventory), and Money and General Intangibles relating 
+to Current Assets Collateral.  The BI Proceeds are “Proceeds” of these business-income assets, and 
+are also subject to ICBCS’s first priority security interest under the ICBCS Pledge Agreement and 
+the Intercreditor Agreement.  See supra at § II.A; MNC Commercial Corp., 1992 WL 674733, at *1.  
+The fact that the dollar amount of the BI Proceeds will be based on projected post-petition income 
+does not void the protection afforded by Section 552, as it is well settled that insurance proceeds 
+collected after a debtor’s bankruptcy petition on account of loss or damage to collateral subject to a 
+prepetition perfected security in terest are also subject to the  creditor’s perfected security interest 
+under Bankruptcy Code Section 552(b).  In re Tower Air, Inc. , 397 F.3d 191, 197–98 (3d. Cir. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 37 of 40
+2005); see also McLean, 132 B.R. at 284 (noting that Section 9-306 of the NYUCC defines proceeds 
+to include “insurance payable by reason of loss of damage to the collateral,” and holding that “the 
+intent of 9-306 to cover ‘insurance proceeds’ cannot be defeate d [under Section 552 of the 
+Bankruptcy Code] merely because the insurance proceeds did not exist when the Debtor filed its 
+chapter 11 petition.”); PPG Indus., Inc. v. Hartford Fire Ins. Co. , 531 F.2d 58, 62 (2d Cir. 1976) 
+(finding that insurance proceeds existed before being crystallized pursuant to a judgment because 
+“the property which was (originally) the subject matter of the security agreement (here, the 
+inventory) was clearly in existence, and (therefore) ... the proceeds of the insurance is merely the 
+collateral in another form....  When [the original collateral] was destroyed, PPG’s security interest 
+continued under 9-306(1), first in the existing insurance policy and then in the funds that were paid 
+out on that policy.”); In re Megamarket of Lexington, Inc. , 207 B.R. 527, 532 (Bankr. E.D. Ky. 
+1997) (“In this case, the debtor ‘acquired’ the proceeds, that is the refund, post-petition, but when 
+did the debtor ‘acquire’ the right to receive the refund? If the debtor ‘acquired’ the right to receive 
+the refund before the petition was filed, the bank’s security i nterest would continue in proceeds 
+acquired post-petition, and the secured lender would be entitled to receive the amounts refunded.”). 
+B. The BI Proceeds Are Not Property Of The Estate That May Be Recovered 
+For General Unsecured Creditors 
+80. The Committee’s Section 552 challenge also fails because the BI Proceeds are not 
+property of the estate that may be recovered for unsecured cred itors.  “Insurance proceeds, when 
+specifically assigned by a debtor cannot be reclaimed by the debtor.”  McLean, 132 B.R. at 284 
+(emphasis in original); In re Moskowitz, 14 B.R. 677, 680-81 (Bankr. S.D.N.Y. 1981) (holding that 
+insurance proceeds assigned by the Debtors were not property of  the estate, and payment of the 
+proceeds was not a voidable preference).  Loss payee, mortgagee, and additional insured provisions 
+in an insurance policy—such as the provisions in the Policy nam ing ICBCS—assign the debtor’s 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 38 of 40
+rights to the insurance proceeds to the loss payee, mortgagee, and additional insured at least to the 
+extent of the interests that they hold.  See McLean, 132 B.R. at 284; Schleimer, 337 N.Y.S.2d at 873; 
+Tower Air, 397 F.3d at 202.  The proceeds subject to such an assignment are held by the debtor in 
+trust for the loss payee/additional insured, and are therefore “not property of the estate” that a debtor 
+(or a Committee standing in its stead) may obtain under Section 552.  McLean, 132 B.R. at 284; see 
+also In re Suter, 181 B.R. 116, 119 (Bankr. N.D. Ala. 1994) (“Because AmSouth was the loss payee 
+of the insurance policy, the proceeds of the policy are not property of the bankruptcy estate and are 
+payable to AmSouth, at least to the extent of AmSouth’s interest in the property insured.”). 
+CONCLUSION  
+For the foregoing reasons, ICBCS respectfully requests that the  Court enter an order: (i) 
+denying the relief requested in the Complaint; (ii) denying the  relief requested in Count I of the 
+Crossclaims; and (iii) declaring that (a) any BI Proceeds paid on account of the Debtors’ claims 
+under the BI Policy constitute SOA Priority Collateral, and (b) ICBCS has a first priority lien on all 
+PD Proceeds paid on account of Inventory and an exclusive lien on all PD Proceeds paid on account 
+of SOA Separate Assets and Collateral. 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 39 of 40
+Dated: October 4, 2019  
+           Wilmington, Delaware 
+ 
+ 
+ 
+ 
+ASHBY & GEDDES, P.A. 
+ 
+/s/ William P. Bowden   
+William P. Bowden (#2553) 
+David F. Cook (#6352) 
+500 Delaware Avenue, 8th Floor 
+P.O. Box 1150 
+Wilmington, DE 19801 
+Telephone: (302) 654-1888 
+Email:  WBowden@ashbygeddes.com 
+             DCook@ashbygeddes.com 
+             
+-and- 
+ 
+QUINN EMANUEL URQUHART & 
+SULLIVAN, LLP 
+ 
+Richard I. Werder, Jr. (pro hac vice) 
+Jane Byrne (pro hac vice) 
+Deborah Newman (pro hac vice) 
+Eric Kay (pro hac vice) 
+Andrew Soler (pro hac vice) 
+Zachary Russell (pro hac vice) 
+51 Madison Avenue, 22nd Floor 
+New York, NY 10010 
+ 
+Counsel to ICBC Standard Bank Plc  
+ 
+ 
+Case 19-50282-KG    Doc 35    Filed 10/04/19    Page 40 of 40

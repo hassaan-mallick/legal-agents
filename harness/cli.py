@@ -43,6 +43,40 @@ def _agent_dir(arg: str) -> Path:
     return p.resolve()
 
 
+def cmd_golden_draft(args) -> int:
+    """Turn a run's findings into draft golden lines. A person must check every line
+    before it counts: labelled_by stays 'draft' until they replace it with their name."""
+    agent = load_agent(_agent_dir(args.agent))
+    runs = sorted((RUNS_DIR / agent.folder).glob("*"))
+    if not runs:
+        raise SystemExit("no runs yet; `la run` first")
+    run_dir = Path(args.run) if args.run and args.run != "latest" else runs[-1]
+    out = Path(args.out) if args.out else agent.evals_dir / "golden-draft.jsonl"
+    lines = []
+    for item_path in sorted(run_dir.glob("*.json")):
+        if item_path.name in ("run.json",) or item_path.name.endswith(".redaction-map.json"):
+            continue
+        item = json.loads(item_path.read_text())
+        if item.get("findings") is not None:
+            expected = {"findings": [
+                {"citation": f["citation"], "verdict": f["verdict"], "written_name": f["written_name"]}
+                for f in item["findings"] if f["verdict"] != "SKIPPED"]}
+        else:
+            expected = {}
+            for name, f in item["fields"].items():
+                loc = f.get("locator")
+                expected[name] = {"present": f["present"], "value": f["value"], "quote": f["quote"],
+                                  "span": [loc["char_start"], loc["char_end"]] if loc else None}
+        lines.append({"doc_id": item["doc_id"], "kind": "standard", "expected": expected,
+                      "labelled_by": "draft: harness output, NOT yet checked by a person",
+                      "labelled_on": dt.date.today().isoformat(),
+                      "notes": "Check every line. Replace labelled_by with your name when done."})
+    out.write_text("\n".join(json.dumps(x) for x in lines) + "\n")
+    print(f"wrote {len(lines)} draft cases to {out.relative_to(REPO_ROOT)}")
+    print("these are NOT labels until a person checks every line and signs labelled_by")
+    return 0
+
+
 # --------------------------------------------------------------------------- validate
 
 
@@ -263,9 +297,17 @@ def cmd_corpus(args) -> int:
         src = Path(args.file)
         dest_dir = m.collection_dir / "docs"
         dest_dir.mkdir(parents=True, exist_ok=True)
-        dest = dest_dir / src.name
-        if src.resolve() != dest.resolve():
-            dest.write_bytes(src.read_bytes())
+        if src.suffix.lower() == ".pdf":
+            from harness.ingest import pdf_to_text
+
+            ing = pdf_to_text(src)
+            dest = dest_dir / (src.stem + ".txt")
+            dest.write_text(ing.text)
+            print(f"converted {src.name}: {ing.pages} pages, {ing.dropped_header_lines} header lines dropped")
+        else:
+            dest = dest_dir / src.name
+            if src.resolve() != dest.resolve():
+                dest.write_bytes(src.read_bytes())
         e = m.add_file(dest, doc_id=args.doc_id or src.stem, source=args.source,
                        licence=args.licence or ("US public record" if args.source == "SEC EDGAR" else "CC0 (author)"),
                        url=args.url, notes=args.notes or "")
@@ -276,6 +318,22 @@ def cmd_corpus(args) -> int:
         return _corpus_inject(args)
     if args.corpus_cmd == "make-briefs":
         return _corpus_make_briefs(args)
+    if args.corpus_cmd == "import-contract-nli":
+        from harness.importers.contract_nli import import_contract_nli
+
+        n, out = import_contract_nli(Path(args.dataset), corpus_dir() / "contract-nli", count=args.count,
+                                     seed=args.seed, out=Path(args.out) if args.out else None)
+        print(f"imported {n} NDAs; draft golden at {out}")
+        print("every line is labelled_by: draft until a person checks it")
+        return 0
+    if args.corpus_cmd == "fetch-recap":
+        from harness.recap import fetch_briefs
+
+        added = fetch_briefs(corpus_dir() / args.collection, query=args.query, count=args.count,
+                             min_pages=args.min_pages, max_pages=args.max_pages,
+                             token=os.environ.get("COURTLISTENER_TOKEN"))
+        print(f"added {len(added)} briefs to {args.collection}")
+        return 0
     return 2
 
 
@@ -495,7 +553,8 @@ def main(argv: list[str] | None = None) -> int:
     af.add_argument("collection")
     af.add_argument("file")
     af.add_argument("--doc-id")
-    af.add_argument("--source", required=True, choices=["SEC EDGAR", "public court filing", "synthetic"])
+    af.add_argument("--source", required=True,
+                    choices=["SEC EDGAR", "public court filing", "open dataset", "synthetic"])
     af.add_argument("--licence")
     af.add_argument("--url")
     af.add_argument("--notes")
@@ -504,6 +563,17 @@ def main(argv: list[str] | None = None) -> int:
     inj.add_argument("--doc", required=True)
     inj.add_argument("--template", required=True)
     inj.add_argument("--n", type=int, default=1)
+    ic = cs.add_parser("import-contract-nli", help="import NDAs + draft labels from the ContractNLI dataset")
+    ic.add_argument("--dataset", required=True, help="path to the unzipped contract-nli folder")
+    ic.add_argument("--count", type=int, default=20)
+    ic.add_argument("--seed", type=int, default=2026)
+    ic.add_argument("--out")
+    fr = cs.add_parser("fetch-recap", help="download public briefs from CourtListener RECAP")
+    fr.add_argument("collection", nargs="?", default="recap-briefs")
+    fr.add_argument("--query", default='"memorandum of law in support of motion for summary judgment"')
+    fr.add_argument("--count", type=int, default=30)
+    fr.add_argument("--min-pages", type=int, default=6)
+    fr.add_argument("--max-pages", type=int, default=40)
     mb = cs.add_parser("make-briefs")
     mb.add_argument("--count", type=int, default=20)
     mb.add_argument("--seed", type=int, default=2026)
@@ -515,7 +585,12 @@ def main(argv: list[str] | None = None) -> int:
     gl = gs.add_parser("locate")
     gl.add_argument("--doc", required=True)
     gl.add_argument("--quote", required=True)
-    g.set_defaults(fn=cmd_golden)
+    gl.set_defaults(fn=cmd_golden)
+    gd = gs.add_parser("draft", help="turn a run into draft golden lines for a person to check")
+    gd.add_argument("agent")
+    gd.add_argument("--run", default="latest")
+    gd.add_argument("--out")
+    gd.set_defaults(fn=cmd_golden_draft)
 
     s = sub.add_parser("scan", help="secrets scan over tracked files")
     s.set_defaults(fn=cmd_scan)

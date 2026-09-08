@@ -1,0 +1,175 @@
+UNITED STATES BANKRUPTCY COURT 
+NORTHERN DISTRICT OF ILLINOIS 
+EASTERN DIVISION 
+ 
+ 
+In re: 
+ 
+JOHN T. MCMAHAN,  
+ 
+Debtor 
+ 
+ 
+Chapter 7 
+ 
+Case No. 18-14064 
+ 
+Honorable Janet S. Baer 
+ 
+ 
+THOMAS E. SPRINGER, solely in his 
+capacity as the chapter 7 trustee of the 
+Debtor, 
+ 
+Plaintiff, 
+ 
+v. 
+ 
+TRINITY GREEN-COLORADO, LLC, 
+ 
+Defendant. 
+ 
+ 
+ 
+ 
+ 
+ 
+Adv. No. 20-00167 
+ 
+ 
+MEMORANDUM OF LAW IN SUPPORT OF  
+PLAINTIFF’S MOTION FOR SUMMARY JUDGMENT 
+ 
+ Plaintiff, Thomas E. Springer, chapter 7 trustee for the Debtor (“Plaintiff”), by and through 
+his attorneys, Horwood Marcus & Berk Chartered, pursuant to Fede ral Rule of Civil Procedure 
+(“FRCP”) 56 made applicable by Federal Rule of Bankruptcy Procedure (“ FRBP”) 56, for his 
+Memorandum in Support of his Motion for Summary Judgment, states as follows: 
+SUMMARY 
+ The Plaintiff is entitled to judgment as a matter of law because Trinity Green – Colorado, 
+LLC (“Defendant”) has admitted all material facts releva nt to the Trustee’s claims. Defendant 
+admitted most of the allegations of the Trustee’s complaint filed April 30, 2020 [Dkt. 1].  Those 
+that were not admitted were subsequently admitted by the Defendant in requests to admit served 
+Document      Page 1 of 6
+on Defendant on February 22, 2021.  FRCP 36, ma de applicable by FRBP 7036 deems a matter 
+admitted unless the respondent deliver s a response denying the matter within thirty (30) days of 
+receiving the requests to admit.  FRCP 36(a)(3). As of this writing, Defendant has not responded 
+to the Trustee’s Req. to Admit (defined below). The only material fact not actually or technically 
+admitted by Defendant are the valu e of the real property that wa s the subject of the fraudulent 
+transfer.  Attached hereto is the Declaration of Ms. Diane Freeman (“Freeman” and the “Freeman 
+Decl.”), a residential and commercial real estate broker with over 27 years of experience in the 
+Chicago real estate market and who has extensive knowledge  of the Edwards and Vail 
+neighborhoods of Colorado.  The Plaintiff tenders Freeman as an expert witness pursuant to 
+Federal Rule of Evidence 702. There remains no dis pute as to the material facts in this case and 
+the Plaintiff is entitled to judgment as a matter of law. 
+LEGAL STANDARD AND BACKGROUND 
+ The Court should grant summary judgment where, as here, the movant shows that there is 
+not genuine issue of material fact and the movant is entitled to judgment as a matter of law. FRCP 
+56. See also, Ammons v. Aramark Uniform Serv’s. Inc., 368 F.3d 809, 818 (7th Cir. 2004); Celotex 
+Corp. v. Catrett , 477 U.S. 317, 322 (1982). Pursuant to  Local Rule 56.1, the Plaintiff has 
+concurrently filed a Statement of Material Facts and his Motion for Summary Judgment. As stated 
+therein, the parties have no dispute over the material facts in this case pursuant to FRCP 36, made 
+applicable by FRBP 7036.  
+ The Plaintiff relies upon the plain language of FRCP 36, which states, inter alia: “[a] matter 
+is admitted unless, within 30 days  after being served, the party to  whom the request is directed 
+serves on the requesting party a written answer or objection addressed to the matter and signed by 
+the party or its attorney.” FRCP 36(a)(3); see also Gabbanelli Accordions & Imports, L.L.C. v. 
+Document      Page 2 of 6
+Gabbanelli, 575 F.3d 693, 696 (7th Cir. 2009); Ty, Inc. v. Target Corporation, 2019 WL 6497379, 
+*2 (N.D.Ill. December 3, 2019).  
+ Additionally, it is settled law in the 7th Circ uit that requests to admit which go unanswered 
+are deemed admitted. U.S. v. Kasuboski, 834 F.2d 1345, 1349 (7th Cir. 1987); see also In re Quick, 
+2012 WL 260099, *1 (Bankr. N.D.Ill. January 27, 2012); Matthews v. Homecoming Financial 
+Network, 2006 WL 2088194, *1 (N.D.Ill. July 20, 2006). A failure to respond to requests to admit 
+will take precedence even over other forms of discovery, such as depositions. Kasuboski, 834 F.2d 
+at 1349. Answering the same factua l admissions elsewhere does not  relive a party of responding 
+to the requests to admit within 30 days. Id.  
+Further, the default admissions become a part of the record to which the Court must turn 
+when deciding a motion to dismiss. Kasuboski, 834 F.2d at 1350. Under F RCP 36, an admission 
+is “conclusively established.” FRCP 36(b); see also Johnson v. Ameritech, Inc., 2003 WL 685608, 
+*2 (N.D.Ill. February 27, 2003). The 7th Circuit has held that the purpose of FRCP 36 is to “narrow 
+the issues to be resolved at trial by effectively identifying and eliminating those matters on which 
+the parties agree. This function would be lost if parties were permitted to contest under [FRCP] 56 
+a matter concluded under [FRCP] 36.” Kasuboski, 834 F.2d at 1350. Merely opposing a motion 
+for summary judgment cannot negate facts alrea dy admitted through a fail ure to respond to the 
+opposing party’s requests to admit. Id.  
+APPLICATION 
+ In this case, with the exception of the real  property valuation, th e parties agree on all 
+material facts by virtue of Defe ndant’s Answer to the Complaint, filed July 1, 2020 [Dkt. 7] (the 
+“Answer”) and Defendant’ failure to respond to the Trustee’s First Set of Requests to Admit to 
+Trinity Green – Colorado, LLC served February 22, 2021 (the “ Req. to Admit ”). A true and 
+Document      Page 3 of 6
+accurate copy of the Answer is attached hereto as Exhibit 1. Pu rsuant to the Requests to Admit 
+and FRCP 36, Defendant had until March 25, 2021, thir ty (30) days after the service of the Req. 
+to Admit, to deliver a response to the Trustee through his attorneys. A true and accurate copy of 
+the Req. to Admit is attached hereto as Exhibi t 2. The Req. to Admit were properly served on 
+Trinity Green. A true and accurate copy of the Certificate of Service for the Requests to Admit is 
+attached hereto as Exhibit 3. As of the date of  this Motion, Defendant has not responded in any 
+way to the Req. to Admit. 
+ Pursuant to FRCP 36, all statem ents of fact within the Req. to Admit are deemed admitted, 
+leaving no genuine issue of material fact. The Requests to Admit contained twelve (12) statements. 
+(Ex. B.) As further discussed in the Statement of Material Facts submitted with this Memorandum 
+in Support of the Plaintiff’s Motion for Summa ry Judgment and the Plaintiff’s Motion for 
+Summary Judgment, with the exception of real property valuation, Defendant has admitted to all 
+material facts in this case. Namely, Defendant admits that the real property located at the address 
+commonly referred to as 348 Red Draw in Edwards, Colorado (“ Red Draw Property ”) was 
+transferred from Debtor a nd his wife, Lynn McMahan (“ Lynn”), to Defendant for $1.00 (one 
+dollar) (the “Red Draw Transfer”). (Ex. 2.) Further, Defendant admits that the Red Draw Transfer 
+was made with the intent to hinder, delay, or defraud creditors. (Ex. 2.)  
+ In order to aid this Court in determining the appropriate value of the Red Draw Property, 
+the Plaintiff has included the Expe rt Declaration of Diane Freeman, attached hereto as Exhibit 4. 
+Diane Freeman (“Freeman”) has been a real esta te broker for over thirty  years and has valued 
+numerous properties during that time.  In orde r to evaluate the Red Draw Property, Freeman 
+reviewed the Red Draw Property’ s property card and the MLS’s of  two comparable properties. 
+Document      Page 4 of 6
+Based on her review, Freeman valued the Red Draw Property between $1,782,000 and $2,178,000 
+with a median value of $1,980,000. 
+CONCLUSION 
+ For all of the foregoing reasons and those set forth in the accompanying Motion for 
+Summary Judgment, Plaint iff, Thomas E. Springe r, chapter 7 trustee fo r Debtor, respectfully 
+requests that this Court enter summary judgment in his favor and against Defendant as to all Counts 
+of the Trustee’s Complaint and enter such other and further relief as the Court deems equitable 
+and just. 
+Dated: October 1, 2021     Respectfully submitted, 
+ 
+THOMAS E. SPRINGER, solely in 
+his capacity as the chapter 7 trustee 
+for the estate of John T. McMahan 
+ 
+By: /s/ Aaron L. Hammer  
+ One of his attorneys 
+ 
+Aaron L. Hammer, Esq. 
+Nathan Delman, Esq. 
+Elysa J. Chew, Esq. 
+HORWOOD MARCUS & BERK 
+CHARTERED 
+500 W. Madison St., Ste. 3700 
+Chicago, IL 60661 
+Phone: 312.606.3200 
+ahammer@hmblaw.com 
+ndelman@hmblaw.com 
+echew@hmblaw.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document      Page 5 of 6
+CERTIFICATE OF SERVICE 
+ 
+The undersigned attorney of record certifies th at he caused a true and correct copy of the 
+foregoing, MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFF’S MOTION FOR 
+SUMMARY JUDGMENT, to be filed electronically in th e Bankruptcy Court of the Northern 
+District of Illinois, Eastern Division, on October 1, 2021.  Notice and a copy of this filing will be 
+served upon all counsel of record by operation of the Court’s CM/ECF electronic filing system. 
+     
+ By:/s/ Aaron L. Hammer   
+ 
+ 
+ 
+Document      Page 6 of 6

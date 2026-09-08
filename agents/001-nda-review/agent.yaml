@@ -28,7 +28,7 @@ gates:
 input:
   formats: [txt, md]
   max_chars: 200000
-  corpus: [edgar-nda, synthetic]
+  corpus: [edgar-nda, contract-nli, synthetic]
 egress:
   allow: []
   document_may_leave: true

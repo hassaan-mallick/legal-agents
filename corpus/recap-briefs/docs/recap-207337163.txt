@@ -1,0 +1,453 @@
+IN THE UNITED STATES BANKRUPTCY COURT 
+FOR THE NORTHERN DISTRICT OF ILLINOIS 
+EASTERN DIVISION 
+In re:  Chapter 13 
+Case No. 19-04127 
+Hon.  Janet S. Baer 
+FRES WILLIAM OQUENDO, 
+Debtor.
+FRES WILLIAM OQUENDO,  
+Plaintiff,  
+v.  
+GLOBAL SPORTS MANAGEMENT, 
+GmbH, POW SPORTS ENTERTAINMENT, 
+INC., SQUARE RING, INC., HITZ 
+ENTERTAINMENT CORPORATION, 
+DAVID DIAZ and THE LAW OFFICES OF 
+LEON R. MARGULES, P.A., 
+Defendants. 
+Adv. Pro. No. 19-106 
+MEMORANDUM OF LAW IN SUPPORT OF SUMMARY JUDGEMENT  
+MOTION OF GLOBAL SPORTS MANAGEMENT, GmbH 
+Defendant Global Sports Management GmbH (“Global”), pursuant to Local Rule 7056-1 
+and Rule 56 (c)(2) of the Federal Rules of Civil Procedure (the “Rules”), made applicable hereto 
+by Federal Rule of Bankruptcy Procedure 7056, hereby submits the following memorandum of 
+law (the “Memorandum”) in support of the Motion of Global Sports Management, GmbH for 
+Summary Judgment (the “Motion”).1 This matter has already been adjudicated in a proceeding 
+1 All undefined terms herein shall carry the meanings ascribed to them in the Motion or the Local Rule 7056-1 
+Statement of Undisputed Material Facts of Global Sports Management, GmbH  (the “Fact Stmt.” or “Fact 
+Statement”), which are filed concurrently herewith. 
+Document      Page 1 of 19
+before the body with jurisdiction, to wit the World Boxing Association (“WBA”), with findings 
+adverse to Oquendo. This was after Oquendo was granted full due process.   
+PRELIMINARY STATEMENT 
+The Debtor is a professional boxer. He claims to be entitled to funds which Global placed 
+in an escrow account in connection with potential payments if a boxing match between the 
+reigning champion, Manuel Charr, and the Debtor were to occur. That arrangement was the 
+subject of two written contracts – a “Heads of Agreement” (“HOA”) and “Escrow Agreement”2.   
+Those very contracts demonstrate that the Debtor cannot state a viable claim to the Escrowed 
+Funds.  
+It was Oquendo who declined to honor the HOA and who has ignored the terms of 
+Escrow Agreement.  In fact, Oquendo himself defeated any claim he might have had to part of 
+the Escrowed Funds by refusing to sign a local bout contract with Global, as the Heads of 
+Agreement required him to do. And that is not just Global’s gloss on the facts. The WBA, which 
+sanctions professional boxing matches, passed a formal resolution in March 2019 expressly 
+finding that the Debtor “will not sign the bout contract,” and the Debtor’s refusal to do so was 
+“the most recent impediment” to the fight happening.  Even if the Debtor had prudential standing 
+to enforce the Heads of Agreement (which he does not), he has frustrated that contract’s 
+performance and the facts clearly demonstrate that. 
+Global is entitled to Summary Judgement, for these reasons and those set forth below. 
+2 These agreements are Exhibits 1 and 2 to the PCE Declaration, which in turn is attached as Exhibit A to the Fact 
+Statement. 
+Document      Page 2 of 19
+ARGUMENT 
+The Legal Standard for Summary Judgement 
+Rule 56 (c)(2) provides that summary judgement should be rendered if the pleadings and 
+disclosure materials on file, along with any affidavits, show that there is no genuine issue of 
+material fact and the movant is entitled to judgement as a matter of law.”  Fed. R. Civ. P. 
+56(c)(2).  On a motion for summary judgement, the facts must be viewed in the light most 
+favorable to the non-moving party “only if there is a genuine dispute as to those facts.”  Ricci v. 
+DeStefano, 557 U.S. 557, 586 (2009).  The non-moving party “must do more than simply show 
+that there is some metaphysical doubt as to the material facts … [and] where the record taken as 
+a whole could not lead a rational trier of fact to find  for the nonmoving party, there is no 
+‘genuine issue for trial.’” Scott v. Harris , 550 U.S. 372, 586-587 (2007) (internal citations 
+omitted). “[T]he mere existence of some alleged factual dispute  between the parties will not 
+defeat an otherwise properly supported motion for Summary Judgement; the requirement is that 
+there be no issue of no genuine issue of material fact.” Anderson v. Liberty Lobby, Inc. 477 U.S. 
+242, 247-248 (1986) (Emphasis in original). Put more colorfully, “summary judgement is the put 
+up or shut up moment in a lawsuit, when a party must show what evidence it had that would 
+convince a trier of fact  to accept its version of events.” Diadenko v. Folino, 741 F.3d 751, 757-
+768 (7th Cir. 2013). 
+As demonstrated below, there is no issue of material fact which would defeat summary 
+judgement.  The claims of Oquendo fail for numerous reasons. 
+Document      Page 3 of 19
+Point 1 
+Oquendo Is Bound By the Determination of the World Boxing Association 
+The opinion in Wilder v. World of Boxing LLC , 310 F. Supp. 3d 426 (S.D.N.Y. 2018), 
+aff'd, 777 F. App'x 531 (2d Cir. 2019), is directly on point.   
+The facts in Wilder are more complicated than in this case, and there were claims and 
+counterclaims, including  a defamation count.  However, the base facts are very similar to those 
+here.  In Wilder, there was to be a World Title Bout between then Champion Deontay Wilder and 
+Alexander Povetkin.  Wilder was promoted by a Company called DiBella Entertainment, LLC 
+and Povetkin was Promoted by a company called World of Boxing, LLC (WOB). The contract 
+was, on behalf of WOB, negotiated by John Wirt, Esq., the same attorney who negotiated on 
+behalf of POW here. There, as here, there was a large sum placed in escrow pending the bout. 
+Not long before the bout was to take place, Povetkin tested positive for a substance known as 
+Melodium, a prohibited substance. The bout was  postponed so that the WBC could review the 
+matter. Thereafter, there was a dispute over whether the bout was cancelled or postponed. 
+There was actually a trial in which a jury found that Povetkin had ingested Melodium. The WBC 
+subsequently issued a decision  that, despite the jury finding, it would not find the Povetkin had 
+ingested Melodium at a time when it was banned. 
+The Wilder parties contended that the WBC did not have discretion to decide whether 
+Povetkin had violated the Bout Agreement. The Court, however, ruled that the Agreement 
+between the parties ceded to the WBC the right to cancel or postpone the bout.  Once the WBC 
+cancelled the bout, the contract could not be read to also impose an obligation on the World of 
+Boxing to stage the bout. 
+Document      Page 4 of 19
+Turning to the Heads of Agreement here, the authority of the WBA is clear. Charr was to 
+comply with the “WBA’s rules prohibiting the use of performance enhancing drugs. . . .”  HOA 
+¶ 1.  Officials were to be appointed in accordance with the Rules of the “Bund Deutscher 
+Beruboxers” (the local Commission) and the WBA. The officials were to be chosen by the 
+WBA.  HOA ¶ 3. Perhaps most significantly, in the event the bout was “prevented from taking 
+place by an act of God, fire, flood, or any other cause beyond the direct and immediate control of 
+GSN . . . then the WBA shall decide whether to postpone the bout , in which case the provisions 
+of this Agreement will remain in full force and  effect and shall apply to the rescheduled date of 
+the Bout”.  HOA ¶ 5 (emphasis added).  The Escrow Agreement also provided that disbursement 
+of the escrowed funds “shall also be subject to the direction of the WBA or BDB.”  Escrow 
+Agreement ¶ 6. 
+Shortly before any WBA Championship bout, a short form agreement was required to be 
+signed. Oquendo is chargeable with knowledge of this.  Paragraph 14 of the short form 
+agreement reads “In the event of a disagreement or controversy regarding this Agreement, Boxer 
+and Promoter shall submit same to the WBA for determination with a fee to be determined by 
+the WBA. The parties agree to be bound by the rules and decisions of the WBA regarding any 
+such disagreement or controversy.”3 See, e.g., WBA Form Contract, Ex. 9 to PCE Decl, attached 
+as Ex. A to the Fact Stmt. Entering to a standard bout agreement was required.  HOA ¶ 2.  
+Here there was a long administrative process at which all affected parties were 
+represented. The WBA made its ruling. Fact Stmt. ¶¶ 13, 14, 15; see PCE Decl. ¶¶ 11 through 
+14. 
+3 Global is aware that Oquendo never signed the WBA form contract but bout contracts of this nature are usually 
+signed shortly before a bout.  Oquendo knew he had to sign for the bout to take place. 
+Document      Page 5 of 19
+Just as the WBC has “substantial discretion” to render appropriate rulings in the Wilder
+case, so did the WBA here. The WBA ruled that its resolution calling for the Charr stripping 
+should be rescinded and the bout between Charr and Oquendo should proceed.  Fact Stmt. ¶ 16. 
+The Heads of Agreement at paragraph 5 expressly stated that in such a case “the provisions of 
+this Agreement will remain in full force and effect and shall apply to the rescheduled date of the 
+Bout.”  Fact Stmt. ¶ 5; see Ex. 1. To PCE Decl. (HOA) ¶ 5 (emphasis added).  Global attempted 
+to do just that, tendering a rescheduled date and bout contracts to Oquendo.  Fact Stmt. ¶¶ 20-22, 
+25. Oquendo made the choice not to proceed.  Fact Stmt. ¶ 26. 
+Oquendo has no claim against Global or the escrow holder on the escrowed funds. It was 
+he who declined to proceed with the postponed bout, not Global. As the counsel for the WBA 
+has attested, the attorney for Mr. Oquendo informed the WBA that “Mr. Oquendo declined to 
+proceed under the terms of the original contracts which had been filed with the WBA and that he 
+requested a purse bid.  However under resolution 201903 061702 that request was denied and he 
+was removed as the mandatory contender.’” Fact Stmt. ¶ 43; see Mack Decl. at Ex. 3.  Mr. 
+Oquendo did not request reconsideration of the Resolution, and therefore waived his right to 
+have the Resolution Reconsidered or appealed.  Fact Stmt. ¶ 18; Mack Decl.  ¶ 14. 
+Oquendo wanted to fight for the WBA title.  He was bound by the Rules and Rulings of 
+the WBA.  The WBA, after hearing from all parties, ruled in favor of Charr that the test on which 
+Oquendo takes so much stock was invalid. Just as the Courts (District Court and Second Circuit ) 
+declined to second guess the ruling of the WBC in the Wilder case and found that Wilder was 
+bound by those rulings, Oquendo is bound by the rulings of the WBA. He has no claim on the 
+Document      Page 6 of 19
+escrowed funds. 4  Numerous cases hold that judicial reinterpretation of a sporting group’s  
+determinations is disfavored.  See NFL Management Council  v NFL Players Association , Lexis 
+7404 (2d Cir. 2016) (the Brady case), Crouch v. National Association for Stock Car Auto Racing, 
+Inc. 845 F.2nd 397, 303 (2d Cir 1988); Koszela v National Association of Stock Car Racing, Inc. 
+646 F.2nd 749, 745-759 (2d Cir. 1981); Charles O. Finley v. Kuhn , 569 F.2d 527, 536-538 (7th 
+Cir. 1978); see also Major league Baseball Player’s Association v Garvey, 532 U.S. 504, 509 
+(2001).5
+The rulings of the WBA must stand. 
+Point 2 
+Global  Had no Control Over Charr 
+The role of a promoter in the simplest terms is that it contracts with fighters (or their own 
+promoters), contracts with a site, contracts with television, and stages the bouts, hopefully but 
+not invariably having more income than expenses. Fact Stmt. ¶ 34; see Trendelkamp Declaration, 
+¶ 4.  This is the role which Global played with respect to the anticipated bout between Mahmoud 
+Charr and Fres Oquendo, scheduled for September 29, 2018.  Id.  
+Fighters are what in the United States would be called independent contractors. They are 
+responsible for the details of their own training and responsible for their own nutrition. Global 
+was not the trainer for Mahmoud Charr nor did it supervise his nutrition or supply him with 
+4 The Court should note that Oquendo filed an action against the WBA in the Northern District of Illinois docket 
+number 1.21-cv- 00270. Exhibit 15 to PCE Decl. The docket sheet reflects that a motion to dismiss is pending. 
+There is one paragraph of the Complaint complaining that on a number of occasions  Oquendo was bypassed by the 
+WBA. A motion to dismiss is pending according to the docket sheet. 
+5 Garvey resolved an arbitrator’s award.  Global submits that, in providing due process to all parties and rendering 
+rulings, the WBA was operating as an arbiter. See generally Chaffee, The Internal Affairs of Associations, Not For 
+Profit, 43 Harv. L. Rev. 903, 1031. 
+Document      Page 7 of 19
+supplements. It certainly never supplied any Performance Enhancing Drugs to Mr. Charr. Fact 
+Stmt. ¶ 36; Trendelkamp Decl. ¶ 6. 
+Even assuming that Mr. Charr had ingested a Performance Enhancing Drug (PED) (an 
+assumption the Court cannot make), Global had no involvement. It certainly would not have 
+been within its control. Fact Stmt. ¶ 37; see Trendelkamp Decl. ¶ 7. 
+Paragraph 5 of the HOA provides, in pertinent part, as follows: “In the event the Bout is 
+prevented from taking place by reason of God, fire , flood, riot, war public disaster or any other 
+cause beyond the direct and immediate control of GSM [Global], then the WBA shall decide      
+whether to postpone the bout, in which event the WBA shall decide whether to postpone the 
+Bout  in which case all the provisions of this Agreement shall remain in effect and shall apply to 
+the rescheduled date of the bout.” (Emphasis added). 
+There will be no proof submitted – because there is none - that Global had any control 
+over substances which Charr is alleged to have taken. As set forth above, the managing Director 
+of Global has explained the role which it played and it had no role in the training of Charr or his 
+supplements. Fact Stmt. ¶ 36; see Trendelkamp Decl. at ¶¶ 4-9.  The WBA determined to 
+postpone after hearing all the facts rather than cancel the bout. Fact Stmt. ¶ 16, 18. Thus 
+paragraph 5 controls. 
+It is true that the Heads of Agreement stated at paragraph 1 that “POW shall cause 
+Oquendo to comply, and GSM will cause Charr to comply with the WBA’s rules regarding the 
+prohibiting the use of performance enhancing  drugs and the WBA Fair Boxing Program  that is 
+administered by VADA”. The rules provided for testing and also, as set forth in Mr. Mack’s 
+Declaration, provided for the right to appeal any adverse finding. (The WBA styles it as a request 
+for reconsideration, but is the same thing). Global complied completely by requiring VADA 
+Document      Page 8 of 19
+testing. That was the extent of its obligation. It was not a guarantor of the conduct of Mr. Charr 
+and that was clearly not the intent of the provision. The “WBA Fair Boxing Program  Rules” 
+were adhered to by Global by requiring, contracting and paying for testing.  That was the end of 
+its responsibilities.  No one can guarantee the conduct of a third party. To interpret the contract 
+otherwise is, simply, nonsensical and contracts and contracts  should not be read in a way which 
+is illogical.  A court must avoid interpreting a contract in a manner that would be “absurd, 
+commercially unreasonable, or contrary to the reasonable expectation of the parties.”  In Re 
+Lipper Holdings, 766 N.Y.S. 2d 561 (2003), quoted by SPCP Group, LLC v. Eagle Rock Field 
+Services, LP,  2013 WL 359650 (S.D. N.Y. 2012). Global fulfilled its responsibilities  by 
+following the requirements for drug testing.   
+Oquendo has no claim against Global or its funds held in escrow.6
+Point 3 
+Oquendo Has No Claim On the Escrowed Funds as He is not a Party to Any 
+Agreement So Entitling Him7
+It is black-letter law that “one who is not a party to a contract may not recover for its 
+breach.” Nat’l Cash Register Co. v. UNARCO Indus., Inc., 490 F.2d 285, 286 (7th Cir. 1974). 
+Any right to payment to the Escrowed Funds must flow from the contract which created that 
+right, which is the Heads of Agreement. But that agreement is only between Global and POW; 
+the Oquendo is not a party to it. Instead, the Debtor simply executed a “ratification,” undertaking 
+that he “would render all services necessary to enable GSM [Global] and POW to comply with 
+6 Notably, Oquendo has sued the WBA but not Charr.  Fact Stmt. ¶ 45. 
+7 This point is similar to a point made in a motion to dismiss. The Court ruled that the complaint survived under 
+Rule 12 (b)(6) standard.   The Court now need not accept the assertions of the Complaint on their face and can 
+assess the entire factual context. 
+Document      Page 9 of 19
+their respective obligations,” and critically, he agreed “to look solely to POW for full payment of 
+any amounts due.” (PCE Decl., Ex. 1, Heads of Agreement, ratification.)  
+The only exception to the latter was the Oquendo entitlement to a $50,000 purse which 
+was payable only if the Bout went forward, and if he had entered into a local bout contract that 
+POW had approved. PCE Decl. Ex. 1, ¶ 2(a)(i).  Those conditions were never satisfied: the Bout 
+never happened because, as the WBA found, the Oquendo refused to sign a bout agreement. Fact 
+Stmt. ¶¶ 26 and 34; see Mack Decl. ¶ 14 and Ex. 3 thereto.  Hence, it is completely clear that the 
+Oquendo lacks standing to enforce the Heads of Agreement, and has no claim to the $50,000 
+purse.8
+Nor can Oquendo enforce the HOA on a third-party beneficiary theory. Qualifying as a 
+third-party beneficiary to a contract operates as an exception to the requirement that only a 
+person in privity may enforce the agreement’s terms. See, e.g., Dean Street Capital Advisors, 
+LLC v. Otoka Energy Corp. , No. 15-cv-824 (RJS), 2017 WL 476720, at *4 (S.D.N.Y. Feb. 2, 
+2017) (applying New York law).9 Proving third-party beneficiary status requires that the contract 
+terms “clearly evidence an intent to permit enforcement by the third party in question.” Hillside 
+Metro Assocs., LLC v. JPMorgan Chase, Nat’l Ass’n, 747 F.3d 44, 49 (2d Cir. 2014). Put 
+another way, “a non-party to a contract that does not contain unambiguous language manifesting 
+an intent to make the non-party a beneficiary of that contract lacks prudential standing to litigate 
+issues relating to that contract.” In re Motors Liquidation Co. , 580 B.R. 319, 340 (Bankr. 
+8 And because the Debtor’s own conduct is the reason he has no claim to any of the Escrowed Funds – a fact he 
+studiously failed to reveal to the Court – the Debtor could not recover under the HOA in any event. See, e.g., Osinoff 
+v. Opera Sols. LLC , No. 14 CIV. 1408 (DAB), 2017 WL 5900297, at *4 (S.D.N.Y. Nov. 14, 2017) (“Conduct of a 
+party to a contract which frustrates and prevents performance by the other party constitutes a breach on the part of 
+the former and excuses performance by the latter.”) (internal quotation marks omitted).  See Point 4, supra. 
+9 The Heads of Agreement contains a New York choice-of-law provision.  PCE Decl., Ex. 1 at ¶ 8, last sentence. 
+Document      Page 10 of 19
+S.D.N.Y. 2018) (collecting Second Circuit cases). 10  In fact, third-party non-beneficiaries cannot 
+enforce a contract “even when that third party’s financial interest is arguably at stake.” Id. at 341 
+(citing cases). 
+These principles illustrate why the Debtor cannot state a claim as a third-party 
+beneficiary of the HOA. The HOA lacks any language – let alone unambiguous language – 
+manifesting an intent by the contracting parties, Global and POW, to confer enforcement rights 
+on the Debtor. In fact, the opposite is true. The ratification signed by the Oquendo is clear that, 
+should he consider himself entitled to funds under the Heads of Agreement, the Debtor “agree[d] 
+to look solely to POW for full payment of any amounts due for all rights granted and services 
+performed” by the Debtor pursuant to that contract. (PCE Decl. Exhibit 1 at p. 5 (emphasis 
+added)).  
+The only exception to that provision would be triggered in the event that the Debtor had 
+earned the $50,000 purse by actually competing in the Bout, which the Debtor himself prevented 
+from happening, as discussed above. Fact Stmt. ¶¶ 26 and 27; see PCE Decl. Ex. 5., Mack Decl., 
+¶ 14. Consequently, even though the Debtor’s financial interests are arguably at stake in the 
+HOA, the absence of the requisite unambiguous language conferring direct enforcement rights 
+on him means that he cannot state a claim for breach of that agreement as a third-party 
+beneficiary.  Motors Liquidation, 580 B.R. at 349 (citing cases). 
+Finally, even though the Debtor is party to the Escrow Agreement, that contract is not 
+actionable. The Escrow Agreement is made subject to the Heads of Agreement, such that the 
+former does not have the effect of superseding the latter. (Ex. 2 to PCE Decl., Escrow 
+Agreement, ¶ 14.) Recitals A and B of the Escrow Agreement state that there was a prior 
+Document      Page 11 of 19
+agreement – i.e., the Heads of Agreement – between Global and POW providing that funds be 
+placed in escrow. Recital C states that the Oquendo Parties “have reached agreement as to the 
+allocation and distribution of the Escrowed Funds among the Oquendo Parties.” This distribution 
+was, under the plain language of the Escrow Agreement, an apportionment by the Oquendo 
+Parties of monies due POW  – not the Debtor – under the HOA. (PCE Decl. Ex. 2, Escrow 
+Agreement, Recital B.)  
+The Escrowed Funds would only be distributed to the Oquendo Parties “[u]pon the 
+conclusion of the Bout” (PCE Decl. Ex. 2, Escrow Agreement, ¶ 3), but, as discussed above, the 
+Bout never happened. The Bout was instead postponed. In that circumstance, the Escrow 
+Agreement is clear that the Escrowed Funds would be payable “upon the occurrence of the 
+rescheduled Bout. . . .” (PCE Decl. Ex. 2, Escrow Agreement, ¶ 5.) The Heads of Agreement 
+further provided that it was up to the WBA to decide whether to postpone the Bout, and that the 
+Heads of Agreement would remain in effect if it did so. (PCE Decl. Ex. 1, Heads of Agreement, 
+¶ 5.) POW has made no claim on the Escrowed Funds, nor does the Debtor allege in his 
+Complaint that POW has done so. The WBA ultimately determined that the Bout should go 
+forward, but when the Debtor declined to execute a local bout contract the WBA stripped him of 
+the right to the next bout with Charr.  Fact Stmt. ¶ 27; see Mack Decl. ¶ 14. 
+Consequently, the Escrow Agreement’s various provisions about what would become of 
+the Escrowed Funds upon conclusion of the Bout were simply never activated, so the Oquendo 
+cannot state a claim under that contract, either. 
+Document      Page 12 of 19
+Point 4 
+Oquendo is Not Entitled To the Escrowed Funds As a Result of His own Conduct 
+Oquendo’s own conduct is the reason the bout was prevented.  “A Party which frustrates 
+and prevents the performance  by the other party constitutes a breach constitutes a breach by the 
+former and and excuses performance by the latter.” See, e.g., Osinoff v. Opera Sols. LLC, No. 14 
+CIV. 1408 (DAB), 2017 WL 5900297, at *4 (S.D.N.Y. Nov. 14, 2017).  A party to a contract 
+cannot rely upon a failure to perform a condition precedent (in this case, the promotion of a bout) 
+where the party has precluded that performance or where the party has prevented the occurrence. 
+MHR Capital Partners v. Preestock, Inc. 12 NY3rd640, 646 (2009); ADC Orange, Inc. v. Coyote 
+Acres, 7 NY 3d 490 (2006).11
+This case is no longer at the pleadings stage. The evidence submitted with this motion 
+shows that Global made efforts to schedule this bout.   
+Once the WBA ruled, Global fixed on April 6 in Germany. Statement of Undisputed 
+Facts, para. 19; Trendelkamp Decl.  Counsel for Global was responsible for working with 
+Oquendo’s promoter, POW, to finalize the paperwork necessary for the bout to take place. He 
+liased with John Wirt who is both an attorney and a principle of POW. Fact Stmt. ¶ 20; PCE 
+Decl. ¶ 18. 
+On February 11, 2019 Global, through counsel, sent a form WBA bout contract to 
+Oquendo’s promoter. Exhibit 7 to PCE Decl.; Trendelkamp Decl. ¶ 11; Fact Stmt. ¶ 21. Such a 
+contract must be filed with the local commission (the norm in boxing and provided for in the 
+Heads of Agreement as noted prior in this Memorandum).  Id.  The form contract was modified 
+in that mandatory drug testing was required, per the WBA directive. Id.  
+11 As noted earlier, New York law applies. 
+Document      Page 13 of 19
+After the bout agreement was sent, Oquendo sent a text  to Mr. Charr (not his promoter) 
+demanding more than twice the money provided for in the underlying contract.  Fact Stmt. ¶ 22; 
+see PCE Decl. Ex. 11.  Also Oquendo had a long retired Fighter reach out to the WBA in his 
+behalf.  Id.  Consequently, Counsel for Global set a deadline for signing for February 15.  Id.
+Rather than sign the bout agreement Oquendo filed for bankruptcy at roughly the same 
+time he was being declared in default. Fact Stmt. ¶ 23; see Ex. 9 to PCE Decl. 
+Upon learning of the filing counsel for Global telephoned Mr. Wirt, counsel for POW. 
+Mr. Wirt was extremely upset and expressed same in the strongest of terms since clearly 
+Oquendo was seeking to void his contract with POW. After considerable venting, Mr. Wirt    
+released counsel for POW gave permission for Counsel for Global to deal with Oquendo’s 
+personal attorneys to attempt save the bout.  Fact Stmt. ¶ 24; PCE Decl. ¶ 22. 
+Global’s counsel sent an email to Oquendo’s attorneys stating that the bout could still 
+proceed  if the issue was POW's participation and Global’s counsel then sent a bout contract to 
+Oquendo’s personal counsel eliminating any reference to POW, suggesting Oquendo's dispute 
+with POW could be resolved in bankruptcy.  Fact Stmt. ¶¶ 21, 25; see Ex. 10 to PCE Decl. 
+(email exchange); Ex. 11 to PCE Decl. (form contract); Trendelkamp Decl. ¶ 12. 
+Mr. Oquendo’s counsel responded that he deemed the contracts invalid and that Oquendo 
+wished a new purse bid.  Fact Stmt. ¶ 26; see Exhibit 12 to PCE Decl. He also informed Counsel 
+for the WBA that Oquendo would not be proceeding.  Fact Stmt. ¶ 27; see Mack Decl. ¶ 14 and 
+Exhibit 3 thereto.  
+Mr.  Oquendo’s position is akin to the defendant who stands in the dock having murdered 
+his parents, pleading for mercy because he is an orphan.  Mr. Oquendo had every opportunity to 
+proceed with a postponed bout against Charr. Had he done so he, and his promoter, would have 
+Document      Page 14 of 19
+been entitled to the funds in escrow. By making the choice not to go forward he foreclosed that 
+opportunity. The consequence lay solely upon his own shoulders.12
+Notably, at some points in this litigation Oquendo has asserted that Mr. Charr never 
+passed a drug test. That is flatly untrue.  Believing himself to be innocent, Mr. Charr requested a  
+retest from VADA, the same collection agency as took the original sample.  Coincidentally, that 
+sample was taken on the same day as his fight with Oquendo was scheduled, September 29, 
+2018.  The sample taken on September 29 showed that he was clean of performance enhancing 
+drugs.  Fact Stmt. ¶ 29; see Charr Decl. ¶ 11. 
+Charr enrolled in the WBA Clean Boxing Program which was a program in which 
+fighters agree to random drug testing. Charr has since learned that the WBA program was 
+discontinued, though he does not know when that was. Fact Stmt. ¶ 29; see Charr Decl. ¶ 13.  
+When the attempt was made to reschedule the Oquendo bout, provision was made in the 
+contracts for VADA random drug testing. Charr knew of and agreed to this provision.  Fact Stmt. 
+¶ 30; see Charr Decl. ¶ 14. 
+After the Oquendo bout fell through, Charr was scheduled to fight a boxer named Trevor 
+Bryan. Those contracts called for random drug testing. A sample was taken by VADA on 
+January 17, 2021, and it showed that he was negative for any performance enhancing drugs.  
+Fact Stmt. ¶ 30; see Charr Decl. at ¶ 15. 
+Thus, at no time had Charr been reluctant to engage in any drug testing.  Fact Stmt. ¶ 30; 
+see Charr Decl. ¶ 16. 
+12 Global is aware that under the cases cited in this brief, Global could have filed a breach of contract action against 
+Oquendo. Given Oquendo’s lack of resources, the determination was made that it was not worth it to do so. 
+Document      Page 15 of 19
+Global sets this forth because of prior assertions by Oquendo as to why he did not 
+proceed with the rescheduled bout. Yet the assertion that Charr never passed a drug test is a 
+complete fiction and that therefore Oquendo therefore was excused from proceeding is 
+complete fiction.  
+Point 5 
+The Terms Of the Escrow Agreement Have Been Adhered to By Global and the Escrowed 
+Funds Should be Released to It
+Under the Escrow Agreement the funds held were to be released  “Upon the conclusion 
+of the Bout.” Exhibit 2 to PCE Decl.   The escrow agent was to hold the funds “In the event any 
+regulatory agency or the WBA requires that all or a portion of the funds be withheld.”  Id.  The 
+escrow agreement further provided that  “if the bout between Oquendo and Charr does not take 
+place as currently scheduled  and the Bout is not rescheduled pursuant to paragraph 5 of the 
+HOA , Global will provide a certification  to the Escrow Agent that the Bout has been cancelled” 
+and the Escrow returned to Global. Global took no action to have the escrowed funds returned   
+while there were proceedings before the WBA specifically because the bout had not been 
+cancelled and there was anticipation by Global it could be rescheduled. Fact Stmt. ¶ 15; see PCE 
+Decl. ¶ 16.  That anticipation bore fruit when the WBA withdrew its suspension against Mr. 
+Charr, reinstated him as Champion, and directed that the postponed bout proceed. Fact Stmt. 
+¶ 16; see, e.g., Mack Decl. ¶ 10.   
+When Oquendo refused to proceed and he was declared in default of the contract the 
+necessary Certification was in fact submitted to the Escrow agent. For the reasons set forth in 
+this memorandum, and because the process set forth in the Escrow Agreement was scrupulously 
+followed by Global, the Escrow Agent should be permitted to release the funds back to Global. 
+Document      Page 16 of 19
+Point 6 
+Mr. Oquendo’s Filing Was Fraudulent 
+Global has had the benefit of taking Mr. Oquendo’s deposition. He was candid as to the 
+reason for filing the bankruptcy. He volunteered, “Well I had to file bankruptcy in order to sever 
+my relationship with John [Wirt] because he was one day my promoter and one day my 
+attorney.”T-60.6, Exhibit 15 to PCE Decl.; Statement of Undisputed Facts at par.44.   
+Global asks the Court to recall that at the time of the filing, Mr. Oquendo had the 
+opportunity of going forward with the Charr bout and garnering a great deal of money. 
+Trendelkamp Decl. at ¶¶ 10 and 11. PCE Decl. at ¶¶ 19-23; Exhibits 1 and 2 to PCE Decl. He 
+had the option of doing just that and fighting about his obligations to John Wirt and POW in a 
+separate non bankruptcy action. 
+Bankruptcy courts do not look kindly on boxers who use the bankruptcy courts for the 
+purpose of evading their obligations under personal services contracts when they stand to make 
+large sums of money.  See In re Jack , 471 B.R.252 (Bankr. D. Nev. 2012); In re Sammons, 210 
+B.R.197 (N.D. Fla. 1997); In re Waldron, 785 F.2d 936,939 (11th Cir 1986).   
+At the time of this filing Oquendo was not in financial distress because by going forward 
+to fight Charr his immediate financial problems would have been alleviated. He simply wanted 
+to get out of a contract. He calculated that by reneging he could get out of any obligation to pay 
+POW and others out of the escrowed funds and that the WBA would cause a new purse bid. He 
+made a bad decision but that decision was his alone.  
+In In re Carrera , 64 BR 156, 160 (Bankr. C.D. Cal. 1986), the court held that it would be 
+inequitable to allow a debtor to allow a debtor to file for bankruptcy where the primary purpose 
+to reject a personal services contract  where the debtor’s major motivation was to be able to 
+Document      Page 17 of 19
+perform under a more lucrative contract. This was the underpinning of In re Jack, In re Waldron, 
+and In Re Sammons, cited above. 
+Moreover Oquendo seems to be trying for a double recovery (not that he is entitled to 
+any). He has sued the WBA in District Court for “skipping” him over. Statement of Undisputed 
+facts, ¶ 45 and Exhibit 16 to PCE Decl. 
+Oquendo tried a grift here. The Court should, we respectfully suggest, see through it and 
+dismiss his claims on the escrowed funds. 
+CONCLUSION 
+For all of the forgoing reasons Mr. Oquendo has no claim on the funds held in escrow. 
+Global respectfully submits that summary judgement should be granted to Global and that the 
+funds held in escrow be released back to it. 
+Dated: July 25, 2022 Respectfully submitted,
+Global Sports Management GmbH
+By /s/ David R. Doyle
+One of its attorneys
+Robert M. Fishman 
+David Doyle 
+Cozen O’Conner  
+123 Wacker Drive, Suite 1800 
+Chicago, IL 60606 
+Phone: (312) 382-3154 
+rfishman@cozen.com 
+daviddoyle@cozen.com 
+Patrick C. English 
+Dines and English L.L.C. 
+685 Van Houten Avenue 
+Clifton, NJ 07013 
+Office: (973) 778-7575
+Document      Page 18 of 19
+CERTIFICATE OF SERVICE
+David R. Doyle, the undersigned attorney, hereby certifies that on July 25, 2022, he 
+caused the foregoing MEMORANDUM OF LAW IN SUPPORT OF SUMMARY 
+JUDGEMENT MOTION OF GLOBAL SPORTS MANAGEMENT, GmbH to be served on the 
+following individuals through the Court’s CM/ECF electronic noticing system. 
+/s/ David R. Doyle  
+ Paul M. Bach     paul@bachoffices.com, 
+pnbach@bachoffices.com;bachecf@gmail.com;bachlaw@stratusbk.com;bachpr57277@n
+otify.bestcase.com 
+ Penelope N Bach     pnbach@bachoffices.com, 
+bachecf@gmail.com;paul@bachoffices.com;bachlaw@stratusbk.com;bachpr57277@noti
+fy.bestcase.com 
+ David R Doyle     daviddoyle@cozen.com, david-doyle-7943@ecf.pacerpro.com 
+ Robert M Fishman     rfishman@cozen.com, robert-fishman-9859@ecf.pacerpro.com 
+ Richard N Golding     rgolding@goldinglaw.net 
+ David J Scriven-Young     dscriven-young@pecklaw.com 
+ John S Wirt     jwirt@wirtlawfirm.com, pcwirt@wirtlawfirm.com 
+Document      Page 19 of 19

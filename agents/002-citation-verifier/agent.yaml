@@ -25,7 +25,7 @@ gates:
 input:
   formats: [txt, md]
   max_chars: 200000
-  corpus: [synthetic]
+  corpus: [synthetic, recap-briefs]
 egress:
   allow: [www.courtlistener.com]
   document_may_leave: false

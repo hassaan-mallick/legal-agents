@@ -65,7 +65,21 @@ class Finding:
         return self.verdict in (Verdict.NAME_MISMATCH, Verdict.UNRESOLVED, Verdict.NOT_CHECKED)
 
 
+#: Proprietary citations no open database can resolve. A miss there says nothing
+#: about the case, so it is NOT_CHECKED, never UNRESOLVED.
+UNCHECKABLE_REPORTERS = {"wl", "lexis", "u.s. dist. lexis", "u.s. app. lexis", "westlaw"}
+
+
+def uncheckable(cite: ExtractedCitation) -> bool:
+    rep = cite.reporter.lower().strip()
+    return rep in UNCHECKABLE_REPORTERS or "lexis" in rep or rep == "wl"
+
+
 def classify(cite: ExtractedCitation, resolution: Resolution) -> Finding:
+    if uncheckable(cite):
+        return Finding(cite, resolution, Verdict.NOT_CHECKED, explanation=(
+            f"{cite.reporter} is a proprietary citation (Westlaw/Lexis) that open databases do not "
+            "index. Not checked here; verify in the source service."))
     if resolution.unavailable:
         return Finding(cite, resolution, Verdict.NOT_CHECKED, explanation=(
             f"The lookup did not complete ({resolution.error}). This says nothing about the "

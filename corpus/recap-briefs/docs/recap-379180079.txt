@@ -1,0 +1,444 @@
+   
+ 
+ 
+ 
+Peter D. DeChiara 
+Marie B. Hahn  
+COHEN, WEISS AND SIMON LLP 
+900 3rd Avenue, Floor 21 
+New York, NY 10022 
+(212) 563-4100 
+pdechiara@cwsny.com 
+mhahn@cwsny.com 
+ 
+Attorneys for Defendant National Association of Letter Carriers, AFL-CIO 
+ 
+ 
+UNITED STATES DISTRICT COURT 
+EASTERN DISTRICT OF NEW YORK 
+-----------------------------------------------------------------------x 
+NICKO CALDERON,     
+ Case 1:18-cv-07085-NG-PK 
+    Plaintiff, 
+ 
+ -v.- 
+          
+UNITED STATES POSTAL SERVICE and 
+NATIONAL ASSOCIATION OF LETTER CARRIERS, 
+ 
+    Defendants. 
+-----------------------------------------------------------------------x  
+ 
+MEMORANDUM OF DEFENDANT NATIONAL ASSOCIATION OF LETTER 
+CARRIERS, AFL-CIO IN SUPPORT OF ITS SUMMARY JUDGMENT MOTION 
+ 
+     
+ 
+ 
+ 1123876.13 
+ PageID #: 123
+ i  
+ 
+ 
+TABLE OF CONTENTS 
+Page 
+ 
+PRELIMINARY STATEMENT .................................................................................................... 1 
+ 
+UNDISPUTED FACTS .................................................................................................................. 2 
+ 
+ARGUMENT .................................................................................................................................. 8 
+ 
+I. SUMMARY JUDGMENT STANDARD .......................................................................... 8 
+ 
+II. CALDERON PRESENTS NO EVIDENCE THAT NALC BREACHED ITS DUTY OF 
+FAIR REPRESENTATION................................................................................................ 9 
+ 
+A. There Is No Evidence that NALC Acted in an Arbitrary, Discriminatory or Bad 
+Faith Manner ........................................................................................................... 9 
+1. No Discrimination ............................................................................................ 9 
+2. No Bad Faith .................................................................................................... 9 
+3. No Arbitrary Conduct..................................................................................... 10 
+B. There is No Evidence that NALC Caused Calderon Injury by Not Taking 
+Additional Steps to Try to Enforce the Decision .................................................. 12 
+CONCLUSION ............................................................................................................................. 13 
+ 
+ 
+ 
+ PageID #: 124
+ ii  
+ 
+ 
+ 
+TABLE OF AUTHORITIES 
+ Page(s) 
+Cases 
+Air Line Pilots Ass’n v. O’Neill, 
+499 U.S. 65 (1991) ...............................................................................................................9, 10 
+Barr v. United Parcel Serv., 
+868 F.2d 36 (2d Cir. 1989).........................................................................................................9 
+D’Amico v. City of New York, 
+132 F.3d 145 (2d Cir. 1997).......................................................................................................8 
+Marquez v. Screen Actors Guild, Inc. 
+525 U.S. 33 (1998) .........................................................................................................9, 10, 11 
+Milk Wagon Drivers & Dairy Emps. v. Elmhurst Dairy, Inc., 
+14 F.Supp.3d 90 (E.D.N.Y. 2014) .................................................................................9, 10, 13 
+Perero v. Hyatt Corp., 
+151 F.Supp.3d 277 (E.D.N.Y. 2015) ............................................................................... passim 
+Reese v. Donahoe, 
+90 F.Supp.3d 11 (E.D.N.Y. 2015) .........................................................................................8, 9 
+Sim v. New York Mailers’ Union Number 6, 
+166 F.3d 465 (2d Cir. 1999).......................................................................................................9 
+Stephens v. Local 1199 SEIU, 
+45 F.Supp.3d 284 (E.D.N.Y. 2014) ...........................................................................................8 
+Vaughn v. Air Line Pilots Ass’n, 
+604 F.3d 703 (2d Cir. 2010).................................................................................................9, 13 
+Verrilli v. N.Y. Newspaper Printing Pressmen’s Union No. 2N/1SE, 
+254 F.Supp.3d 540 (E.D.N.Y. 2017) .........................................................................................8 
+White v. White Rose Food, 
+237 F.3d 174 (2d Cir. 2001).......................................................................................................9 
+ PageID #: 125
+ iii  
+ 
+ 
+ 
+Other Authorities 
+Fed. R. Civ. P. 56(a) ........................................................................................................................8 
+ 
+ PageID #: 126
+Defendant National Association of Letter Carriers, AFL-CIO (“NALC”) submits 
+this memorandum of law in support of its summary judgment motion. 
+PRELIMINARY STATEMENT 
+In this action, Nicko Calderon (“Calderon”) sues both his employer, Defendant 
+United States Postal Service (“USPS”), and his union, NALC.  He asserts that USPS failed to 
+comply with a 2015 decision (“Decision”) resolving a grievance in his favor and that NALC 
+failed to take sufficient steps to compel USPS’s compliance with the Decision.  He claims that 
+NALC thereby breached its duty of fair representation (“DFR”) to him. 
+Calderon’s DFR claim fails as a matter of law.  The undisputed facts demonstrate 
+that the union did everything it could think of to try to compel USPS to comply with the 
+Decision.  It filed a grievance against USPS under the grievance procedure in its collective 
+bargaining agreement (“CBA”) with USPS, alleging that USPS breached the CBA by not 
+complying with the Decision.  The union also filed an unfair labor practice (“ULP”) charge 
+against USPS with the National Labor Relation Board (“NLRB”), claiming that USPS had failed 
+to comply with the Decision.  After the NLRB’s regional office dismissed the charge, the union 
+appealed the decision to the NLRB’s General Counsel.  NALC also had repeated 
+communications and meetings with USPS management to try to obtain USPS’s compliance with 
+the Decision.   
+Calderon never asked NALC to take any additional steps to obtain USPS’s 
+compliance with the Decision.  Nor does he point to any other action that NALC could have or 
+should have taken.  Indeed, Calderon testified in his deposition that NALC “took all necessary 
+steps.”  
+Plaintiffs in DFR cases face a high hurdle.  To establish that a union acted 
+arbitrarily and thereby breached its duty, a DFR plaintiff must establish that the union lacked any 
+ PageID #: 127
+rational basis or explanation for its conduct.  Calderon cannot establish that NALC breached its 
+duty.  The undisputed facts show that NALC had a rational basis or explanation for not taking 
+additional steps to enforce the Decision:  it could think of no additional steps to take.  Moreover, 
+as Calderon admitted in his deposition, he never suggested to NALC that it take any additional 
+steps and he did not know what else the union should have done.  Because Calderon cannot 
+establish that NALC lacked any rational basis or explanation for not taking additional steps to 
+enforce the Decision, his DFR claim fails as a matter of law. 
+His claim fails for an additional reason.  A DFR plaintiff must prove that the 
+union’s acts or omissions caused him injury.  To show that NALC injured him by not taking 
+additional steps to enforce the Decision, Calderon would not only have to explain what 
+additional steps NALC should have taken, he would also have to prove that such steps would 
+have resulted in USPS providing him the relief to which he believes the Decision entitled him.  
+Calderon can make no such showing.   
+For these reasons, as explained further below, NALC is entitled to summary 
+judgment.   
+UNDISPUTED FACTS 
+NALC 
+NALC is a labor union that serves as the collective bargaining representative of a 
+nationwide bargaining unit of city letter carriers employed by USPS.  See Jan. 14, 2020 
+declaration of John Cruz (“Cruz Dec.”), filed herewith, at ¶2.  NALC Branch 41 is a local labor 
+organization affiliated with NALC that represents city letter carriers employed at postal facilities 
+in Brooklyn, New York.  See id.  Since 2011, when he began his employment with USPS, 
+Calderon has been a member of NALC.  See May 22, 2020 declaration of Peter DeChiara 
+(“DeChiara Dec.”), filed herewith, at Exhibit A, at 10. 
+ PageID #: 128
+The CBA’s Grievance Procedure 
+At all relevant times, NALC and USPS have been parties to the CBA, which 
+governs city letter carriers’ terms of employment.  See Cruz Dec. ¶3.  Article 15 of the CBA 
+contains a grievance-arbitration procedure that allows an employee, or the union on the 
+employee’s behalf, to grieve an alleged violation of the CBA by USPS.  See Cruz Dec. ¶4 & 
+Exhibit A, at 64-77.  The CBA has a 14-day limitations period for initiating a grievance.  See id., 
+Exhibit A at 65 (Art. 15, §2, Informal Step A, §(a)).  The first steps of the grievance procedure 
+are Informal Step A and Formal Step A.  See id., Exhibit A, at 65-67 (Art. 15, §2).  If the union 
+and management do not resolve the grievance at these first two steps, the union may appeal the 
+grievance to Step B.  See id., Exhibit A, at 67 (Art. 15, §2, Step B (a)).   
+    At Step B, a two-person “dispute resolution team” (“DRT” or “Step B team”) 
+composed of a union representative and a management representative, has the authority to 
+resolve the grievance.  See Cruz Dec. ¶5 & Exhibit A, at 67 (Art. 15, §2, Step B (b)).  If the Step 
+B team reaches “impasse” -- meaning the two members of the team fail to agree on a resolution 
+of the grievance -- NALC may appeal the grievance to arbitration.  See id., Exhibit A at 68 (Art. 
+15, §2, Step B (d)).  However, if the Step B team agrees on a resolution of the grievance, the 
+decision is final.  See id. ¶5.   
+The 2013-2014 Break in Calderon’s USPS Employment 
+  USPS hired Calderon in 2011 as a non-career “transitional employee” (“TE”).  
+See DeChiara Dec., Exhibit A at 9-10, 13-14 & Exhibit B.  TE’s worked a fixed term of 360 
+days.  See id., Exhibit A at 13.  In 2013, USPS phased out the TE position and required TE’s 
+who wished to continue their USPS employment to take a job in the newly created non-career 
+position called City Carrier Assistant (“CCA”).  See DeChiara Dec., Exhibit A at 13-14.  To 
+ PageID #: 129
+become a CCA, a former TE would have to pass an exam.  See id., Exhibit A at 133-34.  
+Calderon says that he took the exam, see id., Exhibit A at 134; Exhibit B, but that USPS 
+nonetheless terminated his employment in April 2013, id., Exhibit B.   
+  Calderon did not work for USPS from April 2013 to April 2014.  See DeChiara 
+Dec., Exhibit A, at 17.  In April 2014, USPS hired him as a CCA.  See DeChiara Dec., Exhibit 
+A, at 17, 185-87; Exhibit B.   
+    In November 2014, USPS converted Calderon from a non-career CCA position to 
+a full-time career letter carrier position.  See id., Exhibit A at 18, 197; Exhibit C. 
+Grievances that the Union Brought on Calderon’s Behalf 
+  Calderon believed that USPS had terminated him improperly in April 2013 and he 
+asked the union to file a grievance for him.  See DeChiara Dec., Exhibit A at 23-24.  Branch 41 
+filed a grievance contending that USPS violated the CBA when it terminated Calderon in 2013.  
+See id., Exhibit A at 24-25; Cruz Dec. ¶6 & Exhibit B.  After management denied the grievance 
+at Step A, the union appealed to Step B.  See Cruz Dec. ¶6.  On June 30, 2014, the Step B team 
+found the grievance to be untimely under the CBA’s 14-day limitations period, since USPS had 
+terminated Calderon a year before the grievance was filed.  See id., Exhibit A, at 25; Cruz Dec. 
+¶6 & Exhibit C.   
+  In or about August 2014, Branch 41 asserted another grievance for Calderon at his 
+request.  See id., Exhibit A, at 29-30; Cruz Dec. ¶7 & Exhibit D.  This grievance charged that but 
+for USPS improperly terminating him in April 2013, Calderon would have already converted 
+from a non-career to a career position, as other TE’s-turned-CCA’s already had, and that the 
+resulting delay in advancing Calderon to a career position cost him pay and benefits.  See id., 
+Exhibit D, at 3-4.  After management denied the grievance at Step A, the union appealed to Step 
+ PageID #: 130
+B.  See Cruz Dec. ¶7.  On October 6, 2014, the Step B team denied the grievance.  See DeChiara 
+Dec., Exhibit A, at 31; Cruz Dec. ¶7 & Exhibit E.   
+  In or about March 2015, after USPS had converted Calderon from a CCA to a 
+career carrier position, Branch 41 initiated yet another grievance for Calderon at his request.  See 
+id., Exhibit A, at 32; Cruz Dec. ¶8 & Exhibit F.  The grievance asserted that USPS violated the 
+CBA by not converting Calderon to a career position sooner, in the same group as other TE’s-
+turned-CCA’s who had not been improperly terminated.  See id., Exhibit F.  After management 
+denied the grievance at Step A, the union appealed to Step B.  See Cruz Dec. ¶8.  On April 17, 
+2015, the Step B team issued the Decision, finding that the grievance had merit and ordering 
+“USPS to make [Calderon] whole in all aspects for the time period [he] should have been 
+converted.”  Id., Exhibit A, at 35; Cruz Dec. ¶8 & Exhibit G, at 1.   
+The Union’s Efforts to Obtain USPS’s Compliance with the Decision 
+  In or about September 2015, Branch 41, at Calderon’s request, initiated a 
+grievance (“Non-Compliance Grievance”) claiming that USPS had failed to comply with the 
+Decision.  See DeChiara Dec., Exhibit A at 38-39; Cruz Dec. ¶9 & Exhibit H.  After 
+management denied the Non-Compliance Grievance at Step A, the union appealed to Step B.  
+See id. ¶9.  On October 26, 2015, the Step B team issued a decision finding that USPS had failed 
+to implement the Decision’s remedy and ordering it to do so.  See DeChiara Dec., Exhibit A at 
+39-40; Cruz Dec. ¶9 & Exhibit I.   
+  Believing that USPS had still not complied with the Decision, Calderon asked the 
+union to file a ULP charge on his behalf with the NLRB.  See DeChiara Dec., Exhibit A, at 49.  
+Branch 41 agreed to do so, and on March 18, 2016, John Cruz, then Branch 41’s chief steward, 
+filed a ULP charge for Calderon.  See id., Exhibit A at 46; Cruz Dec. ¶10 & Exhibit J, at 1.  In 
+ PageID #: 131
+the ULP charge, the union claimed that USPS was not complying with decisions rendered 
+against it.  See id., Exhibit J, at 1.  After the NLRB’s Regional Office dismissed the charge, see 
+id., Exhibit J, at 2, Cruz on July 5, 2016 appealed the dismissal to the NLRB’s General Counsel.  
+See id., Exhibit J, at 5; DeChiara Dec., Exhibit A at 47-49.  The appeal was denied.  See Cruz 
+Dec. ¶11.  
+  In addition to filing the Non-Compliance Grievance and the ULP charge, the 
+union also met with USPS management about the Decision.  For example, on February 2, 2016, 
+Branch 41 President John Murphy emailed USPS Labor Relations official Crystal Powell “to set 
+up an appointment” with her to “resolve the 3 Calderon DRT grievance decisions.”  Powell 
+responded to Murphy’s email by writing that “the finance department” was “preparing the 
+paperwork for his back-pay” and that “[y]ou may contact Ms. Tenagh Bryant, Manager of Labor 
+[Relations], if you have any questions on this case.”  See Cruz Dec., Exhibit K.   
+    Murphy and Cruz met with Bryant, and also later met with David Rudy, Bryant’s 
+superior in the USPS Human Resources Department, urging both that USPS should comply with 
+the Decision.  See Cruz Dec. ¶13.  They also met about the Decision with Postmaster Anthony 
+Impronto, who told them that he would direct the matter to Bryant.  See id. 
+Calderon’s 2017 Unfair Labor Practice Charge Against the Union 
+  On January 20, 2017, Calderon filed a ULP charge against Branch 41.  See 
+DeChiara Dec., Exhibit A, at 15 & Exhibit D.  The charge asserted that “for reasons that are 
+arbitrary, discriminatory, or in bad faith,” the union “failed and refused to seek enforcement of 
+previous decisions” concerning Calderon.  Id., Exhibit D.  On or about March 2017, Calderon 
+voluntarily withdrew his ULP charge.  See id., Exhibit A at 54 & Exhibit E. 
+ PageID #: 132
+The Union’s Continued Efforts for Calderon 
+  On March 8, 2017, Branch 41 President Murphy wrote to Calderon.  See 
+DeChiara Dec., Exhibit A, at 57; Cruz Dec. ¶14 & Exhibit L.  Murphy’s letter recounted efforts 
+that the union had made to obtain USPS’s compliance with the Decision.  See id., Exhibit L.  
+Murphy then explained to Calderon that  
+Branch 41 is diligently working to ensure that management 
+complies with the recent DRT decisions pertaining to your case.  
+On February 27, 2017, I spoke with USPS [manager] Ms. Bryant 
+about your case.  Ms. Bryant informed me that I should address 
+your issues to Ms. Powell, who will be out on sick leave for two 
+weeks.  Once Ms. Powell returns, I can address your issues with 
+her. 
+The Branch will keep you informed of any new developments. 
+Id.   
+  Unfortunately, Powell never returned to work at USPS.  See Cruz Dec. ¶14.  
+However, Murphy and Cruz continued to attempt to meet with USPS officials about the 
+Decision.  See id.  They had several meetings with Bryant.  See id.  They also met numerous 
+times about the Decision with Kenyon Parlor, another USPS labor relations official, and Parlor 
+told them he was looking into the matter.  See id. & Exhibit M.  These meetings with Parlor 
+continued into 2018.  See id. ¶15.    
+  Following his receipt of Murphy’s letter, Calderon spoke repeatedly over the 
+course of more than a year with Murphy and Cruz.  See DeChiara Dec., Exhibit A, at 58, 63; 
+Cruz Dec. ¶16.  However, at no point did Calderon request or suggest that the union take any 
+particular action to try to enforce the Decision.  See Cruz Dec. ¶16; DeChiara Dec. Exhibit A, at 
+64. 
+ PageID #: 133
+Calderon’s Lawsuit 
+  Calderon filed suit against NALC and USPS on December 13, 2018.  See Docket 
+Entry #1.  His amended complaint asserts one claim against NALC, namely, that NALC 
+breached the DFR.  See Docket Entry #13, at ¶¶39-42.  He claims that NALC breached the DFR 
+because, he asserts, “it failed to enforce the Collective Bargaining Agreement and the Decision.”  
+Id. P41.  His pleading contains no indication of what more Calderon believes the union should 
+have done. 
+  In his deposition, Calderon testified that he was not aware of anything that NALC 
+could have done that it did not do to enforce the Decision.  See DeChiara Dec., Exhibit A, at 94.  
+He also testified that he was unaware of the union ever refusing to file a grievance that he asked 
+it to file or ever failed to take an action that he asked it to take.  See id., Exhibit A, at 97.  He 
+conceded that the union “took all the necessary steps.”  Id., Exhibit A, at 97. 
+ARGUMENT 
+I. SUMMARY JUDGMENT STANDARD 
+Summary judgment should be granted if the record shows “that there is no 
+genuine issue as to any material fact and that the movant is entitled to judgment as a matter of 
+law.”  Fed. R. Civ. P. 56(a); Verrilli v. N.Y. Newspaper Printing Pressmen’s Union No. 2N/1SE, 
+254 F.Supp.3d 540, 544 (E.D.N.Y. 2017) (granting union summary judgment on DFR claim); 
+Reese v. Donahoe, 90 F.Supp.3d 11, 15 (E.D.N.Y. 2015) (same); Stephens v. Local 1199 SEIU, 
+45 F.Supp.3d 284, 291 (E.D.N.Y. 2014) (same).  To defeat such a motion, the non-movant must 
+offer “hard evidence” that a genuine dispute of fact exists.  D’Amico v. City of New York, 132 
+F.3d 145, 149 (2d Cir. 1997); accord Stephens, 45 F.Supp.3d at 292.   
+Here, there are no genuine disputes of fact material to Calderon’s DFR claim, and 
+NALC is entitled to judgment as a matter of law.   
+ PageID #: 134
+II. CALDERON PRESENTS NO EVIDENCE THAT NALC BREACHED ITS DUTY 
+OF FAIR REPRESENTATION  
+A DFR plaintiff must meet two hurdles.  First, the plaintiff must prove that the 
+union’s conduct was arbitrary, discriminatory or in bad faith.  See Marquez v. Screen Actors 
+Guild, Inc. 525 U.S. 33, 44 (1998); Air Line Pilots Ass’n v. O’Neill, 499 U.S. 65, 67 (1991); 
+Vaughn v. Air Line Pilots Ass’n, 604 F.3d 703, 709 (2d Cir. 2010); Barr v. United Parcel Serv., 
+868 F.2d 36, 43 (2d Cir. 1989); Perero v. Hyatt Corp., 151 F.Supp.3d 277 (E.D.N.Y. 2015); 
+Reese, 90 F.Supp.3d at 16.  Second, the plaintiff must show that the union’s conduct caused 
+plaintiff’s alleged injury.  See Vaughn, 604 F.3d at 709; accord Perero, 151 F.Supp.3d at 283-
+84; Milk Wagon Drivers & Dairy Emps. v. Elmhurst Dairy, Inc., 14 F.Supp.3d 90, 97 (E.D.N.Y. 
+2014).  Calderon can show neither.   
+A. There Is No Evidence that NALC Acted in an Arbitrary, Discriminatory or 
+Bad Faith Manner 
+Here, there is no evidence that NALC acted in an arbitrary, discriminatory or bad 
+faith manner.  
+1. No Discrimination 
+First, the discrimination prong of the DFR test is inapplicable since Calderon 
+stated in discovery that he does not contend that NALC discriminated against him.  See DeChiara 
+Dec., Exhibit F at 2 (response to interrogatory #4).   
+2. No Bad Faith 
+Calderon also relinquished any claim of bad faith.  To establish bad faith, a DFR 
+plaintiff must prove “fraudulent, deceitful, or dishonest action” by the union.  White v. White 
+Rose Food, 237 F.3d 174, 179 (2d Cir. 2001); Sim v. New York Mailers’ Union Number 6, 166 
+F.3d 465, 472 (2d Cir. 1999); accord Perero, 151 F.Supp.3d at 284.  When asked at his 
+deposition whether any union representative ever lied to him, Calderon answered “not that I 
+ PageID #: 135
+know of.”  DeChiara Dec., Exhibit A at 86.  That testimony defeats any claim of bad faith 
+Calderon might have asserted.   
+In any event, there is no evidence of fraudulent, deceitful or dishonest conduct by 
+NALC.  In particular, there is no evidence that any union representative knowingly made a false 
+statement to Calderon.     
+Indeed, the record shows that NALC acted with complete good faith.  The union 
+filed multiple grievances for Calderon and pursued them through Step B of the grievance 
+procedure, filed a ULP charge for him and appealed its dismissal, and also on numerous 
+occasions met with management officials on his behalf.  It did everything he requested to try to 
+enforce the Decision.  When asked at his deposition, “[d]id the union ever not take any action 
+that you asked the union to take?,” Calderon responded “[n]ot that I know of.”  DeChiara Dec., 
+Exhibit A at 97.  He added:  “[t]hey took all the necessary steps.”  Id., Exhibit A at 97.   
+Moreover, Calderon identifies no reason NALC would have had to act in bad 
+faith.  He concedes that the union officials had no animus against him and no motive to act 
+against his interests.  See DeChiara Dec., Exhibit A, at 79-86 (Calderon testifying that he was not 
+aware that union representatives had any reason to dislike him or to cause him harm).  
+3. No Arbitrary Conduct 
+Nor is there evidence that NALC acted in an arbitrary manner.  In a DFR case, 
+judicial review of union conduct is “highly deferential, recognizing the wide latitude” that unions 
+have to perform their functions.  O’Neill, 499 U.S. at 78; accord Perero, 151 F.Supp.3d at 284.  
+Accordingly, the Supreme Court has held that a union’s conduct can only be deemed arbitrary if 
+it is “so far outside a ‘wide range of reasonableness’ that it is wholly ‘irrational.’”  O’Neill, 499 
+U.S. at 66 (internal citations omitted); accord Marquez, 525 U.S. at 45; Milk Wagon Drivers, 14 
+F.Supp.3d at 97.  A union’s conduct is “irrational” when “it is without a rational basis or 
+ PageID #: 136
+explanation.”  Marquez, 525 U.S. at 46; Perero, 151 F.Supp.3d at 284.  Thus, to establish that 
+NALC engaged in arbitrary conduct, Calderon has to prove that NALC lacked any rational basis 
+or explanation for its conduct.  Specifically, he has to show that NALC had no rational basis or 
+explanation for not taking additional steps to obtain USPS’s compliance with the Decision. 
+Calderon can make no such showing.  In its efforts to obtain USPS’s compliance 
+with the Decision, NALC filed the Non-Compliance Grievance and pursued it to Step B, where it 
+obtained a unanimous Step B decision ordering USPS to implement the Decision.  See Cruz 
+Dec., Exhibits H, L.  It also filed a ULP charge with the NLRB to try to obtain USPS’s 
+compliance, and then appealed the dismissal of the charge.  See id., Exhibit J.  In addition, union 
+representatives Murphy and Cruz had numerous meetings with USPS management officials to 
+try to obtain USPS’s compliance with the Decision.  See Cruz Dec. ¶¶12, 13, 15. 
+NALC took no additional steps to try to obtain USPS’s compliance with the 
+Decision because it had already taken every step it could think to take.  See Cruz Dec. ¶17.  
+Because the union had a “rational basis or explanation” for not taking additional steps -- namely, 
+that it could think of no additional steps to take -- its conduct was not arbitrary and did not 
+breach the DFR.   
+Moreover, Calderon never requested or suggested that NALC take any additional 
+steps to obtain USPS’s compliance with the Decision.  See DeChiara Dec., Exhibit A at 64; Cruz 
+Dec. ¶16.  That Calderon never requested or suggested that NALC take additional steps is 
+another “rational basis or explanation” for NALC not taking additional steps.  For that reason, 
+too, NALC’s conduct was not arbitrary within the meaning of the DFR test. 
+Calderon may oppose NALC’s motion by arguing, as he did in his February 14, 
+2020 response to NALC’s pre-motion letter, that “whether or not the union did everything it 
+ PageID #: 137
+could is a stark and obvious fact issue precluding summary judgment.”  Docket Entry #31, at 1 
+(emphasis in original); see also id. (“it is difficult to imagine how the NALC can prove as a 
+matter of law that it ‘did everything it could’”) (emphasis in original).   
+This argument would fail.  First, to defeat Calderon’s DFR claim, NALC does not 
+need to show that it did everything it could have done.  It just needs to show that it had some 
+rational basis for not having done more than it did.  As explained above, there is a rational 
+explanation for the union not having taken additional steps:  it could think of no additional steps 
+to take.  See Cruz Dec. ¶15 (“In trying to get USPS to comply with the Decision, I took all the 
+steps I could think of taking.  I am not aware of what more the union could have done.”)  In 
+addition, Calderon never requested or suggested that he take additional steps. 
+In his response to NALC’s pre-motion letter, Calderon also argued that there is a 
+dispute of fact as to whether he ever suggested that NALC take additional steps to obtain USPS’s 
+compliance with the Decision.  See Docket Entry #31, at 2.  However, there can be no genuine 
+dispute on this point because Calderon admitted in his deposition that he made no such 
+suggestions to the union.  DeChiara Dec. Exhibit A, at 64.  Indeed, he could not have made any 
+such suggestions because he also admitted that he had no ideas about what additional steps the 
+union could take.  See id., Exhibit A, at 65. 
+In sum, the undisputed evidence shows that NALC’s conduct was not arbitrary, 
+discriminatory or in bad faith. 
+B. There is No Evidence that NALC Caused Calderon Injury by Not Taking 
+Additional Steps to Try to Enforce the Decision 
+Even if Calderon could produce evidence that NALC acted in an arbitrary, 
+discriminatory or bad faith manner, NALC would still be entitled to summary judgment, since 
+there is no evidence that NALC caused him injury by not taking additional steps to obtain 
+ PageID #: 138
+USPS’s compliance with the Decision.  As noted above, a DFR plaintiff must prove that the 
+union’s conduct caused plaintiff’s alleged injury.  See Vaughn, 604 F.3d at 709; accord Perero, 
+151 F.Supp.3d at 283-84; Milk Wagon Drivers, 14 F.Supp.3d at 97.  Calderon’s alleged injury 
+was not receiving the pay and other benefits he believes he would have received had USPS 
+complied with the Decision.  To prevail on his DFR claim then, Calderon must prove that he 
+would have avoided this injury -- meaning, USPS would have provided him the pay and other 
+benefits -- had NALC taken additional steps to try to obtain its compliance.   
+Calderon has no such evidence.  Neither his complaint nor his amended complaint 
+give any indication of what additional steps NALC should have taken to enforce the Decision.  
+See Docket Entries ##1, 13.  At his deposition, Calderon answered “[n]o” when asked “[a]re you 
+aware of anything the NALC could have done that it did not do to enforce the decision?”  
+DeChiara Dec., Exhibit A at 94.  Indeed, as noted above, Calderon testified that the union “took 
+all the necessary steps.”  Id., Exhibit A at 97.  
+Because he fails to establish what additional steps NALC could have taken to 
+obtain USPS’s compliance with the Decision, let alone that such steps would have been 
+successful, Calderon fails to present evidence that NALC’s not taking additional steps caused 
+him injury.  For that reasons, too, his DFR claim fails as a matter of law. 
+CONCLUSION 
+For the foregoing reasons, NALC’s motion should be granted, and the Court 
+should issue judgment in NALC’s favor. 
+ 
+ PageID #: 139
+Dated:   June 18, 2020    
+  
+/s/ Peter D. DeChiara 
+Peter D. DeChiara  
+Marie B. Hahn 
+COHEN, WEISS AND SIMON LLP 
+900 3rd Avenue, Floor 21 
+New York, NY 10022 
+212-563-4100 
+pdechiara@cwsny.com 
+mhahn@cwsny.com 
+ 
+Attorneys for Defendant National Association of 
+Letter Carriers, AFL-CIO 
+ 
+ 
+ 
+ PageID #: 140

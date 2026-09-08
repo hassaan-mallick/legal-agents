@@ -1,0 +1,411 @@
+UNITED STATES DISTRICT 
+COURT NORTHERN DISTRICT OF 
+ILLINOIS EASTERN DIVISION 
+ ) 
+BRIAN NOE and EILEEN PRUITT )  
+ ) 
+on behalf of ) 
+themselves and all other similarly situated, ) 
+ ) Case No.: 1:21- cv-01668 
+ Plaintiffs, ) 
+  ) 
+-against- ) 
+                                                                   ) 
+SMART MORTGAGE CENTERS, INC.,     ) 
+RICHARD BIRK, and BRIAN BIRK, ) 
+ ) 
+ Defendants. ) 
+ ) 
+ 
+PLAINTIFFS’ MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFFS’ MOTION 
+FOR SUMMARY JUDGMENT 
+Plaintiff Brian Noe and Eileen Pruitt, as well as Opt-In Plaintiffs (together “Plaintiffs”), by 
+their undersigned counsel, move for summary judgment against Defendants Richard Birk, Brian 
+Birk (together the “Birks”) , and Smart Mortgage Centers, Inc. (“SMC”  or the “Company” ) 
+(together “Defendants”) on all counts of Plaintiffs’ First Amended Complaint (“Complaint”). 
+Plaintiffs can successfully demonstrate that summary judgment is warranted as to their claims for 
+minimum wage, overtime, and improper deductions based on the undisputed material facts in the 
+record developed in this  litigation. The record reflects that Defendants engaged in a systematic 
+misclassification of loan officers as “outside s ales employees,” when Company expectations 
+reflect those of an inside, non- exempt sales employee. Further, Plaintiffs each were subject to 
+improper wage payment through a failure to pay minimum wages, failure to provide overtime 
+wages, and illegal deductions from loan officer pay. Accordingly, Plaintiffs should be granted 
+summary judgment on all counts of their Complaint.  
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 1 of 17 PageID #:3025
+FACTUAL BACKGROUND 
+For brevity, Plaintiffs refer this Court to the Rule 56.1(C)(2) Statement of Undisputed 
+Material Facts (“SOF”), ¶1-62, filed in conjunction with this Memorandum.   
+STANDARD OF REVIEW 
+Summary judgment is proper where “the movant shows that there is no genuine dispute as 
+to any material fact and the movant is entitled to judgment as a matter of law. ” Fed. R. Civ. P. 
+56(a); see also Celotex Corp. v. Catrett , 477 U.S. 317, 322 (1986). A genuine dispute as to any 
+material fact exists if “the evidence is such that a reasonable jury could return a verdict for the 
+nonmoving party.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).  
+The Court “consider[s] all of the evidence in the record in the light most favorable to the 
+non-moving party, and [] draw[s] all reasonable inferences from that evidence in favor of the party 
+opposing summary judgment.” Skiba v. Ill. Cent. R.R. Co., 884 F.3d 708, 717 (7th Cir. 2018) 
+(internal citation and quotations omitted). When the movant has met its burden, the opposing party 
+must “point to evidence that can be put in admissible form at trial, and that, if believed by the fact-
+finder, could support judgment in his favor.” Marr v. Bank of America, N.A., 662 F.3d 963, 966 
+(7th Cir. 2011)). The non-moving party must affirmatively demonstrate with “specific facts” that 
+a genuine issue exists that require trial.  Gabrielle M. v. Park Forest -Chicago Heights, Ill. Sch. 
+Dist. 163, 315 F.3d 817, 822 (7th Cir. 2003) (emphasis in original)).  
+ARGUMENT 
+ 
+Plaintiffs Brian Noe and Eileen Pruitt move for summary judgment against all Defendants on 
+all counts of the Complaint. Moreover, Opt-In Plaintiffs move for summary judgement against 
+Defendants Richard Birk and Brian Birk on all counts of the Complaint. Plaintiffs were subject to 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 2 of 17 PageID #:3026
+improper wage payment through a failure to pay minimum wages, failure to provide overtime 
+wages, and illegal deductions from loan officer pay. Accordingly, Plaintiffs s hould be granted 
+summary judgment on all counts of their Complaint. 
+I. Plaintiffs Complied with The Court’s Standing Order on Summary Judgement 
+Motions 
+Pursuant to this Court’s Standing Order on Summary Judgment Practice, Plaintiffs advised 
+the Defendants, via a 3-page letter of their basis for summary judgement including: 1) the counts 
+it intended to move on; 2) relevant legal authority; and relevant factual evidence. Counsel for both 
+parties engaged in a meet and confer via telephone and the discussed Plaintiffs’ intent to move for 
+summary judgment. Defendants indicated that they believes all material facts are in dispute and 
+that the evidence that Plaintiffs will submit will be inadmissible. When asked for specifics, 
+Defendants did not elaborat e further. Plaintiffs asked whether Defendants were aware of any 
+specific factual matter(s) or legal authority that it believes would defeat the motion. Defendants 
+did not provide any.  
+II. Plaintiffs are Entitled to Summary Judgment on their FLSA and State Law Claims 
+for Minimum Wage and Overtime (Count I and Count II and Count III).  
+The Court should grant Plaintiff’s motion for summary judgment against Defendant s for 
+failure to pay minimum wage and overtime wages pursuant to the Fair Labor Standards Act 
+(“FLSA”) and the Illinois Minimum Wage Law (“IMWL”).  
+Minimum wage and overtime claims brought under the FLSA and IMWL FLSA and 
+IMWL are evaluated using the same analysis. Curry v. Kraft Foods Glob., Inc., No. 10 C 1288, 
+2012 U.S. Dist. LEXIS 3720 (N.D. Il l. Jan. 12, 2012) (collecting cases) ; Driver v. AppleIllinois, 
+LLC, 890 F. Supp. 2d 1008, 1010 (N.D. Ill. 2012) (“IMWL parallels the FLSA and the same 
+analysis has generally been applied to both statutes.”) (citing Condo v. Sysco Corp., 1 F.3d 599, 
+(7th Cir. 1993)).  
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 3 of 17 PageID #:3027
+Further, the Illinois Administrative Code provides that the Director of the Illinois 
+Department of Labor, in interpreting the IMWL and regulations thereunder, may look to the United 
+States Department of Labor’s regulations and interpretations o f the FLSA. Ill. Admin. Code tit. 
+56, pt. 210.120 (2022). The Code also provides that where there are concurrent state and federal 
+powers, the stricter of the two shall prevail.  Ill. Admin. Code tit. 56, pt. 210.100 (2022). “Thus, if 
+there is a difference in the interpretation of the IMWL and FLSA, the IMWL is more favorable to 
+the employee.” AppleIllinois, LLC, 890 F. Supp. 2d at 1011. 
+To succeed on summary judgment, a plaintiff must establish the following elements for an 
+FLSA overtime claim: 1) the plaintiff was employed by the defendant; 2) the defendant is engaged 
+in interstate commerce or the plaintiff is otherwise covered by the FL SA; 3) the plaintiff worked 
+in excess of 40-hours in a workweek; and 4) the defendant did not pay the plaintiff overtime wages. 
+Wiseman v. Tastefully Better, No. 19-cv-1441, 2021 WL 5321075, at *2 (N.D. Ill. Nov. 16, 2021) 
+(citations omitted). In addition,  to prevail under this standard, the employee must prove that the 
+employer had actual or constructive knowledge of the overtime worked. Kellar v. Summit Seating, 
+Inc., 664 F.3d 169, 176-77 (7th Cir. 2011). 
+To prevail on a minimum- wage claim under the FLSA or IMWL, a plaintiff must prove 
+that they were employed by the defendant and that they were not in fact paid the minimum wage. 
+Callahan v. City of Chi., 78 F. Supp. 3d 791, 793  (N.D. Ill. 2015). Minimum wage must be paid 
+on a week-by-week basis. See e.g., Masterson v. Fed. Express Corp., No. 07-CV-2241, 2008 U.S. 
+Dist. LEXIS 99622 (M.D. Pa. Dec. 10, 2008).  
+A. Plaintiffs Were Covered by the FLSA, IMWL, & IWPCA 
+As an initial matter, Plaintiffs are covered by th e FLSA. “An employee is covered by the 
+FLSA when e ither (1) the plaintiff/employee is a covered individual under the FLSA or (2) the 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 4 of 17 PageID #:3028
+employer is a covered enterprise.” Rivera v. Heights Landscaping Inc., 2004 WL 434214, at *1, 
+2004 U.S. Dist. LEXIS 3746, at *2 (N.D. Ill. 2004). In other words, coverage exists if: (1) the 
+employee is engaged in commerce (i.e., individual coverage)  or (2) the employer is an enterprise 
+engaged in commerce (i.e., enterprise coverage). 29 U.S.C. §§ 206, 207; Tony and Susan Alamo 
+Foundation v. Secretary of Labor , 471 U.S. 290, 295 n. 8 (1985). Here, both individual and 
+enterprise coverage are satisfied.  
+A covered enterprise is one that “has employees engaged in commerce or in the production 
+of goods for commerce, or that has employees handling, selling, or otherwise w orking on goods 
+or materials that have been moved in or produced for commerce by any person; and is an enterprise 
+whose annual gross volume of sales made or business done is not less than $500,000.” 29 U.S.C. 
+§ 203(s)(1). SMC is clearly engaged in interstate commerce as they sold services and loan products 
+throughout the United States. SOF ¶1. In addition, Plaintiffs are covered as individuals. The FLSA 
+states that the Act applies to employees who regularly and on a recurrent basis, as part of their 
+duties, engage in use of instrumentalities of interstate commerce such as telephone, internet, and 
+mail. Shoemaker v. Lake Arbutus Pavilion, LLC , 115 F. Supp. 3d 974, 980 (7th Cir. 2015);  29 
+C.F.R. § 776.10. Here, Plaintiffs used the telephone, internet, and mail daily to sell loan products. 
+SOF ¶38. SMC emails even confirm that this is the preferred method of communication, “everyone 
+needs to be concentrating on Phone calls and Texts.”  SOF ¶39. SMC also provided loan officers 
+with a virtual private network (“VPN”), so that they could work when they were not physically in 
+the office, such as at home as well as on their personal phones. SOF ¶18.  
+With respect to the state laws, Plaintiffs were protected under the IWML during their  
+employment with SMC, as it  is a pplies to a  “corporation. . . or any person acting directly or 
+indirectly in the interest of an employer in relation to an employee, for which one or more persons 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 5 of 17 PageID #:3029
+are gainfully employed on some day within a calendar year,” and employing more than four  
+employees. 820 I.L.C.S. § 105/3. Similarly, u nder the I llinois Wage Payment & Collection Act 
+(“IWPCA”), an employer is defined as “any individual or entity that employs one or more people, 
+including certain employment and labor placement agencies and any person acting directly or 
+indirectly in the interest of an employer in relation to an employee.” 820 Ill. Comp. Stat. 115/2.  
+The IWML and IWPCA appl y to all three Defendants because SMC, through the Birks,  
+employed Ryan Klaic from 2011 to 2021, meaning that for the entire statute of limitations period, 
+SMC employed at least one person. SOF ¶13. Moreover, from March 26, 2018 to May 2, 2022, 
+SMC, through the Birks, employed 26 loan officers, SOF ¶15, and as of May 5, 2022, SMC , 
+through the Birks, employed 18 loan officers. SOF ¶16. Accordingly, all Defendants are covered 
+by the IMWL and IWPCA.  
+B. Plaintiffs Worked Hours for Which They Were Not Paid Minimum Wage 
+The FLSA and IMWL both require employees to show they were 1) covered under the 
+statute and 2) were not paid a minimum wage for each hour of work. Callahan, 78 F. Supp. at 793; 
+see also Berger v. Perry's Steakhouse of Ill., LLC, 430 F. Supp. 3d 397, 404 (N.D. Ill. 2019) (citing 
+29 U.S.C. § 206 and 820 ILCS 105/4(a)(1) ). In addition, t he failure to pay any wages  to an 
+employee constitutes a violation of FLSA’s requirement that employees are paid wages at the 
+minimum wage. See Conley v. Team Info. Age , No. 03 C 0639, 2004 U.S. Dist. LEXIS 1007, at 
+*3-4 (N.D. Ill. Jan. 27, 2004) (citations omitted).  Further, an employee cannot waive his or her 
+right to minimum wage. Barrentine v. Arkansas-Best Freight System, Inc., 450 U.S. 728 (1981); 
+Brooklyn Savings Bank v. O’Neil, 324 U.S. 697 (1945).  
+Plaintiffs commonly worked hours for which they were not paid minimum wage. I n fact, 
+Plaintiffs worked many hours where they were not paid anything. SMC had a policy wherein loan 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 6 of 17 PageID #:3030
+officers were never paid any minimum w age. SOF ¶24, 26. This i s because, again, they were 
+misclassified by Defendants as exempt employees. SOF ¶40,44. As a result, Plaintiffs went weeks 
+during their employment without receiving any wages during the beginning of their employment 
+as they worked to build business and during s low periods. SOF ¶24-27. Moreover, if a Plaintiff 
+did not close a loan, then they received no wages for that week, even though they performed work 
+in that week. SOF ¶26. This was confirmed not only by Plaintiff’s testimony, but testimony from 
+a manager level employee at SMC. An SMC manager, who previously held the role of loan officer, 
+stated it took her 2-3 months to build up her clientele, and that she received zero commissions until 
+she was able to close loans a few months later. SOF ¶27.  
+C. Plaintiffs Worked Overtime Hours for Which They Were Not Properly Paid 
+The record establishes that Plaintiffs worked above 40 hours in one week and were not paid 
+any overtime wages.  Further, it is undisputed that Defendants not only had knowledge of the 
+overtime work but encouraged it. Thus, summary judgment is proper.  
+Plaintiffs must show: 1) they were employed; 2) coverage under the FLSA; 3) they worked 
+in excess of 40-hours in a workweek; 4) they were not paid overtime wages; and 5) constructive 
+knowledge. Wiseman, 2021 WL 5321075, at *2; Kellar, 664 F.3d at 176-77. 
+First, Plaintiffs were employees and paid on a 100% commission basis. SOF ¶9-14; 22. 
+This meant that despite the number of hours a loan officer worked in a week calling or otherwise 
+pursuing leads, unless they actually closed a loan for which they received commission, they were 
+paid nothing. SOF ¶21. Second, Plaintiffs are covered by the FLSA and IMWL. See Section II(A) 
+supra. Third, Plaintiffs routinely worked over 40 hours in one week. Plaintiffs Noe and Klaic 
+routinely worked between 60 to 70 hours in a week, up to 80. SOF ¶ 34. Plaintiff Platt worked on 
+average 50 hours per week. SOF ¶ 34. Plaintiff Pruitt routinely worked between  40 and 50 hours 
+per week. Id. Plaintiff Jno-Lewis worked above 40 hours in one week during their employment. 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 7 of 17 PageID #:3031
+SOF ¶35. No loan officers were ever paid overtime wages. SOF ¶36. No paystub reflects overtime 
+wages as it was SMC’s policy to not pay overtime wages because loan officers were misclassified 
+as exempt. SOF ¶36, 40, 44. 
+The record also reflects that Defendants had constructive knowledge that plaintiffs were 
+working overtime. “The question is not whether [the defendant] could have known, but whether it 
+should have known. Brand v. Comcast Corp., 135 F. Supp. 3d 713, 739 (N.D. Ill. 2015) (citations 
+omitted). The Seventh Circuit has found this requirement satisfied when employees received off 
+the clock work calls and emails, and where they were required to check those before the shift for 
+the day. Meadows v. NCR Corp., No. 16 CV 6221, 2021 WL 5299778, at *4-5 (N.D. Ill. Nov. 15, 
+2021) (“An employer must compensate an employee for work that it knows about or should have 
+known about through the exercise of reasonable diligence”).  
+Defendants expected Plaintiffs to respond to leads via email, text, or phone call at all hours 
+of the day, because leads came in at all hours of the day. SOF ¶29-32, 39. Also, SMC discouraged 
+Plaintiffs from turning off their ability to receive leads. SOF ¶33. Moreover, Defendants instructed 
+loan officers to work overtime: a company email sent to all Plaintiffs, except Platt, stated that in 
+order to receive call in leads, the loan officer must be “in the office two days per week from 10am 
+– 7pm and 1 Saturday per month.” SOF ¶41. Thus, to receive preferable leads, loan officers were 
+required to work 9 hours two days a week and one Saturday per month, at least. See id. Further, 
+emails instruct loan officers to call leads every day, including weekends. SOF ¶52. This provides 
+ample support that Defendants unequivocally knew and encouraged loan officers to work more 
+than forty hours a week. 
+In addition, this culture was confirmed by loan officers communicating their long hours to 
+SMC. By way of example, Plaintiff Brian Noe sent an email to Brian Birk and Richard Birk stating, 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 8 of 17 PageID #:3032
+“I worked hard to get to this point by consistently delivering year after year working a lot of long 
+hours” and “I am not afraid of work as I am still in the office late at night where others left a long 
+time ago.” SOF ¶53. Further, Plaintiff Klaic sent an email stating “plan to be here till 7 or later 
+making calls.”  SOF ¶5 4. Since Defendants were keenly aware that no loan officer was ever 
+compensated for overtime wages, the record demonstrates that SMC was aware of loan officers 
+working overtime, for which they were not compensated.  
+D. Plaintiffs Are Not Exempt from the FLSA or IMWL 
+Defendants do not dispute that they did not compensate loan officers with minimum wage 
+and/or overtime pursuant to federal and state law. Rather, they rely on an untenable theory that the 
+loan officers were exempt. F ailure to pay Plaintiffs overtime wages and minimum wages cannot 
+be excused by reliance on an exemption from the FLSA and IWML  that is inapplicable. Namely, 
+Defendants cannot escape summary judgment by relying on the outside sales employee exemption 
+simply because their employment  agreement designates the loan officers as such , or the 7(i) 
+exemption, raised in Defendants’ motion for summary judgment. Both exemptions are 
+inapplicable.  
+1. Plaintiffs Were Not Outside Sales Employees Exempt from the FLSA and IMWL 
+Under the FLSA, an employee may be exempt from overtime if they are “ employed in [] 
+the capacity of outside salesman . . . .” 29 U.S.C. § 213(a)(1). An outside sales employee is an 
+employee whose primary duty is making sales and who is customarily and regularly engaged away 
+from the employer's place or places of business in performing such primary duty. Silver v. 
+Townstone Fin., Inc. (citing 29 C.F.R. § 541.500(a)). For  this analysis, t he phrase “ customarily 
+and regularly” has been defined as requiring a frequency which is greater than occasional but less 
+than constant, such that it encompasses work “ normally and recurrently performed every 
+workweek” but not “isolated or one-time tasks.” Id. (citing 29 C.F.R. § 541.701).  
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 9 of 17 PageID #:3033
+The outside sales employee is an employee who makes sales at the customer ’s place of 
+business or, if selling door -to-door, at the customer’s home. Outside sales does not  include sales 
+made by mail, telephone or the Internet unless such contact is used merely as an adjunct to personal 
+calls. Thus, any fixed site, whether home or office, used by a salesperson as a headquarters or for 
+telephonic solicitation of sales is cons idered one of the employer ’s places of business. Id. (citing 
+29 C.F.R. § 541.502.).  
+Here, Plaintiffs worked primarily using company leads to originate loans. SOF ¶28. In fact, 
+according to the SMC Vice President , Defendant Brian Birk,  82-90% of the leads loan officers 
+used to originate loans were company generated.  SOF ¶6, 28. This means loan officers were not 
+out “pounding the pavement,” looking for borrowers by meeting with them directly or by 
+connecting with referral sources. Rather, they were being fed leads by SMC which they pursued 
+from their home or company office. SOF ¶32. The loan officers’ locations when responding to 
+leads was overwhelmingly done from the SMC physical office o r Plaintiffs’ home offices. SOF 
+¶48. It was rare for Plaintiffs to work outside of either the physical office or their home office. Id. 
+For example, Pruitt attended only one closing and one meeting with a realtor outside of the SMC 
+or home office (together “office”) during her tenure. SOF ¶49. More compelling is the testimony 
+of manager Michelle Gospodarek who se testimony matches that of the Plaintiffs – she attended 
+only 1-2 closings per months at her peak, prior to COVID -19 restrictions. SOF ¶50. Each loan 
+officer described the isolated instances in which they worked outside of their home office or 
+physical office as occasional occurrences, typically at the client’s request, rather than by any norm. 
+SOF ¶48. Further, SMC’s own emails indicate that being in the office was required two days out 
+of the week and one Saturday per month. SOF ¶ 41. Finally, this was pursuant to Company 
+instruction – Brian Birk frequently sent emails indicating to loan officers that they should be 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 10 of 17 PageID #:3034
+calling, texting, and emailing their leads. SOF ¶39. Such loan officers hardly resemble door -to-
+door salespeople contemplated as outside sales officers.  
+2. The 7(i) Exemption Does Not Apply  
+ 
+Plaintiffs’ claims are also not barred by the  “retail or service establishment” exception 
+found in 29 U.S.C. § 207(i). Plaintiff Noe has already submitted briefing on the issue of whether 
+7(i) precludes his claims. Such analysis also extends to the remaining Plaintiffs. First, to the extent 
+SMC sells services, they are not retail services because SMC’s services are not sold to the general 
+public; the customer of SMC’s services is the lenders it partners with.1 Second, to the extent SMC 
+is deemed to sell products, it is not at the end of the stream of retail distribution because it acts as 
+a middleman and the loans are resold on the secondary market. 2 SOF ¶2. SMC’s own manager 
+admitted that SMC is not at the end of the stream of distribution , stating that after SMC matches 
+the borrower to the lender, the loans are then resold. Id. Third, SMC is a part of the financial 
+industry, barring application of 7(i).3 Finally, SMC cannot establish that any Plaintiffs regular rate 
+of pay exceeded 1.5 times the minimum wage because it did not keep track of any Plaintiff’s hours 
+by which to make such calculation – a point which was conceded in the testimony of Brian Birk.4 
+SOF ¶37.   
+E. The Birks Can be Held Individually Liable  
+The Birks are personally liable because they exercised the relevant authority and worked 
+together to implement policies and practices that resulted in the violations described herein. The 
+Northern District of Illinois has developed a standard for determining individual liability in an 
+ 
+1 Plaintiffs incorporate the arguments and citations made in Noe’s 7(i) opposition. ECF No. 136 at 4-6.  
+2 Plaintiffs incorporate the arguments and citations made in Noe’s 7(i) opposition. ECF No. 136 at 6-11.  
+3Plaintiffs incorporate the arguments and citations made in Noe’s 7(i) opposition. ECF No. 136 at 4-6.  
+4 Plaintiffs incorporate the arguments and citations made in Noe’s 7(i) opposition. ECF No. 136 at 4-6. 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 11 of 17 PageID #:3035
+FLSA actio n.5 In Schneider v. Cornerstone Pints, Inc., a four -part rule was set forth by the 
+Northern District of Illinois: 1) a person must act in the interests of an employer in relation to an 
+employee and must do more than merely supervise ; 2) a ll relevant facts  should be considered, 
+including whether the defendant possessed the power to hire and fire the employees; supervised 
+and controlled employee work schedules or conditions of employment; determined the rate and 
+method of payment; and maintained employment records; 3) a defendant ’s conduct must have 
+caused, in whole or in part, the alleged violation; and 4) the defendant must have actually exercised 
+his authority, at least enough to have caused the violation in whole or in part. 148 F.Supp.3d 690, 
+696-698 (N.D. Ill. 2015).  
+Richard Birk’s conduct and actions as President of SMC satisfy the test. Richard Birk acted 
+within the interest of SMC, as he was the President, he had the power to hire and fire employees, 
+and determined their compensation. SOF ¶ 3-5. He also caused the minimum wage and overtime 
+violations because he approved the policy of SMC to not pay minimum wage or overtime wages, 
+and he exercised his authority as President to implement and enforce that policy. SOF ¶5.  
+Brian Birk also qualifies for individual liability. As the Vice President, Brian Birk acts in 
+the interests of SMC, and supervised emplo yees, determined the payroll amount, and maintained 
+employment records, including payroll records. SOF ¶6-7, 32, 39, 41. He also caused the violation 
+by encouraging loan officers to work overtime, to work in the office, and was responsible for 
+discussing compensation plans with loan officers. Id. Brian Birk exercised his authority as Vice 
+ 
+5 The Seventh Circuit has yet to address the legal test or standard to decide if an individual is an employer under the 
+FLSA. See Riordan v. Kempiners, 831 F.2d 690, 694 (7th Cir. 1987) (Noting, in dicta, that “[t]he word ‘employer’ is 
+defined broadly enough in the [FLSA] ... to permit naming another employee rather than the employer as defendant, 
+provided the defendant had supervisory authority over the complaining employee and was responsible in whole or 
+part for the alleged violation.”). 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 12 of 17 PageID #:3036
+President by enforcing the requirements to work in the office and enforcing the pay plans without 
+payment of minimum wages and overtime. Id. 
+F. The Statute of Limitations is Three Years Because Defendants Acted Willfully 
+A two-year statute of limitations applies for FLSA claims, except for claims arising out of 
+willful violations. Joong Ko v. K Stones, Inc., No. 21- cv-0011, 2022 U.S. Dist. LEXIS 116691 
+(N.D. Ill. July 1, 2022) (citing 29 U.S.C. § 255(a)). The IMWL, by contrast, has a three-year statute 
+of limitations for all claims. 820 Ill. Comp. Stat. § 105/12(a); Wilkins v. Just Energy Grp., Inc., 
+171 F. Supp. 3d 798, 809 (N.D. Ill. 2016); Reynoso v. Motel LLC , 71 F. Supp. 3d 792, 799 (N.D. 
+Ill. 2014). To establish willfulness, Plaintiffs must show that Defendants “ either knew they were 
+violating the Act or were  indifferent to whether they were violating it or not (and therefore 
+reckless.)” E.E.O.C. v. Madison Cmty. Unit School Dist. No. 12, 818 F.2d 577, 585 (7th Cir. 1987) 
+(internal alterations omitted); see also McLaughlin v. Richland Shoe Co., 486 U.S. 128, 133, 108 
+S. Ct. 1677, 100 L. Ed. 2d 115 (1988) (violations under the FLSA are willful if the employer “knew 
+or showed reckless disregard for the matter of whether its conduct was prohibited by the statute”). 
+Defendants acted willfully in violating the FLSA and thus, the three -year statute of 
+limitations period applies. As President and Vice President, Richard Birk and Brian Birk were the 
+only individuals with authority over loan officers’ compensation and thus the only individuals 
+responsible for determining compliance with such laws. SOF ¶4 -8. Defendant Richard Birk, as 
+Founder and President of SMC, testified that the Company did not at any point conduct an analysis 
+as to whether loan officers were exempt from the FLSA. SOF ¶ 40, 44. Rather, loan officers 
+allegedly decided whether they were exempt of non- exempt employees by electing to be paid 
+hourly with a reduced commission, or purely through commission. SOF ¶44. Allowing loan 
+officers to decide whether they will be paid hourly or by commission is reckless disregard for 
+whether its conduct of classifying loan officers paid commission improperly was prohibited or not. 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 13 of 17 PageID #:3037
+A cursory investigation would reveal that loan officers such as Plaintiffs who work primarily 
+utilizing company leads, in their home or Company office, texting, emailing, and calling leads are 
+not exempt outside salespersons. Brian Birk and Richard Birk were aware of these inside sales 
+duties being performed by Plaintiffs and did nothing to alter their compensation. See Section II(E) 
+supra. Thus, a three-year statute of limitations is applicable to Plaintiff’s claims.  
+III. Plaintiffs are Entitled to Summary Judgment on their Claim Under the IWPCA for 
+Improper Deductions (Count IV) 
+The IWPCA protects employees from illegal deductions that employers may try to deduct 
+from employee pay. Defendants are covered by the IWPCA, and Plaintiffs were subject to 
+sporadic, unpredictable, deductions from their pay that they are entitled to recoup. Accordingly, 
+Defendants are liable and summary judgment is proper on this claim. Further, the IWPCA has a 
+ten-year statute of limitations period . House v. Ill. Bell Tel. Co., 148 F. Supp. 3d 701, 705 (N.D. 
+Ill. 2015); Ortiz v. Manpower, Inc., No. 11-2009, 2012 U.S. Dist. LEXIS 59528 (C.D. Ill. Apr. 10, 
+2012) (“as of 2007, a ten- year statute of limitations applies to IWPCA claims. ”) (citing 735 Ill. 
+Comp. Stat. § 5/13 -206). Thus, based on the ten- year statute of limitations , none of Plaintiffs 
+claims are time-barred and the putative plaintiffs would include all loan officers with claims within 
+that time.  
+A. Plaintiffs Were Subject to Illegal Deductions from Their Wages 
+The IWPCA prohibits employers from taking deductions from employees ’ wages unless 
+the deductions are “ (1) required by law; (2) to the benefit of the employee; (3) in response to a 
+valid wage assignment or wage deduction order; [or] (4) made with the express written consent of 
+the employee, given freely at the time the deduction is made.”  820 Ill. Comp. Stat. 115/9. 
+Defendants cannot support that their deductions fell  into any of these permissible categories. 
+Defendants only argue  that their wage deductions were authorized by Plaintiffs’ employment 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 14 of 17 PageID #:3038
+agreements. See ECF No. 121 at 5-6. Defendants’ primary argument is that Plaintiffs’ signatures 
+on an employment agreement conferred the right for Defendants to take deductions, in widely 
+varying amounts, for several fees depicted in the table below . See id. Plaintiffs signature on an 
+employment agreement, signed at the beginning of the employment is not sufficient because 
+protections of the IWPCA are not waivable and the deductions were not taken with proper written 
+consent was given at the time  the deduction was made. 6 Plaintiffs had  deductions such as costs 
+for verifications of employment , credit reports, appraisals, mi scellaneous marketing, 
+condominium questionnaires, subordination, text blast requested, lender credit cures, pest 
+inspections and FHA administrative fees removed from their wages, without written consent at the 
+time of the deduction, as required by Illinois law. SOF ¶55-56, 58-59. Further, several of the fees, 
+such as “subordination” and “text blast requested” were not contemplated at all by the employment 
+agreement. SOF ¶57,58. Thus, under no theory  can Defendants establish that all deductions had 
+written consent. As a result, summary judgment for Plaintiffs is proper on this Count.  
+CONCLUSION  
+As explained above, Def endants failed  to pay Plaintiffs, and loan officers generally, 
+overtime wages, minimum wages, and improperly  deducted numerous, unauthorized fees from 
+their wages, without requisite consent . Further, Defendants argue there are no  issues with their 
+conduct and flagrantly continue these illegal practices today. As a result, the record supports that 
+summary judgment is warranted for Plaintiffs  on all of their claims, and Plaintiffs are entitled to 
+damages, in an amount to be proven at trial.  
+Dated: November 30, 2022 Respectfully submitted, 
+ 
+ 
+6 Plaintiffs incorporate the arguments and citations made in Noe & Pruitt’s opposition to Defendants’ motion for 
+summary judgment on Count IV. ECF No. 138 at 2-7. 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 15 of 17 PageID #:3039
+By: /s/ Katharine Thomas Batista  
+ 
+Ari Karen (pro hac vice)  
+Katharine Thomas Batista (pro hac vice) 
+Arielle Stephenson (pro hac vice) 
+Mitchell Sandler LLC 
+1120 20th Street, NW, Suite 725  
+Washington, DC 20036 
+Tel: 202-886-5265 
+akaren@mitchellsandler.com  
+kbatista@mitchellsandler.com  
+astephenson@mitchellsandler.com  
+ 
+Attorneys for Plaintiffs Brian Noe, Eileen 
+Pruitt, and Opt-In Plaintiffs  
+  
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 16 of 17 PageID #:3040
+CERTIFICATE OF SERVICE 
+ I hereby certi fy that on November 30, 2022, a copy of the foregoing PLAINTIFFS’ 
+MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFFS’ MOTION FOR 
+SUMMARY JUDGMENT was electronically filed with the Clerk of the United States District 
+Court, Northern District of Illinois, Eastern Division by using the Court’s CM/ECF system.  
+I further certify that on November 30, 2022, all interested parties by their counsel of 
+record, were electronically served on this date via the CM/ECF system. 
+/s/ Katharine Thomas Batista   
+      Katharine Thomas Batista 
+ 
+Case: 1:21-cv-01668 Document #: 153-1 Filed: 11/30/22 Page 17 of 17 PageID #:3041

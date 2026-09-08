@@ -1,0 +1,713 @@
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEW HAMPSHIRE 
+ 
+ 
+BETHANY R. SCAER, 
+ 
+  Plaintiff, 
+ 
+v. 
+ 
+ALISON V. MASTIN, Chair, Kearsarge 
+Regional School Board, in her official 
+and individual capacities; KEARSARGE 
+REGIONAL SCHOOL BOARD; and 
+KEARSARGE REGIONAL SCHOOL 
+DISTRICT (SAU #65); 
+ 
+  D e f e n d a n t s .  
+ 
+ 
+ 
+ 
+:  
+:  
+:  
+:  
+:  Case No. 1:25-cv-183-JL-TSM 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+ 
+ 
+PLAINTIFF’S MEMORANDUM IN SUPPORT OF 
+MOTION FOR SUMMARY JUDGMENT AND A PERMANENT INJUNCTION 
+ 
+ 
+  
+ii 
+ 
+ 
+TABLE OF CONTENTS 
+TABLE OF AUTHORITIES ............................................................................................ iii 
+INTRODUCTION ........................................................................................................... 1 
+STATEMENT OF UNDISPUTED MATERIAL FACTS ......................................................... 2 
+ARGUMENT ............................................................................................................... 10 
+I. K EARSARGE REGIONAL SCHOOL DISTRICT’S “NO DEROGATORY COMMENTS” 
+POLICY IS UNCONSTITUTIONAL IN EVERY GOVERNMENT FORUM. ....................... 11 
+A. The First Amendment forbids Defendants from restricting public 
+comments at Kearsarge Regional School Board’s meeting in an 
+unreasonable or viewpoint discriminatory manner. .............................................. 11 
+B. Defendants discriminate against disfavored speech and petition on the 
+basis of viewpoint. ..................................................................................................................... 13 
+C. Defendants unreasonably undermine the purpose of the public comment 
+period by preventing the public from effectively expressing their wishes 
+and ideas about the school district matters under discussion. ........................ 15 
+II. KEARSARGE REGIONAL SCHOOL DISTRICT’S POLICY IS UNDULY VAGUE, 
+GRANTING UNBRIDLED ENFORCEMENT DISCRETION TO SCHOOL OFFICIALS. ...... 17 
+III.KEARSARGE REGIONAL SCHOOL DISTRICT’S POLICY SWEEPS OVERBROADLY, 
+CHILLING VAST AMOUNTS OF PROTECTED SPEECH ............................................ 20 
+IV. SCAER IS ENTITLED TO NOMINAL DAMAGES AND A PERMANENT INJUNCTION .... 22 
+CONCLUSION ............................................................................................................ 24 
+CERTIFICATE OF SERVICE ......................................................................................... 25 
+ 
+  
+iii 
+ 
+ 
+TABLE OF AUTHORITIES 
+CASES 
+303 Creative LLC v. Elenis,  
+600 U.S. 570 (2023) .................................................................................................. 13 
+Am. Freedom Def. Initiative v. King Cnty., 
+904 F.3d 1126 (9th Cir. 2018) .................................................................................. 14 
+Am. Freedom Def. Initiative v. Suburban Mobility Auth.,  
+978 F.3d 481 (6th Cir. 2020) .................................................................................... 19 
+Cohen v. California,  
+403 U.S. 15 (1971) .................................................................................................... 14 
+Cornelius v. NAACP Legal Def. & Educ. Fund, Inc.,  
+473 U.S. 788 (1985) ............................................................................................ 11, 15 
+Cortes-Reyes v. Salas-Quintana,  
+608 F.3d 41 (1st Cir. 2010) ....................................................................................... 22 
+Del Gallo v. Parent,  
+557 F.3d 58 (1st Cir. 2009) ....................................................................................... 12 
+Doe v. Mills,  
+16 F.4th 20 (1st Cir. 2021) ....................................................................................... 23 
+Gooding v. Wilson,  
+405 U.S. 518 (1972) .................................................................................................. 21 
+Grayned v. City of Rockford,  
+408 U.S. 104 (1972) ............................................................................................ 18, 19 
+Hill v. Colorado,  
+530 U.S. 703 (2000) .................................................................................................. 18 
+Hopper v. City of Pasco,  
+241 F.3d 1067 (9th Cir. 2001) .................................................................................. 21 
+Hotel Emples. & Rest. Emples. Union, Local 100 v. City of N.Y. Dep’t  
+of Parks & Rec.,  
+311 F.3d 534 (2d Cir. 2002) ................................................................................ 11, 12 
+iv 
+ 
+ 
+Iancu v. Brunetti,  
+588 U.S. 388 (2019) ............................................................................................ 14, 15 
+Ison v. Madison Local Sch. Dist. Bd. of Educ.,  
+3 F.4th 887 (6th Cir. 2021)....................................................................................... 14 
+Marshall v. Amuso,  
+571 F. Supp. 3d 412 (E.D. Pa. 2021) ........................................................................ 14 
+Matal v. Tam,  
+582 U.S. 218 (2017) ............................................................................................ 13, 14 
+Matusick v. Erie Cty. Water Auth.,  
+757 F.3d 31 (2d Cir. 2014) ........................................................................................ 22 
+McBreairty v. Sch. Bd. of RSU22,  
+616 F. Supp. 3d 79 (D. Me. 2022) ...................................................................... 11, 12 
+McCoy v. Town of Pittsfield,  
+59 F.4th 497 (1st Cir. 2023) ..................................................................................... 13 
+McGuire v. Reilly,  
+386 F.3d 45 (1st Cir. 2004) ....................................................................................... 13 
+Minn. Voters All. v. Mansky,  
+585 U.S. 1 (2018) .......................................................................................... 18, 19, 21 
+Moms for Liberty v. Brevard Pub. Sch.,  
+118 F.4th 1324 (11th Cir. 2024) ............................................................. 14, 16, 18, 19 
+NAACP v. Alabama,  
+377 U.S. 288 (1964) .................................................................................................. 20 
+People for the Ethical Treatment of Animals v. Tabak,  
+109 F.4th 627 (D.C. Cir. 2024) ........................................................................... 16, 19 
+Perry Educ. Ass’n v. Perry Local Educators’ Ass’n,  
+460 U.S. 37 (1983) .................................................................................................... 12 
+Police Dep’t of Chicago v. Mosley,  
+408 U.S. 92 (1972) .................................................................................................... 11 
+v 
+ 
+ 
+Pollak v. Wilson,  
+No. 22-CV-49-ABJ, 2024 U.S. Dist. LEXIS 229713  
+(D. Wyo. Oct. 25, 2024) ............................................................................................. 16 
+Ridley v. Mass. Bay Transp. Auth.,  
+390 F.3d 65 (1st Cir. 2004) ....................................................................................... 12 
+Rodríguez v. Encompass Health Rehab. Hosp. of San Juan, Inc.,  
+126 F.4th 773 (1st Cir. 2025) ................................................................................... 11 
+Roman Cath. Diocese v. Cuomo,  
+592 U.S. 14 (2020) .................................................................................................... 23 
+Sindicato Puertorriqueño de Trabajadores v. Fortuño,  
+699 F.3d 1 (1st Cir. 2012) ......................................................................................... 23 
+Sutliffe v. Epping Sch. Dist.,  
+584 F.3d 314 (1st Cir. 2009) ..................................................................................... 13 
+Sutliffe v. Town of Epping,  
+Civil No. 06-cv-474-JL, 2008 U.S. Dist. LEXIS 96179  
+(D.N.H. Nov. 13, 2008) ............................................................................................. 13 
+Texas v. Johnson,  
+491 U.S. 397 (1989) .................................................................................................... 1 
+Tirrell v. Edelblut,  
+747 F. Supp. 3d 310 (D.N.H. 2024) .............................................................. 4, 5, 7, 17 
+Tirrell v. Edelblut,  
+748 F. Supp. 3d 19 (D.N.H. 2024) .............................................................................. 4 
+United States v. Mass. Water Res. Auth.,  
+256 F.3d 36 (1st Cir. 2001) ....................................................................................... 23 
+Uzuegbunam v. Preczewski,  
+592 U.S. 279 (2021) .................................................................................................. 22 
+Virginia v. Hicks,  
+539 U.S. 113 (2003) .................................................................................................. 21 
+Westfield High Sch. L.I.F.E. Club v. City of Westfield,  
+249 F. Supp. 2d 98 (D. Mass. 2003) ......................................................................... 23 
+vi 
+ 
+ 
+White Coat Waste Project v. Greater Richmond Transit Co.,  
+35 F.4th 179 (4th Cir. 2022)..................................................................................... 18 
+Young v. Town of Conway,  
+Civil No. 23-cv-00070-JL, 2025 U.S. Dist. LEXIS 95364  
+(D.N.H. May 20, 2025) ............................................................................................. 23 
+STATUTES 
+FED. R. CIV. P. 56(a) ..................................................................................................... 11 
+N.H. Rev. Stat. Ann. § 193:41 ................................................................................... 3, 5 
+OTHER AUTHORITIES 
+Merriam-Webster Dictionary ...................................................................................... 13 
+ 
+  
+INTRODUCTION 
+ Kearsarge Regional School Board and its members believe that they can silence 
+anyone who speaks in a way the board finds offensive. Not so. “If there is a bedrock 
+principle underlying the First Amendment, it is that the government may not 
+prohibit the expression of an idea simply because society finds the idea itself 
+offensive or disagreeable.” Texas v. Johnson, 491 U.S. 397, 414 (1989). 
+The material facts in this lawsuit are undisputed. Defendants admit that the 
+board’s “no derogatory comments” policy prohibits citizens delivering public 
+comments to the board from “speak[ing] derogatorily about anyone or anything”; 
+that they deemed Plaintiff Beth Scaer to have violated that policy when she referred 
+to a biologically male student-athlete as a “tall boy”; and that they barred her from 
+finishing her speech as a result. Defendants cannot open up a limited public forum 
+for the public to comment upon school district matters and then censor speakers 
+who use language and express viewpoints that offend the board. Moreover, 
+Defendants’ “no derogatory comments” policy is vague, undefined, and inherently 
+subjective. The policy unreasonably prevented Plaintiff from being able to explain 
+her position about the main topic under discussion—whether allowing a male 
+student to play on girls’ sports teams was lawful, safe, and fair. 
+As school officials, Defendants have a duty to educate children about America’s 
+civic values, about its Constitution, and about the fundamental rights it guarantees. 
+Defendants themselves, however, require remedial instruction on these points. The 
+Court should end the Kearsarge Regional School District’s unconstitutional policy 
+and practice by granting summary judgment for Scaer, declaring the “no derogatory 
+comments” policy unconstitutional, permanently enjoining further enforcement, and 
+awarding Scaer nominal damages for her past harm. 
+STATEMENT OF UNDISPUTED MATERIAL FACTS 
+Kearsarge Regional School District—the  New Hampshire school administrative 
+unit covering the towns of Bradford, Newbury, New London, Sutton, Springfield, 
+Warner, and Wilmot—has a policy (Policy BEDH) on “Public Comment & 
+Participation at School Board Meetings.” Ex. A; see also Scaer Decl., ¶¶ 16-19. 
+Under Policy BEDH, the Kearsarge Regional School Board “provide[s] the 
+opportunity for members of the public to comment on school district matters at all 
+regularly scheduled Board meetings” so that “the Board may have opportunity to 
+hear the wishes and ideas of the public.” Ex. A at 2-3. Members of the public “may 
+offer comments on agenda items or other District matters (e.g., operations, budget, 
+and other issues directly relating to the District’s school policies, programs and 
+operations.).” Id. at 4. Speakers are “permitted equal time” to comment, so that each 
+are “allotted 3 minutes per person.” Id. at 3 
+Kearsarge Regional School District does not allow audience members to disrupt 
+school board meetings by, for instance, “[s]houting or speaking out of appointed 
+time while someone else has been recognized” or “[a]ny other conduct intended to 
+disrupt the meeting or person speaking.” Id. at 5. “[A]fter at least two warnings 
+from the Chair,” the Chair may direct a person disrupting the meeting to leave and 
+involve law enforcement. Id. Likewise, school board “will not tolerate defamatory 
+statements, comments threatening bodily harm, or other unprotected speech.” Id. at 
+4. The Chair may rule a speaker who violates this rule as “out of order,” and 
+“[r]epeated violations may result in the Chair terminating the speaker’s privilege of 
+addressing the Board” before that speaker’s three-minute time allotment is 
+complete. Id. 
+In addition to Policy BEDH, Kearsarge Regional School Board also enforces an 
+unwritten rule of order, referred to as “the board’s ‘no derogatory comments’ policy.” 
+Ex. C at 1-2; see also Scaer Decl., ¶¶ 20-21. The school board’s chair, Alison Mastin, 
+described the “no derogatory comments” policy just prior to the start of the public 
+comment period at the board meeting on August 29, 2024. Id. This rule mandates 
+that speakers “do not speak derogatorily about anyone or anything.” Ex. C at 1.  
+In July 2024, the New Hampshire legislature passed House Bill 1205: a state 
+law that limited participation in interscholastic women’s sports teams to biological 
+females. See N.H. Rev. Stat. Ann. § 193:41. Plaintiff Beth Scaer and her husband 
+Stephen1 advocated for this bill and spoke in its favor at legislative hearings during 
+the spring of 2024. Scaer Decl., ¶¶ 2-7; Stephen Decl. ¶¶ 2-6. 
+ 
+1 Because Stephen Scaer shares a surname with Plaintiff, this brief refers to him as 
+“Stephen” for clarity. “Scaer” refers exclusively to Plaintiff.  
+On August 22, 2024, a federal court issued a temporary restraining order 
+prohibiting the New Hampshire Department of Education, as well as various school 
+districts and school boards, from enforcing House Bill 1205. See Tirrell v. Edelblut, 
+747 F. Supp. 3d 310 (D.N.H. 2024). Central to that court’s reasoning was its 
+findings that the plaintiff had “received treatment to block male puberty and induce 
+female puberty” and therefore, per the court, did not “enjoy the testosterone-driven 
+advantage in average athletic skill that pubescent males enjoy relative to pubescent 
+girls,” as well as the court’s finding that the plaintiff posed no threat to “safety in 
+girls’ sports.” Id. at 317. A few weeks later, the same court issued a preliminary 
+injunction for similar reasons. See Tirrell v. Edelblut, 748 F. Supp. 3d 19, 40-41 
+(D.N.H. 2024). Kearsarge Regional School District and School Board were not 
+among the districts and school boards restrained and later enjoined by these court 
+orders. Tirrell, 747 F. Supp. 3d at 318-19; Tirrell, 748 F. Supp. 3d at 47.  
+On August 15, prior to these court rulings, the Kearsarge Regional School Board 
+voted four to one (with three abstentions) to enforce House Bill 1205. Ex. B at 8; see 
+also Scaer Decl., ¶¶ 11-12. During the discussion before the vote, board members 
+noted their reluctance, explaining that “[t]he board decision made this evening is 
+reversible” and that “the law, or at least parts of the law, may also be struck down.” 
+Ex. B. at 7-8. They “lamented the ethical implications of voting in support of the 
+house bill,” and voted in favor of obeying state law “[w]ith heavy hearts” despite 
+“their personal convictions.” Id. Defendant Mastin stated that regardless of the 
+vote, “[a]t no point does the board endorse the discrimination [against] students or 
+their rights.” Id. at 8. 
+During the previous school year, Kearsarge Regional School District had allowed 
+M.J., a biologically male student, to compete on the track and field team and the 
+varsity girls’ soccer team. See Ex. C at 1-2; Scaer Decl., ¶¶ 9, 23, 28, 45; Stephen 
+Decl. ¶ 6. In February 2024, M.J., then a sophomore, won the girls’ New Hampshire 
+Interscholastic Athletic Association (NHIAA) Division II state title in high jump, 
+beating every biological female who competed in that event. Ex. D; Scaer Decl., ¶¶ 
+28-29, 45. If Kearsarge Regional School Board followed the requirements of House 
+Bill 1205, M.J. would not have been able to compete as a female athlete on these 
+teams during the 2024-2025 school year. See N.H. Rev. Stat. Ann. § 193:41.  
+Kearsarge Regional School Board’s next regularly scheduled public meeting 
+occurred on August 29, 2024, a week after the temporary restraining order issued in 
+Tirrell. Ex. C at 1; Tirrell, 747 F. Supp. 3d at 319. An “inordinately large number of 
+audience members” attended this meeting to advocate either for reconsidering the 
+board’s August 15 vote or for adhering to its prior decision to obey state law. Ex. C 
+at 1, 3; Scaer Decl., ¶¶ 14-15; Stephen Decl. ¶¶ 8-10. Many people brought signs, 
+which they displayed both in the parking lot and in the meeting room during the 
+meeting, stating messages such as “Let [M.J.] Play” (using M.J.’s first name) or 
+“Save Women’s Sports.” Scaer Decl., ¶ 15; Stephen Decl. ¶ 9. Plaintiff Beth Scaer 
+and her husband attended the meeting and displayed signs in the parking lot, 
+although they did not bring their signs into the meeting room. Scaer Decl., ¶ 15; 
+Stephen Decl. ¶ 9. 
+A longer-than-normal public comment session was the first order of business on 
+the meeting’s agenda. Ex. C at 1. The board’s chair, Defendant Mastin, announced 
+the rules of order before public comment began. Id. One rule that Mastin explained 
+was the board’s “no derogatory comments” policy, which prohibits commenters from 
+“speak[ing] derogatorily about anyone or anything.” Id. at 1-2. 
+Seventeen attendees delivered public comments at the meeting, a few over Zoom 
+but most in person. Id. at 1-3. Only five of these speakers urged the school board to 
+follow House Bill 1205. Id. Some commenters expressed their support for M.J. 
+specifically, even by name, or described M.J.’s personal qualities. Id. at 1-3; see also 
+Scaer Decl., ¶ 26; Stephen Decl. ¶¶ 11-13.  
+M.J. was the second commenter that evening and talked about “the many 
+benefits the sport of soccer has had for her personally” and how House Bill 1205 
+“has essentially upended her life.” Ex. C at 1. One of M.J.’s supporters discussed 
+how she had “personally worked with [M.J.]” and found M.J. “to be a loved and 
+cherished member of the community who deserves the right to play.” Id. at 2. 
+Another supported “[M.J.]’s desire to continue on her current team” and claimed 
+that following House Bill 1205 would be “targeting” M.J. for “discriminatory” 
+treatment, “undermin[ing] her access to equal-educational opportunities.” Id. at 1. 
+Other attendees named M.J. and spoke about “mak[ing] a positive, life-changing 
+and empowering memory for [M.J.].” Id. at 1-2. They “voiced a desire that [M.J.] be 
+offered the same opportunities that other females in the district are allowed,” and 
+“spoke in support of [M.J.]” because it is allegedly “unfounded” that “allowing 
+biological males to play on female sports teams runs a higher risk of serious injury.” 
+Id. at 1-2. With the exception of Plaintiff, everyone who wanted to publicly comment 
+spoke for up to the full three minutes without interruption. Scaer Decl., ¶¶ 20, 22. 
+Beth Scaer was one of the last attendees to publicly comment. See Ex. C at 2. 
+She intended to read aloud a New Hampshire Journal article discussing M.J.’s 
+victory in girls’ high jump to explain how the participation of M.J. and other post-
+pubescent male athletes in girls’ sports creates a risk of injury to female players and 
+places biological female athletes at a competitive disadvantage. See Ex. D; Scaer 
+Decl., ¶¶ 28-30. Scaer prefaced her reading by contrasting the physique of the two 
+plaintiffs in Tirrell v. Edelblut with M.J.’s physique; Scaer had seen all three in 
+person earlier in spring 2024. Scaer Decl., ¶¶ 10, 24-25, 30.  
+Scaer noted that the Tirrell plaintiffs were small, prepubescent, and in her view 
+did not present a major threat to girls’ safety or competitive fairness. Id., ¶¶ 25, 30. 
+Scaer contrasted them with M.J., who has undergone male puberty and is nearly 6 
+feet tall, with considerable musculature. Id., ¶¶ 24, 30. Scaer drew this comparison 
+to argue that M.J.’s participation in girls’ sports undermines fair competition and 
+puts biologically female athletes at risk for physical and mental injury. See id., ¶¶ 4, 
+30, 54. To make this point, Scaer gestured towards M.J., who was seated about ten 
+feet away, and told the audience to “look at him”; she then referred to M.J. as a “tall 
+boy.” Ex. C at 2; Scaer Decl., ¶ 31; Stephen Decl. ¶ 19. 
+Defendant Mastin interrupted Scaer immediately after she said “tall boy” and 
+stopped Scaer from speaking further. Ex. C at 2; Scaer Decl., ¶ 32; Stephen Decl. ¶ 
+17. Mastin deemed Scaer’s comment calling M.J. a “tall boy” in violation of the 
+board’s “no derogatory comments” policy. Ex. C at 2; Scaer Decl., ¶ 33; Stephen 
+Decl. ¶ 18. Mastin ruled Scaer out of order, forfeited the remainder (approximately 
+two and a half minutes) of Scaer’s three minutes of speaking time, and threatened 
+to have Scaer removed by the police if she did not stop talking. Ex. C at 2; Scaer 
+Decl., ¶ 34; Stephen Decl. ¶ 18.  
+Audience members jeered and hissed while Scaer was speaking and applauded 
+when Mastin interrupted her. Scaer Decl., ¶¶ 35-36; Stephen Decl. ¶¶ 20-21. 
+Although the noise in the room made it difficult to hear Scaer, Mastin and the 
+Kearsarge Regional School Board never attempted to quiet the disruptive crowd so 
+that Scaer could be heard. Scaer Decl., ¶¶ 35-36; Stephen Decl. ¶¶ 20-21. Indeed, 
+Mastin’s interruption encouraged the crowd to grow louder. Scaer Decl., ¶¶ 36, 39; 
+Stephen Decl. ¶¶ 20-21. Scaer sat down without ever completing her planned 
+comments. See Ex. C at 2; Scaer Decl., ¶ 37. Then after the public comment period 
+ended, the school board voted to reverse its earlier August 15 decision, defy state 
+law, and permit M.J. to compete on the girls’ soccer team. Ex. C at 3. M.J. played on 
+the Kearsarge varsity girls’ soccer team throughout the fall 2024 season. Scaer 
+Decl., ¶ 45. 
+Beth Scaer intends to and would publicly comment at future Kearsarge Regional 
+School Board meetings, using language that Mastin and Kearsarge Regional School 
+Board may find offensive and derogatory. Id., ¶¶ 51, 53, 55-56. If given permission, 
+Scaer intends to express herself in the same way that she did on August 29, 
+referring to tall boys as “tall boys” or similar expressions and describing their 
+physical appearances when relevant to school matters under discussion. Id., ¶¶ 52-
+54. Scaer also refuses to use preferred pronouns and will state people’s biological 
+gender, even if Kearsarge Regional School Board considers this practice to be 
+derogatory. Id.  
+In her future public comments, Scaer wishes to criticize Kearsarge Regional 
+School District’s policies or past actions regarding school matters. Those matters 
+include biological males competing in girls’ sports, the need for sex-segregated 
+restrooms and locker rooms, how the school district handled issues relating to M.J.’s 
+father’s pedophilia conviction, and the school board’s violation of First Amendment 
+rights. Id., ¶¶ 50-51, 54-56. To express to her viewpoint on these issues, Scaer 
+would refer to specific people and use potentially derogatory language such as 
+“sexual harassment,” “trans cult,” “angry mob,” “hypocrisy,” and “enabling 
+pedophilia and grooming.” Id., ¶¶ 53-56. 
+Scaer believes, however, that Defendants will not allow her to express her 
+viewpoints using the language that she wishes, because they believe her comments 
+are offensive and violate the board’s “no derogatory comments” policy. Id., ¶ 57. If 
+she were to speak as she wishes, Scaer believes she would again get interrupted, be 
+prohibited from speaking, be threatened with police removal, and have her time 
+forfeited. Id. Scaer also believes that if she were to speak as she wishes, Defendants 
+would treat her in a manner that implicitly encourages other attendees to disrupt 
+her comments by hissing, jeering, and similar noises, even though Policy BEDH 
+forbids attendees from speaking out of turn or disrupting the person speaking. Id., 
+¶¶ 18, 57, 60. As a result, Scaer has publicly commented at only one Kearsarge 
+Regional School Board meeting (the October 24 meeting) since her silencing and she 
+deliberately self-censored her comments at that meeting to avoid saying anything 
+that she believed could be characterized as derogatory. Id., ¶¶ 41-44, 47, 58.  
+Scaer finds it frustrating and degrading to have her comments cut short as they 
+were on August 29, when other speakers were allowed to promote their viewpoints 
+and express support of M.J. specifically. Id., ¶ 60. To avoid a similar humiliating 
+experience, Scaer is refraining from publicly commenting at Kearsarge Regional 
+School Board meetings using the language that she wishes. Id., ¶¶ 58, 61-62. 
+ARGUMENT 
+Courts should grant summary judgment when “there is no genuine dispute as to 
+any material fact and the movant is entitled to judgment as a matter of law.” FED. 
+R. CIV. P. 56(a). A dispute of fact is genuine if a rational factfinder could resolve it in 
+favor of either party and material if it has the capacity to change the outcome of the 
+suit. Rodríguez v. Encompass Health Rehab. Hosp. of San Juan, Inc., 126 F.4th 773, 
+779 (1st Cir. 2025). “Once the movant makes a preliminary showing that there is no 
+genuine issue of material fact, the burden shifts to the nonmovant to demonstrate, 
+through factually specific proffers, that a trialworthy issue remains.” Id. 
+I. KEARSARGE REGIONAL SCHOOL DISTRICT’S “NO DEROGATORY COMMENTS” POLICY 
+IS UNCONSTITUTIONAL IN EVERY GOVERNMENT FORUM. 
+A. The First Amendment forbids Defendants from restricting public 
+comments at Kearsarge Regional School Board’s meeting in an 
+unreasonable or viewpoint discriminatory manner. 
+Under the First Amendment, the “government may not grant the use of a forum 
+to people whose views it finds acceptable, but deny use to those wishing to express 
+less favored or more controversial views.” Police Dep’t of Chicago v. Mosley, 408 U.S. 
+92, 96 (1972). A limited public forum exists “where the government opens a non-
+public forum but limits the expressive activity to certain kinds of speakers or to the 
+discussion of certain subjects.” Hotel Emples. & Rest. Emples. Union, Local 100 v. 
+City of N.Y. Dep’t of Parks & Rec., 311 F.3d 534, 545 (2d Cir. 2002) (cleaned up). 
+Speech restrictions in such a forum “can be based on subject matter and speaker 
+identity so long as the distinctions drawn are reasonable in light of the purpose 
+served by the forum and are viewpoint neutral.’” McBreairty v. Sch. Bd. of RSU22, 
+616 F. Supp. 3d 79, 93 (D. Me. 2022) (quoting Cornelius v. NAACP Legal Def. & 
+Educ. Fund, Inc., 473 U.S. 788, 806 (1985)). 
+A public comment period at a school board meeting constitutes a limited public 
+forum. See, e.g., Perry Educ. Ass’n v. Perry Local Educators’ Ass’n, 460 U.S. 37, 45 & 
+n.7 (1983) (listing a “school board meeting” as an example of a forum “created for a 
+limited purpose”); Hotel Emples., 311 F.3d at 545 (stating that “open school board 
+meetings” are limited public fora); McBreairty, 616 F. Supp. 3d at 92 & n.13 
+(collecting cases). The Kearsarge Regional School District “provide[s] the 
+opportunity for members of the public to comment on school district matters at all 
+regularly scheduled Board meetings” so that the Board may “hear the wishes and 
+ideas of the public.” Ex. A at 2-3. Commenters must limit their speech to certain 
+topics: “agenda items or other District matters (e.g., operations, budget, and other 
+issues directly relating to the District’s school policies, programs and operations.).” 
+Id. at 4. Thus, the public comment session is a limited public forum for discussing 
+school district matters. 
+Even if Kearsarge’s public comment sessions were a nonpublic forum, the legal 
+analysis would remain the same. Regulations restricting First Amendment 
+expression in a nonpublic forum “must still be both viewpoint neutral and 
+reasonable to be constitutional.” Del Gallo v. Parent, 557 F.3d 58, 72 (1st Cir. 2009). 
+“Regardless of how the [] forum should be classified,” content-based restrictions 
+must be reasonable and cannot discriminate on the basis of viewpoint. Ridley v. 
+Mass. Bay Transp. Auth., 390 F.3d 65, 97 (1st Cir. 2004); see also Sutliffe v. Town of 
+Epping, Civil No. 06-cv-474-JL, 2008 U.S. Dist. LEXIS 96179, at *26-*27 (D.N.H. 
+Nov. 13, 2008), aff’d, 584 F.3d 314 (1st Cir. 2009). 
+B. Defendants discriminate against disfavored speech and petition on the 
+basis of viewpoint. 
+Defendants’ policy of forbidding commenters from “speak[ing] derogatorily about 
+anyone or anything,” Ex. C at 1, discriminates against viewpoints that Defendants 
+find offensive. A restriction that targets speech is “viewpoint-based if it targets not 
+subject matter, but particular views taken by speakers on a subject.” McCoy v. 
+Town of Pittsfield, 59 F.4th 497, 505 (1st Cir. 2023) (internal quotation marks 
+omitted). “The essence of a viewpoint discrimination claim is that the government 
+has preferred the message of one speaker over another.” McGuire v. Reilly, 386 F.3d 
+45, 62 (1st Cir. 2004). “It is not the role of the State or its officials to prescribe what 
+shall be offensive.” 303 Creative LLC v. Elenis, 600 U.S. 570, 601-602 (2023) 
+(cleaned up). 
+“Derogatory” is just another word for “disparaging.” See Derogatory, Merriam-
+Webster Dictionary, https://perma.cc/KZ8M-KCCB. And a ban on “disparaging” 
+speech equates to a ban on “ideas that offend.” Matal v. Tam, 582 U.S. 218, 223 
+(2017) (plurality opinion); see also id. at 249 (Kennedy, J., concurring). In fact, the 
+Supreme Court has identified both “derogatory” and “disparaging” as terms 
+targeting offensive speech. Id. at 223, 228–29 (plurality opinion); id. at 249 
+(Kennedy, J., concurring). But “[g]iving offense is a viewpoint.” Id. at 243 (plurality 
+opinion); see also id. at 249 (Kennedy, J., concurring). So the board’s policy against 
+disparaging comments “discriminates based on viewpoint, in violation of the First 
+Amendment.” Iancu v. Brunetti, 588 U.S. 388, 396 (2019) (internal quotation marks 
+omitted). 
+Courts regularly invalidate policies banning offensive speech at school board 
+meetings and similar fora. See, e.g., Moms for Liberty v. Brevard Pub. Sch., 118 
+F.4th 1324, 1334-35 (11th Cir. 2024) (school board policy forbidding “abusive” 
+speech facially unconstitutional); Ison v. Madison Local Sch. Dist. Bd. of Educ., 3 
+F.4th 887, 893, 895 (6th Cir. 2021) (striking down ban on “abusive” or “antagonistic” 
+speech at a school board meeting); Am. Freedom Def. Initiative v. King Cnty., 904 
+F.3d 1126, 1131-33 (9th Cir. 2018) (striking down ban on “disparagement” in 
+nonpublic forum); Marshall v. Amuso, 571 F. Supp. 3d 412, 422 (E.D. Pa. 2021) 
+(holding that a policy allowing complimentary comments about individuals but not 
+critical ones is viewpoint discrimination). That’s because “[t]he First Amendment’s 
+viewpoint neutrality principle . . . protects the right to create and present 
+arguments for particular positions in particular ways, as the speaker chooses.” 
+Tam, 582 U.S. at 243 (Kennedy, J., concurring). For the government cannot “forbid 
+certain words without also running a substantial risk of suppressing ideas in the 
+process” and “banning the expression of unpopular views.” Cohen v. California, 403 
+U.S. 15, 26 (1971). Yet Defendants’ ban on derogatory speech does just that. 
+“The facial viewpoint bias in the law results in viewpoint-discriminatory 
+application.” Brunetti, 588 U.S. at 395. During the August 29 meeting, Defendants 
+applied this policy to Beth Scaer, interrupting her and causing her to forfeit the 
+remainder of her speaking time because Defendant Mastin deemed it offensive that 
+Scaer called M.J. a “tall boy.” Ex. C at 2. But Defendants did not prohibit all content 
+about transgender athletics nor ban all personally identifying comments about 
+students. They allowed other commenters to praise M.J.’s character, support him 
+specifically and by name, oppose “targeting” M.J., and argue that M.J. had no 
+biological advantage in sports that would create a risk of injury. Ex. C. at 1-3; see 
+also Scaer Decl., ¶¶ 20-22, 26; Stephen Decl. ¶¶ 9, 11-13. Defendants singled out a 
+particular position and form of argument about transgender athletics as 
+unacceptable. This is viewpoint discrimination of the most obvious sort. 
+C. Defendants unreasonably undermine the purpose of the public comment 
+period by preventing the public from effectively expressing their wishes 
+and ideas about the school district matters under discussion. 
+Kearsarge Regional School District’s “no derogatory comments” policy also 
+unreasonably prevents Scaer and those who agree with her from expressing their 
+position in the manner that they chose. This policy undermines “the purpose served 
+by the forum.” Cornelius, 473 U.S. at 806. In a forum designed for “constructive 
+dialogue through the public’s comments,” reasonableness is “necessarily a more 
+demanding test than in forums that have a primary purpose that is less compatible 
+with expressive activity.” People for the Ethical Treatment of Animals v. Tabak, 109 
+F.4th 627, 636 (D.C. Cir. 2024) (internal quotation marks omitted). A school board 
+policy is unreasonable if it “actively obstructs a core purpose” of the meeting by 
+making it “impossible, for speakers to adequately air their concerns.” Brevard Pub. 
+Sch., 118 F.4th at 1337-38; see also Pollak v. Wilson, No. 22-CV-49-ABJ, 2024 U.S. 
+Dist. LEXIS 229713, at *31 (D. Wyo. Oct. 25, 2024) (board policy that “interferes 
+with the public’s ability to communicate with their government” unreasonable).  
+Kearsarge Regional School District creates a forum for public comment at all 
+school board meeting with the purpose of “hear[ing] the wishes and ideas of the 
+public.” Ex. A at 2. Public comment sessions “provide an avenue for any citizen to 
+express interest in the schools” and exist to “[m]inimize the possibility of the Board 
+making ill-advised, illegal, or improper rulings due to hasty action in the absence of 
+adequate information and study.” Id. at 1-2. Thus, “members of the public [may] 
+provide input and comment at Board meetings” by speaking about “agenda items or 
+other District matters (e.g., operations, budget, and other issues directly relating to 
+the District’s school policies, programs and operations.).” Id. at 3-4. 
+Kearsarge’s decision about House Bill 1205 was the primary issue before the 
+board on August 29 and the topic of all but one of the public comments delivered 
+that evening. See Ex. C at 1-3. Commenters were allowed to express support for 
+M.J. and state why they believed M.J.’s participation in girls’ sports would not 
+create an injury risk or competitive disadvantage. Id. at 1-2.  
+Defendants’ policy and action, however, prohibited Beth Scaer from responding 
+to these comments and arguing for her opposing position using language she 
+believed would most effectively convey her point. Scaer’s comment was germane to 
+the topic under discussion, for she sought to express that allowing a “tall boy” like 
+M.J. or other post-pubescent biological males to play girls’ sports would be ill-
+advised, illegal, and a threat to girls’ safety and competitive fairness. See Ex. C at 2; 
+Ex. D; Scaer Decl., ¶¶ 4, 28-31, 52-54. By contrasting M.J. physically with the 
+Tirrell plaintiffs, Scaer sought to advise the school board that M.J.’s participation is 
+legally and morally different from the participation of the pre-pubescent Tirrell 
+plaintiffs.  
+M.J.’s sex and physical appearance was relevant to school district matters under 
+discussion at the meeting on August 29, and it continues to be relevant for as long 
+as biological boys playing girls’ sports or using bathrooms and locker rooms 
+reserved for biological females remain issues. Thus, the school board’s rule bans 
+speech on an issue squarely within the forum’s purpose, making it unreasonable 
+under the First Amendment. 
+II. KEARSARGE REGIONAL SCHOOL DISTRICT’S POLICY IS UNDULY VAGUE, GRANTING 
+UNBRIDLED ENFORCEMENT DISCRETION TO SCHOOL OFFICIALS. 
+Defendants’ policy is also inherently subjective, lacking sufficient 
+implementation guidance and granting excessive enforcement discretion to school 
+officials. The policy is both vague and incapable of reasoned application—two 
+interrelated reasons that invalidate the policy. Cf. White Coat Waste Project v. 
+Greater Richmond Transit Co., 35 F.4th 179, 205 (4th Cir. 2022) (“vagueness and 
+imprecision” of policy demonstrates it is “incapable of reasoned application”) 
+“It is a basic principle of due process that an enactment is void for vagueness if 
+its prohibitions are not clearly defined.” Grayned v. City of Rockford, 408 U.S. 104, 
+108 (1972). A law can be “impermissibly vague for either of two independent 
+reasons. First, if it fails to provide people of ordinary intelligence a reasonable 
+opportunity to understand what conduct it prohibits. Second, if it authorizes or even 
+encourages arbitrary and discriminatory enforcement.” Hill v. Colorado, 530 U.S. 
+703, 732 (2000) (citation omitted). 
+Likewise, a policy governing speech in a government forum must be sufficiently 
+clear and objective to be “capable of reasoned application.” Minn. Voters All. v. 
+Mansky, 585 U.S. 1, 23 (2018). The government “must be able to articulate some 
+sensible basis for distinguishing what may come in from what must stay out.” Id. at 
+16. “An indeterminate prohibition carries with it the opportunity for abuse, 
+especially where it has received a virtually open-ended interpretation,” so official 
+discretion “must be guided by objective, workable standards,” lest an official’s “own 
+politics may shape his views on what counts.” Id. at 21-22. Thus, a policy is 
+unconstitutional “if it fails to define key terms, lacks any official guidance, and vests 
+too much discretion in those charged with its application.” Brevard Pub. Sch., 118 
+F.4th at 1332; see also Am. Freedom Def. Initiative v. Suburban Mobility Auth., 978 
+F.3d 481, 494, 497 (6th Cir. 2020) (“broadly phrased policy” using term with “opaque 
+definition” unreasonable).2 
+Defendants’ unwritten policy never defines “derogatory.” Ex. C. at 1. Almost any 
+criticism can be said to speak derogatorily “about anyone or anything.” Id. 
+(emphasis added). The policy might prohibit comments disagreeing with a school 
+rule, complaining about wasteful spending, or objecting to a decision of the board 
+itself—because all those involve negative remarks about persons or things. Perhaps 
+the school board intended the “no derogatory comments” policy to have some 
+narrower meaning, only prohibiting certain categories of negative speech (although 
+such a policy would still be unconstitutional viewpoint discrimination), but the 
+language of the policy fails to make that narrower meaning clear. 
+Vacuous terms such as “derogatory” have “uncertain meanings [that] inevitably 
+lead citizens to steer far wider of the unlawful zone than if the boundaries of the 
+forbidden areas were clearly marked” and thus chill speech. Grayned, 408 U.S. at 
+109 (cleaned up). On August 29, the school board’s Chair did not even explain what 
+part of Scaer’s comment was “derogatory.” Scaer Decl., ¶¶ 32-33, 42-44; Stephen 
+ 
+2 Vagueness and unreasonableness due to excessive enforcement discretion overlap. 
+In Mansky, the Supreme Court applied principles of vagueness to determine 
+whether a speech regulation at a nonpublic forum was “unreasonable.” 585 U.S. at 
+16-22. The Sixth, Eleventh, and D.C. Circuits have followed Mansky’s lead. See 
+Brevard, 118 F.4th at 1332-33; Suburban Mobility, 978 F.3d at 494-95; PETA, 109 
+F.4th at 636. To the extent this distinction matters, Plaintiff’s vagueness challenge 
+should also be construed as challenging the policy’s reasonableness.  
+Decl. ¶¶ 18-19. As a result, when Scaer publicly commented again, months later, 
+she did not know what to self-censor and avoided saying anything that she thought 
+might be construed as offensive. Scaer Decl., ¶¶ 41-44, 58. Yet the school board 
+allowed supporters of M.J. to claim that “the thought” of people who favor House 
+Bill 1205 “is rooted more in fear of the unknown” than in fact, that “targeting [M.J.] 
+. . . is discriminatory in nature” and “contradicts the school district’s founding 
+values,” and that obeying state law would be “giving in to the hatred of a few adults 
+by bluntly canceling [M.J.].” Ex. C. at 1-2; see also Stephen Decl. ¶ 16. Why is 
+calling Scaer, her husband, and those who agree with them hateful, bigoted, 
+immoral, and ignorant not “derogatory,” but calling M.J. a “tall boy” is? Nothing in 
+the policy gives an objective or workable answer. 
+Kearsarge Regional School District has given commenters no notice about what 
+its unwritten policy forbids and implicitly authorizes officials to enforce this policy 
+discriminatorily. 
+III. KEARSARGE REGIONAL SCHOOL DISTRICT’S POLICY SWEEPS OVERBROADLY, 
+CHILLING VAST AMOUNTS OF PROTECTED SPEECH. 
+Defendants’ policy is also overbroad. “Speech regulations may not “sweep 
+unnecessarily broadly and thereby invade the area of protected freedoms.” NAACP 
+v. Alabama, 377 U.S. 288, 307 (1964). “The showing that a law punishes a 
+substantial amount of protected free speech, judged in relation to the statute’s 
+plainly legitimate sweep, suffices to invalidate all enforcement of that law, until 
+and unless a limiting construction or partial invalidation so narrows it as to remove 
+the seeming threat or deterrence to constitutionally protected expression.” Virginia 
+v. Hicks, 539 U.S. 113, 118-19 (2003) (internal quotation marks and citations 
+omitted) (emphasis original). Prohibiting “words offensive to some who hear them [] 
+sweeps too broadly” to be constitutional and “is easily susceptible to improper 
+application.” Gooding v. Wilson, 405 U.S. 518, 527-28 (1972) (cleaned up). 
+Defendants’ written policy, Policy BEDH, forbids narrow, well-established 
+categories of unprotected speech such as “defamatory statements” and “comments 
+threatening bodily harm.” Ex. A at 4. In contrast, the unwritten “no derogatory 
+comments” policy bans a far wider category of comments—those that “speak 
+derogatorily about anyone or anything.” Ex. C. at 1. Because “derogatory comments” 
+is a boundless category lacking “objective, workable standards,” a school official’s 
+“own politics may shape his views on what counts.” Mansky, 585 U.S. at 21-22. 
+Indeed, Defendants seem to interpret their policy to permit them to censor any 
+speech they dislike or that expresses a dissenting opinion unpopular to the 
+majority—as Scaer’s comments were. See Scaer Decl., ¶¶ 35-39; Stephen Decl. ¶¶ 9, 
+20-21; cf. Hopper v. City of Pasco, 241 F.3d 1067, 1079-80 (9th Cir. 2001) (city’s ban 
+on “controversial art” invited discriminatory enforcement “contingent upon the 
+subjective reaction” of audience).  
+The overbroad “no derogatory comments” policy sweeps in vast amounts of 
+protected expression. By implementing and enforcing this overbroad policy, 
+Defendants deprive Scaer of her constitutional freedoms.  
+IV. SCAER IS ENTITLED TO NOMINAL DAMAGES AND A PERMANENT INJUNCTION. 
+Scaer is entitled to nominal damages in the amount of $17.91 to compensate her 
+for her injury when the Board enforced its unconstitutional policy against her. 
+Nominal damages redress injuries when a plaintiff “cannot or chooses not to 
+quantify that harm in economic terms.” Uzuegbunam v. Preczewski, 592 U.S. 279, 
+293 (2021). Nominal damages are “appropriate in the context of a First Amendment 
+violation.” Cortes-Reyes v. Salas-Quintana, 608 F.3d 41, 53 n.15 (1st Cir. 2010) 
+(citations omitted). Indeed, “it is well established that an award of nominal 
+damages is not discretionary where a substantive constitutional right has been 
+violated.” Matusick v. Erie Cty. Water Auth., 757 F.3d 31, 64 (2d Cir. 2014) (cleaned 
+up) (collecting cases). The Court should thus enter judgment for Scaer for $17.91. 
+Likewise, Scaer is entitled to a permanent injunction, prohibiting Defendants 
+from enforcing their “no derogatory comments” policy or discriminating against 
+public comments on the basis of viewpoint or on the basis of content germane to the 
+purpose of the meeting. A court must issue a preliminary injunction if “(1) the 
+plaintiff has demonstrated actual success on the merits of its claims; (2) the plaintiff 
+would be irreparably injured in the absence of injunctive relief; (3) the harm to the 
+plaintiff from defendant’s conduct would exceed the harm to the defendant accruing 
+from the issuance of an injunction; and (4) the public interest would not be 
+adversely affected by an injunction.” United States v. Mass. Water Res. Auth., 256 
+F.3d 36, 50 n.15 (1st Cir. 2001). On the first factor, Scaer succeeds on the merits for 
+the reasons discussed above. She suffers irreparable harm absent an injunction 
+because “[t]he loss of First Amendment freedoms, for even minimal periods of time, 
+unquestionably constitutes irreparable injury.” Roman Cath. Diocese v. Cuomo, 592 
+U.S. 14, 19 (2020) (citation omitted).  
+Finally, “when the Government is the opposing party,” courts “merge” the 
+“balancing of the equities and analysis of the public interest together.” Doe v. Mills, 
+16 F.4th 20, 37 (1st Cir. 2021) (cleaned up). “[T]he issuance of an injunction 
+promotes the public interest” whenever a plaintiff has “demonstrated that the 
+enforcement of the [policy] against [her] is unconstitutional.” Young v. Town of 
+Conway, Civil No. 23-cv-00070-JL, 2025 U.S. Dist. LEXIS 95364, at *37 (D.N.H. 
+May 20, 2025). “Protecting rights to free speech is ipso facto in the interest of the 
+general public” as “First Amendment rights are not private rights . . . so much as 
+they are rights of the general public.” Westfield High Sch. L.I.F.E. Club v. City of 
+Westfield, 249 F. Supp. 2d 98, 128 (D. Mass. 2003) (citation omitted). “To deprive 
+plaintiff[] of the right to speak will therefore have the concomitant effect of 
+depriving the public of the right and privilege to determine for itself what speech 
+and speakers are worthy of consideration.” Sindicato Puertorriqueño de 
+Trabajadores v. Fortuño, 699 F.3d 1, 15 (1st Cir. 2012) (cleaned up). Thus, all four 
+factors favor granting Scaer’s requested permanent injunction. 
+CONCLUSION 
+This Court should grant Plaintiff’s motion for summary judgment as to all 
+claims, declare the “no derogatory comments” policy unconstitutional, enter a 
+permanent injunction prohibiting Defendants from enforcing this policy or 
+otherwise discriminating against public comments on the basis of viewpoint or on 
+the basis of content germane to the purpose of the meeting, and award Scaer $17.91 
+in nominal damages for her past injury. 
+Dated: June 25, 2025 
+ 
+/s/ Roy S. McCandless 
+Roy S. McCandless 
+New Hampshire Bar No. 11850 
+ROY S. MCCANDLESS, ESQ., PLLC 
+125 North State Street  
+Concord, New Hampshire 03301 
+Tel: (603) 841-3671, Ext. 101 
+Fax: (603) 513-2799 
+roysmccandless@gmail.com 
+Respectfully submitted, 
+ 
+/s/ Nathan J. Ristuccia  
+Nathan J. Ristuccia*§ 
+Virginia Bar No. 98372 
+Brett Nolan* 
+DC Bar No. 90014964 
+INSTITUTE FOR FREE SPEECH 
+1150 Connecticut Ave., NW, Ste. 801 
+Washington, D.C. 20036 
+Tel: (202) 301-3300 
+Fax: (202) 301-3399 
+nristuccia@ifs.org 
+bnolan@ifs.org 
+ 
+*Pro hac vice 
+ 
+Counsel for Plaintiff 
+ 
+§ Not a D.C. Bar Member but providing legal services in the District of Columbia 
+exclusively before federal courts, as authorized by D.C. Ct. App. R. 49(c)(3). 
+CERTIFICATE OF SERVICE 
+I hereby certify that, on June 25, 2025, a true and correct copy of the foregoing 
+pleading was served via CM/ECF upon the counsel of record of all parties. 
+Executed under penalty of perjury. 
+Dated: June 25, 2025 
+           s/Nathan J. Ristuccia   
+ 

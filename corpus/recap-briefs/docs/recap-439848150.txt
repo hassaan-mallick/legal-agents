@@ -1,0 +1,1006 @@
+ 
+ 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF NORTH CAROLINA 
+WESTERN DIVISION 
+ 
+ 
+COURTHOUSE NEWS SERVICE, 
+ 
+Plaintiff,  
+ 
+v. 
+ 
+RYAN BOYCE, in his official capacity as 
+Director of the North Carolina Administrative 
+Office of the Courts; MICHELLE BALL, in her 
+official capacity as Clerk of Superior Court of 
+Johnston County; RENEE WHITTENTON, in her 
+official capacity as Clerk of Superior Court of 
+Harnett County; and CLAUDIA CROOM, in her 
+official capacity as Clerk of Superior Court of 
+Wake County,    
+ 
+Defendants. 
+ 
+ 
+ 
+Case No.: 5:23-cv00280-FL 
+ 
+COURTHOUSE NEWS SERVICE’S 
+MEMORANDUM OF LAW IN SUPPORT 
+OF MOTION FOR SUMMARY JUDGMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i 
+TABLE OF CONTENTS 
+Page 
+ 
+TABLE OF AUTHORITIES  ....................................................................................................................  ii 
+ 
+MEMORANDUM OF LAW .....................................................................................................................   1 
+ 
+I. INTRODUCTION ..................................................................................................................   1 
+ 
+II. ISSUES FOR THE COURT ...................................................................................................   4 
+ 
+III. UNDISPUTED FACTUAL BACKGROUND ......................................................................   4 
+ 
+A. About Courthouse News Service .....................................................................................   4 
+ 
+B. Access to New Civil Complaints .....................................................................................   5 
+ 
+C. E-Filing in North Carolina Superior Courts .....................................................................   7 
+ 
+D. Access Delays in North Carolina Superior Courts ........................................................... 10 
+ 
+E. Defendants’ Post Litigation Actions ................................................................................ 11 
+ 
+F. More Expeditious Options Available for e-Filed Documents  ........................................ 14 
+ 
+IV. SUMMMARY JUDGMENT STANDARD ........................................................................... 15 
+ 
+V. ARGUMENT ......................................................................................................................... 15 
+ 
+A. The Public Enjoys a First Amendment Right of Access to Civil Complaints Upon Filing
+ ......................................................................................................................................... 16 
+ 
+B. Defendants’ Asserted Concerns Do Not Justify Delay .................................................... 18 
+ 
+1.  That Clerks Might Reject an e-Filed Complaint Is No Justification ......................... 18 
+ 
+2.  Policing Potential PII in Complaints Does Not Justify Delay ................................... 20 
+ 
+i.  Automatic Filtering by Case Type, Document Type, and Filer Designation...... 20 
+ 
+ii.  Filers are Responsible for Redacting PII Before Submitting a Filing ................ 21 
+ 
+iii.  Defendants Incorrectly Maintain Certain Laws Still Require Redaction............ 22 
+ 
+3.  Defendants’ Post-Litigation Processing Rule Amendments Do Not Satisfy the First 
+Amendment ............................................................................................................... 25 
+ 
+C.  CNS is Entitled to Declaratory Relief (and Potential Injunctive Relief) to Prevent 
+Defendant from Denying Access Until Complaints Are Processed ................................ 27 
+ 
+VI. CONCLUSION....................................................................................................................... 29 
+ 
+ii 
+TABLE OF AUTHORITIES 
+ Page(s) 
+Cases 
+Am. Humanist Ass’n v. Perry, 
+303 F. Supp. 3d 421 (E.D.N.C. 2018) .................................................................................................. 28 
+Anderson v. Liberty Lobby, Inc., 
+477 U.S. 242 (1986) ............................................................................................................................. 15 
+Biccum v. City of Watertown, NY, 
+No. 7:16-CV-645, 2019 WL 4752927 (N.D.N.Y. Sept. 30, 2019)....................................................... 24 
+Celotex Corp. v. Catrett, 
+477 U.S. 317 (1986) ............................................................................................................................. 15 
+Courthouse News Serv. v. Cozine, 
+No. 3:21-cv-680-YY, 2022 WL 1000775 (D. Or. Apr. 4, 2022) ..................................................... 6, 17 
+Courthouse News Serv. v. Gabel, 
+No. 2:21-cv-000132, 2021 WL 5416650 (D. Vt. Nov. 19, 2021) .................................................. 17, 19 
+Courthouse News Serv. v. Jackson, 
+No. H–09–1844, 2009 WL 2163609 (S.D. Tex. July 20, 2009) ........................................................... 19 
+Courthouse News Serv. v. Jackson, 
+No. 4:09–CV–01844, 2010 WL 11546125 (S.D. Tex. Mar. 2, 2010) .................................................. 17 
+Courthouse News Serv. v. N.M. Admin. Off. of Cts., 
+53 F.4th 1245 (10th Cir. 2022) ....................................................................................................... 17, 19 
+Courthouse News Serv. v. Omundson, 
+No. 1:21-cv-00305-DCN, 2024 WL 4349112 (D. Idaho Sept. 30, 2024) .......................... 17, 19, 20, 22 
+Courthouse News Serv. v. O’Shaughnessy, 
+663 F. Supp. 3d 810 (S.D. Ohio 2023) ................................................................................................. 17 
+Courthouse News Serv. v. Planet,  
+947 F.3d 581 (9th Cir. 2020) ......................................................................................................... passim 
+Courthouse News Serv. v. Planet, 
+No. CV 11-8083-DMG (FFMx), 2021 WL 1605216 (C.D. Cal. Jan. 26, 2021) .................................. 17 
+Courthouse News Serv. v. Schaefer, 
+440 F. Supp. 3d 532 (E.D. Va. 2020) ............................................................................. 2, 19, 21, 27, 28 
+Courthouse News Serv. v. Schaefer, 
+2 F.4th 318 (4th Cir. 2021) ............................................................................................................ passim 
+ 
+iii 
+Courthouse News Serv. v. Smith, 
+126 F.4th 899 (4th Cir. 2025) ............................................................................................................... 14 
+Courthouse News Serv. v. Tingling, 
+No. 16 Civ. 8742 (ER), 2016 WL 8505086 (S.D.N.Y. Dec. 16, 2016) ................................................ 17 
+Courthouse News Serv. v. Yamasaki, 
+950 F.3d 640 (9th Cir. 2020) ................................................................................................................ 17 
+Doe v. Public Citizen, 
+749 F.3d 246 (4th Cir. 2014) ................................................................................................................ 27 
+Gibbons v. Gibbs, 
+99 F.4th 211 (4th Cir. 2024) ................................................................................................................. 27 
+Holland v. Kohn, 
+12 F. App’x 160 (4th Cir. 2001) ........................................................................................................... 15 
+McCullen v. Coakley, 
+573 U.S. 464 (2014) ............................................................................................................................. 20 
+Meredith v. Stein, 
+355 F. Supp. 3d 355 (E.D.N.C. 2018) .................................................................................................. 28 
+Press-Enterprise Co. v. Sup. Ct. of Cal. for the Cnty. of Riverside (“Press-Enterprise II”), 
+478 U.S. 1 (1986) ..................................................................................................................... 16, 17, 18 
+Simmons v. Whitaker, 
+106 F.4th 379 (4th Cir. 2024) ............................................................................................................... 15 
+Temkin v. Frederick Cnty. Comm'rs, 
+945 F.2d 716 (4th Cir. 1991) ................................................................................................................ 15 
+Temkin v. Frederick Cnty. Comm'rs, 
+502 U.S. 1095 (1992) ........................................................................................................................... 15 
+Volvo Constr. Equip. N. Am., Inc. v. CLM Equip. Co., Inc., 
+386 F.3d 581 (4th Cir. 2004) ................................................................................................................ 27 
+Rules and Statutes 
+18 U.S.C. § 2265(d)(3) ............................................................................................................................... 24 
+18 U.S.C. § 2721(a) .................................................................................................................................... 23 
+18 U.S.C. § 2721(b)(4) ............................................................................................................................... 23 
+42 U.S.C. § 405(c)(2)(C)(viii)(I) .......................................................................................................... 23, 24 
+42 U.S.C. § 1983 ..................................................................................................................................... 3, 28 
+42 U.S.C. § 1988 ........................................................................................................................................... 3 
+ 
+iv 
+Fed. R. Civ. P. 5.2 ....................................................................................................................................... 24 
+Fed. R. Civ. P. 56 ........................................................................................................................................ 15 
+N.C. Gen. Stat. § 132-1.10 .......................................................................................................................... 22 
+N.C. Gen. Stat. § 132-1.10(d) ..................................................................................................................... 21 
+N.C. Gen. Stat. § 132-1.10(h) ..................................................................................................................... 24 
+N.C. Gen. Stat. § 132-1.4 ............................................................................................................................ 24 
+N.C. Super. Ct. & Dist. Ct. R. 5(b)(4) ........................................................................................................ 10 
+N.C. Super. Ct. & Dist. Ct. R. 5(b)(4)a ................................................................................................. 17, 18 
+N.C. Super. Ct. & Dist. Ct. R. 5(e) ............................................................................................................. 21 
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM OF LAW 
+I. INTRODUCTION 
+Courthouse News Service v. Schaefer  determined that “the press and public enjoy a First 
+Amendment right of access to newly filed civil complaints and mandated they be made publicly available 
+“as expeditiously as possible.”  2 F.4th 318, 329 (4th Cir. 2021). That decision was issued nearly four years 
+ago. This Court repeatedly acknowledged that mandate in denying Defendants’ motion to dismiss (D.E. 
+38). Yet, Defendants still withhold non-confidential, electronically filed civil Superior complaints until they 
+have been fully “processed,” and the “accept” button clicked.  When this case was filed in May 2023, the 
+Defendant counties were each processing new e -filed civil complaints at monthly same day access rates 
+averaging well below 50%, violating Schaefer. See Statement of Undisputed Material Facts (“SOF”) ¶¶ 54-
+56, filed herewith. Defendants cling to their “no-access-before-processing” policy, eschewing tried and true 
+technological solutions.  
+Instead, beginning a few months after this action commenced, they sped up processing rates as a 
+litigation strategy to avoid court -imposed relief. Superior courts statewide often reach  same-day access 
+rates of 90% or above (like what occurred in Schaefer after suit was filed) , but those numbers are not 
+consistent.  Such 90% rates do, however, prove their earlier practices were not as “expeditious as possible” 
+and those rates must be maintained at a minimum.  In fact, Defendant North Carolina Administrative Office 
+of the Courts (“NCAOC”) essentially acknowledges that 90%+ rates are the legal benchmark. (SOF ¶¶ 66-
+69, 71-72, 93-94). The below chart, created by CNS using raw data provided by NCAOC in this litigation, 
+distills this general evolution. 
+ 
+Harnett 
+Superior 
+Court 
+Johnston 
+Superior 
+Court 
+Wake 
+Superior 
+Court 
+Mecklenburg 
+Superior 
+Court 
+Feb 2023 25% 18% 12%   
+Mar 2023 40% 23% 62%   
+Apr 2023 14% 37% 59%   
+May 2023 50% 65% 51%   
+Jun 2023 67% 79% 49%   
+Jul 2023 67% 48% 51%   
+Complaint 
+Filed 
+ 
+Aug 2023 78% 90% 87%   
+Sep 2023 94% 88% 93%   
+Oct 2023 86% 90% 93% 92% 
+Nov 2023 94% 100% 87% 89% 
+Dec 2023 92% 97% 92% 92% 
+Jan 2024 71% 100% 92% 91% 
+Feb 2024 88% 92% 97% 87% 
+Mar 2024 94% 90% 90% 91% 
+Apr 2024 93% 85% 94% 91% 
+May 2024 92% 100% 94% 93% 
+Jun 2024 100% 92% 94% 87% 
+Jul 2024 94% 95% 88% 91% 
+Aug 2024 93% 94% 92% 86% 
+Sep 2024 100% 88% 93% 83% 
+Oct 2024 93% 96% 94% 91% 
+Nov 2024 90% 90% 90% 83% 
+Dec 2024 83% 83% 89% 82% 
+Jan 2025 91% 92% 86% 75% 
+Feb 2025 94% 97% 91% No Data  
+Mar 2025 89% 92% 93% No Data  
+Apr 2025 100% 82% 91% No Data 
+May 2025 100% 100% 96% No Data 
+ 
+The chart, based on calendar days, shows how the Defendant counties, along with metropolitan 
+Mecklenburg County, still stray from reaching minimum 90% same-day access rates.  (SOF ¶ 64).  And 
+nothing prevents Defendants from backsliding to old ways once this litigation ends. While CNS maintains, 
+as discussed below, there are narrower technological solutions available in the e -filing environment to 
+permit clerks to process complaints without slowing public access at all, it only presently asks this Court to 
+declare that Defendants’ prior practices violated the First Amendment and a 90% daily access rate—defined 
+as 90% of all total e-filed Superior Court complaints received on a given day—is the minimum rate to satisfy 
+the First Amendment. This Court, like the affirmed Schaefer district court, should also retain time-limited 
+jurisdiction requiring Defendants to report back six  months post-litigation regarding whether they are 
+meeting the terms of the declaratory judgment.  See CNS v. Schaefer, 440 F. Supp. 3d 532, 561 (E.D. Va. 
+2020). If not, the Court should then consider imposition of injunctive relief forbidding any withholding for 
+processing given the technological solutions CNS has offered (which Defendants have at all turns resisted 
+in favor of making clerk offices statewide just process quicker). 
+From increased processing rates, to multiple electronic recordkeeping rule amendments, to even 
+(temporarily) mandating its own envisioned pre -acceptance public access terminals for failing counties, 
+Defendants have thrashed every which way to avoid a court -imposed remedy. For example, NCAOC 
+implemented eleventh-hour, toothless e-recordkeeping rules in October 2024 (further weakened last month) 
+continuing post-processing access but stating clerks “should” meet certain “same day” processing rates that 
+pay lip service to Schaefer. Those benchmarks employ a self-serving definition of “same day” access, reject 
+technological access options, and enable clerks to be chronically out of compliance without consequence. 
+The rules contain no First Amendment safeguards and implicitly condone access delays. This Court should 
+grant summary judgment, and issue the following Schaefer-consistent relief:  
+1. Grant judgment under CNS’ 42 U.S.C. § 1983 claim and f ind Defendants did not make 
+new e-filed, non-confidential Superior Court civil complaints public as expeditiously as 
+possible, violating the First Amendment;  
+2. Issue a declaratory judgment in line with First Amendment commands that making new e-
+filed complaints available “as expeditiously as possible ” in the e -filing context  means 
+minimum 90% same-day access for all complaints received on a given day;  
+3. Retain limited jurisdiction for Defendants to report on compliance and impose injunctive 
+relief forbidding withholding if they do not meet the declaratory judgment’s terms; and 
+4. Award CNS its costs and incurred attorneys’ fees pursuant to 42 U.S.C. § 1988. 
+Instead of aligning with jurisdictions, including the federal system, that provide contemporaneous 
+and expeditious access to court records under an ever-growing body of case law, North Carolina has joined 
+the ranks of the recalcitrant. They mainly invoke confidentiality concerns as justification for their steadfast 
+“no-access-before-processing” policies that are impracticable to sustain and belied  by the same rules 
+Defendants will surely argue allay First Amendment concern s.  Like many state courts before it, North 
+Carolina must be required to maintain the national standards the First Amendment requires. 
+II. ISSUES FOR THE COURT 
+ The following issues are for determination, all of which should be answered affirmatively: 
+1. Whether CNS is entitled to a declaration that Defendants violated the First Amendment by 
+failing to make new, nonconfidential, e-filed Superior Court civil complaints available as expeditiously as 
+possible in line with Schaefer; 
+2. Whether CNS is entitled to a declaration that a 90% access rate for all complaints filed on 
+a given day is the minimum requirement for Defendants to be in compliance with Schaefer; 
+3. Whether this Court should retain jurisdiction for six months after the conclusion of this 
+litigation to ensure Defendants’ compliance with any declaratory relief, and for potential imposition of 
+injunctive relief if Defendants fail to do so; and 
+4. Whether CNS is entitled to recoupment of its incurred attorneys’ fees and costs from 
+Defendants for the violation of its First Amendment rights. 
+III. UNDISPUTED FACTUAL BACKGROUND 
+A. About Courthouse News Service 
+Founded more than 30 years ago, CNS is a nationwide news service covering civil litigation. (SOF 
+¶ 1). It employs about 220 people, most of them editors and reporters, covering state and federal trial and 
+appellate courts in all 50 states, and reporting on general news through its website.  (SOF ¶ 2). 
+CNS’ website, www.courthousenews.com, is free to the public and read daily by roughly 23,000 
+people. (SOF ¶ 3). Its subscriber publications include New Litigation Reports, which contain staff-written 
+reports on new civil litigation in a particular geographic region. New Litigation Reports are e -mailed to 
+subscribers in the early evening each court day. (SOF ¶ 6). CNS’ approximately 2,750 subscribers include 
+law firms, libraries, non-profits, government entities, businesses, and universities such as UNC at C hapel 
+Hill and Wake Forest University.  (SOF ¶ 4).   
+CNS functions as a pool reporter for news about civil litigation. It has many subscribing media 
+outlets, including: The Associated Press, The Atlanta Journal-Constitution, The Boston Globe, The Dallas 
+Morning News , Detroit Free Press , Fox Entertainment Group, Honolulu Civil Beat, International 
+Consortium of Investigative Journalists, Las Vegas Review -Journal, Los Angeles Times , Pacific Coast 
+Business Times, Portland Business Journal, St. Paul Business Journal, The Salt Lake Tribune , The San 
+Jose Mercury News, San Antonio Express -News, Tampa Bay Business Journal , The Wall Street Journal , 
+and Walt Disney Company. (SOF ¶ 6). 
+New Litigation Reports covering North Carolina include the Triangle Area Report, the Charlotte 
+Report (including Mecklenburg County), and the Greater North Carolina Report. (SOF ¶ 7). Collectively, 
+they cover state superior and federal courts in North Carolina and are emailed to subscribers weekday 
+evenings. (SOF ¶ 7). 
+These reports cover new civil complaints, focusing on actions brought against business es and 
+public entities. (SOF ¶ 8). CNS does not cover family law matters, name changes, probate filings, most 
+mortgage foreclosures, or collection actions against individuals unless the individual is well -known or 
+otherwise notable. (SOF ¶ 8). CNS does not report on complaints that are statutorily confidential or filed 
+with a motion to seal.  (SOF ¶ ¶ 8, 117 ). Such complaints can be  filtered out f rom public access by 
+Defendants’ software.  (SOF ¶¶ 101-02, 118). 
+B. Access to New Civil Complaints 
+In the paper -records era, state and federal courts nationwide made new , non-confidential civil 
+complaints available to reporters shortly after they were received, allowing reporters to see new complaints 
+by the end of the day they were filed.  (SOF ¶¶ 9 -10). Courts provided access by making complaints 
+available after they crossed the intake counter, regardless of whether clerks had completed docketing or 
+other clerical tasks. (SOF ¶¶ 9-10). This allowed the press to report on new civil actions while they were 
+newsworthy and likely to capture the public’s attention. (SOF ¶ 10). 
+When journalists faced access delays in paper -filing courts, it was because courts would not let 
+them see newly filed complaints that were waiting to be “processed.” (SOF ¶ 11); see also, e.g., CNS v. 
+Planet, 947 F.3d 581, 586 (9th Cir. 2020) (“Planet III”) (describing the “seven-step procedure to process a 
+new civil complaint” before access was permitted).  When it resulted in unconstitutional delays , courts 
+corrected it. (SOF ¶ 12). Despite inherent challenges with paper complaints (only one person can handle a 
+document at any one time), reporters and court staff worked cooperatively so everyone could do their jobs.  
+(SOF ¶ 12). 
+Providing timely access in e -filing courts is even  easier. E-filed complaints are simply .pdf 
+documents uploaded, viewed, and downloaded  and, unlike paper filings , multiple “hands” can 
+simultaneously “touch” them. (SOF ¶ 13). Nothing prevents reporters reviewing new complaint s before 
+processing, or clerks processing concurrently while the public views them, or clerks from processing when 
+their schedule permit, without impeding access. (SOF ¶ 14). Moreover, courts require filers to self-populate 
+myriad information into  the e -filing interface like party information and case/document types that  
+automatically sort and filter new filings, including segregating confidential filings. (SOF ¶ 60).      
+As in the paper world, access in e-filing courts is delayed only if courts withhold complaints until 
+after staff complete administrative processing.  (SOF ¶ 16). Unfortunately, as state courts transitioned to e-
+filing, they have not always considered how new rules and procedures impact the press’ ability to cover 
+courts.  (SOF ¶ 16). Some built delay into their systems, forbidding access to complaints until staff 
+completed processing. (SOF ¶ 16); see also CNS v. Cozine, No. 3:21-cv-680-YY, 2022 WL 1000775, at *2 
+(D. Or. Apr. 4, 2022) (“after -submission review” for e -filings “mirror” the seven -step process in Planet 
+III). Most courts struggle to complete such clerical tasks for all complaints on the day of filing, meaning 
+post-processing access policies prevent the press from learning about a substantial percentage of new civil 
+actions until at least the day after filing, when the public has moved on to tomorrow’s news.  (SOF ¶ 17). 
+Whatever mechanism, a ll e-filing courts conduct a form of clerical review /processing of new 
+filings, and all have means for handling filer mistakes  (e.g., missing signatures, illegible pages) . (SOF ¶ 
+18). Some courts, like this one, automatically accept e-filed documents, processing and addressing clerical 
+issues after documents are in the case management system.  (SOF ¶ 18). Other courts have clerks process 
+on the front end, culminating with the document’s manual “acceptance” into the case management system 
+or return to the filer for correction . (SOF ¶ 18). Auto-accept and clerk-accept are equally capable of 
+providing timely access to new e -filed complaints. (SOF ¶ 19). The key with clerk-accept is not to keep 
+new complaints secret while they await processing. (SOF ¶ 19). Given the success of many courts , 
+processing and expeditious access are  demonstrably not mutually exclusive.  Federal district courts , for 
+example, employ auto-accept. (SOF ¶ 20). State courts also use auto-accept, including in Connecticut and 
+Hawaii (through internally developed systems), Alabama, Nevada, and Utah (through vendors). (SOF ¶ 
+21). Tyler Technologies, Inc. (“Tyler”), North Carolina’s e-filing software vendor, can even configure its 
+system to auto-accept complaints at no charge. (SOF ¶ 99). 
+Other courts choose to have a  human clerk click “accept” but do  not withhold access in the 
+meantime.  (SOF ¶ 22). Some of these courts display both complaints that have not been “accepted” and 
+complaints that have been in the same public portal. (SOF ¶ 22). Others make complaints that have not been 
+“accepted” available through a separate portal or review queue, sometimes available to the public at large, 
+sometimes limited to those credentialed by the court, sometimes for free, sometimes for a fee, sometimes 
+through court-developed software, sometimes through vendor -provided solutions. (SOF ¶ 22). However 
+implemented, systems that do not withhold access for processing  allow new, non-confidential complaints 
+to be reported on the day they are filed, when the lawsuit is still newsworthy and capable of commanding 
+public attention. (SOF ¶ 23). 
+C. E-Filing in North Carolina Superior Courts1 
+In 2019, NCAOC contracted with Tyler to transition from paper to e -filing. (SOF ¶ 24). NCAOC 
+agreed to pay Tyler approximately $85 million over ten years. (SOF ¶ 24). North Carolina uses three 
+interconnected Tyler products: (1) the e -filing system  (branded “ eFile North Carolina ”), (2) the case 
+management system, and (3) a public access portal. (SOF ¶ 26). 
+The e-filing system has three components:  (1) the online electronic service provider solution or 
+EFSP, where filers upload and submit filings, (2) the electronic filing manager or EFM, where documents 
+and information are stored, and (3) the clerk review tool, which displays documents and information stored 
+in the EFM for clerks to review and process. (SOF ¶ 28). Tyler’s case management system is called 
+Enterprise Justice. (SOF ¶ 29). Filings go there once they are “accepted,” whether manually or by auto -
+ 
+1 CNS seeks access to certain types of Superior Court civil cases only.   
+accept. (SOF ¶ 30). Tyler software can be configured for either acceptance method, but North Carolina 
+chose manual acceptance, with public access withheld until clerk s manually accept filing s. (SOF ¶ 30). 
+Tyler currently provides North Carolina Superior Courts with a public access portal known as Odyssey . 
+(SOF ¶ 31). Odyssey is connected to Enterprise Justice and displays certain configurable information from 
+Enterprise Justice in read-only form on a platform available to the public or more limited sets of authorized 
+users. (SOF ¶ 32).  
+Submission. After registering for an e-filing account, e-filers log into eFile North Carolina. (SOF 
+¶ 33). Filers select a “Location” ( e.g., Wake County Superior Court), a “Category” ( e.g., “Civil”), and a 
+“Case Type” (e.g., small claims, civil, divorce, etc. ) from drop-down menus. (SOF ¶ 34). The next page 
+prompts filer s to input party information. (SOF ¶ 35). They then upload filings, selecting the type of 
+document (e.g., “Complaint” or “Petition”) from a drop-down menu: 2 (SOF ¶ 36). 
+ 
+Once documents are uploaded, filers are offered the auto-redact feature, which scans the document 
+for sensitive information, identifies information for redaction, and allows filers to accept or reject suggested 
+redactions. (SOF ¶ 37-38). Filers then choose the document security level from a drop-down menu, which 
+later determines who has access: (SOF ¶ 39).  
+ 
+2 Images are from the e-filing walkthrough attached as Exhibit A to the Adam Angione Declaration. 
+The filer then enters payment information. (SOF ¶ 40).  
+Before the submission button is enabled, filer s must accept North Carolina’s submission 
+agreements; two boxes acknowledg ing the filer’s statutory obligation to redact personal ly identifying 
+information (“PII”) and promising they have done so: (SOF ¶¶ 40-43).  
+ 
+Some defects in an e -filing, like deficient filing fee s, cause filings to be immediately and 
+automatically rejected, without reaching court clerks. (SOF ¶ 44). Otherwise, once filers hit the “submit” 
+button, the system transmits it to the EFM, where it is stored await ing review in the Clerk Review Tool. 
+(SOF ¶ 44). This is the point when a document is “filed” and in the court’s possession. (SOF ¶ 45).  E-filers 
+can choose to receive one email notification that the document has been submitted, which advises the filer 
+to “allow up to one business day for clerk office processing,” and another on acceptance by the clerk. (SOF 
+¶ 46).  
+Clerk Processing . Clerks access documents from the EFM  “when they choose to work those 
+filings” and perform ministerial review through the Clerk Review Tool. (SOF ¶ 47). For new complaints, 
+this review involves “checking for”: (1) mislabeling of other documents as complaints, (2) PII; (3) whether 
+the defendant resides in the county, (4) whether the document is properly named; (5) whether filing fees 
+are fully paid; and (6) “false lien” filings and filings subject to “gatekeeper” orders. (SOF ¶ 48). If there is 
+a document issue, clerks will “reject” and return the complaint to the filer for correction. (SOF ¶ 49). If a 
+filing is a prohibited “false lien” against a public official, the filing will be permanently rejected.  (SOF ¶ 
+49). Once “accepted,” complaints are file-stamped, a copy is sent to the filer and to the case management 
+system for docketing. (SOF ¶ 51). The stamp appearing on the document itself is the time the court received 
+the filing. See Rule 5(b)(4), Gen. R. of Practice for Sup. & Distr. Cts .; SOF ¶ 52.  The time and date 
+appearing on the docket is the time it was processed and made available to the public. (SOF ¶ 52). 
+D. Access Delays in North Carolina Superior Courts 
+CNS covers non-confidential, e-filed civil complaints filed in North Carolina Superior Courts, the 
+state’s courts of general jurisdiction. (SOF ¶ 8). North Carolina does not permit public access to these  
+complaints until after they have been processed and accepted. (SOF ¶ 53). As the Clerk Defendants testified, 
+their “office policy [is] that the public cannot have access to new complaints prior to clerk acceptance” 
+(SOF ¶ 53), meaning a complaint could be withheld from the public for hours or days.  Prior to this lawsuit, 
+post-processing access resulted in pervasive delays . For example, f rom February 13, 2023 , the date th e 
+three Clerk Defendants transitioned to e-filing, through May 25, 2023, the date this lawsuit was filed, CNS 
+calculates the average monthly rate of same day processing was 46% for Wake County, 35.8% for Johnston 
+County, and 32.3% for Harnett County. (SOF ¶ 54-55). Individual delays during that period were regularly 
+worse, varying in degree by court and timeframe. (SOF ¶ 56). For example, the month before this lawsuit 
+was filed, the Harnett County Superior Court made only 14% of new civil complaints available the same 
+day they were filed. (SOF ¶ 56). 
+Complaints unavailable on the day of filing included  a newsworthy action filed in April 2023 
+related to the death of a child in a Raleigh Christmas Parade, which received significant public attention 
+due to the questions around safety and organization of the parade  (delayed three calendar days ). (SOF ¶ 
+57(b)). Other examples include the “Cabo Six” matter, an estate action against six individuals and the FBI 
+alleging wrongful death, negligence, and civil conspiracy related to the death of a 25 -year-old woman in 
+Mexico (delayed one calendar day), an action filed in December 2024 by incoming Governor Joshua Stein 
+and outgoing Governor Roy Cooper against, among others, the Speaker of the House, challenging a statute 
+establishing the State Highway Patrol as a cabinet-level department (delayed one calendar day), and another 
+filed in December 2024 by an employee against Rex Healthcare, part of the UNC Health Care System, over 
+the denial of her religious exemption request and subsequent termination for failure to comply with a 
+COVID-19 vaccination policy (delayed one calendar day).  (SOF ¶ 57). 
+Since NCAOC first contracted with Tyler in 2019, CNS made multiple attempts to work with North 
+Carolina officials to ensure timely access to non -confidential civil complaints . (SOF ¶ 5 8). Although 
+NCAOC looked into a pre-processing press review queue option, it ultimately decided against it. (SOF ¶ 
+60). CNS then reached out to each Defendant about the delays in access that ensued  once e-filing began; 
+no improvement occurred. (SOF ¶ 61). 
+E. Defendants’ Post-Litigation Actions 
+In the six months following CNS filing suit, the Clerk Defendants dramatically increased their 
+average processing speed. (SOF ¶¶ 62, 98). In September 2023, their average same day processing rate 
+across the three counties was over 91% (up from less than 37% in April 2023). (SOF ¶ 62). Further, this 
+improvement cannot be attributed to the need to become familiar with the eCourts platform: in October 
+2023, Mecklenburg County Superior Court—the first to transition to e -filing after this lawsuit—achieved 
+a 92% same day access rate in its first month of e-filing. (SOF ¶ 63). This shows, at the onset of this suit, 
+Defendants were not providing access as expeditiously as possible , as required under Schaefer. Nor are 
+they always doing so now. Since numbers improved in September 2023, the Defendant counties fell below 
+the 90% benchmark in 13 of the 57 months for which data was provided, with Mecklenburg County faring 
+much worse.  (SOF ¶ 64).   
+Then in late October 2024, after the close of discovery, NCAOC produced additional documents 
+showing that it had been working to amend two eCourts Rules of Recordkeeping, Rules 1.5 and 1.8 , 
+governing records processing and redaction requirements. (SOF ¶ 65). The revised Rule 1.5 created a new 
+standard for clerks to meet for the processing of new complaints which implicitly acknowledge d access 
+rates discussed in Schaefer. Specifically, Rule 1.5 stated that clerks “should” process civil complaints filed 
+before 5 p.m. on days a clerk’s office is open  by 11:59 p.m. the same calendar day  (i.e. “same-day 
+acceptance”), or when “not practicable,” on the next court day. (SOF ¶ 71). Although the amended eCourts 
+Rule 1.5 facially set minimum aspirations of 90% same-day access, in actuality, it allowed clerks to delay 
+access for the majority of any given year. (SOF ¶ 72). Only if a court failed to meet the 90% requirement 
+for three consecutive months would NCAOC install a “pre-acceptance” review terminal in that courthouse 
+to allow access  to all non-processed, non-confidential complaints. (SOF ¶¶ 72, 74). This would include 
+access to information listed in Rule 1.8 as PII that clerks  redact. (SOF ¶ 74). Clerks could even choose to 
+have a review terminal installed in lieu of meeting the 90% threshold. (SOF ¶ 73). 
+Further, as NCAOC calculates it, the percentage of filings accepted same day does not include  
+filings that were returned or “rejected” for minor procedural errors after being filed and placed in the courts’ 
+possession. (SOF ¶ 85). Nor does it include filings delayed due to technical errors or system issues. (SOF 
+¶ 85). And despite the courthouse doors never closing in the e -filing world, “same -day” acceptance is 
+calculated based on court “business” days and times, meaning processing obligations are tolled for any 
+filings received after 5:00 p.m. on a court business day, and for weekends and any day a court is physically 
+closed. (SOF ¶ 86). Thus, NCAOC’s claim that the courts are meeting the Schaefer standard is based on a 
+loose calculation that does not accurately present the percentage of new civil complaints that are actually 
+made public the same day they are filed. 
+Even with this methodology, many North Carolina Superior Courts are not consistently processing 
+at 90%. For example, Beaufort County met the 90% requirement under NCAOC’s calculations in July 2024, 
+but processed less than 8 2% of complaints the same day in August 2024 and approximately 85%  in 
+September 2024. (SOF ¶ 87). Durham County did not meet the threshold at all during the same period, 
+making only 77.67% of complaints available the same day in September 2024, 6 0.42% in August 2024, 
+and 61.84% in July 2024. (SOF ¶ 88). 
+ Mecklenburg County, which includes newsworthy Charlotte filings, is a prime example of how 
+the 90% benchmark is not always met, and why this Court needs to order declaratory relief. It was meeting 
+a 90% rate while employing temporary processing staff. (SOF ¶ 89). However, after los ing temporary 
+employees in June , the Mecklenb urg Clerk expressed concern about maintaining that rate  (SOF ¶ 89). 
+Processing rates dropped significantly, from 91.37% in September 2024 to 76.65% in October, 72.49% in 
+November, 84.03% in December, and 54.04% in January 2025. (SOF ¶ 90). As such, under that version of 
+Rule 1.5, NCAOC said a pre-acceptance review terminal would be installed in Mecklenburg County. (SOF 
+¶ 91). But NCAOC admitted in deposition that a terminal wasn’t even available to implement. (SOF ¶ 91). 
+It could not enforce its own remedy.  
+The push to implement a rule with a paper tiger remedy was a superficial litigation strategy to avoid 
+any court-imposed remedy. (SOF ¶¶ 68-69). In a September 6, 2024, meeting with the eCourts Rules of 
+Recordkeeping Committee  (the “RRK Committee”) , NCAOC General Counsel Andrew Brown call ed 
+federal law “as will be applied . . . by the federal courts against us” the “bad guy” and stat ed the October 
+2024 Rule 1.5 amendment was “to prevent the federal courts from forcing all 100 counties to do the press 
+review queue”. (SOF ¶ 68). Other NCAOC counsel explained the “urgency” being they wanted the amended 
+rules “in place before we do our summary judgment briefing in the case,” which was then due in November. 
+(SOF ¶ 69). 
+But Rule 1.5 was amended again  (unilaterally by Director Boyce) in April 2025, eliminating the 
+90% acceptance benchmark and pre-acceptance review terminal remedy if the rate wasn’t met. (SOF ¶ 92). 
+Instead, it now states NCAOC will provide clerks with “same day acceptance and next court date acceptance 
+rates” on a monthly basis via a dashboard for each county to monitor its own “compliance.” (SOF ¶ 92). 
+Now, the 90% acceptance rate is just a “guideline” or “reference point” – not a requirement – for clerks to 
+use to evaluate their performance. ( SOF ¶ 93). If they fall below that baseline, NCAOC claims it has no 
+“authority to force compliance of the rule.” (SOF ¶ 95). 
+Rule 1.5 (be it the October 2024 or current version) is simply not Schaefer in rule form, nor does it 
+account for how Schaefer should be applied in the e-filing context. For example, it  permits withholding 
+access to complaints on non-court days (despite courts being open for e-filing 24/7), the same-day access 
+cutoff is 5 :00 p.m., and it (now) allows clerks to delay access without NCAOC penalty . Moreover, the 
+NCAOC Director can unilaterally further water down Rule 1.5 on a whim. (SOF ¶ 96). NCAOC admits a 
+rule could potentially change at the conclusion of this litigation. (SOF ¶ 97).  
+F. More Expeditious Options Available for e-Filed Documents  
+Given the uncertain future of access rates in North Carolina, this section discusses available 
+technical solutions that allow clerks to review e-filed complaints without delaying public access. CNS has 
+presented Defendants with these solutions. It has rejected them all.  As discussed, Tyler provides a free 
+“auto-accept” software option included with the File and Serve product.  (SOF ¶ 99). When utilized, new 
+filings meeting certain configurable criteria are automatically accepted and added to the case management 
+system without being held up for clerk processing. (SOF ¶¶ 101-03). When auto-accept filings meet separate 
+qualifications governing which documents are publicly viewable, they become available almost 
+immediately, mirroring how the federal PACER system operates. (SOF ¶¶ 101-03).   
+Tyler also offers a Press Review Tool product. (SOF ¶ 105). This tool links directly to File and 
+Serve, rather than the case management system, and allows authorized users to view filed documents that 
+have not yet been processed and formally accepted in a unique, dedicated queue, indicating to users that 
+the document they are viewing had not yet been formally “accepted.”. (SOF ¶ 106). This too allows filings 
+meeting configurable criteria to become available almost immediately. (SOF ¶ 107). It also preserves 
+clerks’ ability to manually process those filings in their own queues as their schedules allow. (SOF ¶ 107). 
+A Press Review Tool can be made available over the internet ( e.g., Arizona) or  through a designated 
+terminal at a physical location (e.g., Maryland)3 (SOF ¶ 108). 
+Finally, Tyler offers application programming interfaces  (“APIs”), which create free access 
+ 
+3 CNS does not assert a freestanding First Amendment right to remote, online access to court records. See, 
+e.g., CNS v. Smith, 126 F.4th 899, 907 (4th Cir. 2025).  
+mechanisms to allow courts to create their own version of a press review tool. (SOF ¶¶ 109-10).  
+IV. SUMMMARY JUDGMENT STANDARD 
+Under Rule 56, a movant is entitled to summary judgment if there is no genuine issue as to any 
+material fact such that he is entitled to judgment as a matter of law. Celotex Corp. v. Catrett, 477 U.S. 317, 
+322 (1986). A party seeking summary judgment bears the initial burden of establishing the basis for its 
+motion and identifying those portions of “the pleadings, depositions, answers to interrogatories, and 
+admissions on file, together with the affidavits, if any,” which it believes demonstrate the absence of a 
+genuine issue of material fact. Id. at 323; Holland v. Kohn, 12 F. App’x 160, 165 (4th Cir. 2001). Upon that 
+showing, burdens shift to the non-moving party to produce facts sufficient to create a triable issue. Temkin 
+v. Frederick Cnty. Comm'rs, 945 F.2d 716, 718-19 (4th Cir. 1991), cert. denied, 502 U.S. 1095 (1992).   
+When evaluating evidence, courts should draw all reasonable inferences in favor of the non -
+movant. Simmons v. Whitaker, 106 F.4th 379, 384-85 (4th Cir. 2024).  Summary judgment is appropriate 
+when the non-moving party has the burden of proof on an essential element of his or her case and does not 
+make, after adequate time for discovery, a showing sufficient to establish that element. Celotex, 477 U.S. 
+at 322-23. A non-moving party must satisfy this burden by offering more than a mere “scintilla of evidence” 
+supporting their position. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 252 (1986). 
+V. ARGUMENT 
+This Court has already recognized Schaefer governs this case. There, the Court examined whether 
+delaying access to newly filed paper complaints until clerks completed administrative processing violated 
+the First Amendment. Schaefer, 2 F.4th at 328. Before that lawsuit, 22% of complaints in one county and 
+41.5% in another were only publicly available two or more court days after filing . After CNS sued, the 
+Schaefer clerk defendants vastly improved access, making upwards of 90% of new complaints available 
+the same day of filing. Id. at 322 -23. The Fourth Circuit affirmed that it was clearly “possible and 
+practicable” to provide same day access. It thus  held that, prior to reaching t he 90% benchmark, the  
+defendants violated the First Amendment by not providing access to new complaints “as expeditiously as 
+possible” in the context of paper filings. Id. at 328-29. 
+Importantly, Schaefer involved paper complaints, not e-filed ones. Thus, the Court noted that the 
+First Amendment required “contemporaneous” access and allowed limited wiggle room in the standard 
+when same-day access was not practicable. Id. at 328. In the e-filing age, filings occur around-the-clock 
+and it is even easier to make complaints available the same day of filing as barriers inherent in paper filing 
+do not  exist. It is both “possible and practicable” to provide contemporaneous access to new e-filed 
+complaints. Defendants have demonstrated they can. But they failed to do so prior to and periodically after 
+the filing of this action. The Court should declare those delays violated the First Amendment Schaefer 
+standard and declare a 90% minimum as the constitutional floor that satisfies First Amendment access 
+rights.  Injunctive relief would be proper forbidding any withholding of complaints for processing if 
+Defendants do not maintain such rates post-litigation.    
+A.  The Public Enjoys a First Amendment Right of Access to Civil Complaints Upon Filing 
+After analyzing Press-Enterprise Co. v. Sup. Ct. of Cal. for the Cnty. of Riverside , 478 U.S. 1 
+(1986) (“Press-Enterprise II”), the Fourth Circuit held that “the press and public enjoy a First Amendment 
+right of access to newly filed civil complaints.” Schaefer, 2 F.4th at 328. Defendants concede this. See D.E 
+29 at 8 (Defendants’ Memorandum in Support of Motion to Dismiss). That right is a national standard based 
+on federal constitutional requirements. See Id. at 326.  It thus attaches to the Superior Court civil complaints 
+at issue.   
+In addition to relying on Planet III , Schaefer recognized that access rights attach upon receipt 
+because of the “immediate consequences precipitated by filing a complaint, consequences that the public 
+must promptly understand” including that “a complaint instantaneously invokes a court’s jurisdiction,” and 
+“jurisdictional questions often implicate ‘the publi c’s confidence’ in judicial power.” Schaefer, 2 F.4th at 
+327-28. Schaefer further explained that the First Amendment right of access “requires courts to make newly 
+filed civil complaints available as expeditiously as possible.” Id. at 329 (emphasis added). Defendants do 
+not dispute this either. Indeed, NCAOC General Counsel advised the RRK Committee at the September 6, 
+2024, meeting that federal courts have rejected the very arguments Defendants have made here —that a 
+complaint is not a “filing” until it is accepted. (SOF ¶ 66). Rather, counsel explained the right attaches “as 
+soon as it’s submitted, whether or not it’s accepted as a filing, it’s —they’ve got a First Amendment right 
+of access. That’s what the case law is saying.” (SOF ¶ 67). This Court has already held, “‘a qualified First 
+Amendment right of public access attaches to’ a complaint upon its filing.” D.E. 38 at 7.  
+The Fourth Circuit is aligned with courts nationwide. See CNS v. N.M. Admin. Off. of Cts., 53 F.4th 
+1245, 1262-68 (10th Cir. 2022) ( “right of access attaches to complaints when they are submitted to the 
+court”); CNS v. Yamasaki, 950 F.3d 640 (9th Cir. 2020); Planet III, 947 F.3d at 590, and, on remand, CNS 
+v. Planet, No. CV-11-8083-DMG (FFMx), 2021 WL 1605216, at *1 (C.D. Cal. Jan. 26, 2021) (same); CNS 
+v. Omundson, No. 1:21-cv-00305-DCN, 2024 WL 4349112, at *10 (D. Idaho Sept. 30, 2024) (word “‘filed’ 
+is best understood to mean when the complaint is submitted to the respective e -filing system, not to mean 
+once the documents are reviewed/accepted/processed by a clerk”); Cozine, 2022 WL 1000775, at *2 (same); 
+CNS v. Gabel, No. 2:21-cv-000132, 2021 WL 5416650, at *13 (D. Vt. Nov. 19, 2021 ) (same); CNS v. 
+Tingling, No. 16 Civ. 8742 (ER), 2016 WL 8505086, at *20 (S.D.N.Y. Dec. 16, 2016); CNS v. Jackson, No. 
+4:09–CV–01844, 2010 WL 11546125, at  *1-2 (S.D. Tex. Mar. 2, 2010); CNS v. O’Shaughnessy, 663 F. 
+Supp. 3d 810, 817-18 (S.D. Ohio 2023) (same). This accords with North Carolina court rules, which provide 
+that a document is filed “when it is received by the court’s electronic-filing system, as evidenced by the file 
+stamp on the face of the document.” N.C. R. Super. & Dist. Cts. 5(b)(4)a.  
+There is no real debate that First Amendment access rights attach when a complaint is received by 
+a court, i.e., when it is filed , and Defendants’ speeding up processing of complaints only confirms this 
+recognition. The question under Press-Enterprise II and Schaefer thus becomes: Are Defendants able to 
+make an evidentiary showing prov ing their blanket withholding for processing policy—however long 
+complaints are withheld—is narrowly tailored and necessary to serve an overriding interest? See Schaefer 
+2 F.4th at 328.  While the Court need not presently consider this second prong if it were to grant CNS’ 
+requested declaratory relief, CNS nonetheless briefly addresses why even a 90% same -day access rate is 
+not the narrowest solution.    
+Still, the answer is a thunderous no.  Clerks throughout North Carolina, including the Defendant 
+Clerks, demonstrated, like the Schaefer clerks who were further hampered by paper, they can provide access 
+to 90% or more of complaints on the day of filing. For now, the Court need go no further. While there is 
+room to quibble with the methods and whether more expeditious rates of access are practicable, a 
+declaration that 90% day of filing access rates are a constitutional floor will suffice. Nonetheless, while the 
+Court need not presently consider whether Defendants’ policies are narrowly tailored and necessary to serve 
+an overriding interest, CNS briefly addresses why Defendants cannot satisfy their evidentiary standard. 
+B. Defendants’ Asserted Concerns Do Not Justify Delay   
+While the qualified right of access to nonconfidential civil complaints does not require 
+“immediate,” access to newly e-filed complaints, Defendants must prove “delays in access [are] ‘content-
+neutral, narrowly tailored and necessary to preserve the court’s important interest in the fair and orderly 
+administration of justice.’” Schaefer, 2 F.4th at 328 (quoting Planet III, 947 F.3d at 585). Accordingly, to 
+survive the tailoring prong of Press-Enterprise II, they “must demonstrate first that there is a ‘substantial 
+probability’ that [ the asserted] interest … would be impaired by immediate access, and second, that no 
+reasonable alternatives exi st to ‘adequately protect’ that government interest.”  Press-Enterprise II, 478 
+U.S. at 14 . Defendants assert two primary reasons why they cannot provide pre -processing access: the 
+possibility of rejections and protecting PII.  
+1. That Clerks Might Reject an e-Filed Complaint Is No Justification 
+Defendants’ concern regarding “rejections” is not backed by data nor any legitimate reason why 
+the mere possibility of a rejection causes harm or impairs the judicial process. Rather, they simply advised 
+such a policy exists to “avoid confusion.” (SOF ¶ 111). This concern apparently stems from the (mistaken) 
+belief that complaints are not court records until they have been “accepted.” (SOF ¶ 111). This ignores that 
+complaints are “filings” upon court receipt and this Court’s finding that First Amendment rig hts attach 
+upon filing. See DE 38 at 7; N.C. R. Super. & Dist. Cts. 5(b)(4)a. 
+North Carolina court rejection data  shows the reasons for returning new complaints to filers for 
+correction are overwhelmingly minor clerical issues. (SOF ¶¶ 112-13). Tyler-generated data produced by 
+Defendants reflects that out of the more than 4,067 new civil complaints e-filed in the Defendant Superior 
+Courts from the time they transitioned to e-filing in February 2023 through July 31, 2023, only 91, or 2.23% 
+were rejected. (SOF ¶ 112). Of those, 16 were rejected without comment or explanation and the remainder 
+were rejected for clerical errors such as missing pages or for filing in the wrong court or category. (SOF ¶ 
+112). Clerical and patronizing confusion concerns do not rise to the level of interests sufficient to overcome 
+First Amendment interests in contemporaneous/expeditious access. Further, t here is also no substantial 
+evidence that a complaint was rejected as a false lien or due to a gatekeeper order.4 (SOF ¶¶ 112-14). The 
+presence of PII in a complaint is not a reason to reject a complaint either. (SOF ¶ 115).  
+As Schaefer requires, Defendants cannot show their purported concerns were the reason for delays 
+in processing, particularly where processing numbers have improved without material changes to staffing. 
+See Schaefer, 440 F. Supp. 3d at 560), affirmed, 2 F.4th at 329 (clerks “failed to offer facts establishing that 
+any of these explanations did actually cause delays.”); see also Gabel, 2021 WL 5416650, at *15  
+(“Defendant[] offer[s] no evidence that staff review of signatures, filing fees, and filing codes is necessary 
+to protect the orderly administration of justice.”); Omundson, 2024 WL 4349112 at *13 (“The Court agrees 
+with CNS that it does not undermine the process if simple errors are corrected after the documents become 
+public rather than before.”); Planet III, 947 F.3d at 597 (finding no evidence that immediate access resulted 
+in “accounting issues[,]” “compromised the quality and accuracy of information logged into the [case 
+management system,]” “created efficiency problems[,]” or “resulted in loss, destruction, or mutilation of, 
+or otherwise compromised the ‘integrity’ of, case files”);  CNS v. Jackson , No. H –09–1844, 2009 WL 
+2163609, at *4 (S.D. Tex. July 20, 2009) (finding twenty-four to seventy-two hour delays to verify correct 
+case number, proper court, accurate title, and proper filing category were not narrowly tailored). 
+  In fact, if someone views a complaint that is not ultimately “accepted,” discovers no corresponding 
+case was opened, and wonder s why, that would be an example of the system working as it should . See 
+Omundson, 2024 WL 4349112 at *14 (“public trust actually increases when errors are corrected because 
+that provides assurances the system is working”);  N.M. Admin. Off., 53 F.4th at 1268 -69 (argument that 
+ 
+4 Defendants cite no specific instance in which this occurred or provide any data to support such 
+occurrences. (SOF ¶ 114). They also do not track or have any evidence to show how frequently (or 
+infrequently) filers have withdrawn complaints or filing errors are made. (SOF ¶ 114).  
+“providing access to complaints that may be rejected or withdrawn only invites confusion as to what is 
+happening in a state's courts… overlooks the fact that the withdrawal or rejection of a complaint might itself 
+be a matter of public interest that the press deems newsworthy”).  
+The First Amendment is not subordinate to administrative technicalities or clerical process as “the 
+prime objective of the First Amendment is not efficiency.” McCullen v. Coakley, 573 U.S. 464, 495 (2014).  
+2. Policing Potential PII in Complaints Does Not Justify Delay 
+Defendants contend that their no -access-before-processing policy is necessary to protect against 
+the public disclosure of PII.  This is another speculative, tail-wagging-the-dog argument. And it again bears 
+repeating CNS is not seeking statutorily confidential case types, which are most likely to contain PII.5 See 
+D.E. 1 (Complaint) at 11, ¶ 36. Moreover, CNS does “not cover family law matters, name changes, probate 
+filings, most mortgage foreclosures, or collection actions.” (SOF ¶¶ 8, 117). Accordingly, the justification 
+that processing is required to ensure that no confidential information is made public is nonsensical, as 
+“[t]here should not be any confidential information in these types of filings to begin with as they are, by 
+nature, nonconfidential civil cases.” Omundson, 2024 WL 4349112, at *13. Even so, the exceedingly small 
+number of confidential e -filed case initiating documents can be automatically filtered out and segregated 
+from the public record.   
+i. Automatic Filtering by Case Type, Document Type, and Filer Designation 
+ 
+North Carolina’s e -filing system can automatically filter and protect e -filed documents by case 
+type, document type, or the filer’s own designation as confidential. (SOF ¶ 118). That is , an e -filed 
+document can be automatically secured from public view , without any action by filer or clerk , if (1) the 
+document is confidential by rule or statute; (2) the document is filed in a case that is confidential by rule or 
+statute; or (3) the filer designates the document as confidential.  (SOF ¶ 119). The filer chooses case and 
+document types and designates a document confidential by choosing “confidential” rather than “public” in 
+the drop-down menu appearing when uploading a document for filing. (SOF ¶¶ 34, 36, 39). 
+ 
+5 Within case categories, certain case types are confidential by rule or statute, such as juvenile cases and 
+special proceedings. (SOF ¶ 118). 
+Moreover, the EFM can be configured to further filter and sort additional case types, including 
+family case, domestic violence, and criminal, providing pre -processing access only to the Complaints at 
+issue in this case, filtering out false liens and the cases in which confidential information is most likely to 
+appear. (SOF ¶ 102). Thus, concerns about inadvertent access to documents exempt from disclosure by rule 
+or law cannot justify Defendant’s policy of withholding Complaints until after processing. 
+ii. Filers are Responsible for Redacting PII Before Submitting a Filing 
+ North Carolina law expressly places the burden of excluding certain PII, such as social security and 
+financial account numbers, on the filer, not the clerk. N.C. Gen. Stat. § 132-1.10(d) provides:  
+No person preparing or filing a document to be recorded or filed in the official records of 
+the register of deeds, the Department of the Secretary of State, or of the courts may include 
+any person's social security, employer taxpayer identification, driver s license, state 
+identification, passport, checking account, savings account, credit card, or debit card 
+number, or personal identification (PIN) code or passwords in that document, unless 
+otherwise expressly required by law or court order, adopted by the State Registrar on 
+records of vital events, or redacted. … Any person who violates this subsection shall be 
+guilty of an infraction, punishable by a fine not to exceed five hundred dollars ($500.00) 
+for each violation. 
+ 
+ (See also SOF ¶¶ 120-121). Further, the General Rules of Practice for the Superior and District Courts have 
+the same filer mandate: “A person should omit or redact nonpublic and unneeded sensitive information in 
+a document before filing it with the court.” See Rule 5(e) (emphasis added). As the Schaefer district court 
+concluded, filer responsibility suffices to protect confidential information. See Schaefer, 440 F. Supp. 3d at 
+560 (“ Defendants claim that their interests in the orderly administration of the ir office and protecting 
+confidential information outweigh the public's First Amendment right to contemporaneous access. The 
+Court first observes that under Virginia law, the filer is responsible for redacting confidential 
+information...Defendants are currently ensuring that confidential information is protected while 
+maintaining contemporaneous access.”).  
+Additionally, as mentioned above, filers are unable to submit any filing through eFile North 
+Carolina without first checking two boxes warning filers of their legal obligation to remove PII from a filing 
+before submission and requiring them to affirm they understand the warning and will comply under risk of 
+penalty. (SOF ¶¶ 41-43). 
+Filers are also prompted to use a free auto-redact feature prior to submitting a filing. (SOF ¶ 37). 
+This feature scans the document and highlights potentially sensitive information , and all filers have to do 
+is click a button to initiate the scan . (SOF ¶ 37).  Highlights are then shown to the filer, who can review 
+them and make any edits to the automated redaction selections. (SOF ¶ 38).  Clerks are also statutorily 
+mandated to post this filer redaction requirement conspicuously throughout their offices for public viewing, 
+which Defendants have admitted they do.  (SOF ¶ 121). The NCAOC’s own documents reference these 
+rules and inform clerks around the state that the filer has the responsibility to redact and that clerks are not 
+the “PII police.” (SOF ¶ 122). 
+The Clerk Defendants admit there is no statutory or other legal mandate that it perform redactions 
+before making filings available to the public. (SOF ¶ 122).  They can point to no actual data on how 
+frequently PII allegedly appears in complaints  occurs because the clerks ’ offices do not track it. (SOF ¶ 
+123). They also are unaware of instances in which filers have  actually submitted complaints containing 
+unredacted PII. (SOF ¶ 124).  
+Defendants also have no substantial evidence that any purported instances of identity theft or 
+financial fraud have resulted from PII being available in public documents. (SOF ¶ 125). 
+Given safeguards already in place, the supposed need to review every page of every new civil 
+complaint for PII cannot justify withholding access. See Planet III, 947 F.3d at 597 (“no -access-before-
+process policy bears no real relationship to…concerns about privacy and confidentiality” where a court rule 
+“requires the filer – not the court – to exclude or redact private information from publicly filed judicial 
+documents.”); see also Omundson, 2024 WL 4349112 at *13.  
+iii. Defendants Incorrectly Maintain Certain Laws Still Require Redaction 
+ 
+Rule 1.8 notes two instances in which a clerk is now supposedly still required to redact: 
+(1) When federal laws and state laws (other than G.S. 132-1.10) regulate the disclosure of PII in court 
+records (a disingenuous position given NCAOC’s willingness to install pre -acceptance review 
+terminals under the October 2024 version of Rule 1.5); and 
+(2) Upon written request of a person identified by PII appearing on the Portal  (inapplicable here as it 
+concerns documents already made public). 
+(SOF ¶ 122). 
+ The first instance stated above is the crux of Defendants’ argument that processing prior to public 
+access is required in order for clerks to comply with the law. Each is briefly addressed below. 
+(A)  Driver’s Privacy Protection Act, 18 U.S.C. 2721, et seq. (“DPPA”) 
+18 U.S.C. § 2721(a) prohibits “a State department of motor vehicles, and any officer, employee, or 
+contractor thereof” from disclosing personal information about an individual “obtained by the department 
+in connection with a motor vehicle record.” The section does not apply to the court system because clerks 
+are not officers or employees of the DMV. Moreover, subsection (b) of the statute provides an express 
+exception to the prohibition, permitting the use of personal information “in connection with any civ il, 
+criminal, administrative, or arbitral proceeding in any Federal State, or local court or agency or before any 
+self-regulatory body.” 18 U.S.C. § 2721(b)(4). Accordingly, such references within court records are 
+expressly permitted  and therefore cannot serve as a basis for the Defendants to withhold access for 
+processing.  
+(B)  Social security numbers under 42 U.S.C. § 405(c)(2)(C)(viii) 
+This statute provides that “[s]ocial security account numbers and related records that are obtained 
+or maintained by authorized persons pursuant to any provision of law enacted on or after October 1, 1990, 
+shall be confidential, and no authorized person shall disclose any such social security account number or 
+related record.” 42 U.S.C. § 405(c)(2)(C)(viii)(I) (emphasis added). This federal law is inapplicable because 
+clerks are  specifically not in the business of obtaining and maintaining social security numbers in 
+complaints. As discussed, they take myriad steps to avoid receiving it. They don’t want it and a law designed 
+to restrain persons with an actual need to collect and store such data has no application here.      
+Moreover, if the Court were to credit th is position the federal auto-accept PACER system, which 
+has operated for decades with a federal court rule just as allergic to the inclusion of social security numbers 
+in filings (FRCP 5.2), would be potentially violating federal law. This is an absurd conclusion but one that 
+follows from Defendants’ logic.      
+Finally, no private right of action exists for alleged violations 42 U.S.C. § 405(c)(2)(C)(viii)(I), see, 
+e.g., Biccum v. City of Watertown , NY, No. 7:16-CV-645, 2019 WL 4752927, at *6 (N.D.N.Y. Sept. 30, 
+2019), which like North Carolina General Statute 132-1.10(h) provides clerks immunity from claims arising 
+out of the publication of a social security number on the public record.   
+(C)  G.S. 132-1.4, regarding criminal investigative information not being public record, 
+including SBI identifiers 
+ 
+G.S. 132 -1.4 provides that certain criminal investigative information held by law enforcement 
+agencies is not public record.  The new Rule 1.8 adds that such information includes S tate Bureau of 
+Investigation identifiers, which are fingerprint information stored in the state’s central repository for 
+criminal history information. This information arises in criminal cases, a non-issue as CNS does not seek 
+access to criminal cases. (SOF ¶ 81) 
+(D)  Violence Against Women’s Act (“VAWA”), 18 U.S.C. § 2265 
+VAWA provides that a state “shall not make available publicly on the Internet any information 
+regarding the registration, filing of a petition for, or issuance of a protection order, restraining order, or 
+injunction in either the issuing or enforcing [jurisdiction], if such publication would be likely to publicly 
+reveal the identity or location of the party protected under such order.” 18 U.S.C. § 2265(d)(3). The purpose 
+is to protect the association of an individual with a protective order, not to protect that individual’s name 
+and address in every document in any case online. (SOF ¶ 79). 
+Rule 1.8 provides that VAWA protections apply only in filings arising under Chapter 50B 
+(domestic violence cases), 50C (civil no -contact orders stemming from abuse, sexual misconduct, or 
+stalking), and 50D (human trafficking injunctions). (SOF ¶ 7 7). The only instances in which protected 
+VAWA information arise outside these case types are in criminal cases, such as in a “no contact” provision 
+of a release order or judgment, and family and non-criminal cases, such as divorce complaints. (SOF ¶ 78). 
+Accordingly, VAWA is not an issue in the types of civil cases CNS seeks.   
+Outside of the Rule, AOC’s guidance to clerks confirms the limited instances in which VAWA 
+protections are even implicated. In a PowerPoint presentation created by the NCAOC Office of the General 
+Counsel, the only examples provided are in family matters, specifically support, child custody, or visitation 
+provisions, and in divorce complaints. (SOF ¶ 76). The presentation also indicates the following case types 
+raise confidentiality issues: juvenile, SPC, adoptions, False Claims Act, juvenile transfers, expu nctions, 
+juror information, and confidential documents. (SOF ¶ 76). 
+Again, CNS is not seeking access to family or domestic violence cases, which not only can be 
+filtered out of any review queues by Tyler, but already have automatic application of case -level security, 
+which prevents them from being placed on the public Portal. (SOF ¶ 82). 
+Finally, the VAWA statute limits only what can be publicly available on the internet. Defendants 
+have expressly acknowledged that it does not otherwise make that information confidential or prevent it 
+from being distributed to the public in other forms, such as hard copy or via an on-site terminal (SOF ¶ 80). 
+Indeed, Defendant NCAOC has prepared guidance expressly instructing clerks that if a member of the press 
+or public requests access to these case files in person, “the clerk should provide them without any VAWA-
+specific redactions. (SOF ¶ 80). 
+Given the above, VAWA cannot be used legitimately to withhold access to the complaints at issue 
+here. CNS has repeatedly emphasized it does not seek the very limited, specific cases that VAWA 
+information may appear in, and those cases may be easily segregated from others. The protections already 
+in place to prevent such information from being publicly released serve the Defendants’ interest in 
+maintaining this information. And they can continue to do so without delaying all civil complaints based 
+on the purported application of VAWA.  
+ 3. Defendants’ Post-Litigation Rule Amendments Do Not Satisfy the First Amendment  
+ 
+ In a blatant attempt to avoid the relief sought in this lawsuit —and in recognition of their First 
+Amendment violations with respect to access —Director Boyce advised in September 2024 that Rule 1.5 
+would be revised to change the processing requirements for clerks. The Committee voted unanimously on 
+these revisions. As modified, Rule 1.5 (both the October 2024 and April 2025 versions) encourages clerks, 
+absent extenuating circumstances, to process civil complaints that are filed before 5 p.m. on a business day 
+by 11:59 p.m. on the same calendar day  (which the rule gratuitously defines as “same day acceptance”), 
+and when not practicable, on the next court date. The April 2025 version  eliminated the 90% same -day 
+acceptance rate required of clerks and any real remedy for failures.  
+The rule was adopted for litigation strategy: as the general counsel for NCAOC stated at the RRK 
+Committee meeting, “we would like this [rule] in place before we do our summary judgment briefing in the 
+case.” (SOF ¶ 69). But the new rule creates a host of constitutional issues .  At any rate, declaratory relief 
+like in Schaefer remains appropriate. As discussed above, and as already established by this Court, the First 
+Amendment standard established in Schaefer, “does not depend upon a specific time frame,” but rather “in 
+all cases requires ‘courts to make newly filed civil complaints available as expeditiously as possible .’” 
+Order, ECF 38, p. 11 (citing Schaefer, 2 F.4th at 329) (emphasis added). And while Schaefer noted under 
+its specific facts that the “contemporaneous” access standard was “flexible” and next day access was okay 
+if same day was not “practicable,” such flexibility only came into play there when, unlike here, it was not 
+“practicable” to provide same-day access in a paper environment.  See id. at 328.  
+Here, the new policy outlined in Rule 1.5, though appearing to parrot Schaefer, in practical effect 
+does the opposite of what is permitted: it sets an arbitrary time limit for processing  based on when the 
+physical courthouse is open while disregarding the realities of 24/7 e-filing and the easier and more efficient 
+technical options providing more expeditious access to civil complaints.  Even though a minimum 90% day 
+of filing access standard  (as previously articulated)  would be acceptable to CNS, the work -arounds 
+embedded in the rule cannot satisfy CNS, much less the First Amendment.  Under the rule, for example, 
+complaints filed after 5:00 p.m. can languish in a review queue until clerks get to them at some point the 
+next day. And if a complaint is filed at 5:02 p.m. on the Friday before a Monday court holiday, for example, 
+it will only be processed on the next court date, which would be a Tuesday,  causing a multi-day delay. 
+Under NCAOC’s definitions, in such a scenario, that processing would be considered “same day.” (SOF ¶ 
+86). Such delays will be continuing violations of the First Amendment. As the Fourth Circuit has eloquently 
+explained: 
+Because the public benefits attendant with open proceedings are compromised by delayed 
+disclosure of documents, we take this opportunity to underscore the caution of our 
+precedent and emphasize that the public and press generally have a contemporaneous right 
+of access to court documents and proceedings when the right applies. ‘Each passing day 
+may constitute a separate and cognizable infringement of the First Amendment.’  
+ 
+Doe v. Public Citizen, 749 F.3d 246, 272 (4th Cir. 2014). 
+That the October 2024 version of Rule 1.5 allowed a terminal to provide immediate, pre-processing 
+access undercuts previously stated concerns regarding fixing filer mistakes and protecting PII. They were 
+willing to make the complaints available pre-processing at the courthouse.  
+C. CNS is Entitled to Declaratory (and Potential Injunctive) Relief to Prevent Defendant from 
+Denying Access Until Complaints Are Processed. 
+  
+Despite controlling Fourth Circuit authority and an explicit decision from this Court earlier in this 
+case, the Defendants continue to take the position that they must withhold access until after processing has 
+occurred. And they have attempted to craft a new recordkeeping  and processing rule at the eleventh hour 
+to circumvent any declaratory judgment here. As noted, the new rule still fails to meet constitutional muster.  
+Foremost, North Carolina’s rule framework is no guarantee of constitutional compliance.  Rule 1.1 
+of the RRK permits the NCAOC Director “ to amend the e RRK unilaterally.” (SOF ¶ 84).  Accordingly, 
+without declaratory relief instituting a same-day access floor of 90% for new complaints (along with the a 
+post-judgment compliance report to the Court and potential sanction for failure) NCAOC is free to change 
+the rules at any time, and the Defendants are free to return to previous laissez faire public access practices 
+that result in significant harm to the public and the press. 
+When exercising its discretion to issue declaratory judgment,6 a court should consider: 
+(1) whether the judgment ‘will serve a useful purpose in clarifying the legal relations in 
+issue;’ (2) whether the judgment ‘will terminate and afford relief from the uncertainty, 
+insecurity, and controversy giving rise to the proceeding;’ (3) considerations of federalism, 
+ 
+6 The Court has jurisdiction to award declaratory relief here because “(1) the complaint alleges an ‘actual 
+controversy’ between the parties of ‘sufficient immediacy and reality to warrant issuance of a declaratory 
+judgment;’ (2) the court possesses an inde pendent basis for jurisdiction over the parties ( e.g., federal 
+question or diversity jurisdiction); and (3) the court does not abuse its discretion in its exercise of 
+jurisdiction.” Volvo Constr. Equip. N. Am., Inc. v. CLM Equip. Co., Inc., 386 F.3d 581, 592 (4th Cir. 2004). 
+As in Schaefer, all conditions have been met here. See Schaefer, 2 F.4th at 324, n.1 ; see also Gibbons v. 
+Gibbs, 99 F.4th 211, 214 (4th Cir. 2024) (affirming declaratory judgment against state officials in their 
+official capacity). 
+efficiency, and comity; (4) ‘whether the declaratory judgment action is being used merely 
+as a device for procedural fencing —that is, to provide another forum in a race 
+for res judicata or to achieve a federal hearing in a case otherwise not removable.’ ” 
+ 
+Schaefer, 440 F. Supp. at 561, affirmed, 2 F.4th at 329 ; see also Meredith v. Stein , 355 F. Supp. 3d 355, 
+366 (E.D.N.C. 2018) (entering declaratory judgment where sex offender law violated plaintiff’s procedural 
+due process rights); Am. Humanist Ass’n v. Perry, 303 F. Supp. 3d 421, 432-33 (E.D.N.C. 2018) (entering 
+declaratory judgment that defendant violated Equal Protection Clause). 
+As in Schaefer, CNS has shown it is entitled to declaratory judgment as a matter of law on its 
+section 1983 First Amendment claim. There, the evidence showed that clerks had made available only 19% 
+of newly filed complaints the same day of filing, and 22% available until two or more court dates after 
+filing. Schaefer, 2 F.4th at 322. But after the lawsuit was filed, the clerks “significantly improved access to 
+documents in their courts without hiring any new employees or changing employee or court hours,” making 
+92.3% of newly filed complaint available on the day of filing and 100% available within one court day. Id. 
+at 322-23. The District Court determined that declaratory relief was appropriate because the complaint 
+alleged an actual controversy involving deprivation of rights protected by the federal Constitution: 
+“Although Plaintiff is no longer experiencing unconstitutional delays, this case still presents an actual 
+controversy of ‘sufficient immediacy,’ because Defendants voluntarily reduced their unlawful conduct and 
+have not provided assurances that they will no t resume it.” Schaefer, 440 F. Supp. 3d at 561 -62. And the 
+Fourth Circuit , explaining that the clerks’ prior processing violated the First Amendment because the 
+evidence showed “it was both possible and practicable to provide same -day access to most newly filed 
+complaints.” Schaefer, 2 F.4th at 329.  
+The evidence here establishes the very same thing as in Schaefer. Since CNS filed this lawsuit, the 
+Clerk defendants processing of complaints has improved from roughly 50% same-day availability to over 
+90% same-day availability. (SOF ¶ 62).  However, Defendants do not consistently maintain those numbers. 
+(SOF ¶ 64).  Similarly, the Clerk Defendants have achieved these results both before and after both revisions 
+to Rule 1.5  without increasing personnel , court hours, or processing speed . (SOF ¶ 98).  It is th erefore 
+evident that the Clerks were not making complaints accessible as expeditiously as possible. And here, in 
+the electronic filing world, the paper-filing limitations present in Schaefer do not exist, so it is even more 
+“possible and practicable” to provide faster access.  A declaratory judgment should be entered against 
+Defendants. Further, as previously noted, this Court should reserve the ability to enter injunctive relief 
+forbidding withholding complaints for processing should Defendants fail to meet the declaratory 
+judgment’s terms.   
+VI.  CONCLUSION 
+As CNS’ editor and publisher William Girdner explained, “[t]his litigation and the litigation that 
+has preceded it stems from a conviction that the foundation stone of the American courts is their open and 
+public nature.”  Girdner Decl., ¶ 87.  Technology make s it easier for the press to watch the flow of each 
+day’s new complaints so it can report the news it finds. But North Carolina has made access so much harder. 
+CNS has presented technology solutions to Defendants. They have rejected them and done everything 
+possible to ward off court action. And while the pattern is clear —Defendants’ purposefully speeding up 
+same-day access during this litigation to Schaefer-like levels—that pattern may not continue and has proven 
+at best inconsistent. This is why the requested declaratory relief, with a later option, if necessary, to impose 
+an injunction forbidding withholding given the technology solutions CNS has shown are the true narrowly 
+tailored solutions in the e-filing context, is required.   
+There is also no question that at the time of this lawsuit’s filing, and for months after,  Defendants 
+violated CNS’ First Amendment rights by not making e-filed civil complaints available “as expeditiously 
+possible.”  It is thus entitled to declaratory relief and its attorneys’ fees and costs.    
+Accordingly, CNS respectfully asks the Court to grant its motion for summary judgment. 
+ 
+ 
+  
+CERTIFICATION 
+Pursuant to Local Rule 7.2(f)(2)(B) and (3)(B), the undersigned certifies that this memorandum of 
+law complies with the font, page and/or word limits under the Rule.  
+Respectfully submitted this 16th day of May, 2025. 
+ 
+  THOMAS & LoCICERO PL 
+ 
+/s/ Carol Jean LoCicero           
+Carol Jean LoCicero (FBN 603030) 
+Mark R. Caramanica (FBN 110581) 
+601 South Boulevard 
+Tampa, FL  33606 
+Telephone: (813) 984-3060 
+Facsimile: (813) 984-3070 
+clocicero@tlolawfirm.com 
+mcaramanica@tlolawfirm.com 
+tgilley@tlolawfirm.com 
+jvanderhorst@tlolawfirm.com 
+ 
+Daniela B. Abratt (FBN 118053) 
+915 Middle River Drive, Suite 309 
+Fort Lauderdale, FL 33304 
+Telephone: (954) 703-3418 
+dabratt@tlolawfirm.com 
+ 
+- and - 
+ 
+Michael J. Tadych (NC Bar No. 24556) 
+mike@smvt.com 
+Kathleen O’Malley (NC Bar. No. 51654) 
+komalley@smvt.com 
+STEVENS MARTIN VAUGHN & 
+TADYCH, PLLC 
+6300 Creedmoor Road, Suite 170-370 
+Raleigh, NC 27612 
+Telephone: (919) 582-2300 
+Facsimile: (866) 593-7695 
+ 
+Counsel for Courthouse News Service 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CERTIFICATE OF SERVICE 
+ 
+ This is to certify that the undersigned this  16th day of May, 2025 has caused the foregoing to be 
+electronically filed using the CM/ECF system, which will send notification of such filing to all the counsel 
+of record for the parties who participate in the CM/ECF system.  
+       /s/ Carol Jean LoCicero  
+       Attorney 

@@ -59,8 +59,8 @@ def score_extraction_item(agent: Agent, case: GoldenCase, item: ReviewItem) -> l
     for name, fspec in agent.schema.fields.items():
         exp = expected.get(name)
         got = item.fields.get(name) or {}
-        if exp is None:
-            continue
+        if exp is None or exp.get("present") is None:
+            continue  # no label for this field (draft imports leave unlabelled fields as null)
         exp_present = bool(exp.get("present"))
         got_present = bool(got.get("present"))
         presence_ok = exp_present == got_present
@@ -88,12 +88,22 @@ def score_findings_item(case: GoldenCase, item: ReviewItem) -> list[dict]:
     rows = []
     exp_list = case.expected.get("findings", [])  # type: ignore[union-attr]
     got_by_cite = {f["citation"].replace(" ", ""): f for f in item.findings}
+    exp_keys = {e["citation"].replace(" ", "") for e in exp_list}
+    # extractor false positives: found in the brief by the parser, absent from the human labels
+    for key, got in got_by_cite.items():
+        if key not in exp_keys and got["verdict"] != "SKIPPED":
+            rows.append({"doc_id": case.doc_id, "field": "extraction", "kind": case.kind,
+                         "value_ok": False, "presence_ok": False, "quote_match": got["quote_match"],
+                         "span_iou": None, "precision": None, "recall": None,
+                         "escalated": got["status"] == "escalated", "confidence": got["confidence"],
+                         "expected": None, "got": got["citation"], "citation": got["citation"],
+                         "reason": "extra citation (not in labels)"})
     for exp in exp_list:
         key = exp["citation"].replace(" ", "")
         got = got_by_cite.get(key)
         verdict_ok = bool(got) and got["verdict"] == exp["verdict"]
-        rows.append({"doc_id": case.doc_id, "field": "verdict", "kind": case.kind,
-                     "value_ok": verdict_ok, "presence_ok": bool(got),
+        rows.append({"doc_id": case.doc_id, "field": "extraction" if not got else "verdict",
+                     "kind": case.kind, "value_ok": verdict_ok, "presence_ok": bool(got),
                      "quote_match": got["quote_match"] if got else "missing",
                      "span_iou": None, "precision": None, "recall": None,
                      "escalated": bool(got and got["status"] == "escalated"),

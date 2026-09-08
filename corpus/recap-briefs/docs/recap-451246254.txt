@@ -1,0 +1,451 @@
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TENNESSEE 
+ 
+THE GATHERING SPOT, LLC, 
+ Plaintiff, 
+ 
+v. 
+ 
+THE GATHERING SPOT AT BURLINGTON 
+VILLAGE, LLC and TERRI CADE-HILL,   
+Defendants.                                       
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+CIVIL ACTION FILE NO.  
+3:22-cv-00007-TRM-JEM 
+ 
+ 
+JURY TRIAL DEMANDED 
+ 
+PLAINTIFF’S MEMORANDUM OF LAW IN SUPPORT OF  
+MOTION FOR SUMMARY JUDGMENT 
+ 
+The Gathering Spot, LLC, (“TGS”), respectfully submits this Memorandum in Support of 
+its Motion for Summary Judgment against Defendants The Gathering Spot at Burlington Village , 
+LLC (“TGS Burlington”) and Terri Cade -Hill, pursuant to Rule  56 of the Federal Rules of Civil 
+Procedure.   
+STATEMENT OF FACTS 
+TGS is a widely popular private membership club. TGS was founded in 2016 as a 
+members-only, private social club in Atlanta that features a restaurant and event space designed 
+to provide its members with oppor tunities to socialize, experience cultural events, and 
+collaborate professionally.  (Joint Appendix (“JA”) at p. 4 [Verified Complaint ¶¶ 10-11]). 1 
+Among many of its service offerings, TGS offers restaurant and bar services and event 
+space for private events such as weddings, concerts, and conferences. ( Id.) TGS's members are 
+dispersed across the United States and have access to each of the club's locations in Washington, 
+D.C., Atlanta, and Los Angeles, as well as its affiliate locations in Charlotte, New York City, 
+ 
+1 Plaintiff verified its Complaint, as set forth in Joint Appendix page 36. Accordingly, Plaintiff 
+cites to its Complaint as evidence herein. 
+ 
+PageID #: 424
+Houston, Detroit, and Chicago. ( JA. at p. 1.)  Its membership roster is filled with celebrities, 
+creatives, politicians, and many other successful and well -known executives and entrepreneurs. 
+(JA. at p. 4 [Verified Complaint ¶ 13]). 
+TGS first began using the name “THE GATHERING SPOT” in commerce when it 
+opened its flagship location in Atlanta in January 2016. ( JA at p. 5 [Ver ified Complaint ¶ 19]). 
+On October 4, 2016, TGS registered “THE GATHERING SPOT” with the United States Patent 
+and Trademark Office under Registration No. 5,123,588 for "Concierge services for others, 
+namely, making requested personal arrangements and reservat ions, running errands, and 
+providing customer-specific information to meet individual needs" in International Class 45. (JA 
+at pp. 5, 18- 19). Additionally, on January 17, 2017, TGS was also granted a federal trademark 
+registration for THE GATHERING SPOT un der Registration No. 5,053,536 for the following 
+services: "Social club services, namely, arranging, organizing, and hosting social events, get -
+togethers, and parties for club members" in International Class 41 and "Providing food and 
+drinks; bar and cockt ail lounge services; providing conference rooms; restaurant and catering 
+services; providing social meeting, banquet and social function facilities" in International Class 
+43. (JA at pp. 5, 20- 21). These registrations and Plaintiff’s common law rights will collectively 
+be referred to as “Plaintiff’s Marks”.  
+Since at least January 30, 2016, until present, TGS has used the mark “THE 
+GATHERING SPOT” in commerce in connection with the associated services.  (JA at p. 5 
+[Verified Complaint ¶ 19]). TGS's trademarks have been in continuous use for over five years 
+and have achieved widespread public recognition and developed acquired distinctiveness from 
+the frequent sponsorship of events, concerts, debates, and conferences. (JA at p. 5 [Verified 
+Complaint ¶ 20]). 
+ 
+PageID #: 425
+Since its inception, TGS has continued to gain acclaim and notoriety through its high-
+profile members and guests, and by hosting events such as TED Talks, seminars, workshops, 
+professional networking events, and political fundraisers. ( JA at p. 1.)  TGS and/or its founders 
+have been featured in FOOD & WINE magazine, the Los Angeles Sentinel, The Georgetowner, 
+Creative Loafing, NBC News, CBS 46, The New York Times, ESSENCE magazine, Atlanta 
+Business Chr onicle, VARIETY (magazine), Metro Atlanta Chamber, Atlanta Magazine, INC 
+(magazine), WIRED (magazine), The Atlanta Journal Constitution, USA TODAY, Fast 
+Company, Nightly News with Lester Holt, News One, FORBES, Bloomberg Businessweek, 
+Black Enterprise, BILL BOARD, and many others. ( JA at p. 5 [Verified Complaint ¶ 22 ]). In 
+nearly six years since its beginning, TGS now owns four federal trademark registrations for 
+“THE GATHERING SPOT” or “TGS” with unsurpassed goodwill in its brand. (JA at pp. 18-25).  
+On the morning of November 4, 2016, Defendant Terri Cade -Hill visited TGS's Atlanta 
+location as a guest and met Ryan Wilson, the cofounder of TGS. (JA at p p. 6, 27- 28). Upon 
+visiting TGS’s Atlanta location, Ms. Cade-Hill had access to every aspect of TGS’s operation, an 
+opportunity to view the club’ s set -up, organizational arrangement, and see the success of the 
+TGS business model firsthand. ( JA at pp. 6, 42 [Verified Complaint ¶ 26; RFA No. 8] ). Shortly 
+after her visit, Ms. Cade -Hill emailed Mr. Wilson asking  for anything that could assist her in 
+opening a shared working space in Knoxville, TN, specifically resources related to financing and 
+creating the structure and technology. ( JA at pp. 7, 43 [Verified Complaint ¶ 27; RFA No. 9] ). 
+Mr. Wilson provided Ms. C ade-Hill with information related to the resources he used to secure 
+financing and an offer to continue discussions related to her Knoxville space. (JA at p. 28). 
+Unfortunately, at that time, Mr. Wilson did not know Ms. Cade -Hill would go on to create a 
+competing business that was a mirror image of TGS, copying everything down to the name.  
+ 
+PageID #: 426
+In June 2019, Ms. Cade -Hill and TGS Burlington opened an event space in Knoxville. 
+(JA at pp. 6, 42 [Verified Complaint  ¶ 24; RFA No. 7]) . Defendants adopted the name “THE 
+GATHERING SPOT,” typically used alongside the phrase “at Burlington Village.”   (JA at pp. 
+6-10 [Verified Complaint  ¶¶ 26-33, 36-37]). Defendants admit that they developed the idea for 
+the name as a derivative of Plaintiff’ s business. ( JA at p. 43 [RFA No. 10]) . The opening 
+announcement is shown below: 
+ 
+(JA at p. 7 [Verified Complaint  ¶ 29]).  Mr. Wilson immediately informed Defendants that their 
+business infringed upon TGS’s federal trademark rights and that they must imme diately stop 
+using the mark. (JA at pp. 8-9 [Verified Complaint ¶ 32]).  
+At some point, like TGS, Defendant s also began promoting themselves as a restaurant as 
+well. (JA at p. 7 [Verified Complaint  ¶ 30]). Defendants ignored Mr. Wilson’s messages, ( JA at 
+p. 9 [Verified Complaint  ¶ 33]), and then proceeded to also ignore a cease and desist letter sent 
+by Plaintiff’s counsel. (JA at pp. 9, 34- 35 [Verified Complaint  ¶ 33]).  Defendants continued to 
+use the mark “The Gathering Spot” after being asked to cease use by Plaintiff. ( JA at p. 43 [RFA 
+ 
+PageID #: 427
+No. 13]). Moreover, in subsequent advertising, Defendants began dropping use of “at Burlington 
+Village” such that the geographical differentiator was gone, leading to an e ven more confusing 
+mark. (JA at pp. 9, 43 [Verified Complaint  ¶ 34; RFA Nos. 12, 14]). Defendants also used the 
+mark “G SPOT” in marketing, which tarnishes TGS, and which Defendants  admit is a reference 
+to an erogenous zone in a woman’s body. ( JA at pp. 10, 44 [Verified Complaint  ¶ 35; RFA Nos. 
+19, 20]). Despite receiving numerous communications from TGS asking Burlington TGS to 
+rebrand, it refused to do so. (JA at pp. 8 -10, 43 [Verified Complaint  ¶¶ 32-35; RFA No. 13]). 
+Accordingly, TGS initiated this action for trademark infringement, unfair competition, and 
+dilution under the Lanham Act, 15 U.S.C. §§ 1116, 1125(a), 1125(c); and trademark 
+infringement and dilution by tarnishment under Tennessee law on January 5, 2022. In the months 
+after filing its lawsuit, TGS would attempt service on Defendants more  than 23 times, ultimately 
+leading to an entry of default against Defendants and an Order granting Plaintiff’s request for 
+more than $27,000 in attorneys’ fees for Defendants’ willful evasion of service.  
+On September 19, 2022, the Court entered an Order establishing that Defendants’ Answer 
+was deemed filed.  On April 6, 2023, Plaintiff served upon Defendant  TGS Burlington its First 
+Interrogatories, First Request for Production of Documents, and First Requests for Admissions. 
+(JA at p. 48, 51 [Hyland Declaration ¶ 5]). To date, Defendant(s) have failed to respond to any of 
+Plaintiff’s written discovery requests, including its Requests for Admission. (JA at p. 48 [Hyland 
+Declaration ¶ 6]).  Defendants have also failed to provide Plaintiff with their initial disclosures or 
+witness list. 
+ 
+ 
+ 
+ 
+PageID #: 428
+ARGUMENT AND CITATION OF AUTHORITY 
+I. Summary Judgment Standard 
+Summary judgment is appropriate when “the movant shows that there is no genuine  
+dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R.  
+Civ. P. 56(a). The moving party bears the burden of establishing that no genuine issues of  
+material fact exist. Celotex Corp.  v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548; 91 L. Ed. 2d 
+265 (1986); Leary v. Daeschner , 349 F.3d 888, 897 (6th Cir. 2003). While the Court views the  
+evidence in a favorable light for the non- moving party, Matsushita Elec. Indus. Co., Ltd. v. 
+Zenith Radio Corp., 475 U.S. 574, 586- 87, 106 S. Ct. 1348; 89 L. Ed. 2d 538 (1986); Nat'l  
+Satellite Sports, Inc. v. Eliadis, Inc., 253 F.3d 900, 907 (6th Cir. 2001), “the non- movant is not  
+entitled to a trial based merely on its allegations; it must submit significant probative evidence to 
+support its claims.” Hopkins v. Sellers , Case No. 1:09- cv-304, U.S. Dist. LEXIS 58980, 9-10 
+(E.D. Tenn. Jun. 2, 2011) (citing Celotex, 477 U.S. at 324). “ It is well established that once the 
+party moving for a Rule 56 summary judgment has met its burden, the non- moving party cannot 
+rest on its pleadings to avoid a summary judgment but  must go beyond the pleadings and by 
+some evidence -- such as affidavits -- designate specific facts which would preclude the entry of 
+summary judgment for the moving party.” Newman-Waters v. Blue Cross/Blue Shield of Tenn., 
+Inc., 2005 U.S. Dist. LEXIS 27394, 76-77 (2005)(citing Celotrex Corp. v. Catrett, 477 U.S. 317, 
+324, 106 S. Ct. 2548, 91 L.Ed. 2d 265 (1986) and Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 
+248-49, 106 S. Ct. 2505, 91 L.Ed. 2d 202 (1986)). If the Court determines that the factfinder 
+could not find in favor of the non- moving party based on the record, the Court should  grant 
+summary judgment. Id. at *10 (citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248-49, 106 
+S. Ct. 2505; 91 L. Ed. 2d 202 (1986)). 
+ 
+PageID #: 429
+II. No Facts are in Dispute as to Trademark Infringement  
+Here, as a matter of law, Defendants have infringed Plaintiff’s invaluable rights in its 
+trademark which have caused ongoing and irreparable harm to Plaintiff and the goodwill 
+associated with Plaintiff’s marks.  
+A claim of  trademark infringement under the Lanham Act, 15 U.S.C. § 1114, requires a 
+plaintiff to show "(1) that it owns a valid, protectable trademark; (2) that the defendant used the 
+mark in commerce and without the registrant's consent; and (3) there was a likelihood of 
+consumer confusion." Ford Motor Co. v. Heritage Mgmt. Grp., Inc., 911 F. Supp. 2d 616, 621 
+(E.D. Tenn. 2012) (citing to Abercrombie & Fitch v. Fashion Shops of Ky., Inc., 363 F. Supp. 2d 
+952, 957 (S.D. Ohio 2005) ). Further, if a plaintiff establishes infringement and additionally 
+alleges trademark counterfeiting, he must also show that “ the defendant intentionally used the 
+mark knowing it was a counterfeit, as the term counterfeit is defined in 15 U.S.C. § 
+1116.” Id. Section 1116 defines counterfeit mark as “ a mark that is registered on the principal 
+register in the United States Patent and Trademark Office for such goods or services sold, offered 
+for sale, or distributed and that is in use, whether or not the person against whom relief is sought 
+knew such mark was so registered. ” “ Elsewhere, the statute provides additional clarification, 
+defining ‘counterfeit’ as ‘a spurious mark which is i dentical with, or substantially 
+indistinguishable from, a registered mark. ’” Laukus v. Rio Brands, Inc., 391 F. App'x 416, 425 
+(6th Cir. 2010) (quoting 15 U.S.C. § 1127). 
+The first two elements of  trademark infringement are undisputed in this case. Plaintiff’s 
+federal registration constitutes prima facie evidence of the validity of its legally protectable 
+mark: 
+Any registration . . . of a mark registered on the principal register . . . and owned 
+by a party to an action shall be . . . prima  facie evidence of registrant's exclusive 
+ 
+PageID #: 430
+right to use the registered mark in commerce on the goods or services specified in 
+the registration . . . but shall not preclude an opposing party from proving any 
+legal or equitable defense or defect which might have been as serted if such mark 
+had not been registered. 
+ 
+15 U.S.C. § 1115(a) ; see also Burke-Parsons-Bowlby Corp. v. Appalachian Log Homes, Inc.,  
+676 F. Supp. 813, 815 (E.D. Tenn. 1987). Here, TGS has asserted four trademark registrations in 
+the mark “THE GATHERING S POT”, ( JA at pp. 18-25), that have not been contested by 
+Defendants. Plaintiff’s trademarks are therefore valid and protectable. 
+ The second element requires a showing that Defendants used TGS’s trademark in 
+commerce without Plaintiff’s consent. The record here is undisputed that Defendants opened an 
+event space and dining establishment using the mark “THE GATHERING SPOT” (JA at pp. 7-8, 
+42 [Verified Complaint ¶¶ 29-31; RFA No. 6]), that they promoted their business in interstate 
+commerce2 ( JA at pp. 7, 9-10 [Verified Complaint ¶¶ 29, 30, 34, 35] ), and that they did so 
+without TGS’s consent (JA at pp. 10, 42-43 [Verified Complaint ¶ 36; RFA Nos. 2, 3, 5, 13]). 
+ As to the third element, “[t]he touchstone of liability under § 1114 is whether the 
+defendant's use of the disputed mark is likely to cause confusion among consumers regarding the 
+origin of the goods offered by the parties.” Daddy's Junky Music Stores, Inc. v. Big Daddy's 
+Family Music Center, 109 F.3d 275, 280 (6th Cir. 1997). Courts cons ider the following eight 
+factors when determining whether the mark is likely to cause confusion: "(1) strength of the 
+plaintiff's mark; (2) relatedness of the goods or services; (3) similarity of the marks; (4) evidence 
+of actual confusion; (5) marketing channels used; (6) likely degree of purchaser care; (7) intent 
+of the defendant in selecting the mark; and (8) likelihood of expansion of the product 
+lines." Abercrombie, 363 F. Supp. 2d at 959 (citing Frisch's Rests, Inc. v. Elby's Big Boy of 
+ 
+2 The internet is “an instrumentality of interstate commerce.” Ford  Motor Co. v. Heritage Mgmt. 
+Grp., Inc., 911 F. Supp. 2d 616, 622 (E.D. Tenn. 2012) (citing to Utah Lighthouse Ministry v. 
+Found. For Apologetic Info. & Research, 527 F.3d 1045 (10th Cir. 2008)). 
+ 
+PageID #: 431
+Steubenville, Inc., 670 F.2d 642 (6th Cir. 1982)). However, “such multi-factored balancing is 
+unnecessary in cases like this one where the defendant has misappropriated precise counterfeits 
+of the plaintiff's trademarks on goods that compete with the trademark holder's own 
+goods.” General Motors Corp. v. Autovation Technologies, Inc., 317 F. Supp. 2d 756, 761 (E.D. 
+Mich. 2004). In such cases, “a likelihood of confusion is presumed when a defendant 
+intentionally copies a trademark design ‘with the intent to derive a benefit from the reputation of 
+another.’” Id. (quoting Ford Motor Corp. v. Lloyd, 22 F. App'x 464, 467 (6th Cir. 2001)). 
+ Here, it is undisputed that Defendants adopted a precise counterfeit of TGS’s trademark 
+for services that directly overlap with TGS’s services. (JA at pp. 9-10, 42 [Verified Complaint ¶¶ 
+34-39; RFA Nos. 6-8]). Likelihood of confusion should therefore be presumed.  
+ Even if the Court were to engage in the multi-factor analysis, likelihood of confusion 
+would be clearly established. Plaintiff has established that it has a strong, well-known mark (JA 
+at pp. 4-6, 42 [Verified Complaint ¶¶ 11-16; 21-23), the parties’ services are overlapping (JA at 
+pp. 7-8, 10, 42 [Verified Complaint ¶¶ 30, 37; RFA Nos. 6, 7]), the marks are identical (JA at pp. 
+7-9 [Verified Complaint ¶¶ 30, 31, 34]), the parties both use similar marketing channels (JA at p. 
+7 [Verified Complaint ¶ 30]), Defendants have admitted to intentionally copying TGS’s 
+trademarks and business model (JA at pp. 42-43 [RFA Nos. 8, 10, 16, 17]), and have admitted 
+that consumer confusion has occurred (JA at p. 43 [RFA No. 18]). Because most, if not all, of the 
+likelihood of confusion factors weigh in favor of finding likelihood of confusion, trademark 
+infringement exists as a matter of law.  
+III. No Facts are in Dispute as to Unfair Competition 
+Plaintiff also set forth a claim for unfair competition under 15 U.S.C. § 1125(a). Claims 
+under § 1125(a) are governed by the “same test” as trademark infringement actions. Audi AG v. 
+ 
+PageID #: 432
+D’Amato, 469 F.3d 534, 542 (6th Cir. 2006). Because TGS has established trademark 
+infringement, it also has established its unfair competition claim.  
+IV. No Facts are in Dispute as to Trademark Dilution  
+TGS also has established as a matter of law that Defendants diluted TGS’s trademark as 
+prohibited in 15 U.S.C. § 1125(c). In order to establish trademark dilution, TGS must show that 
+its trademark is (1) famous and (2) distinctive, and that Defendants’ use of the mark (3) was in 
+commerce, (4) began after TGS’s mark became famous, and (5) likely caused dilution of the 
+distinctive quality’ of TGS’s mark.” 15 U.S.C. § 1125(c). 
+TGS easily satisfies the first two factors.  (JA at p. 6 [Verified  Complaint ¶ 22]). For 
+reasons discussed above, Defendants’ use of the mark was “in commerce.” Defendants admit 
+they began using the mark in 2019, well after TGS’s mark became famous (JA at pp. 6, 42 
+[Verified Complaint ¶ 24; RFA Nos. 7-8]). Thus, the chief question on this claim is whether 
+Defendants caused “dilution of the distinctive quality’ of TGS’s mark.” However, with respect to 
+this factor “the Supreme Court has noted that ‘direct evidence of dilution such as consumer 
+surveys will not be necessary if actual dilution can reliably be proven through circumstantial 
+evidence—the obvious case is one where the junior and senior marks are identical.’” Moseley v. 
+V. Secret Catalogue, 537 U.S. 418, 434, 123 S. Ct. 1115, 155 L. Ed. 2d 1 (2003)). Here, the 
+marks in this case are identical, and indeed intended to be indistinguishable.  
+Moreover, this case additionally presents uncontested evidence of tarnishment. 
+Actionable trademark dilution from “ tarnishing occurs when a trademark is ‘ linked to products 
+of shoddy quality, or is  portrayed in an unwholesome or unsavory context,’  with the result that 
+‘the public will associate the lack of quality or lack of prestige in the defendant ’s goods with the 
+plaintiff’s unrelated goods.’”  Scooter Store, Inc. v. SpinLife.com, LLC, No. 2:10-cv-18, 2012 
+ 
+PageID #: 433
+U.S. Dist. LEXIS 140003, at *41 (S.D. Ohio Sep. 28, 2012). “[A]ny new mark with a lewd or 
+offensive-to-some sexual association raises a strong inference of tarnishment. The inference must 
+be overcome by evidence that rebuts the probability that some consumers will find the new mark 
+both offensive and harmful to the reputation and the favorable symbolism of the famous mark.”  
+V Secret Catalogue, Inc. v. Moseley, 605 F.3d 382, 389 (6th Cir. 2010). Here, Defendants have 
+referred to their business as “GSPOT,” including as a social media “handle” (JA at pp. 10, 44 
+[Verified Complaint ¶ 35; RFA Nos. 19, 20]) creating precisely the type of unfavorable sexual 
+associations referenced in V Secret Catalogue, and they have provided nothing to rebut the 
+presumption that such use is offensive or harmful. Dilution by tarnishment has therefore been 
+established.  
+V. No Facts are in Dispute as to Permanent Injunctive Relief 
+Pursuant to Section 34 of the Lanham Act, Courts are empowered to “grant injunctions, 
+according to the principles of equity and upon such terms as the court may deem reasonable, to 
+prevent the violation of any right of the registrant of a mark registered in the Patent and 
+Trademark Office or to prevent a violation under subsection (a), (c), or (d) of section 1125 of this 
+title.” 15 U.S.C. § 1116(a). Permanent injunctive relief is appropriate when (1) the plaintiff risks 
+suffering irreparable harm; (2) monetary remedies are inadequate to compensate for the 
+plaintiff’s injury; (3) the balance of hardships favors the plaintiff; and (4) the public interest 
+would not be disserved by an injunction. eBay Inc. v. MercExchange, LLC, 547 U.S. 388, 391 
+(2006). 
+The Court should grant permanent injunctive relief as requested in the Verified 
+Complaint, because all factors strongly favor Plaintiff. Plaintiff fully and adequately pled the 
+grounds for, and their entitlement to, a permanent injunction against the Defendants in the 
+ 
+PageID #: 434
+Verified Complaint. With regard to the equitable factors: (1) Plaintiff will lose control over the 
+reputation and goodwill of its trademark, continuing to suffer irreparable harm if the injunction is 
+not granted; (2) injunctive relief is necessary to halt Defendants’ continued infringement of 
+Plaintiff’s valuable trademark rights; (3) the requested injunction would only prevent Defendants 
+from engaging in unlawful behavior; (4) Plaintiff has no other recourse against Defendants if an 
+injunction is not granted; and (5) an injunction would protect against public confusion. See 
+Philip Morris, 219 F.R.D. at 502 (“Failure to grant the injunction would needlessly expose the 
+Plaintiff to the risk of continuing irreparable harm”). 
+Accordingly, Plaintiff requests the following permanent injunction be entered:  
+An injunction ordering Defendants, and their officers, directors, members, agents, 
+servants, employees, and attorneys, and all other persons acting in concert or 
+participating with them (the “Enjoined Parties”), who receive actual notice of the 
+injunction order by personal or other service, to cease all use and never use the 
+THE GATHERING SPOT mark, or any other names or marks likely to cause 
+confusion with the Plaintiff’s Marks, in connection with social club services, 
+providing food and drinks; bar and cocktail lounge services; providing conference 
+rooms; restaurant and catering services; banquet and social function facilities, or 
+any other related good or service, and including any such use on websites or 
+social media. 
+ 
+VI. Statutory Damages 
+The Lanham Act permits a plaintiff to elect “to recover, instead of actual damages . . . an 
+award of statutory damages” of not less than $1,000 and not more than $200,000 per counterfeit 
+mark offered for sale or distribution, “as the court considers just.” 15 U.S.C. § 1117(c). Despite 
+requesting such information, TGS has not received any documentation of Defendants’ profits, 
+and therefore hereby elects statutory damages. 
+Where the infringement is willful, the Lanham Act provides for enhanced statutory 
+damages up to $2 million per counterfeit mark. Id.  § 1117(c)(2). Failure to defend is evidence of 
+ 
+PageID #: 435
+willfulness. Philip Morris USA, Inc. v. Castworld Prods., Inc ., 219 F.R.D. 494, 500 (C.D. Cal. 
+2003). 
+“A defendant’s continued infringement after notice of his wrongdoing is probative 
+evidence of willfulness.” Anthony Vince Nail Spa, Inc. v. M Vince Spa, L.L.C., No. 3:21- cv-
+00366, 2021 U.S. Dist. LEXIS 213537, at *13 ( M.D. Tenn. Nov. 4, 2021) (citing Microsoft 
+Corp. v. McGee , 490 F. Supp. 2d 874, 880 (S.D. Ohio 2007)). Here, Defendants visited TGS ’s 
+business and asked its founder for advice prior to adopting the same trademark ( JA at pp. 6 -7 
+[Verified Complaint ¶¶ 25- 28]), continued to use the infringing mark after being put on notice 
+(JA at pp. 8-9 [Verified Complaint ¶ 32-33]), encroached on TGS’s Marks in an even more direct 
+and aggressive manner after receiving cease & desist notices ( JA at p. 9 [Verified  Complaint ¶ 
+34]), evaded service in a manner that this Court has already found to be willful [Dkt. 53] , 
+defaulted [Dkt. 30, 31], and failed to respond to any discovery ( JA at p. 48 [Hyland Declaration 
+¶¶ 5-6]). These uncontroverted facts support a finding of willfulness. 
+In light of Defendants’ knowledge of TGS’s Marks, their aggressive and deliberate 
+misuse of those marks after being put on notice of infringement, their failure to provide any 
+defense, and their  use of that mark broadly across numerous platforms, an award at the higher 
+end of the spectrum could be plausible. Nonetheless, TGS recognizes that Defendants are not 
+exceedingly well funded, and therefore TGS suggests that an award of $250,000 is appropriate. 
+VII. Exceptional Case 
+TGS seeks a ruling from the Court that this case constitutes an “exceptional case” under 
+15 U.S.C. § 117(a) and an award of its attorney’s fees. “District courts ‘determine whether 
+a case is exceptional in the  case-by-case exercise o f their discretion, considering the totality of 
+the circumstances.’” Daycab Co. v. Praire Tech., LLC , No. 3:20- CV-63-TRM-DCP, 2023 U.S. 
+ 
+PageID #: 436
+Dist. LEXIS 72251, at *14 (E.D. Tenn. Jan. 27, 2023) (quoting Octane Fitness, LLC v. ICON 
+Health & Fitness, Inc., 572 U.S. 545, 554, 134 S. Ct. 1749, 188 L. Ed. 2d 816 (2014). “The use 
+of the word ‘exceptional’ limits the district court’ s discretion by reserving attorney’ s fees for 
+‘rare’ or ‘unusual’ cases.” Max Rack, Inc. v. Core Health & Fitness, LLC, 40 F.4th 454, 478 (6th 
+Cir. 2022), reh’g denied, No. 20- 3598, 2022 U.S. App. LEXIS 22271, 2022 WL 3237492 (6th 
+Cir. Aug. 10, 2022) (citation omitted). This case is both “rare” and “unusual.” 
+Ms. Cade-Hill visited The Gathering Spot as a guest at the Atlanta location on November 
+4, 2016, where she met with its founder and CEO, Ryan Wilson. ( JA at p. 6 [Verified Complaint 
+¶ 25 ]). On the same morning of her visit, Ms. Cade -Hill emailed Mr. Wilson asking for 
+assistance with finding the money and creating the structure and technology for a shared working 
+space she was developing in Knoxville, TN. ( JA at p. 6 [Verified  Complaint ¶ 26]). She then 
+opened a replica business under the same name, clearly intending to duplicate TGS and to ride 
+off of its goodwill. Moreover, Defendants dropped use of the geographic indicator “at Burlington 
+Village” after receiving cease & desist notifications. (JA at p. 10 [Verified Complaint ¶ 34]).  
+Not only does this case present exceptional facts of the underlying infringement, but 
+Defendants have engaged in dilatory, bad- faith tactics that have unreasonably created expense 
+and hassle for TGS. As set forth more fully in Plaintiff’s Brief in Support of Motion for Default 
+Judgment, [Dkt. 32-1], Defendants willfully evaded service and defaulted, only to reappear with 
+no intent to participate in this case. 
+In light of Defendants’ willful infringement, evasion of service, initial default, and failure 
+to respond to discovery, this case is exceptional. TGS will submit its fees and supporting 
+affidavits if the Court determines that this case is exceptional. 
+ 
+ 
+PageID #: 437
+CONCLUSION 
+ For the foregoing reasons, TGS respectfully requests that its motion for summary 
+judgment be granted, statutory damages be awarded, and this case be declared an “exceptional 
+case” under 15 U.S.C. § 117(a) and award Plaintiff its attorney’s fees. 
+ Respectfully submitted this 5th day of July, 2023. 
+/s/ Amanda G. Hyland 
+Micheline K. Johnson 
+Tennessee Bar No. 013847 
+Amanda G. Hyland (admitted pro hac vice) 
+Georgia Bar No. 325115 
+Paige E. McKinney (admitted pro hac vice) 
+Georgia Bar No. 926474 
+TAYLOR ENGLISH DUMA LLP 
+1600 Parkwood Circle, Suite 200 
+Atlanta, Georgia  30339 
+Telephone: (770) 434-6868 
+Fax: (770) 434-7376 
+mkjohnson@taylorenglish.com 
+ahyland@taylorenglish.com 
+pmckinney@taylorenglish.com 
+ 
+PageID #: 438
+ 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TENNESSEE 
+ 
+THE GATHERING SPOT, LLC, 
+ Plaintiff, 
+ 
+v. 
+ 
+THE GATHERING SPOT AT BURLINGTON 
+VILLAGE, LLC and TERRI CADE-HILL,   
+Defendants.                                       
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+CIVIL ACTION FILE NO.  
+3:22-cv-00007-TRM-JEM 
+ 
+ 
+JURY TRIAL DEMANDED 
+ 
+CERTIFICATE OF SERVICE 
+ 
+I hereby certify that on this July 5, 2023, I electronically filed the foregoing 
+PLAINTIFF’S MEMORANDUM OF LAW IN SUPPORT OF MOTION FOR 
+SUMMARY JUDGMENT with the Clerk of Court using the CM/ECF system  which will send 
+notification of such filing to all attorneys of record: 
+ 
+David H. Dupree 
+Tennessee Bar No. 025120 
+P.O. Box 6622 
+Knoxville, TN, 37914 
+(865) 332-5140 
+attydupree@aol.com 
+ 
+ 
+This 5th day of July, 2023. 
+/s/ Amanda G. Hyland 
+                 Amanda G. Hyland (pro hac vice) 
+  Georgia Bar No. 325115 
+ 
+ 
+               
+ 
+ 
+PageID #: 439

@@ -15,7 +15,7 @@ import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
-ALLOWED_SOURCES = {"SEC EDGAR", "public court filing", "synthetic"}
+ALLOWED_SOURCES = {"SEC EDGAR", "public court filing", "open dataset", "synthetic"}
 HEADING_RE = re.compile(r"^\s*(?:(?:\d+|[IVXLC]+|[A-Z])[.)]\s+)?[A-Z][A-Z \-/&,']{3,}\s*$")
 
 _QUOTE_MAP = str.maketrans({"‘": "'", "’": "'", "“": '"', "”": '"',

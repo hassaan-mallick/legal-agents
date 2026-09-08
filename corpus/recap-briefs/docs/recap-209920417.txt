@@ -1,0 +1,594 @@
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF FLORIDA 
+WEST PALM BEACH DIVISION 
+SRAM, LLC, 
+Plaintiff, 
+v. 
+PRINCETON CARBON WORKS INC., 
+Defendant. 
+Case No. 9:21-cv-80581 RKA 
+JURY TRIAL DEMANDED 
+MEMORANDUM OF LAW IN SUPPORT OF  
+DEFENDANT’S MOTION FOR SUMMARY JUDGMENT OF NO INFRINGEMENT 
+i 
+TABLE OF CONTENTS 
+I. INTRODUCTION ...................................................................................................1
+II. RELEVANT BACKGROUND ...............................................................................1
+III. LEGAL STANDARD ..............................................................................................2
+A. Summary Judgment .....................................................................................2
+B. Literal Infringement .....................................................................................3
+C. Doctrine of Equivalents ...............................................................................3
+1. Critical Limitations on the Application of the Doctrine of 
+Equivalents .......................................................................................4
+IV. ARGUMENT ...........................................................................................................6
+A. The Accused Products Do Not Infringe the ’800 Patent Under the Doctrine 
+of Equivalents ..............................................................................................7
+1. “radial distance that continuously varies” (Independent Claims 1 
+and 17) .............................................................................................7
+2. “convex exterior profile” (Independent Claim 1) ..........................12
+B. The Accused Products Do Not Infringe the ’188 Patent Under the Doctrine 
+of Equivalents ............................................................................................14
+1. “convex profiles in convex regions” (Independent Claim 1).........15
+C. The Accused Products Do Not Literally Infringe the “Convex Exterior 
+Profile” or “Convex Profile” Limitations of the ’800 Patent or ’188 
+Patent..........................................................................................................18
+1. The Claims Require the Rim to Have “Convex Exterior Profiles” 
+and “Convex Profiles” ...................................................................19
+2. None of the Accused Products Have “Convex” Profiles Under 
+Either Parties’ Construction ...........................................................19
+V. CONCLUSION ......................................................................................................20
+ii 
+TABLE OF AUTHORITIES 
+ Page(s) 
+Cases 
+Advanced Steel Recovery v. X-Body Equip., Inc., 
+808 F.3d 1313 (Fed. Cir. 2015)..............................................................................................3, 4 
+Akzo Nobel Coatings, Inc. v. Dow Chem. Co., 
+811 F.3d 1334 (Fed. Cir. 2016)........................................................................................ passim
+Allen v. Tyson Foods, Inc., 
+121 F.3d 642 (11th Cir. 1997) ...................................................................................................2 
+Anderson v. Liberty Lobby, Inc., 
+477 U.S. 242 (1986) ...................................................................................................................2 
+AquaTex Indus. v. Techniche Sols., 
+479 F.3d 1320 (Fed. Cir. 2007)..................................................................................................4 
+Bailey v. Allgas, Inc., 
+284 F.3d 1237 (11th Cir. 2002) .................................................................................................2 
+Becton, Dickinson and Co. v. Tyco Healthcare Group, LP, 
+616 F.3d 1249 (Fed. Cir. 2010)................................................................................................18 
+Bicon Inc. v. Straumann Co., 
+441 F.3d 945 (Fed. Cir. 2006)............................................................................................10, 14 
+Eagle Pharms. Inc. v. Slayback Pharma LLC, 
+958 F.3d 1171 (Fed. Cir. 2020)........................................................................................5, 6, 11 
+Eastcott v. Hasselblad USA, Inc., 
+564 Fed. Appx. 590 (Fed. Cir. 2014) .............................................................................8, 12, 15 
+Jang v. Boston Sci. Corp., 
+872 F.3d 1275 (Fed. Cir. 2017)..................................................................................5, 6, 11, 14 
+Lear Siegler, Inc. v. Sealy Mattress Co., 
+873 F.2d 1422 (Fed. Cir. 1989)......................................................................................7, 12, 15 
+Markman v. Westview Instruments, Inc., 
+52 F.3d 967 (Fed. Cir. 1995)....................................................................................................18 
+Pharma Tech Sols., Inc. v. LifeScan, Inc., 
+942 F.3d 1372 (Fed. Cir. 2019)........................................................................................ passim
+iii 
+SIMO Holdings, Inc. v. H.K. uCloudlink Network Tech., Ltd., 
+983 F.3d 1367 (Fed. Cir. 2021)..................................................................................................3 
+Warner-Jenkinson Co. v. Hilton Davis Chem. Co., 
+520 U.S. 17 (1997) .....................................................................................................................4 
+Defendant Princeton Carbon Works Inc. (“PCW”) respectfully submits this memorandum 
+of law in support of its motion for summary judgment of noninfringement. Counsel for PCW has 
+conferred with counsel for SRAM, LLC (“SRAM”), and SRAM will oppose the motion. 
+I. INTRODUCTION 
+As detailed below, the owner of the Asserted Patents unequivocally disclaimed, by 
+amendment and argument, certain claim scope during the prosecution of each Asserted Patent. 
+Now, SRAM, the exclusive licensee of these patents, is attempting in litigation to recapture the 
+disclaimed scope as the basis of its doctrine of equivalents infringement theory. Doing so is legally 
+impermissible for numerous reasons. Compounding the issue for SRAM, its infringement expert 
+failed to provide any evidence supporting his doctrine of equivalents opinions. Accordingly, there 
+is no triable issue of fact that the Accused Products do not infringe under the doctrine of 
+equivalents.  
+Separately, independent claim 1 of each Asserted Patent requires a rim to have “peaks” 
+with a “convex” profile. Because the alleged “peaks” of PCW’s Accused Products all have concave
+profiles, they cannot literally infringe this limitation. Thus, the Court should summarily determine 
+the Accused Products do not literally infringe claim 1 of either Asserted Patent. 
+II. RELEVANT BACKGROUND 
+The Asserted Patents disclose an invention that “relates to improvements in bicycle wheels, 
+and in particular to a bicycle wheel having an improved rim configuration.” Joint Statement of 
+Undisputed Facts (“JSUF”), ¶1 (’800 Patent at “Technical Field”). Figure 1 of the Asserted Patents 
+“is a side view of a first embodiment of a wheel according to the invention.” JSUF, ¶2 (’800 Patent 
+at Figure 1). 
+Claims 1 and 17 of the ’800 patent require a rim having a radial distance that “continuously 
+varies” between each adjacent peak and trough. JSUF, ¶¶3, 6. SRAM and its expert, Dr. Howle, 
+argue that “continuously varies” means “changes without interruption.” JSUF, ¶¶10-11. 
+Claim 1 of the ’800 patent requires the rim’s “peak” to have a “convex exterior profile.” 
+JSUF, ¶3. SRAM and its expert, Dr. Howle, argue that “convex exterior profile” means “outer side 
+view having a rounded or curved form bulging toward the wheel’s center.” JSUF, ¶¶12-13. 
+Claim 1 of the ’188 patent requires the rim to have a “convex profile” in its “convex 
+region,” which also includes the “peaks.” JSUF, ¶7. SRAM and its expert, Dr. Howle, argue that 
+“convex profile” means “side view having a rounded or curved form bulging toward the wheel’s 
+center.” JSUF, ¶¶14-15. 
+III. LEGAL STANDARD 
+A. Summary Judgment 
+Summary judgment is appropriate when “there is no genuine dispute as to any material 
+fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a) (emphasis 
+added). “By its very terms, this standard provides that the mere existence of some alleged factual 
+dispute between the parties will not defeat an otherwise properly supported motion for summary 
+judgment; the requirement is that there be no genuine issue of material fact.” Anderson v. Liberty 
+Lobby, Inc. , 477 U.S. 242, 247-48 (1986) (emphasis in original). At summary judgment, the 
+moving party bears the initial burden of “showing the absence of a genuine issue as to any material 
+fact,” and all factual inferences are drawn in the light most favorable to the nonmoving party. Allen 
+v. Tyson Foods, Inc., 121 F.3d 642, 646 (11th Cir. 1997). Once the moving party satisfies its initial 
+burden, the burden then shifts to the non-moving party to “come forward with specific facts 
+showing there is a genuine issue for trial.” Bailey v. Allgas, Inc., 284 F.3d 1237, 1243 (11th Cir. 
+2002) (emphasis in original). 
+Courts regularly grant motions for summary judgment of non-infringement, for both literal 
+infringement and infringement under the doctrine of equivalents. See, e.g., SIMO Holdings, Inc. v. 
+H.K. uCloudlink Network Tech., Ltd., 983 F.3d 1367, 1380-81 (Fed. Cir. 2021) (reversing district 
+court and granting summary judgment of no literal infringement); Advanced Steel Recovery v. X-
+Body Equip., Inc. , 808 F.3d 1313, 1319-20 (Fed. Cir. 2015) (“While infringement under the 
+doctrine of equivalents is a question of fact, ‘[w]here the evidence is such that no reasonable jury 
+could determine two elements to be equivalent, district courts are obliged to grant partial or 
+complete summary judgment.’”); Pharma Tech Sols., Inc. v. LifeScan, Inc. , 942 F.3d 1372, 1384 
+(Fed. Cir. 2019) (affirming district court’s grant of summary judgment of no infringement under 
+the doctrine of equivalents); Akzo Nobel Coatings, Inc. v. Dow Chem. Co. , 811 F.3d 1334, 1342-
+43 (Fed. Cir. 2016) (same). 
+B. Literal Infringement 
+“To prove literal infringement, the patentee must show that the accused device contains 
+each and every limitation  of the asserted claims.” SIMO Holdings, 983 F.3d at 1380 (internal 
+quotation marks omitted) (emphasis in original). As the Plaintiff, SRAM has the burden of 
+persuasion. Id. Further, a party cannot defeat a motion for summary judgment “simply by offering 
+an opinion of an expert that states, in effect, that the critical claim limitation is found in the accused 
+device.” Id. Instead, “a patentee’s expert must set forth the factual foundation for his infringement 
+opinion in sufficient detail for the court to be certain that features of the accused product would 
+support a finding of infringement.” Id. (emphasis added).  
+C. Doctrine of Equivalents 
+To prove infringement under the doctrine of equivalents, “[a] patentee must establish 
+‘equivalency on a limitation-by-limitation basis’ by ‘particularized testimony and linking 
+argument’ as to the insubstantiality of the differences between the claimed invention and the 
+accused device or process.” Akzo Nobel Coatings , 811 F.3d at 1342 (quoting Texas Instruments 
+Inc. v. Cypress Semiconductor Corp., 90 F.3d 1558, 1566 (Fed. Cir. 1996)). The substantiality of 
+differences is often shown using the “function-way-result” test. Id.; Advanced Steel Recovery, 808 
+F.3d at 1320 (“To survive summary judgment of noninfringement under the doctrine of 
+equivalents, [the plaintiff] had to present evidence of equivalence under each prong of the function-
+way-result test.”). Using this test, an accused product only infringes if the product “performs 
+substantially the same function in substantially the same way to obtain the same result.” AquaTex 
+Indus. v. Techniche Sols., 479 F.3d 1320, 1326 (Fed. Cir. 2007). 
+In view of the requirements of this test, and other limitations on the application of the 
+doctrine, the doctrine of equivalents is very narrowly applied. Advanced Steel Recovery, 808 F.3d 
+at 1320 (“Our case law also establishes that there are limitations to the doctrine of equivalents. 
+‘Whether the result of the All Limitations Rule, prosecution history estoppel, or the inherent 
+narrowness of the claim language, many limitations warrant little, if any, range of equivalents.’”) 
+(citation omitted); Akzo Nobel Coatings, 811 F.3d at 1342 (“Ultimately, ‘many limitations warrant 
+little, if any, range of equivalents.’”) (citation omitted). 
+1. Critical Limitations on the Application of the Doctrine of Equivalents 
+There are a number of important limitations on the application of the doctrine of 
+equivalents, including prosecution history estoppel, claim vitiation, ensnarement, and the 
+disclosure-dedication doctrine. These are all questions of law that are amenable to determination 
+on summary judgment. See Warner-Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17, 38 n.8 
+(1997) (“[T]he various legal limitations on the application of the doctrine of equivalents are to be 
+determined by the court . . . under the particular facts of a case, if prosecution history estoppel 
+would apply or if a theory of equivalence would entirely vitiate a particular claim element, partial 
+or complete judgment should be rendered by the court, as there would be no further material issue 
+for the jury to resolve.”); Jang v. Boston Sci. Corp. , 872 F.3d 1275, 1285 (Fed. Cir. 2017) 
+(ensnarement is a legal question); Eagle Pharms. Inc. v. Slayback Pharma LLC , 958 F.3d 1171, 
+1177 (Fed. Cir. 2020) (disclosure-dedication doctrine is a question of law). 
+a. Prosecution History Estoppel 
+“‘Prosecution history estoppel applies as part of an infringement analysis to prevent a 
+patentee from using the doctrine of equivalents to recapture subject matter surrendered from the 
+literal scope of a claim during prosecution.’ Prosecution history estoppel can occur in two ways: 
+‘either (1) by making a narrowing amendment to the claim (‘amendment-based estoppel’) or (2) 
+by surrendering claim scope through argument to the patent examiner (‘argument-based 
+estoppel’).’” Pharma Tech Sols., Inc. v. LifeScan, Inc. , 942 F.3d 1372, 1380 (Fed. Cir. 2019) 
+(citations omitted). 
+b. Claim Vitiation 
+“As the Supreme Court has stated, ‘if a theory of equivalence would entirely vitiate a 
+particular claim element, partial or complete judgment should be rendered by the court . . . .’” Akzo 
+Nobel Coatings, 811 F.3d at 1342. “Under the doctrine of equivalents, an infringement theory thus 
+fails if it renders a claim limitation inconsequential or ineffective. And as we have explained, 
+‘saying that a claim element would be vitiated is akin to saying that there is no equivalent to the 
+claim element in the accused device based on the well-established ‘function-way-result’ or 
+‘insubstantial differences’ tests.’” Id. 
+c. Ensnarement of Prior Art 
+“A doctrine of equivalents theory cannot be asserted if it will encompass or ‘ensnare’ the 
+prior art.” Jang, 872 F.3d at 1285. This is true even if the evidence shows equivalence as to each 
+claim element. Id. To determine whether a doctrine of equivalents theory ensnares the prior art, 
+the Federal Circuit uses a “hypothetical claim analysis”: 
+Hypothetical claim analysis is a two-step process. The first step is “to construct a 
+hypothetical claim that literally covers the accused device.” Next, prior art 
+introduced by the accused infringer is assessed to “determine whether the patentee 
+has carried its burden of persuading the court that the hypothetical claim is 
+patentable over the prior art.” In short, [the court] ask[s] if a hypothetical claim can 
+be crafted, which contains both the literal claim scope and the accused device, 
+without ensnaring the prior art. 
+Id. (quoting Intendis GmbH v. Glenmark Pharms. Inc., USA, 822 F.3d 1355, 1363-64 (Fed. 
+Cir. 2016)). Once the accused infringer comes forward with prior art, the patentee bears the burden 
+of proving patentability of the hypothetical claim. Id.
+d. Disclosure-Dedication Doctrine 
+“[The disclosure-dedication doctrine] states that ‘when a patent drafter discloses but 
+declines to claim subject matter, . . . this action dedicates the unclaimed subject matter to the 
+public.’” Eagle Pharms , 958 F.3d at 1175. The doctrine applies if the specification “discloses 
+unclaimed subject matter with ‘such specificity that one of ordinary skill in the art could identify 
+the subject matter that had been disclosed and not claimed.’” Id. However, “[t]he disclosure-
+dedication doctrine does not require the specification to disclose the allegedly dedicated subject 
+matter in an embodiment that exactly matches the claimed embodiment . . . . Instead, we have held 
+that the disclosure-dedication doctrine requires only that the specification disclose the unclaimed 
+matter ‘as an alternative to the relevant claim limitation.’” Id. at 1176. 
+IV. ARGUMENT 
+The owner of the Asserted Patents disclaimed, by amendment and argument, claim scope 
+during the prosecution of each Asserted Patent. SRAM is now attempting to recapture the 
+disclaimed scope as the basis of its doctrine of equivalents infringement theory. Doing so is legally 
+impermissible for numerous reasons, and, regardless, SRAM’s expert failed to provide any 
+evidence supporting his doctrine of equivalents opinions. Accordingly, this Court should 
+summarily determine that no Accused Product infringes under the doctrine of equivalents.  
+Separately, independent claim 1 of each Asserted Patent requires a rim to have peaks with 
+a “convex” profile. Because the alleged “peaks” of PCW’s Accused Products all have concave
+profiles, they cannot literally infringe this limitation. Thus, the Court should summarily determine 
+the Accused Products do not literally infringe claim 1 of either Asserted Patent. 
+A. The Accused Products Do Not Infringe the ’800 Patent Under the Doctrine of 
+Equivalents 
+1.  “radial distance that continuously varies” (Independent Claims 1 and 
+17) 
+Claims 1 and 17 of the ’800 patent require a rim having an undulating configuration and a 
+“radial distance that continuously varies between adjacent peaks and troughs of the undulating 
+configuration.” JSUF, ¶3, 6. According to SRAM and its expert, “continuously varies” means 
+“changes without interruption.” JSUF, ¶¶10-11. However, SRAM and its expert now argue that a 
+radial distance that does not continuously vary, but, instead, only substantially varies is permitted 
+under its doctrine of equivalents analysis. See Defendant PCW’s Statement of Material Facts 
+(“DSMF”), ¶4. For the reasons below, SRAM is wrong, and there is no genuine issue of material 
+fact that PCW’s Accused Products do not infringe the Asserted Patents by equivalence. 
+a. As a Matter of Law, SRAM Cannot Show Infringement Under 
+the Doctrine of Equivalents 
+i. SRAM Failed to Present Any Evidence of Equivalence Under 
+Each Prong of the Function-Way-Result Test 
+To prove infringement under the doctrine of equivalents, SRAM failed to meet its 
+obligation to provide evidence, particularized testimony, and linking arguments with respect to all 
+three prongs of the “function-way-result” test. Akzo Nobel Coatings , 811 F.3d at 1342;  Lear 
+Siegler, Inc. v. Sealy Mattress Co. , 873 F.2d 1422 , 1425 (Fed. Cir. 1989) (“The party asserting 
+infringement must present ‘evidence and argument concerning the doctrine and each of its 
+elements.’ The evidence and argument on the doctrine of equivalents cannot merely be subsumed 
+in plaintiff's case of literal infringement.”) (emphasis in original) (citations omitted). Neither 
+SRAM nor its expert provided any evidence or particularized argument as to how the Accused 
+Products allegedly infringe under the doctrine of equivalents. See DSMF, ¶¶1-3, 16. Notably, 
+SRAM’s expert did not identify any particular Accused Product, or cite a single document 
+describing any technical aspect of the Accused Products (or any document), in his doctrine of 
+equivalents opinion. DSMF, ¶3. This analysis is facially insufficient. Eastcott v. Hasselblad USA, 
+Inc., 564 Fed. Appx. 590, 595-96 (Fed. Cir. 2014) (conclusory statements of equivalents is 
+insufficient). For this reason alone, there can be no triable issue of fact that the Accused Products 
+do not infringe under the doctrine of equivalents and summary judgment is therefore warranted. 
+ii. SRAM’s Doctrine of Equivalents Arguments Are Legally 
+Barred by Prosecution History Estoppel 
+Even if SRAM had offered any evidence and argument to substantiate the doctrine of 
+equivalents contention (and it did not), the contention is legally precluded by prosecution history 
+estoppel. SRAM’s expert argues that a rim that “does not have substantial interruptions in its 
+undulating profile” infringes under the doctrine of equivalents. DSMF, ¶4 (emphasis added). 
+However, the patentee explicitly disclaimed such scope during prosecution of the ’800 patent: in 
+response to an examiner rejection in view of the Mercat prior art reference, the patentee amended 
+both independent claims of the ’800 patent such that the radial distance must “continuously” vary 
+between adjacent peaks and troughs. See JSUF, ¶¶16-17 1. This was a narrowing amendment to 
+1 SRAM’s expert acknowledges that the patentee disclaimed wheels having a “trough” area with 
+unchanging radial distance. See, e.g., DSMF, ¶5 (Validity report of SRAM’s expert, Dr. Howle, 
+states “Notably, this limitation of a radial distance that continuously varies between adjacent peaks 
+and troughs was added during the prosecution of the ‘800 patent to distinguish over the Mercat 
+reference, which, among other differences, had a radial inner edge with a trough area having an 
+unchanging radial distance. See SRAM-P 00087.”)). 
+obtain allowance of the patent, which creates a presumption of “a general disclaimer of the territory 
+between the original claim and the amended claim.” Pharma Tech Sols., 942 F.3d at 1380. 
+As if this were not enough, the patentee went on to explain in argument to the examiner 
+that this narrowing amendment distinguished the claims from Mercat, which has a region of 
+unchanging radial distance. JSUF, ¶28; DSMF, ¶¶6, 7, 9. Like the amendment, the patentee’s 
+argument makes clear to a person of ordinary skill in the art (POSITA) that the patentee claimed a 
+“continuously” varying radial distance that did not include any portions (of any size) of constant 
+radial distance. By operation of law, this intentional relinquishment of claim scope in the face of 
+an examiner’s rejection triggers prosecution estoppel. See Pharma Tech Sols. , 942 F.3d at 1380 
+(“‘[c]lear assertions made during prosecution in support of patentability, whether or not actually 
+required to secure allowance of the claim, may also create an estoppel . . . because [t]he relevant 
+inquiry is whether a competitor would reasonably believe that the applicant had surrendered the 
+relevant subject matter.’”) (citation omitted).  
+Importantly, the patentee did not amend its claims—or distinguish them from Mercat—in 
+a way that attempted to claim a rim that has a “substantially” varying radial distance. JSUF, ¶¶16-
+18, 28; DSMF, ¶¶6, 7, 9. Instead, the patentee simply added “continuously” and argued that this 
+amendment overcame Mercat because “[t]he radial distance” in Mercat “is unchanging between 
+the broken lines shown in FIG. 2, below.” JSUF, ¶28 (emphasis added). Neither the examiner nor 
+the applicant discussed the size of Mercat’s constant radial distance regions. Id.
+The result here is that the claim scope under the doctrine of equivalents does not—and 
+cannot—include any region of unchanging radial distance, regardless of size. SRAM cannot argue 
+that a radial distance that “substantially” varies—but does not “continuously” vary—infringes 
+under the doctrine of equivalents due to prosecution history estoppel. The law precludes SRAM 
+from “regaining, through litigation, coverage of subject matter relinquished during prosecution of 
+the application for the patent.” Wang Laboratories, Inc., 103 F.3d at 1577-1578; see also Festo 
+Corp., 535 U.S. at 734; Pharma Tech Sols., 942 F.3d at 1380.  
+iii. SRAM’s Doctrine of Equivalents Theory Vitiates the 
+Meaning of “Continuously Varies” 
+According to SRAM and its expert, “continuously varies” means “changes without 
+interruption.” JSUF, ¶¶10-11. Put another way, SRAM argues that a radial distance that 
+“continuously varies” does not have any interruptions. However, SRAM and its expert now argue 
+that a bicycle rim infringes this limitation under the doctrine of equivalents if the rim “does not 
+have substantial interruptions in its undulating profile such as the long troughs with a constant 
+radial distance between adjacent peaks.” DSMF, ¶4 (emphasis added). This new interpretation 
+necessarily means that the radial distance has interruptions and does not continuously vary.  
+SRAM’s interpretation under its doctrine of equivalents analysis vitiates the meaning of 
+the claim term and SRAM’s own proposed construction for the claim term. A “continuously” 
+varying radial distance (as claimed) that does not vary continuously, renders the phrase 
+“continuously” meaningless. Similarly, a radial distance that changes without interruptions (as 
+proposed by SRAM), but also includes interruptions, renders SRAM’s proposed construction 
+meaningless. This is also impermissible as a matter of law. Akzo Nobel Coatings, 811 F.3d at 1342 
+(“Under the doctrine of equivalents, an infringement theory thus fails if it renders a claim limitation 
+inconsequential or ineffective.”); see also Bicon Inc. v. Straumann Co., 441 F.3d 945, 955-56 (Fed. 
+Cir. 2006) (principle of specific exclusion does not allow claim scope to cover subject matter that 
+is the antithesis of the claim language).  
+iv. SRAM’s Doctrine of Equivalents Arguments Ensnare the 
+Prior Art 
+To succeed under the doctrine of equivalents, SRAM must have proposed a hypothetical 
+claim that literally covers the accused products but does not cover the prior art. See Jang, 872 F.3d 
+at 1285. SRAM and its expert failed to propose and apply any such hypothetical claim and, 
+accordingly, fail to satisfy an essential element of showing infringement under the doctrine of 
+equivalents. See id. ; see also  DSMF, ¶¶20-22. Further, to the extent the hypothetical claim 
+encompasses a wheel that “does not have substantial interruptions in its undulating profile such as 
+the long troughs with a constant radial distance between adjacent peaks,” U.S. Patent Application 
+Pub. No. 2005/0242658 to Carlson would anticipate or render obvious this limitation. See DSMF, 
+¶¶18, 23-25. 
+v. SRAM’s Doctrine of Equivalents Argument Violates the 
+Disclosure-Dedication Doctrine 
+SRAM’s doctrine of equivalents argument also violates the disclosure-dedication doctrine 
+because the patentee disclosed, but did not claim, radial distances that vary, but do not 
+“continuously” vary. See Eagle Pharms, 958 F.3d at 1175 (disclosing but not claiming subject 
+matter dedicates the unclaimed subject matter to the public and precludes doctrine of equivalents 
+arguments that attempt to recapture the relinquished claim scope). Here, the ’800 Patent discloses 
+that the radially inner edge of its wheels can have a radial distance that varies between the peaks 
+and troughs. See JSUF, ¶21. However, the claims as issued require radial distances that 
+“continuously” vary. Section IV.A.1.a.ii, supra. Thus, the patentee disclosed, but did not claim, 
+radial distances that vary but do not “continuously” vary. Claim scope of the kind SRAM attempts 
+to advance now, namely radial distances that substantially vary, were forfeited to the public. See
+Eagle Pharms, 958 F.3d at 1175. 
+* * * 
+For all the reasons in Section IV.A.1, SRAM’s doctrine of equivalents theory for 
+“continuously varies” is insufficient and legally precluded. Accordingly, there can be no triable 
+issue of fact as to doctrine of equivalents. This Court should therefore enter judgment that no 
+Accused Product infringes the “continuously varies” limitation under the doctrine of equivalents.  
+2. “convex exterior profile” (Independent Claim 1) 
+Claim 1 of the ’800 patent requires a “convex exterior profile.” JSUF, ¶3 (’800 Patent, 
+Claim 1 (emphasis added)). According to SRAM and its expert, “convex exterior profile” means 
+“outer side view having a rounded or curved form bulging toward the wheel’s center.” JSUF, ¶¶12-
+13. Yet SRAM and its expert now argue that a convex profile with a “small region of concavity” 
+infringes under the doctrine of equivalents. DSMF, ¶15. For the reasons below, there is no triable 
+issue of fact that PCW’s Accused Wheels do not infringe the “convex exterior profile” element. 
+a. SRAM Cannot Show Infringement Under the Doctrine of 
+Equivalents 
+i. SRAM Failed to Present Any Evidence of Equivalence Under 
+Each Prong of the Function-Way-Result Test 
+Just like its failure to provide the required evidence, particularized testimony, and linking 
+arguments for each prong of the “function-way-result” test for the “continuously varies” limitation, 
+see Section IV.A.1.a.i, supra, SRAM has likewise failed in the same way as to the “convex exterior 
+profile” limitation. In fact, SRAM’s expert did not identify any particular Accused Product or cite 
+a single document describing any technical aspect of the Accused Products (or any document) in 
+his doctrine of equivalents opinion for this limitation, too. DSMF, ¶1-3, 16. Accordingly, SRAM 
+cannot show infringement under the doctrine of equivalents. See Akzo Nobel Coatings , 811 F.3d 
+at 1342; Lear Siegler, 873 F.2d at 1425; Eastcott, 564 Fed. Appx. at 595-96 (conclusory statements 
+of equivalents is insufficient as a matter of law). 
+ii. SRAM’s Doctrine of Equivalents Argument Is Legally 
+Barred by Prosecution History Estoppel 
+SRAM, though its expert, acknowledges that the accused products have a profile that 
+includes a region of concavity, but nonetheless argues that “[s]uch a small region of concavity is 
+not significant from an equivalents standpoint.” DSMF, ¶15. As before, this doctrine of equivalents 
+argument is also legally barred by prosecution history estoppel.  
+SRAM and its expert acknowledge, as they must, that the patentee made certain statements 
+in the prosecution of the ’800 patent in order to distinguish the claimed “convex exterior profile” 
+from Mercat. DSMF, ¶11. Specifically, the patentee explained why Mercat’s “peaks” are not 
+convex, explaining that “the zones of spoke attachment taught by Mercat, which forms ‘peaks’ of 
+the ‘undulating configuration,’ are conventional sections of a wheel rim, which follow an annular 
+path and are concave in profile .” JSUF, ¶29 (emphasis added). Notwithstanding Mercat’s 
+disclosures of “peaks,” the patentee clearly explained that, if the “peak” includes a concave 
+profile—as Mercat’s “zones of spoke attachment” do—such a configuration is not within the scope 
+of the claimed “convex exterior profile.” PCW’s expert, Dr. Hanson, depicted this. DSMF, ¶13. 
+The patentee concluded by stating that “Mercat provides no teaching or motivation to alter the 
+zones of spoke attachment, and thus a person skilled in the art is taught by Mercat to provide 
+‘peaks’ having a concave profile, which is the opposite to the convex profile defined by the 
+amended independent claim 1.” JSUF, ¶30 (emphasis added).
+Accordingly, the patentee relinquished any claim to “peaks” having a concave profile, and 
+is legally precluded from recapturing that claim scope now to suit its litigation objectives. Wang 
+Laboratories, Inc., 103 F.3d at 1577-1578. In view of these clear and unmistakable prosecution 
+disclaimers, SRAM cannot now argue that an alleged “peak” having concave profiles infringes the 
+“convex exterior profile” limitation under the doctrine of equivalents. The patentee explicitly 
+disclaimed concave profiles from the scope of “convex exterior profiles.” See id. 
+iii. SRAM’s Doctrine of Equivalents Theory Vitiates the 
+Meanings of the Claims 
+SRAM’s attempt to expand the meaning of “convex exterior profile” under the doctrine of 
+equivalents to include concave profiles would vitiate the claim limitation, as a concave profile is 
+the exact opposite of the claimed convex profile. See Bicon, 441 F.3d at 955-56 (element that is 
+concave is “clearly contrary to, and thus excluded by” a convex shape). SRAM’s theory that a 
+“convex exterior profile” can include concave profiles renders it meaningless as a matter of law. 
+iv. SRAM’s Doctrine of Equivalents Arguments Ensnare the 
+Prior Art 
+Neither SRAM nor its expert offered a hypothetical claim required to avoid the principle 
+of ensnarement. This failure to satisfy an essential element of the doctrine of equivalents precludes 
+the theory as a matter of law. See Jang, 872 F.3d at 1285; see also DSMF, ¶¶20-22. Further, to the 
+extent the hypothetical claim encompasses a wheel having convex exterior profiles that can include 
+concave portions, German patent publication DE 2020 2273 to Alex would anticipate or render 
+obvious this limitation. Alex discloses a rim configuration that explicitly discloses convex exterior 
+profiles (23) and (242) under SRAM’s interpretation. DSMF, ¶¶19, 26.  
+* * * 
+For all the reasons in Section IV.A.2, there is no triable issue of fact that SRAM’s doctrine 
+of equivalents theory for “convex exterior profile” is fatally insufficient and legally precluded. 
+Accordingly, this Court should enter judgment as a matter of law that no Accused Product infringes 
+the “convex exterior profile” limitation under the doctrine of equivalents. 
+B. The Accused Products Do Not Infringe the ’188 Patent Under the Doctrine of 
+Equivalents 
+1. “convex profiles in convex regions” (Independent Claim 1) 
+The claim language here requires a “convex profile.” JSUF, ¶7 (’188 Patent, Claim 1) 
+(emphasis added). According to SRAM and its expert, “convex profile” means “side view having 
+a rounded or curved form bulging toward the wheel’s center.” JSUF, ¶¶14-15. However, SRAM 
+and its expert now argue that a convex profile with a “small region of concavity” is permitted 
+under its doctrine of equivalents analysis. DSMF, ¶15. For the reasons below, SRAM is wrong. 
+a. SRAM Cannot Show Infringement Under the Doctrine of 
+Equivalents 
+i. SRAM Failed to Present Evidence of Equivalence Under 
+Each Prong of the Function-Way-Result Test 
+SRAM’s doctrine of equivalents arguments for the ’188 patent’s “convex profile” mirror 
+SRAM’s arguments for the ’800 patent’s “convex exterior profile.” DSMF, ¶14. It also suffers 
+from the same fatal infirmities discussed above. SRAM’s expert again failed to identify any 
+particular Accused Product or cite a single document describing any technical aspect of the 
+Accused Products (or any document, for that matter) in his doctrine of equivalents opinion for the 
+“convex profile” limitation. DSMF, ¶1-3, 16. Accordingly, SRAM cannot as a matter of law show 
+infringement of this claim element under the doctrine of equivalents. See Akzo Nobel Coatings , 
+811 F.3d at 1342; Lear Siegler, 873 F.2d at 1425; Eastcott, 564 Fed. Appx. at 595-96 (conclusory 
+statements of equivalents is insufficient). 
+ii. SRAM’s Doctrine of Equivalents Arguments Are Legally 
+Barred by Prosecution History Estoppel 
+SRAM and its expert acknowledge, as they must, that the patentee made certain statements 
+in the prosecution of the ’188 patent in order to distinguish the claimed “convex profile” from 
+Mercat. DSMF, ¶12. The prosecution history of the ’188 patent confirms that the patentee similarly 
+disclaimed any portions of concavity for “convex profiles.” During prosecution, the patentee 
+explained that “a convex peak would have an apex that is radially further from the radially outer 
+edge than other points of the peak .” JSUF, ¶23 (emphasis added). The patentee concluded by 
+stating that Mercat “only discloses a peak with a constant radial distance” so “Mercat does not 
+disclose a peak having a convex exterior profile.” Id.
+Through this argument, the patentee made clear that a “convex” profile must have a single 
+point that is further from the radially outer edge of the rim than any other points on the alleged 
+peak. The patentee also made clear that the “convex” profile cannot include any portion of constant 
+radial distance (i.e., concavity) that bulges away from the center of the wheel like Mercat. 
+Accordingly, the patentee made a “clear and unmistakeable” surrender from the scope of the claims 
+profiles that have portions of concavity or do not have an apex that is radially further from the 
+radially outer edge than other points of the peak. See Wang Laboratories, Inc., 103 F.3d at 1577-
+1578; Pharma Tech Sols., 942 F.3d at 1380-81. 
+The applicant also amended the claims and argued why certain prior art references—
+Mercat and Herting—do not disclose the claimed “convex profiles.” To start, the applicant 
+amended Claim 1 of the ’188 to include the limitation “wherein the radially inner edge has convex 
+profiles in convex regions of the rim, respectively, the convex regions including the peaks, 
+respectively.” JSUF, ¶24. In support of this amendment the patentee emphasized that, despite 
+having “peaks,” Mercat does not disclose “convex profiles” because its peaks include portions of 
+“constant thickness” which “define concave profiles.” JSUF, ¶31; DSMF, ¶12.  
+In the same argument, the patentee explained that Herting does not disclose convex 
+profiles. Despite disclosing a rim configuration with apexes that are radially further from the outer 
+edge than other points of the peaks (which the patentee previously said characterized a convex 
+peak), the patentee explained that Herting’s apexes are not convex profiles because they are 
+formed at the intersection of two concave profiles. JSUF, ¶32 (Id. at SRAM-P00915). Thus, though 
+necessary for a convex profile, an apex that is radially further from the outer edge than any other 
+point, alone, is not enough to define a convex profile. 
+Expanding on this point in a subsequent amendment and interview, the patentee explained 
+that the apex must also be on a rounded or curved configuration that bulges towards the center of 
+the wheel as opposed to being formed at the intersection of two concave profiles (e.g. angular 
+points). JSUF, ¶25-26. Therefore, to overcome Herting, the patentee added the term “curved” to 
+the phrase “undulating configuration” to “more clearly define that the surface of the rim has 
+rounded concave and convex surfaces.” Id. The patentee’s final claim amendment captures this 
+modification. JSUF, ¶26. 
+In view of this amendment, and the supporting arguments, the patentee clearly and 
+unambiguously (1) excluded “peaks” having portions of concavity or constant thickness, and (2) 
+confirmed that a “convex profile” must be entirely rounded or curved, bulge towards the center of 
+the wheel, and include an apex that is radially further from the outer edge than other points. As a 
+result, SRAM is legally precluded from arguing that alleged “peaks” having concave profiles, 
+infringe the “convex profile” limitation under the doctrine of equivalents. The patentee explicitly 
+disclaimed concave profiles from the scope of “convex profiles,” and cannot recapture that claim 
+scope to serve its litigation strategy. Wang Laboratories, Inc. , 103 F.3d at 1577-1578;  Pharma 
+Tech Sols., 942 F.3d at 1380. 
+iii. SRAM’s Doctrine of Equivalents Theory Vitiates the 
+Meanings of the Claims 
+Expanding the claimed meaning of the claimed “convex profile” under the doctrine of 
+equivalents to include concave profiles would also vitiate this claim limitation. As explained above 
+with respect to the term “convex exterior profile,” a doctrine of equivalents analysis that attempts 
+to include concave profiles within the scope of convex profiles would vitiate the meaning of 
+convex profiles. See Section IV.A.2.a.iii, supra. For the same reasons, SRAM’s doctrine of 
+equivalents theory vitiates the meaning of “convex profiles” here. 
+iv. SRAM’s Doctrine of Equivalents Argument Ensnares the 
+Prior Art 
+As explained above with respect to the term “convex exterior profile,” a doctrine of 
+equivalents analysis that attempts to include concave profiles within the scope of convex profiles 
+would ensnare the prior art, Alex. See Section IV.A.2.a.iv, supra. For the same reasons, SRAM’s 
+doctrine of equivalents theory regarding “convex profiles in convex regions” ensnares the prior 
+art, Alex. Accordingly, no Accused Product can infringe under SRAM’s doctrine of equivalence 
+argument because it would ensnare prior art. 
+* * * 
+For all the reasons in Section IV.B.1, there is no triable issue of fact that SRAM’s doctrine 
+of equivalents theory for “convex profile” is fatally insufficient and legally precluded. 
+Accordingly, this Court should enter judgment as a matter of law that no Accused Product infringes 
+the “convex exterior profile” limitation under the doctrine of equivalents. 
+C. The Accused Products Do Not Literally Infringe the “Convex Exterior Profile” 
+or “Convex Profile” Limitations of the ’800 Patent or ’188 Patent 
+Patent infringement requires a two-step analysis. First, the claims must be properly 
+construed, which is a question of law. Second, the claims as construed must be compared to the 
+accused article. Markman v. Westview Instruments, Inc., 52 F.3d 967, 976 (Fed. Cir. 1995). Only 
+if the accused article satisfies every element of the properly construed claims will literal 
+infringement be found. “Thus, if any claim limitation is absent from the accused device, there is 
+no literal infringement as a matter of law.” Becton, Dickinson and Co. v. Tyco Healthcare Group, 
+LP, 616 F.3d 1249, 1253 (Fed. Cir. 2010) (internal quotations omitted). As a matter of law, SRAM 
+cannot meet this standard for the “convex exterior profile” limitation of Claim 1 of the ’800 patent 
+or the “convex profile” limitation of Claim 1 of the ’188 patent. That is because there is no triable 
+issue of fact that PCW’s Accused Products do not literally infringe these claim elements. 
+1. The Claims Require the Rim to Have “Convex Exterior Profiles” and 
+“Convex Profiles” 
+Claim 1 of the ’800 patent requires each claimed peak to have “a convex exterior profile 
+in a plane of the wheel.” JSUF, ¶3. Similarly, Claim 1 of the ’188 patent requires claimed convex 
+regions—which include the claimed peaks—to have “convex profiles.” JSUF, ¶7 According to 
+SRAM and its expert, “convex exterior profile” means “outer side view having a rounded or curved 
+form bulging toward the wheel’s center.” JSUF, ¶¶12-13. Similarly, according to SRAM and its 
+expert, “convex profile” means “side view having a rounded or curved form bulging toward the 
+wheel’s center.” JSUF, ¶¶14-15. As explained above, based on the prosecution history of each 
+patent, the “convex” profile does not—and cannot as a matter of law—include “concave” regions. 
+Sections IV.A.2 and IV.B.1, supra. 
+2. None of the Accused Products Have “Convex” Profiles Under Either 
+Parties’ Construction 
+A picture is worth a thousand words. As shown in the below photographs of the rim profile 
+of each of PCW’s products that SRAM accuses of infringing the “convex” profile limitations, each 
+Accused Product has a concave profile at its alleged “peak.” See DSMF, ¶17. 
+Accordingly, there is no triable issue of fact that no Accused Product can literally infringe 
+the “convex exterior profile” limitation of Claim 1 of the ’800 patent or the “convex profile” 
+limitation of claim 1 of the ’188 patent. Summary judgment of noninfringement should therefore 
+enter. 
+V. CONCLUSION 
+WHEREFORE, Defendant Princeton Carbon Works Inc. respectfully requests that the 
+Court enter an order (1) granting its motion for summary judgment of noninfringement for all 
+Accused Products under the doctrine of equivalents and (2) granting its motion for summary 
+judgment of no literal infringement for all Accused Products for the “convex exterior profile” 
+limitation of Claim 1 of the ’800 patent or the “convex profile” limitation of claim 1 of the ’188 
+patent. 
+Dated: February 2, 2022 Respectfully submitted, 
+/s/ David S. Brafman  
+David S. Brafman (Florida Bar No. 68289) 
+Email: david.brafman@akerman.com 
+AKERMAN LLP 
+777 South Flagler Drive 
+Suite 1100, West Tower 
+West Palm Beach, FL 33401 
+Tel: (561) 653-5000 
+Of Counsel 
+James M. Wodarski (admitted pro hac vice) 
+Andre H. DeVoogd (admitted pro hac vice) 
+Matthew S. Galica (admitted pro hac vice) 
+MINTZ, LEVIN, COHN, FERRIS, GLOVSKY 
+AND POPEO, PC 
+One Financial Center 
+Boston, MA 02111 
+Tel: (617) 542-6000 
+Facsimile: (617) 542-2241 
+JWodarski@mintz.com 
+AHDeVoogd@mintz.com  
+MSGalica@mintz.com 
+Counsel for Defendant Princeton Carbon Works 
+Inc.
+CERTIFICATE OF SERVICE 
+On February 2, 2022, I electronically submitted the foregoing document with the clerk of 
+court for the U.S. District Court, Southern District of Florida, using the electronic case filing 
+system of the court. I hereby certify that I have served all counsel and/or pro se parties of record 
+electronically or by another manner authorized by the Federal Rule of Civil Procedure 5(b)(2). 
+Dated: February 2, 2022 Respectfully submitted, 
+/s/ David S. Brafman  
+David S. Brafman (Florida Bar No. 68289) 
+Email: david.brafman@akerman.com 
+AKERMAN LLP 
+777 South Flagler Drive 
+Suite 1100, West Tower 
+West Palm Beach, FL 33401 
+Tel: (561) 653-5000 
+Of Counsel 
+James M. Wodarski (admitted pro hac vice) 
+Andrew H. DeVoogd (admitted pro hac vice) 
+Matthew S. Galica (admitted pro hac vice) 
+MINTZ, LEVIN, COHN, FERRIS, GLOVSKY 
+AND POPEO PC 
+One Financial Center 
+Boston, MA 02111 
+Tel: (617) 542-6000 
+Facsimile: (617) 542-2241 
+JWodarski@mintz.com 
+AHDeVoogd@mintz.com  
+MSGalica@mintz.com 
+Counsel for Defendant Princeton Carbon Works 
+Inc.

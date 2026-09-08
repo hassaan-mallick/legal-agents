@@ -1,0 +1,329 @@
+UNITED STATES DISTRICT COURT 
+EASTERN DISTRICT OF KENTUCKY 
+NORTHERN DIVISION 
+AT COVINGTON 
+***Electronically Filed*** 
+ 
+NICHOLAS SANDMANN, by and 
+through his parents and natural guardians, 
+TED SANDMANN and JULIE 
+SANDMANN, 
+Plaintiff, 
+v. 
+ABC NEWS, INC., ABC NEWS 
+INTERACTIVE, INC., and THE WALT 
+DISNEY COMPANY, 
+Defendants. 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+Case No.  2:20-CV-00025-WOB-CJS 
+Judge William O. Bertelsman 
+Magistrate Judge Candace J.  Smith 
+ 
+ 
+ 
+ABC DEFENDANTS’ SUPPLEMENTAL REPLY MEMORANDUM OF LAW IN 
+SUPPORT OF MOTION FOR SUMMARY JUDGMENT 
+ 
+ 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 1 of 13 - Page ID#: 2060
+ 
+ i 
+TABLE OF CONTENTS 
+Page 
+INTRODUCTION .......................................................................................................................... 1 
+I. THE ABC ARTICLES PRESENT THE BLOCKING STATEMENTS AS 
+PHILLIPS’ OPINION. ........................................................................................................ 1 
+II. THE ABC ARTICLES DO NOT CONVEY THE ALLEGED DEFAMATORY 
+MEANING. ......................................................................................................................... 3 
+ 
+  
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 2 of 13 - Page ID#: 2061
+ 
+ ii 
+TABLE OF AUTHORITIES 
+ Page(s) 
+Federal Cases 
+Chatterjee v. CBS Corp., 
+No. 6:19-CV-212-REW, 2020 WL 592324 (E.D. Ky. Feb. 6, 2020) ........................................7 
+Clark v. Viacom Int’l Inc., 
+617 F. App’x 495 (6th Cir. 2015) ..............................................................................................8 
+Croce v. N.Y. Times Co., 
+345 F. Supp. 3d 961 (S.D. Ohio 2018), aff’d, 930 F.3d 787 (6th Cir. 2019) .............................8 
+Greenbelt Coop. Publ’g Ass’n. v. Bresler, 
+398 U.S. 6 (1970) .......................................................................................................................2 
+Lassiter v. Lassiter, 
+456 F. Supp. 2d 876 (E.D. Ky. 2006), aff’d, 280 F. App’x 503 (6th Cir. 2008) ...................1, 3 
+Pace v. Baker-White, 
+432 F. Supp. 3d 495 (E.D. Pa. 2020), aff’d, 850 F. App’x 827 (3d Cir. 2021) .........................9 
+Sandmann v. WP Company LLC, 
+401 F. Supp. 3d 781 (E.D. Ky. 2019) ........................................................................................3 
+Time, Inc. v. Pape, 
+401 U.S. 279 (1971) ...................................................................................................................8 
+State Cases 
+Better Built Garages, Inc. v. Kentucky New Era, Inc., 
+2008 WL 4531037 (Ky. Ct. App. Oct. 10, 2008) ......................................................................3 
+Cromity v. Meiners, 
+494 S.W. 3d 499 (Ky. Ct. App. 2015, review denied Aug. 17, 2016) .......................................9 
+McCall v. Courier-Journal and Louisville Times Co., 
+623 S.W.2d 882 (Ky. 1981) ...........................................................................................1, 3, 7, 8 
+Smith v. Martin, 
+331 S.W.3d 637 (Ky. Ct. App. 2011) ........................................................................................8 
+Yancey v. Hamilton, 
+786 S.W.2d 854 (Ky. 1989) .......................................................................................................1 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 3 of 13 - Page ID#: 2062
+INTRODUCTION 
+The arguments in Sandmann’s Supplemental Opposition do not address, let alone dispute, 
+any of the points that ABC raised about the specific ABC Articles at issue.  Instead, with regard 
+to the opinion issue, Sandmann just repeats the same generic arguments that he raises in his 
+Opposition to the Joint Memorandum filed by all Defendants.  And with regard to the element of 
+defamatory meaning, Sandmann argues that issue has also already been decided, and that in any 
+event it is irrelevant what else ABC may have published in its Articles along with the Blocking 
+Statements.  Those positions are simply wrong. 
+I. THE ABC ARTICLES PRESENT THE BLOCKING STATEMENTS AS 
+PHILLIPS’ OPINION. 
+Sandmann largely repeats the same arguments about the law of the case doctrine and the 
+opinion privilege itself that he makes in his Opposition to the Defendants’ Joint Memorandum 
+supporting their motions for summary judgment.  For the reasons explained at length in 
+Defendants’ Joint Reply Memorandum and which need not be repeated here, those arguments are 
+incorrect.  Joint Reply at 10-13.  Sandmann further argues that if contextual analysis is ever 
+relevant to assessing whether a statement is fact or opinion, it is only in two “limited” types of 
+opinion cases – cases supposedly involving “mixed opinion” or cases involving “confusion” about 
+the statement’s meaning.  Pl. Supp. Opp. at 4.  That argument likewise has no foundation anywhere 
+in defamation law.  Rather, the “whole context of [a statement’s publication]” is a key determinant 
+in that analysis.  Yancey v. Hamilton, 786 S.W.2d 854, 857 (Ky. 1989) (citing McCall v. Courier-
+Journal and Louisville Times Co., 623 S.W.2d 882 (Ky. 1981)); Lassiter v. Lassiter, 456 F. Supp. 
+2d 876, 881 (E.D. Ky. 2006) (key question is “whether a reasonable person reading the statement 
+in the context of the whole article” would believe it to be opinion) (citations omitted), aff’d, 280 
+F. App’x 503 (6th Cir. 2008). 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 4 of 13 - Page ID#: 2063
+Based on his erroneous premise that context is irrelevant, Sandmann argues that it does not 
+matter how the ABC Articles presented Phillips’ statement, because Phillips was the original 
+speaker.  Pl. Supp. Opp. at 5.  But the very case law he cites, Greenbelt Coop. Publ’g Ass’n. v. 
+Bresler, 398 U.S. 6 (1970), refutes that proposition.  In that case, the Supreme Court found that 
+the word “blackmail” was rhetorical hyperbole when it was spoken in a public debate, and then 
+only after examining the context of that statement’s publication in a newspaper, the Court 
+concluded that the statement was also “not libel” as reported.  Id. at 13.  Importantly, the Supreme 
+Court noted that if the newspaper reports “had been truncated or distorted in such a way as to 
+extract the word ‘blackmail’ from the context in which it was used at the public meetings, this 
+would be a different case.”  Id.  Thus, Greenbelt makes clear that the context in which a speaker’s 
+words are presented in news reports is highly relevant.   
+Here, Phillips’ words themselves expressed his perception, but in any event that is also 
+clearly how they were presented within the context of the ABC Articles.  As set forth in ABC’s 
+Opening Supplemental Memorandum, ABC presented the incident as an event that had given rise 
+to multiple, subjective “dueling accounts,” drew attention to the fact that the situation was more 
+“complicated” than at first blush, and highlighted recently released videos “raising new questions” 
+about what “really happened.”  ABC Supp. Memo at 3-6.  Sandmann does not dispute any of that. 
+Moreover, Sandmann’s position in these summary judgment motions actually reinforces 
+the conclusion that the ABC Articles presented the Blocking Statements as Phillips’ opinion.  
+Sandmann maintains that videos standing alone would resolve for any reasonable reader whether 
+Sandmann blocked Phillips.  E.g., Pl. Memo at 2, 15; Pl. Opp. at 5.  He relies in particular on Video 
+2, which he cites 14 times in his Opposition to Defendants’ Joint Memorandum, as well as Videos 
+4 and 16 (cited four times and twice, respectively).  But the ABC Articles report the Blocking 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 5 of 13 - Page ID#: 2064
+Statements as Phillips’ perspective on an event that was captured on video, and they provide 
+readers with the same videos that Sandmann now relies on.  ABC Supp. Memo at 6-9, 12 n.6.  
+Thus, the ABC Articles present both Phillips’ and Sandmann’s perspectives on blocking, along 
+with video of the underlying event they each described, so “[t]he reader is in as good a position as 
+the author to judge whether the conclusion []he reached—that [Sandmann either did or did not 
+block Phillips]—was correct.”  Lassiter, 456 F. Supp. 2d at 882. 
+II. THE ABC ARTICLES DO NOT CONVEY THE ALLEGED DEFAMATORY 
+MEANING.   
+Turning to the element of defamatory meaning, Sandmann primarily argues that this Court 
+resolved the issue at the pleadings stage.  While only the Court can ultimately speak to that, ABC 
+respectfully understands the Court’s ruling differently.  The Court’s ruling denying ABC’s motion 
+to dismiss stated that “Sandmann alleges that defendants published a factual, defamatory statement 
+by Phillips, period.”  Doc. 36 at 4.  The Court further noted that the “Complaint alleges” that the 
+Blocking Statements “convey[] a defamatory meaning because it imputes to Sandmann racist 
+conduct.”  Id. at 3.  And it found that “the allegations of the Complaint” “fit [] precisely” the 
+definition of defamatory meaning under Kentucky law.  Id.  Accordingly, ABC understands the 
+Court’s holding to be that the allegations of the Complaint plausibly plead that the ABC Articles 
+convey a meaning that is libelous per se.        
+ Nor does Sandmann dispute, and indeed the law is clear, that to assess the element of 
+defamatory meaning, the Court must examine the Blocking Statements in the context of the entire 
+publication to evaluate whether the Articles as a whole convey the alleged defamatory meaning.  
+See, e.g., Sandmann v. WP Company LLC , 401 F. Supp. 3d 781, 790 (E.D. Ky. 2019) (“[T]he 
+Court must ‘analyze the article in its entirety and determine if its gist or sting is defamatory.’”) 
+(quoting McCall, 623 S.W.2d at 884); Better Built Garages, Inc. v. Kentucky New Era, Inc., 2008 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 6 of 13 - Page ID#: 2065
+WL 4531037, at *2-3 (Ky. Ct. App. Oct. 10, 2008) (“alleged defamatory publication should be 
+construed as a whole” and “the Court must analyze the publication in its entirety to determine 
+whether its gist or sting is defamatory”).  Here, the ABC Articles at issue include both text and a 
+significant body of embedded broadcast news reports, videos, and similar materials to which the 
+Articles link (including, for example, Video 2).  Nor does Sandmann dispute that for each of the 
+ABC Articles, the “entire publication” includes that corpus of broadcasts and videos.  But at this 
+stage, all those materials have been properly authenticated by custodial declarations, and 
+Sandmann does not dispute the authenticity of any of them.   
+So what distinguishes the analysis at this stage from an assessment of the pleadings alone 
+is all those materials were not included in the Complaint, nor did the Court’s prior ruling refer to 
+them.  ABC’s point is simply that once its entire publications are fully assessed at this summary 
+judgment stage, it becomes clear that the allegations of Sandmann’s Complaint repeatedly misstate 
+what ABC actually published.  When each Article is taken as a whole, ABC does not assert that 
+Sandmann blocked Phillips, and certainly does not impute to him racist conduct by doing so. 
+Moreover, even if defamation law did not require it, the defamatory meaning Sandmann 
+pleads would require that ABC’s entire publications be construed as a whole, including all the 
+materials that are now authenticated as exhibits to ABC’s summary judgment motion.  As the 
+Court explained in its order denying ABC’s motion to dismiss, Sandmann alleges that the Blocking 
+Statements “convey[] a defamatory meaning because [they] impute[] to Sandmann racist conduct.”  
+Doc. 36 at 3 (citing Compl. ¶¶ 208, 211).  But as Sandmann himself acknowledges, the Blocking 
+Statements on their face impute no racist conduct, hate crime, assault, or anything remotely similar.  
+See Pl. Supp. Opp. at 5 (“[Phillips] didn’t directly accuse [Sandmann] of racism[.]”); id. (Phillips’ 
+supposed accusations of Sandmann’s “bigotry and insensitivity” relayed “not by using those words 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 7 of 13 - Page ID#: 2066
+or any like those words”).  Instead, Sandmann’s Complaint alleges that it is “the gist of [each] of 
+the Article[s] ” that “convey a defamatory meaning because they impute to [Sandmann] racist 
+conduct, including: (a) aggression constituting an intent-to-intimidate assault against Phillips, a 
+Native American elder and veteran; (b) menacing racial intimidation of Phillips; and (c) a hate 
+crime for interfering with a Native American prayer and song ceremony at the National Mall 
+during the Indigenous Peoples March.”  Compl.  ¶¶ 211, 221, 230, 240 (emphasis added).  
+ABC’s opening supplemental memorandum presented a detailed showing that the gist of 
+the ABC Articles does not convey that alleged meaning, to which Sandmann offers no response at 
+all.  The thrust of the ABC Articles was that new video, statements, and other evidence had called 
+into question initial news reports about the whole incident.  ABC Supp. Memo at 11.  Nor did 
+ABC report the Blocking Statements themselves as definitive, factual accounts, but rather as one 
+of several views initially reported by other news outlets that were being disputed by Sandmann 
+and another CovCath student witness, and called into question by other video.  Id. at 12.  By 
+reporting them in that context, the ABC Articles do not impute racist conduct to Sandmann.   
+Moreover, Sandmann also does not dispute that his pleadings mischaracterize the gist of 
+the ABC Articles because they affirmatively misrepresent what ABC actually reported.  As ABC’s 
+supplemental memorandum explained, the Complaint repeatedly alleges that ABC failed to report 
+numerous facts and videos that a review of the entire corpus of the publications as a whole makes 
+plain ABC did report.  Id. at 11-12.  To note a few additional examples: 
+ The Complaint (¶ 262) alleges that ABC should have sought information from people at 
+the scene, such as Sandmann and other classmates.  In fact, all the ABC Articles quoted 
+Sandmann’s statement, and the First and Fourth Articles also quoted a classmate.  See Doc. 1-8 at 
+4; Doc. 1-9 at 2, 4-5; Doc. 1-10 at 3-5; Doc. 1-11 at 3-4.  
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 8 of 13 - Page ID#: 2067
+ The Complaint (¶¶ 83-84) alleges that ABC should have been aware of a video that showed 
+Phillips approaching the students.  In fact, the First Article reported on and linked to that very 
+video, and the First GMA Story played it.  See Doc. 1-8 at 3; Doc. 66-1, Ex. 1-C; Doc. 66-1, Ex. 
+1-A at 01:36-01:47 (First GMA Story) & Doc. 66-3.  
+ The Complaint (¶¶ 80-81) alleges that ABC should have reported about the Banyamyan 
+Video (which is now “Video 4”).  The Second GMA Story aired portions of it, as did the ABC7 
+Story, and the Third and Fourth Articles reported about it.  See Doc. 66-1, Ex. 2-A at 01:20-01:32 
+(Second GMA Story); Doc. 66-2, Ex 3-A at 00:00-00:15, 00:31-01:13 (ABC7 Story); Doc. 1-10 
+at 2-4; Doc.1-11 at 2; compare also Compl. ¶ 80 (describing the “1 hour and 46-minute video”) 
+with Doc. 66-1, Ex. 2-A at 02:28-02:32 (Second GMA Story) & Doc. 66-4 (GMA anchor Robin 
+Roberts:  “It was a very lengthy video, didn’t you say?”; Correspondent Erielle Reshef: “Yes, an 
+hour and 45 minutes, I watched.”). 
+ The Complaint (¶ 60) alleges that ABC should have reported that another Native American  
+protestor (who is Mr. Andrade) shouted, “white people, go back to Europe.”  The Third Article 
+reported that, Doc. 1-10 at 4 (“Sandmann said one of the Native American protesters yelled at 
+them that they “stole our land” and they should “go back to Europe”), and the Second GMA Story 
+aired those very words.  Doc. 66-1, Ex. 2-A at 0:33-0:34 & Doc. 66-4: 1   
+ 
+1 The Complaint also alleges that Phillips and ABC accused Sandmann of shouting “Build that wall.” Compl. ¶¶ 23, 
+209, 220, 229, 239.  No one ever accused Sandmann of saying that, and the ABC Articles further noted its reporter 
+had not heard anyone shouting that on videos.  Docs. 66-1, Ex. 2-A (Second GMA Story) & 66-4 (Transcript of Second 
+GMA Story).  More broadly, Sandmann may not try to construct a defamatory gist by pleading statements the Court 
+has already held to be not actionable.  See, e.g., Post, Doc. 47 at 30-36; Doc. 64 (“The Court will adhere to its previous 
+rulings as they pertain to these statements except” the Blocking Statements).    
+ 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 9 of 13 - Page ID#: 2068
+Rather than address the gist of the actual ABC Articles or even try to defend the accuracy 
+of his pleadings, Sandmann tries to avoid that analysis entirely by arguing that ABC’s publication 
+of non-defamatory facts cannot “excuse it from liability” for publishing allegedly defamatory 
+statements.  Pl. Supp. Opp. at 9.  But that is exactly the approach that defamation law proscribes.  
+The question is not whether there are, or are not, statements within an article that in isolation could 
+be construed as defamatory or non-defamatory.  If that were the law, then any defamation plaintiff 
+could cherry-pick any statement from within a publication and assert that in isolation it conveys a 
+defamatory meaning, even if the article as a whole did not.  Likewise, any defendant could do the 
+same in response.  But time and again, courts have rejected that very approach, including in the 
+very case Sandmann cites.  See McCall, 623 S.W.2d at 884 (“We must, therefore, analyze the 
+article in its entirety and determine if its gist or sting is defamatory.”). 
+In McCall, the court did not look only at a single statement in isolation, but rather found 
+that the newspaper article as a whole was defamatory because its repeated publication of the 
+various allegedly defamatory statements at issue throughout the entire article “overwhelming[ly]” 
+suggested that the plaintiff engaged in the alleged misconduct.  Id. at 885; see also Chatterjee v. 
+CBS Corp. , No. 6:19-CV-212-REW, 2020 WL 592324, at *8 (E.D. Ky. Feb. 6, 2020) (“As 
+Kentucky law instructs, the Court assesses the language within the overall published piece.”).  The 
+court also noted that the context of the article at issue in McCall did not involve reporting on some 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 10 of 13 - Page ID#:
+2069
+pre-existing controversy, but rather that it was the article itself that first brought the allegation to 
+the attention of the public.  McCall, 623 S.W.2d at 883-84.  By contrast, the ABC Articles reported 
+about a pre-existing controversy, published Phillips’ “blocking” comment just once in each article, 
+and explained that Phillips’ account was being called into question by contrary statements, videos, 
+and other information and more broadly did not impute racist conduct to Sandmann.2  
+Indeed, the facts of this case illustrate why courts do not hold news reporting like the ABC 
+Articles to be defamatory.  If the law were as Sandmann contends, then it would be impossible for 
+news organizations to report on public controversies with competing narratives.  See Clark v. 
+Viacom Int’l Inc., 617 F. App’x 495, 510 (6th Cir. 2015) (“[A] vast amount of what is published 
+in the daily and periodical press purports to be descriptive of what somebody said rather than of 
+what anybody did.”) (quoting Time, Inc. v. Pape, 401 U.S. 279, 285 (1971) ).  Here, Sandmann’s 
+public statements that the Articles reported would be incomprehensible to ABC’s audience if the 
+allegations he was responding to could not also be reported.  Moreover, not just Sandmann, but 
+everyone on all sides of this controversy could sue ABC over the same Articles.  Phillips could 
+sue ABC for reporting Sandmann’s side, claiming that by including his statements ABC implicitly 
+called Phillips a liar.  Others who spoke out on each side could do the same.  ABC respectfully 
+submits that it is not Kentucky law that the more sides of an issue the press presents, the more 
+lawsuits it subjects itself to. 
+ 
+2 Sandmann also notes that McCall did not adopt the neutral reportage privilege.  Pl. Supp. Opp. at 10.  But ABC has 
+not raised that issue.  Where it is recognized, like all privileges neutral report is an affirmative defense that protects a 
+publisher from liability once it has been determined that a publication conveys a defamatory meaning.  See Smith v. 
+Martin, 331 S.W.3d 637, 640 (Ky. Ct. App. 2011) (“A privilege is recognized as a defense to a defamation claim; 
+the defense may be either absolute or qualified.”).  But if a publication is not  defamatory in the first instance, 
+whether the neutral report or any other privilege might protect it is irrelevant.  See, e.g., Croce v. N.Y. Times Co., 
+345 F. Supp. 3d 961, 976 (S.D. Ohio 2018), aff’d,  930 F.3d 787 (6th Cir. 2019) (holding that publication as a whole 
+was not reasonably capable of a defamatory meaning, after district court had held neutral report privilege was not 
+recognized).     
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 11 of 13 - Page ID#:
+2070
+Finally, for all the reasons stated herein and in the joint memoranda filed by all Defendants, 
+the Blocking Statements express Phillips’ opinion and are substantially true.  Thus, any inferences 
+anyone might draw about what motives Sandmann had would itself be protected opinion.   See, 
+e.g., Cromity v. Meiners, 494 S.W. 3d 499, 504 (Ky. Ct. App. 2015, review denied Aug. 17, 2016) 
+(statement that defendant was an “out and out liar” was a nonactionable opinion premised on a 
+description of an underlying event that was not provably false). 3  And in any event, Sandmann 
+himself acknowledges that a person assessing his conduct as he describes it could hold the opinion 
+that “the respectful thing is probably to just move out of the way” for an elder Native American.  
+S.D. 194:7-195:2. 
+CONCLUSION 
+For all the foregoing reasons, as well as the reasons set forth in Defendants’ joint 
+memoranda and ABC’s opening supplemental memorandum, the ABC Defendants respectfully 
+request that this Court grant its motion for summary judgment. 
+Dated: March 14, 2022 Respectfully submitted, 
+ 
+Nathan Siegel (pro hac vice) 
+Meenakshi Krishnan (pro hac vice) 
+DAVIS WRIGHT TREMAINE LLP 
+1301 K Street NW, Suite 500 
+Washington, DC 20005 
+Phone: (202) 973-4237 
+Fax: (202) 973-4437 
+nathansiegel@dwt.com 
+meenakshikrishnan@dwt.com  
+ 
+/s/ Robert B. Craig  
+Robert B. Craig (KBA 15590) 
+TAFT STETTINIUS & HOLLISTER LLP 
+50 East RiverCenter Blvd.   
+ 
+3 E.g., Pace v. Baker-White, 432 F. Supp. 3d 495, 513 (E.D. Pa. 2020) (“implications that Plaintiff . . . endorses 
+violence, racism, and bigotry . . . are statements of opinion by Defendants that readers could view Plaintiff in that 
+way—leaving open the possibility that they also could not.”), aff’d, 850 F. App’x 827 (3d Cir. 2021). 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 12 of 13 - Page ID#:
+2071
+Suite 850 
+Covington, KY 41011-1683 
+Phone: (859) 547-4300 
+Fax: (513) 381-6613 
+craigr@taftlaw.com 
+ 
+Counsel for Defendants ABC News, Inc., ABC News 
+Interactive, Inc., and The Walt Disney Company 
+Case: 2:20-cv-00025-WOB-CJS   Doc #: 83   Filed: 03/14/22   Page: 13 of 13 - Page ID#:
+2072

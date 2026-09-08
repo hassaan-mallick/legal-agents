@@ -1,0 +1,823 @@
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+John Doe, 
+                                                   Plaintiff,  
+v. 
+Deloitte LLP Group Insurance Plan, 
+                                          Defendant. 
+Civil Action No. 1:23-cv-04743-JPC 
+DEFENDANT DELOITTE LLP GROUP 
+INSURANCE PLAN’S MEMORANDUM 
+OF LAW IN SUPPORT OF ITS MOTION 
+FOR SUMMARY JUDGMENT 
+Judge John P. Cronan 
+-i- 
+TABLE OF CONTENTS 
+SUMMARY OF THE FACTS  .......................................................................................................1 
+PROCEDURAL HISTORY ............................................................................................................3 
+RULE 56 SUMMARY JUDGMENT STANDARD  ......................................................................5 
+ARGUMENT ...................................................................................................................................6 
+I. AETNA’S POST-REMAND DENIAL OF PLAINTIFF’S BENEFITS CLAIM IS 
+SUBJECT TO THE ARBITRARY AND CAPRICIOUS STANDARD OF REVIEW......6 
+A. The Plan is The Determinative Document Controlling this Dispute. ......................7 
+B. The Plan Grants Discretionary Authority to Aetna, Warranting the Arbitrary and 
+Capricious Standard of Review. ............................................................................10 
+II. AETNA SATISFIED ERISA’S NOTICE AND FULL AND FAIR REVIEW 
+STANDARDS....................................................................................................................11 
+A. Aetna Provided a Full and Fair Review of Plaintiff’s Arguments That A Network 
+Deficiency Required a Single Case Agreement Because None of the In-Network 
+Facilities Purportedly Were Appropriate for A.D.’s Care. ....................................13 
+1. Meridell .............................................................................................................. 15 
+2. Oak Plains Academy ......................................................................................... 15 
+3. San Marcos Treatment Center ......................................................................... 16 
+4. Center for Discovery ......................................................................................... 17 
+B. Aetna Provided a Full and Fair Review of Plaintiff’s Plan-Based Argument That 
+Coverage For Sandhill Should Be Provided Under a Single Case Agreement......17
+III. AETNA’S FINAL CLAIM DETERMINATION ON REMAND WAS NOT 
+ARBITRARY AND CAPRICOUS AND MUST BE UPHELD. ......................................19 
+A. Aetna’s Determination is Supported by Substantial Evidence, Including Plan 
+Language. ...............................................................................................................20 
+B. Plaintiff’s Arguments Enlisting Inapplicable Federal and State Insurance Laws and 
+Based On a Prior Single Case Agreement Approved for A.D. Are Unavailing. ...23 
+1. Plaintiff’s Insurance Law Arguments Are Not Applicable........................23 
+-ii- 
+2. A Prior Single Case Agreement for Episodic Outpatient Therapy Does Not 
+Support a Single Case Agreement for an Out-of-Network RTC Facility. .25  
+IV. EVEN UNDER A DE NOVO STANDARD, DENIAL OF PLAINTIFF’S BENEFIT 
+CLAIM ON APPEAL IN REMAND MUST BE UPHELD. ............................................26 
+CONCLUSION ..............................................................................................................................27 
+- iii -
+TABLE OF AUTHORITIES 
+Cases 
+Anderson v. Liberty Lobby, Inc.,  
+ 477 U.S. 242, 248 (1986) ............................................................................................................ 5 
+Anonymous Oxford Health Plan Member With Id No. 6023604*01 v. Oxford  
+ Health Plans (N.Y.), Inc. ,  
+ No. 08CIV.943PAC, 2009 WL 667237 (S.D.N.Y. Mar. 16, 2009) .................................... 20, 21 
+Black & Decker Disability Plan v. Nord,  
+ 538 U.S. 822, 834 (2003) .......................................................................................................... 13 
+Celardo v. GNY Auto. Dealers Health & Welfare Tr.,  
+ 318 F.3d 142, 146 (2d Cir. 2003) .............................................................................................. 19 
+Conkright v. Frommert,  
+ 559 U.S. 506, 507 (2010) ............................................................................................................ 7 
+Coram Healthcare Corp. v. Wal-Mart Stores, Inc.,  
+ 238 F. Supp. 2d 586, 589-90 (S.D.N.Y. 2002)...................................................................... 8, 10 
+Curran v. Aetna Life Ins. Co.,  
+ No. 7:2013cv00289, 2016 WL 3843085 (S.D.N.Y. July 11, 2016) .......................................... 21 
+DeCesare v. Aetna Life Ins. Co.,  
+ 95 F. Supp. 3d 458, 481 (S.D.N.Y. 2015) ........................................................................... 10, 12 
+DeFrancis v. MVP Health Plan, Inc.,  
+ No. 05CIV7086CMGAY, 2005 WL 8179331 (S.D.N.Y. Nov. 1, 2005) ................................. 21 
+Demirovic v. Bldg. Serv. 32 B–J Pension Fund,  
+ 467 F.3d 208, 212 (2d Cir. 2006) .............................................................................................. 12 
+Feifer v. Prudential Ins. Co. of Am.,  
+ 306 F.3d 1202, 1209 (2d Cir. 2002) .............................................................................. 7, 8, 9, 10 
+Firestone Tire & Rubber Co. v. Bruch,  
+ 489 U.S. 101, 115 (1989) ............................................................................................ 6, 7, 10, 26 
+Grimo v. Blue Cross/Blue Shield of Vt.,  
+ 34 F.3d 148, 151 (2d Cir.1994) ................................................................................................... 7 
+Halberg v. United Behav. Health,  
+ 408 F. Supp. 3d 118, 124-25, 137-38 (E.D.N.Y. 2019) .......................................................... 8, 9 
+-iv- 
+Hobson v. Metropolitan Life Ins. Co.,  
+ 574 F.3d 75 (2d Cir. 2009) .................................................................................................. 12, 19 
+Hughes v. Hartford Life & Accident Ins. Co.,  
+ No. 3:19-CV-01611 (JAM), 2021 WL 1165430 (D. Conn. Mar. 25, 2021) ............................... 7 
+Krauss v. Oxford Health Plans, Inc.,  
+ 517 F.3d 614, 622 (2d Cir. 2008) .................................................................................... 6, 10, 21 
+Kruk v. Metro. Life Ins. Co.,  
+ 567 F. App’x 17, 19 (2d Cir. 2014) ............................................................................................. 6 
+Matsushita Elec. Indus. Co. Ltd. v. Zenith Radio Corp.,  
+ 475 U.S. 574, 586 (1986) ............................................................................................................ 5 
+N. Jersey Plastic Surgery Ctr., LLC v. 1199SEIU Nat'l Benefit Fund,  
+ No. 22-CV-6087 (PKC), 2023 WL 5956142 (S.D.N.Y. Sept. 13, 2023) ........................... 24, 25 
+Northwell Health Inc. v. Lamis,  
+ No. 18CV1178, 2019 WL 4688704 (S.D.N.Y. Sept. 25, 2019) ................................................. 9 
+Pagan v. NYNEX Pension Plan,  
+ 52 F.3d 438, 442 (2d Cir.1995) ................................................................................................. 19 
+Redstone v. Empire Healthchoice HMO, Inc.,  
+ No. 23-CV-2077 (VEC), 2024 WL 967416 (S.D.N.Y. Mar. 5, 2024) ...................................... 21 
+Rhea v. Alan Ritchey, Inc. Welfare Benefit Plan,  
+ 858 F.3d 340, 346-47 (5th Cir. 2017) ..................................................................................... 8, 9 
+Schanfield v. Sojitz Corp. of Am.,  
+ 663 F. Supp. 2d 305, 328 (S.D.N.Y. 2009) ................................................................................. 5 
+Scotto v. Almenas,  
+ 143 F.3d 105, 114 (2d Cir. 1998) ................................................................................................ 5 
+Wise v. Plan Adm’r, IBM Ben. Plan for Ret. Emps.,  
+ No. 3:13-cv-1591(JBA), 2014 WL 3849975 (D. Conn. Aug. 15, 2014) .................................... 9 
+Statutes
+29 U.S.C. § 1132(a)(1)(B) .............................................................................................................. 6 
+29 U.S.C. § 1133 ........................................................................................................................... 12 
+-v- 
+Other Authorities 
+FED. R. CIV. P. 56(c) ....................................................................................................................... 5 
+- 1 -
+The question presented in this case is straightforward: was Plaintiff’s health insurance 
+benefit claim properly denied when that claim was for out-of-network care, the benefit plan 
+expressly does not cover out-of-network care expenses, and there was no basis for an exception? 
+For the reasons discussed below, the answer to that question is yes. 
+SUMMARY OF THE FACTS 
+The Deloitte LLP Group Insurance Plan (“Defendant”) is the legal entity through which 
+Deloitte LLP provides health and welfare benefits to eligible employees and their dependents. 
+(Defendant Deloitte LLP Group Insurance Plan’s Statement of Undisputed Material Facts Pursuant 
+to Local Civil Rule 56.1 (“56.1”) at ¶ 2.) One of the plans through which Defendant offers those 
+benefits is the Aetna Open Access Select EPO Plan (the “Plan”). (56.1 ¶ 3.) Aetna Life Insurance 
+Company (“Aetna”) is the Plan’s Claims Administrator. (56.1 ¶ 6.) The Plan grants discretionary 
+authority to Aetna to construe and interpret the Plan’s terms and determine Plan participants’ 
+benefits claims. (56.1 ¶ 8.)  
+The Plan plainly and unambiguously states – indeed, in emphasized, underlined text – that 
+expenses for care provided by out-of-network providers are not covered. (56.1 ¶ 16: “Out-of-
+Network care is not a covered expense in this Plan”) (emphasis in original). If a Plan participant 
+nonetheless elects to receive out-of-network care, the Plan states the participant may request 
+exception-based coverage through a prior authorization, which entails an Aetna utilization review 
+process. (56.1 ¶¶ 24-25.) Aetna uses its own techniques and programs to evaluate the clinical 
+necessity, appropriateness, efficacy, or efficiency of the out-of-network provider. (56.1 ¶ 26.)  
+Plaintiff is a Plan participant. (56.1 ¶ 10.) Plaintiff’s dependent son, A.D., is a beneficiary 
+eligible for medical benefits under the Plan. (56.1 ¶ 11.) In 2022, A.D. was a ten-year-old boy 
+presenting with significant and complex mental health issues, culminating in his admission to 
+-2- 
+Huntsman Mental Health Institute (“Huntsman”) on or around September 6, 2022. (56.1 ¶¶ 27-
+30.) When Huntsman and Plaintiff began coordinating A.D.’s post-hospitalization care plans with 
+Aetna, Aetna did not dispute that A.D.’s continuing care at a residential treatment center (“RTC”) 
+was medically necessary. (56.1 ¶¶ 31-34.) Aetna’s Care Advocate – the liaison between Plaintiff 
+and Aetna – provided Plaintiff with multiple suitable and available in-network RTC facilities for 
+A.D.’s admission. (56.1 ¶¶ 35-36; 47; 49; 57.) Plaintiff, however, rejected each of these in-network 
+RTC options and instead arranged for A.D.’s admission into Sandhill, an out-of-network RTC, 
+despite being repeatedly advised by Aetna that expenses incurred by Plaintiff for A.D.’s treatment 
+at Sandhill would not be covered under the terms of the Plan, including with consideration of a 
+requested single case agreement for out-of-network providers. (56.1, ¶¶ 40-41; 48; 59-60.)  
+Plaintiff nonetheless submitted a benefit claim to Aetna for payment of Sandhill expenses 
+for a six month period between October 2022 and April 2023 (56.1, ¶ 61.) Aetna denied that claim 
+and thereafter maintained its position through the administrative review process initiated and 
+pursued by Plaintiff. (56.1 ¶¶ 60-80.) After exhausting all appeals under that process, Plaintiff sued 
+Defendant, alleging Aetna’s denial of Plaintiff’s claim for benefits violated Section 1132(a)(1)(B) 
+of ERISA. (56.1 ¶¶ 85-87; Doc. 1) 
+Following briefing on the parties’ cross-motions for judgment/summary judgment, on 
+February 24, 2025, the Court issued an Order remanding Plaintiff’s benefits claim to Aetna to 
+address in its decision whether Plaintiff’s claim for Sandhill expenses should be approved, 
+notwithstanding Sandhill’s status as an out-of-network provider and the Plan’s exclusion of 
+coverage for out-of-network providers, on a single case agreement basis. (56.1 ¶¶ 88-95; Doc. 44; 
+the “Order”.) Aetna complied with the Court’s Order and reached a final determination on 
+November 11, 2025, denying Plaintiff’s benefit claim. (56.1 ¶ 113.)  
+-3- 
+Aetna’s November 11, 2025 claim denial determination is thorough, detailed, well-
+reasoned, and reflects its full and fair consideration of all of Plaintiff’s arguments made throughout 
+the administrative appeal process. (56.1 ¶¶113-144.) More specifically, that determination directly 
+complied with the Court’s instructions in the Order, evaluating Plaintiff’s request for coverage for 
+Sandhill on a single case agreement basis, but concluding that exception-based coverage on a 
+single case agreement basis was not warranted or appropriate under the Plan because there was no 
+deficiency in Aetna’s RTC network, as multiple clinically appropriate and available in-network 
+RTC options were presented to (but rejected by) Plaintiff. (56.1 ¶¶ 118-136.) Aetna’s November 
+11, 2025 determination additionally concluded that even if a network deficiency existed, Sandhill 
+nonetheless could not be approved on a single case agreement basis due to its not meeting Aetna’s 
+legitimate utilization review criteria. (56.1 ¶¶ 137-142.) 
+The Administrative Record reflects that Aetna conducted a full and fair review of 
+Plaintiff’s benefit claim, and that its denial determination was reasonable and supported by 
+substantial evidence. As denial was neither arbitrary nor capricious under the terms of the Plan, it 
+must be upheld. Defendant therefore respectfully requests that the Court grant it summary 
+judgment on Plaintiff’s claim. 
+PROCEDURAL HISTORY 
+On June 6, 2023, Plaintiff filed a Complaint alleging a single cause of action for denial of 
+benefits pursuant to 29 U.S.C. § 1132(a)(1)(B). (Doc. 1 at ¶¶ 27-34.) On April 5, 2024, Plaintiff 
+submitted a Rule 52 Motion for Judgment (56.1 ¶ 88; Doc. 33). On May 3, 2024, Defendant 
+submitted a Rule 56 Motion for Summary Judgment and Opposition to Plaintiff’s Rule 52 Motion 
+(56.1 ¶  88; Doc. 36). After full briefing, on February 24, 2025, the Court issued the Order 
+remanding Plaintiff’s claim for benefits to Aetna “for a new review and with instructions to 
+-4- 
+specifically address in any decision whether Sandhill should be granted a single case agreement, 
+including consideration of Plaintiff’s arguments concerning the adequacy of in-network 
+offerings.” (56.1 ¶¶  90-95; Docs. 41; 42; 44.)  
+On May 1, 2025, Aetna issued its determination following the Court’s Order (the “May 1, 
+2025 Determination”), in which it upheld its earlier denial of coverage. (56.1 ¶¶ 99-104.) Plaintiff 
+sought an administrative appeal to Aetna’s May 1, 2025 Determination, which Defendant 
+consented to without waiving its position that neither the Plan nor ERISA provided for any further 
+appeal. (56.1 ¶¶  105-107; Docs. 49; 50.) On August 13, 2025, Plaintiff submitted an appeal to 
+Aetna’s May 1, 2025 Determination (the “August 13, 2025 Appeal”). (56.1 ¶¶ 108-112.) On 
+November 11, 2025, Aetna responded to Plaintiff’s August 13, 2025 Appeal (the “November 11, 
+2025 Determination”). (56.1 ¶ 113.) Aetna’s November 11, 2025 Determination was made by a 
+licensed, board certified child and adolescent psychiatrist who was not previously involved in any 
+prior Aetna determinations with respect to A.D.’s treatment or Plaintiff’s claim for benefits related 
+thereto, including Plaintiff’s prior appeals (the “Appeal Reviewer”) (56.1 ¶ 114.) The Appeal 
+Reviewer determined, as reflected in the November 11, 2025 Determination, that the denial of 
+coverage for Sandhill must be upheld. (56.1 ¶ 115-117; 144.)  
+The parties notified the Court on November 18, 2025 that the appeals process was 
+complete. (Doc. 51.) The Court thereafter lifted the stay in this matter and ordered the parties to 
+file a joint letter advising the Court of the disposition of Plaintiff’s administrative appeal and how 
+the parties wished to proceed. (Doc. 52.) On November 24, 2025, the parties advised the Court of 
+the disposition and requested that each party be permitted to file a motion for summary judgment,  
+limited to the issues of (1) standard of review; (2) Aetna’s post-remand review and determination; 
+and (3) whether the benefits denial determination should be upheld. (Doc. 53.) On November 26, 
+-5- 
+2026, the Court issued a Minute Entry setting a briefing scheduling for the parties’ cross-motions 
+for summary judgment (Nov. 26, 2026 Minute Entry (text-only entry, no ECF document number).)  
+RULE 56 SUMMARY JUDGMENT STANDARD
+Summary judgment is appropriate when there is no “genuine issue of material fact” and 
+the undisputed facts warrant judgment for the moving party as a matter of law. F ED. R. CIV. P. 
+56(c). In addressing a motion for summary judgment, the court must view the evidence “in the 
+light most favorable to the party against whom summary judgment is sought and must draw all 
+reasonable inferences in its favor.” Schanfield v. Sojitz Corp. of Am. , 663 F. Supp. 2d 305, 328 
+(S.D.N.Y. 2009) (citation omitted). The party moving for summary judgment bears the initial 
+burden of demonstrating the absence of a disputed issue of material fact. Id. The burden then shifts 
+to the nonmoving party to establish “specific facts showing that there is a genuine issue for trial.” 
+Id. (quoting FED. R. CIV. P. 56(e). 
+The party opposing summary judgment cannot rely on “conclusory allegations or 
+unsubstantiated speculation” to defeat summary judgment. Id. (quoting Scotto v. Almenas , 143 
+F.3d 105, 114 (2d Cir. 1998)). Moreover, a nonmoving party’s establishment of a disputed fact 
+cannot defeat summary judgment unless it is “material in light of the substantive law that governs 
+the case.” Id. (“Only disputes over facts that might affect the outcome of the suit under the 
+governing law will properly preclude the entry of summary judgment.”) (quoting Anderson v. 
+Liberty Lobby, Inc., 477 U.S. 242, 248 (1986)). Finally, the nonmoving party “must do more than 
+simply show that there is some metaphysical doubt as to the material facts.” Id. (quoting 
+Matsushita Elec. Indus. Co. Ltd. v. Zenith Radio Corp., 475 U.S. 574, 586 (1986)). In other words, 
+the nonmoving party must establish sufficient evidence such that “a reasonable jury could return 
+a verdict for the nonmovant.” Id.
+-6- 
+ARGUMENT 
+I. AETNA’S POST-REMAND DENIAL OF PLAINTIFF’S BENEFITS CLAIM IS 
+SUBJECT TO THE ARBITRARY AND CAPRICIOUS STANDARD OF REVIEW. 
+ERISA permits participants of an ERISA-governed benefits plan to bring a civil action “to 
+recover benefits due to him under the terms of his plan.” 29 U.S.C. § 1132(a)(1)(B). Courts review 
+a denial of benefits challenged under Section 1132(a)(1)(B) using either a de novo or a more 
+deferential arbitrary and capricious standard of review. Firestone Tire & Rubber Co. v. Bruch, 489 
+U.S. 101, 115 (1989). Courts must apply the arbitrary and capricious standard of review when the 
+benefits plan document grants the claims administrator—the entity responsible for making the 
+determination denying plan benefits to the participant—discretionary authority to determine 
+benefit eligibility or construe the terms of the plan. Krauss v. Oxford Health Plans, Inc., 517 F.3d 
+614, 622 (2d Cir. 2008).  
+The standard of review does not change when a court is in the posture of reviewing a 
+benefits determination post-remand, after an initial determination was found to have been arbitrary 
+and capricious. Kruk v. Metro. Life Ins. Co. , 567 F. App’x 17, 19 (2d Cir. 2014). In Kruk, the 
+district court initially found the plan’s denial of benefits arbitrary and capricious and remanded the 
+claim to the plan administrator, and the plan administrator again denied the plaintiff’s benefit 
+claim. Kruk, 567 F. App’x at 19. The plaintiff argued that court should apply a de novo standard 
+or review to the post-remand denial because the court had previously found the initial denial 
+improper under an arbitrary and capricious standard, and the court’s second review warranted less 
+deference to the administrator’s determination. Id. The Second Circuit however expressly rejected 
+that argument, finding the standard of review remains the arbitrary and capricious standard post-
+remand. Id. (“[The plaintiff] argues that judicial review of MetLife’s challenged decision here 
+should be de novo in light of a prior vacatur of MetLife’s initial denial of benefits as arbitrary and 
+-7- 
+capricious. We reject this argument…”) (internal citation omitted); see also Conkright v. 
+Frommert, 559 U.S. 506, 507 (2010) (finding the deferential standard of review applied post-
+remand, holding the Second Circuit’s then-“one-strike-and-you’re-out” approach in removing 
+deference to the plan administrator’s interpretation of plan terms post-remand “has no basis in 
+Firestone”); Hughes v. Hartford Life & Accident Ins. Co. , No. 3:19-CV-01611 (JAM), 2021 WL 
+1165430, at *6 (D. Conn. Mar. 25, 2021)(“Hughes argues that de novo review must apply because 
+of my prior ruling that Hartford failed to conduct a full and fair review during the course of the 
+first administrative appeal. But the Supreme Court’s decision in Conkright v. Frommert, 559 U.S. 
+506 (2010) forecloses this argument.”).
+Addressed in detail below, the Plan grants discretionary authority to Aetna as the Claims 
+Administrator to make eligibility determinations and to construe the terms of the Plan. An arbitrary 
+and capricious standard of review is proper. 
+A. The Plan is The Determinative Document Controlling this Dispute. 
+The Plan (56.1 ¶ 4; DGIP001651-1757) is the determinative document controlling this 
+dispute. The Plan’s language granting discretionary authority to Aetna as the Claims Administrator 
+requires application of the arbitrary and capricious standard of review.  
+An ERISA plan is “established if from the surrounding circumstances a reasonable person 
+can ascertain the intended benefits, a class of beneficiaries, the source of financing, and procedures 
+for receiving benefits.” Feifer v. Prudential Ins. Co. of Am. , 306 F.3d 1202, 1209 (2d Cir. 2002) 
+(quoting Grimo v. Blue Cross/Blue Shield of Vt., 34 F.3d 148, 151 (2d Cir.1994)).  
+A plan document’s generic disclaimer that it is only a “summary . . . not intended to cover 
+all details of the Plan” and that “the actual provisions of the Plan will govern in settling any 
+questions that may arise” does not impact the terms established in the available plan document or 
+-8- 
+otherwise impact the standard of review. Feifer, 306 F.3d at 1209; see also Rhea v. Alan Ritchey, 
+Inc. Welfare Benefit Plan, 858 F.3d 340, 346-47 (5th Cir. 2017) (“The Plan’s SPD references an 
+‘official Plan Document' that does not exist. . . . As the [magistrate judge] observed, including the 
+disclaimer in the [summary plan description] was ‘sloppy,’ but the disclaimer does not render the 
+Plan’s terms unenforceable.”). In Feifer, the court considered a “Program Summary” and 
+accompanying memorandum as the critical plan documents because those documents established 
+in writing the arrangement to provide employee benefits, even though the Program Summary 
+contained the following disclaimer: “This summary is for informational purposes only and is not 
+intended to cover all details of the Plan. The actual provisions of the Plan will govern in settling 
+any questions that may arise.” Id. at 1205-1210. The court specifically considered and rejected the 
+argument that the disclaimer rendered the Program Summary terms ineffective and non-binding 
+because the referenced “provisions of the Plan” did not exist or were not provided. Id. In reviewing 
+the administrative record, the court determined the Program Summary and accompanying 
+memorandum were the only plan documents available for the time period relevant to the 
+employees’ benefit claims, and therefore the terms stated in the Program Summary governed the 
+dispute. Id. at 1209-1210. The general reference to other controlling plan documents (which were 
+for practical purposes unavailable or nonexistent) did not change the court’s conclusion. Id. 
+Second Circuit courts routinely accept “summary” documents such as the Plan as the 
+determinative plan document for purposes of determining the applicable standard of review. 
+Feifer, supra; Coram Healthcare Corp. v. Wal-Mart Stores, Inc. , 238 F. Supp. 2d 586, 589-90 
+(S.D.N.Y. 2002) (determining arbitrary and capricious standard of review applied based solely on 
+discretionary authority language contained in a summary plan description (“SPD”), with the SPD 
+as the operative plan document); Halberg v. United Behav. Health, 408 F. Supp. 3d 118, 124-25, 
+-9- 
+137-38 (E.D.N.Y. 2019) (same); see also Northwell Health Inc. v. Lamis , No. 18CV1178, 2019 
+WL 4688704, at *5 (S.D.N.Y. Sept. 25, 2019) (explaining courts routinely hold that a single plan 
+document labeled an “SPD” can function as both an SPD and written plan instrument) (citing  
+Rhea, supra at 344, n. 3, Wise v. Plan Adm’r, IBM Ben. Plan for Ret. Emps., No. 3:13-cv-
+1591(JBA), 2014 WL 3849975, at *4 (D. Conn. Aug. 15, 2014)). Thus, under settled law, an 
+ERISA plan’s description as a “summary” or “SPD” in no way impacts such document’s binding 
+status as an ERISA plan or language therein granting discretionary authority to a claims 
+administrator.  
+Here, the Plan is described as an ERISA “Summary Plan Description” representing the 
+benefit plan, and it explains in detail the medical benefit options, coverages, and claims 
+administration procedures. (56.1, ¶¶ 4-5.) The Plan contains a generic disclaimer substantially 
+similar to the plan language reviewed in Feifer: 
+This summary represents the Aetna Open Access Select EPO 
+medical benefit option, herein ‘the Plan’ . . . This summary provides 
+general information about the Plan, who is eligible to receive 
+benefits under the Plan, what those benefits are, and how to obtain 
+benefits.  It does not cover all provisions, limitations, and 
+exclusions.  No general explanation can adequately give you all the 
+details of the Plan. This general explanation does not change, 
+expand, or otherwise interpret the terms of the Plan. If there is any 
+conflict between the information presented here, or any written or 
+oral communication by an individual representing the Plan, and the 
+Plan document, the terms of the Plan document as interpreted in the 
+sole discretion of the Plan Administrator will govern and will 
+determine the rights and benefits to which you will be entitled under 
+the Plan. 
+ (56.1 ¶ 5; DGIP001655.) As in Feifer, the Plan is the only plan document describing the 
+benefits program controlling Plaintiff’s claim, even though the Plan contains a generic disclaimer 
+stating that it is a non-exhaustive summary. (Id.) As the Second Circuit ruled in Feifer, the Plan’s 
+terms control, and reference to unavailable or nonexistent additional plan documents does not limit 
+-10- 
+or nullify the Plan’s terms. Feifer, 306 F.3d at 1208-1210.  As such, the Plan is the appropriate 
+“instrument” through which discretion in its administration. 
+B. The Plan Grants Discretionary Authority to Aetna, Warranting the Arbitrary 
+and Capricious Standard of Review. 
+Under well-settled law, a denial of benefits challenged under 29 U.S.C. § 1132(a)(1)(B) is 
+to be reviewed under an arbitrary and capricious standard of review when “the benefit plan gives 
+the administrator or fiduciary discretionary authority to determine eligibility for benefits or to 
+construe the terms of the plan.” Krauss, 517 F.3d at 622 (quoting Firestone, 489 U.S. at 115). The 
+grant of discretion in the plan document need not contain any specific words, only that it convey 
+that the entity designated to review and administer benefit claims has authority to do so. Id. (noting 
+example plan document language providing authorization to “resolve all disputes and 
+ambiguities,” “make benefit determinations ‘in our judgment,’” or “adopt reasonable policies, 
+procedures, rules, and interpretation to promote the orderly and efficient administration of [the 
+plan]” as adequately granting discretionary authority).  
+A plan that gives the designated claims administrator discretionary authority to resolve 
+“questions concerning the administration, interpretation, or application of the Plan” grants that 
+claims administrator sufficient discretionary authority to warrant review under an arbitrary and 
+capricious standard as a matter of law. Coram, 238 F. Supp. 2d at 589; see also DeCesare v. Aetna 
+Life Ins. Co., 95 F. Supp. 3d 458, 481 (S.D.N.Y. 2015) (ruling arbitrary and capricious standard 
+of review applied based on plan language granting Aetna “discretion and authority to determine 
+eligibility for benefits and to construe and interpret all terms and provisions” of the plan).
+Here, the Plan is a valid plan document that expressly and adequately grants discretionary 
+authority to Aetna, as Claims Administrator, to determine eligibility for benefits and construe the 
+terms of the Plan. The Plan states that Deloitte LLP is the “Plan Sponsor” and that Aetna is the 
+-11- 
+“Claims Administrator” (56.1 ¶¶ 6-7.) Most critically, the Plan expressly states Aetna has the 
+discretion to “interpret [b]enefits under the Plan,” “interpret the other terms, conditions, 
+limitations, and exclusions listed in the Plan,” and “make factual determinations related to the Plan 
+and its [b]enefits.” (56.1 ¶ 8.) The Plan additionally provides that Aetna is responsible for prior 
+authorization determinations – necessary for coverage of any RTC care, and any discretionary 
+consideration of out-of-network exception requests – through which it will employ its own “formal 
+techniques designed to monitor the use of, or evaluate the clinical necessity, appropriateness, 
+efficacy, or efficiency of, health care services, procedures, or settings. Such techniques may 
+include ambulatory review, prospective review, second opinion, certification, concurrent review, 
+case management, discharge planning, retrospective review or similar programs.” (56.1 ¶ 26.) The 
+Plan also contains a detailed description of the claims process, stating repeatedly that the Claims 
+Administrator determines benefit claims and appeals. (56.1 ¶ 9.)  
+Based on the Plan’s unambiguous and fulsome grant of discretionary authority to Aetna to 
+make benefits claims determinations and interpret the Plan’s terms and the fact that Aetna  
+exercised such authority in administering Plaintiff’s benefits claim, Aetna’s denial of Plaintiff’s 
+benefits claim is subject to the arbitrary and capricious standard of review. 
+II. AETNA SATISFIED ERISA’S NOTICE AND FULL AND FAIR REVIEW 
+STANDARDS. 
+The Court’s Order remanded Plaintiff’s claim for benefits to Aetna “for a new review and 
+with instructions to specifically address in any decision whether Sandhill should be granted a 
+single case agreement, including consideration of Plaintiff’s arguments concerning the adequacy 
+of in-network offerings.” (Doc. 44.) Aetna satisfied this directive and the requirements set by 
+ERISA for adequate claim determinations in its final post-remand determination (the November 
+11, 2025 Determination). (See 56.1 ¶¶ 113-144.)  
+-12- 
+In issuing benefit determinations, an ERISA claims administrator must: 
+(1) provide adequate notice in writing to any participant or beneficiary whose 
+claim for benefits under the plan has been denied, setting forth the specific 
+reasons for such denial, written in a manner calculated to be understood by 
+the participant, and 
+(2) afford a reasonable opportunity to any participant whose claim for benefits 
+has been denied for a full and fair review by the appropriate named fiduciary 
+of the decision denying the claim. 
+29 U.S.C. § 1133.  
+The claims administrator satisfies the “adequate notice” obligation and the requirement to 
+provide a “full and fair review” by explaining the specific reasons for the benefit denial, and 
+“reasonably” taking up the aspects of the claim as articulated by the claimant. Hobson v. 
+Metropolitan Life Ins. Co., 574 F.3d 75, 87 (2d Cir. 2009); see also DeCesare., 95 F. Supp. 3d at 
+480 (“Courts have defined a ‘full and fair review’ to mean ‘knowing what evidence the decision-
+maker relied upon, having an opportunity to address the accuracy and reliability of the evidence, 
+and having the decision-maker consider the evidence presented by both parties prior to reaching 
+and rendering [its] decision.’”) (internal quotation omitted).  
+The claims administrator must consider the opinions of a claimant’s health care provider 
+contained in the administrative record (when provided), but need not accord “greater deference” 
+to such opinions over the administrator’s professional medical personnel reviewing the claim.  
+DeCesare, 95 F. Supp. 3d at 488 (quoting Demirovic v. Bldg. Serv. 32 B–J Pension Fund, 467 
+F.3d 208, 212 (2d Cir. 2006)). A claims administrator that employs its own medical personnel to 
+consider the opinions of the treating providers instead of “ignoring” them has satisfied the full and 
+fair review requirement. Id.; see also Hobson , 574 F.3d at 85) (“As the Supreme Court has 
+explained, ‘courts have no warrant to require administrators automatically to accord special weight 
+to the opinions of a claimant’s physician; nor may courts impose on plan administrators a discrete 
+-13- 
+burden of explanation when they credit reliable evidence that conflicts with a treating physician’s 
+evaluation.’”) (quoting Black & Decker Disability Plan v. Nord, 538 U.S. 822, 834 (2003)).  
+Here, set forth below, there can be no legitimate dispute that Aetna communicated its 
+specific reasoning for denying Plaintiff’s benefit claim, reasonably taking up each aspect of 
+Plaintiff’s claim. Aetna expressly catalogued the evidence it reviewed and relied upon, giving 
+Plaintiff a full opportunity to address its accuracy and reliability. The record amply demonstrates 
+that Aetna fully and fairly considered the information provided by and opinions of Plaintiff, 
+Plaintiff’s benefits claim consultants, and A.D.’s treating health care providers in issuing its 
+thorough and extensive November 11, 2025 Determination. 
+A. Aetna Provided a Full and Fair Review of Plaintiff’s Arguments That A 
+Network Deficiency Required a Single Case Agreement Because None of the 
+In-Network Facilities Purportedly Were Appropriate for A.D.’s Care.
+Plaintiff does not contest that Sandhill was an out-of-network provider or that the Plan 
+expressly excludes coverage for out-of-network providers. Plaintiff’s argument in his August 13, 
+2025 Appeal is that the options for A.D.’s treatment at an in-network RTC were insufficient, either 
+because the in-network facility was inappropriate due to various circumstances ( i.e., A.D.’s age, 
+IQ, treatment needs, etc.) or was unavailable to promptly admit A.D, without undue delay. Based 
+on this, Plaintiff contends that Aetna should have approved treatment at Sandhill on a single case 
+agreement basis. (56.1 ¶¶ 108-110.)  
+Aetna considered and reasonably evaluated each aspect of Plaintiff’s arguments relating to 
+purported unsuitability of each in-network RTC option it provided to Plaintiff, explaining in detail 
+the specific reasons for its denial determination, including that in-network options provided by the 
+Plan were in fact clinically appropriate and available to provide residential care to A.D. and thus 
+no network deficiency existed. (56.1 ¶¶ 122-123.)  
+-14- 
+In reviewing Plaintiff’s appeal materials as to the alleged network deficiency and concerns 
+with the in-network RTC providers offered by Aetna, Aetna determined that at least four in-
+network RTCs were available to provide clinically appropriate care to A.D.: Meridell Achievement 
+Center; Oak Plains Academy; San Marcos Treatment Center; and Center for Discovery (56.1 ¶ 
+124-125.)  The Appeal Reviewer relied on their certification in child and adolescent psychiatry, 
+personal review of each of the identified facilities (including each facility’s licensure, 
+credentialing, and clinical program offerings), and the Administrative Record broadly. (56.1 ¶ 
+128.) The Appeal Reviewer considered the statements provided in 2025 by A.D.’s treating health 
+care providers (which was years after A.D.’s admission at Sandhill), including their opinions as to 
+perceived inadequacies of the in-network providers ( e.g., accommodation of A.D.’s age, the 
+therapeutic focus, or clinical milieu), and recommending Sandhill as an RTC provider.  (56.1 ¶¶ 
+126; 142.) Notably, when Plaintiff appealed the initial claim denials in 2022, Plaintiff submitted 
+letters from many of these same providers, none of whom expressed concerns with the adequacy 
+of the in-network providers or provide a recommendation of Sandhill at that time. (56.1 ¶ 32.) 
+The Appeal Reviewer also expressly considered and factored into the November 11, 2025 
+Determination the prior single case agreement granted to A.D. for episodic therapy (56.1 ¶ 120) 
+and Plaintiff’s arguments that the federal Affordable Care Act and New York insurance law 
+required a single case agreement for Sandhill (56.1 ¶ 121). For each of the identified in-network 
+RTCs, the Appeal Reviewer confirmed that any geographic-based restriction was determined 
+based upon Plaintiff’s preferences provided to Aetna’s Care Advocate; treatment parameters were 
+determined based upon A.D.’s age and individualized clinical factors; and whether transfer could 
+be made directly from Huntsman, either on an expedited basis or with a reasonably transfer delay.  
+(56.1 ¶ 127.)  
+-15- 
+The Appeal Reviewer ultimately determined that each of the four identified in-network 
+RTCs was clinically appropriate to provide residential treatment care to A.D. (56.1 ¶¶ 128; 144.) 
+Aetna thus concluded a network deficiency did not exist to warrant consideration of a single case 
+agreement with an out-of-network provider. (56.1 ¶ 128.) 
+1. Meridell
+As to Meridell Achievement Center, the Appeal Reviewer determined A.D.’s age and IQ 
+did not preclude his admission, as confirmed by Aetna’s Care Advocate and Meridell materials; 
+that Meridell offered sufficient duration of stay and clinically appropriate treatment; and that 
+Plaintiff’s concerns of negligence of Meridell were not supported by Aetna’s review of Meridell 
+with regard to safety violations, licensure, and credentialing. (56.1 ¶ 129.) The Appeal Reviewer 
+concluded that Meridell, “based on its licensure, credentialing, and clinical program offering, [] 
+was suitable to provide appropriate Residential Treatment Services to [A.D.]. Specifically, this 
+facility provided physician-led behavioral and neurobehavioral programs using evidence-based, 
+trauma-informed interventions, including family therapy to target dysregulation and aggressive 
+behaviors, improving functioning at home and school.” (56.1 ¶ 130.) 
+2. Oak Plains Academy 
+As to Oak Plains Academy, the Appeal Reviewer determined information provided by Oak 
+Plains supported its suitability for admission of A.D., with specific consideration given to A.D.’s 
+IQ and history of violent outbursts; that Oak Plains did not require demonstration of violent 
+behavior as a clinical requirement for remaining at the facility; that concerns about short term 
+discharge were not warranted because discharge was based upon completion goals; that Plaintiff’s 
+concerns of a reported patient death occurring at Oak Plains after A.D.’s admission to Sandhill was 
+not supported by Aetna’s review of Oak Plains with regard to safety violations, licensure, and 
+-16- 
+credentialing; and that Plaintiff’s concern about a five-week admission delay was not supported 
+by Aetna’s own review and communications with Oak Plains when planning for A.D.’s discharge 
+from Huntsman. (56.1 ¶ 131.)  The Appeal Reviewer concluded that Oak Plains “was suitable to 
+provide appropriate Residential Treatment Services to [A.D.]. Specifically, this facility is a 
+trauma-informed psychiatric residential treatment program for children ages 7 to 17 struggling 
+with emotional and behavioral issues, highlighting family therapy as part of its interventions.” 
+(56.1 ¶ 132.) 
+3. San Marcos Treatment Center 
+As to San Marcos Treatment Center, the Appeal Reviewer determined San Marcos was 
+responsive and communicative with Aetna regarding admission of A.D.; that San Marcos offers 
+adequate round the clock treatment for autism spectrum disorders as presented by A.D. and 
+accounting for A.D.’s age; that the 2025 letters from various physicians who treated A.D. three 
+years earlier, and which were submitted years after A.D.’s admission to RTC care alleging San 
+Marcos was not appropriate and “more of a hospital program” were not supported by San Marcos’ 
+treatment offerings and modalities, as A.D. would not have been treated alongside older patients 
+receiving treatment for alcohol dependency, or that A.D.’s treatment would have been limited to 
+an insufficient duration; and that the longer waitlist of San Marcos was common and could have 
+been accommodated through faster admission, or an extended stay at Huntsman and direct transfer 
+to the RTC facility. (56.1 ¶ 133.) The Appeal Reviewer concluded that, “based on its licensure, 
+credentialing, and clinical program offering, San Marcos was suitable to provide appropriate 
+Residential Treatment services to [A.D.]. Specifically, this facility provided physician-led, 
+evidence-based child-centered interventions including weekly family therapy to target 
+dysregulation and aggressive behaviors, improving functioning at home and school.” (56.1 ¶ 134.) 
+-17- 
+4. Center for Discovery
+As to Center for Discovery, the Appeal Reviewer determined the facility would have 
+accepted A.D., factoring in his age and his diagnosis, as Center for Discovery treated 10-year-old 
+patients and the full range of behavioral health issues and psychiatric disorders; that its many 
+different treatment units and programs supported separate (i.e., not mixed) clinical populations, 
+including by age, diagnosis, and gender, such that A.D. would receive clinically appropriate, 
+individualized care; and that treatment was not subject to predetermined time limits. (56.1 ¶ 135.) 
+The Appeal Reviewer concluded that, “Center for Discovery was able to accept a 10-year-old . . . 
+they operate 8–10 facilities nationwide that provide physician-led, evidence-based residential care 
+for complex child and adolescent mental health disorders, offering five to six hours of daily 
+psychotherapy and weekly psychiatric visits.” (56.1 ¶ 136.) 
+In sum, through Aetna’s May 1, 2025 Determination and November 11, 2025 
+Determination, Aetna provided a full and fair review of Plaintiff’s benefit claim, specifically 
+responding to Plaintiff’s arguments that Aetna’s in-network offerings were inadequate and 
+required a single case agreement, and explaining the evidence relied upon in its determination.   
+B. Aetna Provided a Full and Fair Review of Plaintiff’s Plan-Based Argument 
+That Coverage For Sandhill Should Be Provided Under a Single Case 
+Agreement.
+The November 11, 2025 Determination also explained that Sandhill could not be granted 
+a single case exception because, even if there was a network deficiency (there was not), Sandhill 
+failed to meet minimum safety criteria per the Plan terms surrounding the utilization review 
+process. 
+The November 11, 2025 Determination considered and responded to Plaintiff’s arguments 
+that Sandhill satisfied the Plan’s definitions of “providers” and “residential treatment facility” and 
+-18- 
+therefore should be covered without Aetna’s consideration of its clinical safety criteria. (56.1 ¶ 
+138.) The Appeal Reviewer explained that Plan language expressly excludes out-of-network 
+providers such as Sandhill from coverage, and exception-based coverage determinations are 
+confined to the prior authorization utilization review process. (Id.) The Appeal Reviewer cited the 
+Plan’s prior authorization language, which permits Aetna to consider requests for out-of-network 
+provider coverage through use of the utilization review process, including review of a requested 
+service’s clinical necessity, appropriateness, efficacy, or efficiency, and using utilization review 
+techniques such as ambulatory review, prospective review, second opinion, certification, 
+concurrent review, case management, discharge planning, retrospective review, or similar 
+programs. (56.1 ¶ 119.) 
+The Appeal Reviewer explained the quality control and safety criteria considered by Aetna 
+in the utilization review process for approval of single case agreements for RTC care, which had 
+been repeatedly provided to Plaintiff:  
+Included in those criteria are that the out-of-network residential treatment 
+facility ‘be accredited by one of the following agencies, commissions or 
+committees for the services being provided: The Joint Commission (TJC), 
+Committee on Accreditation of Rehabilitation Facilities (CARF), American 
+Osteopathic Association’s Healthcare Facilities Accreditation Program 
+(HFAP), or the Council on Accreditation (COA); or is credentialed by 
+Aetna.’ The criteria further provide that in addition to accreditation, a 
+licensed behavioral health provider must be actively on duty at the facility 
+24 hours per day for 7 days a week; the patient must be treated by a 
+psychiatrist at least once per week; and the facility’s medical director must 
+be a psychiatrist. 
+(56.1 ¶ 139.) The Appeal Reviewer explained why Aetna determined at the time of A.D.’s 
+discharge planning from Huntsman that Sandhill did not meet such criteria: “it was not accredited 
+or credentialed as required by the criteria, it did not have a licensed behavioral health provider 
+actively on duty 24/7, [A.D.] was not being treated by a psychiatrist at least one time per week 
+-19- 
+since his admission, and Sandhill Center’s medical director was not a psychiatrist.” (56.1 ¶ 140.) 
+The Appeal Reviewer also explained that Sandhill’s treatment approaches and techniques 
+(including basing patient care on the Neurosequential Model of Therapeutics) did not have 
+adequate support of the academic and clinical community for purposes of best accepted standard 
+of care, prohibiting eligibility for Aetna’s provider network or approval on a single case agreement 
+basis. (56.1 ¶ 141.) 
+By any reasonable measure, Aetna’s exhaustive, 15-page denial letter, responding to each 
+and every argument made by Plaintiff in the August 13, 2025 Appeal, provided Plaintiff a 
+comprehensive explanation supporting its claim denial determination and afforded Plaintiff a 
+reasonable opportunity for, and thereby, a full and fair review of, the decision denying the claim.  
+III. AETNA’S FINAL CLAIM DETERMINAITON ON REMAND WAS NOT 
+ARBITRARY AND CAPRICIOUS AND MUST BE UPHELD. 
+Judicial review under the arbitrary and capricious standard of review of an ERISA claims 
+administrator’s denial of a claim for benefits is “highly deferential” to the administrator’s 
+determination and “narrow” in scope. Celardo v. GNY Auto. Dealers Health & Welfare Tr. , 318 
+F.3d 142, 146 (2d Cir. 2003). A court can overturn the administrator’s denial only if it was “without 
+reason, unsupported by substantial evidence or erroneous as a matter of law.” Id. (quoting Pagan 
+v. NYNEX Pension Plan , 52 F.3d 438, 442 (2d Cir.1995)). “Substantial evidence” means “more 
+than a scintilla but less than a preponderance.” Id. (explaining support constitutes “substantial 
+evidence” if a reasonable mind might accept it as adequate to rationalize the administrator’s 
+conclusion). Under the arbitrary and capricious standard, if the administrator’s and the plaintiff’s   
+interpretations of plan provisions are conflicting but both are rational, the administrator’s 
+interpretation must control. Id. Courts may not substitute their own judgment for that of the claims 
+administrator. Id.; Hobson, 574 F.3d at 83–84. 
+-20- 
+Aetna’s denial of Plaintiff’s claim for reimbursement of Sandhill expenses was based on 
+substantial evidence and was not arbitrary and capricious:  
+ Sandhill was an out-of-network provider and the Plan explicitly provides that it 
+does not cover out-of-network providers. 
+ Multiple clinically appropriate RTCs were identified as available to provide 
+residential treatment to A.D. 
+ Because multiple in-network options were available, no network deficiency existed 
+that would warrant consideration of a single case agreement for coverage of an out-
+of-network provider. 
+ Even if a network deficiency did exist, Sandhill did not meet established minimum 
+safety criteria for approval on a single case agreement basis. 
+A. Aetna’s Determination is Supported by Substantial Evidence, Including Plan 
+Language. 
+The Plan unambiguously states out-of-network provider expenses are not covered by the 
+Plan, and such language must be enforced.  
+Second Circuit courts routinely uphold denials of claims for out-of-network health care 
+expenses based on plan language either limiting coverage of such expenses or excluding them 
+entirely. For example, in Anonymous Oxford Health Plan Member With Id No. 6023604*01 v. 
+Oxford Health Plans (N.Y.), Inc. , No. 08CIV.943PAC, 2009 WL 667237, at *5 (S.D.N.Y. Mar. 
+16, 2009), the court granted the plan’s motion to dismiss the plaintiff’s benefits claim seeking 
+coverage for residential treatment facility expenses because the facility was not in-network and the 
+plan did not cover out-of-network expenses. In doing so, the court explained, mirroring this case, 
+that “[t]he language in Plaintiff’s 2003 health plan clearly precludes coverage for out-of-network, 
+inpatient mental health services. Plaintiff’s concern and care for his daughter are entirely 
+-21- 
+commendable, but unfortunately the plan itself is unambiguous and it does not provide for out-of-
+network coverage.” Id.; see also Curran v. Aetna Life Ins. Co. , No. 7:2013cv00289, 2016 WL 
+3843085 (S.D.N.Y. July 11, 2016) (granting summary judgment on plaintiff’s benefits claim for 
+out-of-network expenses because plan language stated only in-network benefits were authorized 
+for the at-issue balance billing policy); DeFrancis v. MVP Health Plan, Inc. , No. 
+05CIV7086CMGAY, 2005 WL 8179331, at *3 (S.D.N.Y. Nov. 1, 2005) (dismissing benefits 
+claim involving plan that did not cover out-of-network care, even when the only in-network 
+surgery options were more invasive and required a multi-week wait, and the elected out-of-
+network option was less invasive, recommended by a physician, and immediately available).  
+If a plan participant requests an exception to a plan’s exclusion of out-of-network provider 
+coverage, such claim is properly denied where the plaintiff cannot point to a specific plan provision 
+requiring exercise of the exception. Krauss, 517 F.3d at 617-18. In Krauss, the Second Circuit 
+court reviewed plan provisions stating participants who use out-of-network providers will pay 
+higher portions of medical expenses, and completely excluding coverage for private-duty nurses. 
+Id. at 618-19. The claims administrator in Krauss determined that “in-network providers could 
+have performed the surgery,” and the court agreed that there was no plan language requiring an 
+out-of-network exception under the circumstances. Id. at 620, 628-29 (affirming summary 
+judgment to claims administrators based on their interpretation of plan language limiting out-of-
+network providers, even though the court was “sympathetic” to the medical needs of the plaintiff); 
+see also Redstone v. Empire Healthchoice HMO, Inc., No. 23-CV-2077 (VEC), 2024 WL 967416, 
+at *2 (S.D.N.Y. Mar. 5, 2024) (granting motion to dismiss action on ERISA benefits claim, finding 
+there were “no facts to support [plaintiffs’] conclusion that there was not a single in-network 
+surgeon capable of performing [the] surgery”). 
+-22- 
+Here, Aetna properly applied the Plan’s terms and reasonably determined that expenses 
+from out-of-network provider Sandhill were not covered. The Plan expressly states, in underlined 
+text – indeed, the only underlined text in the entire Plan – “Out-of-Network care is not a covered 
+expense in this Plan.” (56.1 ¶ 16.) Nothing in the Plan requires coverage for any out-of-network 
+provider care. (56.1 ¶¶ 24-26.)  Rather, the Plan allows a participant to request an exception 
+through the prior authorization process, which entails Aetna’s assessment as the Claims 
+Administrator of that request through utilization review. (56.1 ¶¶ 24-25.) Aetna may consider its 
+“formal techniques designed to monitor the use of, or evaluate the clinical necessity, 
+appropriateness, efficacy, or efficiency of, health care services, procedures, or settings. Such 
+techniques may include ambulatory review, prospective review, second opinion, certification, 
+concurrent review, case management, discharge planning, retrospective review or similar 
+programs.” (56.1 ¶ 26.) 
+It is undisputed the care Plaintiff elected for A.D. to receive at Sandhill was “Out-of-
+Network care” not covered by the Plan. It is also undisputed that upon Plaintiff’s August 13, 2025 
+Appeal, Aetna engaged a licensed child and adolescent psychiatrist to conduct a thorough review 
+of both Aetna’s in-network RTC offerings and Sandhill, focusing on each facilities’ clinical 
+standards, appropriateness, efficacy, and efficiency for A.D.’s clinical care needs. (56.1 ¶¶ 113-
+144.) Aetna determined that exception-based coverage for A.D.’s RTC care under a single case 
+agreement was not appropriate under Plan language relating to out-of-network care and the 
+utilization review process, because the Plan offered multiple clinically appropriate in-network 
+options for A.D.’s residential treatment that were available to admit A.D. on a reasonable 
+timeframe. (56.1 ¶ 122.) See supra, Section II.A.
+-23- 
+Aetna nonetheless reviewed Sandhill as though a network deficiency existed (it did not) 
+and determined Sandhill did not satisfy minimal clinical safety standard criteria established by 
+Aetna for RTC facilities at the time of A.D.’s care in 2022. Specifically, “[Sandhill] was not 
+accredited or credentialed as required by the criteria, it did not have a licensed behavioral health 
+provider actively on duty 24/7, [A.D.] was not being treated by a psychiatrist at least one time per 
+week since his admission, and Sandhill Center’s medical director was not a psychiatrist.” (56.1 ¶ 
+139-140.) In addition, Sandhill’s treatment approaches and techniques (including basing patient 
+care on the Neurosequential Model of Therapeutics) did not have adequate support of the academic 
+and clinical community for purposes of best accepted standard of care. (56.1 ¶¶ 141.) 
+Aetna reasonably construed the Plan terms concerning out-of-network care and exception-
+based coverage, and determined Sandhill could not be covered, even if a network deficiency did 
+exist. Its claim denial was reasonable and supported by substantial evidence, and therefore not 
+arbitrary and capricious. 
+B. Plaintiff’s Arguments Enlisting Inapplicable Federal and State Insurance 
+Laws and Based On a Prior Single Case Agreement Approved for A.D. Are 
+Unavailing.  
+Plaintiff’s August 13, 2025 Appeal asserts that Sandhill should have been approved on a 
+single case agreement basis due to requirements of the Affordable Care Act (“ACA”) and New 
+York State insurance law, as well as because Aetna previously approved out-of-network treatment 
+for A.D. on a single case agreement basis. Neither argument is availing to Plaintiff. 
+1. Plaintiff’s Insurance Law Arguments Are Not Applicable.  
+Plaintiff’s August 13, 2025 Appeal asserted that the ACA regulates the Plan with respect 
+to its network of providers, mandating out-of-network coverage for Sandhill. (56.1 ¶ 111.) 
+-24- 
+By its plain terms, the ACA’s network adequacy regulation applies only to insurers that 
+are “QHP issuers.”  45 C.F.R. § 156.320(a)(1)(ii). A “QHP issuer” is defined in 45 C.F.R. § 155.20 
+as “a health insurance issuer that offers a QHP in accordance with a certification from an 
+Exchange” (emphasis added), and a “QHP” is defined, also in 45 C.F.R. § 155.20, as “a 
+health plan that has in effect a certification that it meets the standards described in subpart C of 
+part 156 issued or recognized by each Exchange through which such plan is offered in accordance 
+with the process described in subpart K of part 155.” Simplified, QHP issuers are health insurance 
+companies (not self-funded health benefit plans) that sell QHPs through a state or federal Exchange 
+– commonly known as a “Marketplace” in ACA parlance, including www.healthcare.gov – to 
+individuals and small employer groups seeking to buy fully insured health insurance coverage that 
+meets certain requirements (i.e., QHPs).  
+Plaintiff’s August 13, 2025 Appeal offered no evidence, nor does the Administrative 
+Record show, that the Plan is a QHP within the meaning of the ACA. And there is a good reason 
+for that. The Plan is not a QHP; it is instead a self-funded group insurance plan sponsored by 
+Deloitte LLP for the benefit of its employees and their dependents, not an insurance policy that is 
+sold on an Exchange to the general public. (56.1 ¶¶ 1-3.) This being the case, Plaintiff’s ACA-
+based argument simply does not apply. 
+Plaintiff’s August 13, 2025 Appeal also contended that New York Insurance Law Section 
+3241 imposes certain network adequacy requirements on the Plan because “Aetna issues and 
+administers health insurance policies in the State of New York. (56.1 ¶ 111 (see DGIP001915).) 
+But like Plaintiff’s ACA argument, Plaintiff’s attempted reliance on New York state insurance 
+laws also misses the mark. In N. Jersey Plastic Surgery Ctr., LLC v. 1199SEIU Nat’l Benefit Fund, 
+No. 22-CV-6087 (PKC), 2023 WL 5956142 (S.D.N.Y. Sept. 13, 2023), the plaintiff surgery center 
+-25- 
+was an out-of-network provider under the ERISA plan’s terms, which stated out-of-network 
+provider expenses would only be reimbursed pursuant to a “Schedule of Allowances,” the result 
+of which was that a plan participant selecting an out-of-network provider would incur significant 
+uncovered costs. Id. at *1-2. A plan participant nonetheless elected services from the out-of-
+network surgery center, and the surgery center sued the plan (on behalf of the participant) for 
+$145,155 in uncovered expenses. Id. at *2. Although the amended complaint generally alleged the 
+plan’s provider network was inadequate, that pleading did not reference New York state insurance 
+laws. Id. at *7. The Court summarily rejected the plaintiff’s post hoc attempt to enlist New York 
+state insurance law to support its ERISA claim. Id. (granting the defendant’s motion to dismiss the 
+complaint without leave to amend). 
+Here, the Complaint does not refer to New York’s state insurance laws. But even assuming 
+Plaintiff had properly raised this issue in an operative pleading (he did not), N. Jersey Plastic 
+Surgery Ctr. forecloses his argument. As the Court there unequivocally confirmed, a plaintiff 
+cannot bootstrap network adequacy requirements under New York Insurance Law Section 3241 to 
+an ERISA Section 1132(a)(1)(B) denial of benefits claim. 2023 WL 5956142 at *7.
+2. A Prior Single Case Agreement for Episodic Outpatient Therapy Does 
+Not Support a Single Case Agreement for an Out-of-Network RTC 
+Facility. 
+Plaintiff’s argument that Aetna should have approved Sandhill on a single case agreement 
+basis because it had previously done so for one of A.D.’s psychologists who is an out-of-network 
+provider is a non sequitur. First, the Plan expressly explains that Aetna’s prior authorization 
+process, which can include consideration of requests for out-of-network coverage, is based on the 
+specific health care service at issue and other claim-specific factors. (56.1 ¶ 26.) Thus, each request 
+necessarily stands on its own. Second, there is an enormous qualitative difference – both in the 
+-26- 
+type of treatment and the expense – between a single case agreement approving episodic outpatient 
+talk therapy sessions and an agreement to provide coverage for ongoing, continuous, long-term 
+residential treatment facility admission of a minor. There is no legal support for the argument that 
+a network exception determination for one therapist must be duplicated for future RTC facilities 
+as well, particularly when in-network RTC options existed.  
+Aetna’s denial of Plaintiff’s request for coverage of out-of-network provider Sandhill was 
+reasonable and based on substantial evidence – most notably, Aetna’s referral to multiple clinically 
+appropriate and available in-network providers and Plan provisions and exclusions described 
+above. The denial was not arbitrary and capricious. 
+IV. EVEN UNDER A DE NOVO STANDARD, DENIAL OF PLAINTIFF’S BENEFIT 
+CLAIM ON APPEAL IN REMAND MUST BE UPHELD. 
+Even assuming, arguendo, that the de novo standard of review applied to Aetna’s denial of 
+Plaintiff’s ERISA benefits claim (it does not), such denial must be upheld as a matter of law.  
+A court charged with de novo review of a plaintiff’s ERISA benefits denial claim must 
+review the claim “as it would [] any other contract claim—by looking to the terms of the plan and 
+other manifestations of the parties’ intent.” Firestone, 489 U.S. at 112-13). 
+Even under de novo review, denial of Plaintiff’s claim for reimbursement of Sandhill 
+expenses was proper pursuant to the unambiguous terms of the Plan. As set forth above, the Plan’s 
+exclusion of coverage for out-of-network expenses is unambiguous: “Out-of-Network care is not 
+a covered expense in this Plan,” and nothing in the Plan requires coverage for any out-of-network 
+provider care. (56.1 ¶¶ 16; 24-26.)  Rather, a Plan participant may request an exception to the out-
+of-network exclusion through Aetna’s utilization review process. (56.1 ¶¶ 24-25.) Aetna 
+administers this process through discretionary review of clinical necessity, appropriateness, 
+efficacy, or efficiency of the requested provider. (56.1 ¶ 26.) Aetna’s determination that expenses 
+-27- 
+incurred from Sandhill, an out-of-network provider, would not be reimbursed under the Plan 
+indisputably aligns with the Plan language and Aetna’s utilization review. (56.1 ¶¶ 16-26.) The 
+Plan’s in-network RTC offerings illustrated no network deficiency that could reasonably warrant 
+an out-of-network single case agreement-based exception for coverage.  See supra Section III(A).
+And, even if a network deficiency existed (it didn’t), Aetna properly followed the utilization 
+review process contained in the Plan in determining Sandhill did not meet minimum safety 
+standards necessary for potential approval on a single case agreement basis. (56.1 ¶¶ 137-143.) 
+Aetna’s denial of Plaintiff’s claim for reimbursement of Sandhill expenses is fully supported by 
+the terms of the Plan. Thus, even under an inapplicable de novo standard, the denial must be upheld 
+as a matter of law. 
+CONCLUSION 
+The Plan grants discretionary authority to Aetna as Claims Administrator to construe 
+claims made by Plan participants. Here, Aetna reasonably construed the Plan’s explicit out-of-
+network exclusion in denying Plaintiff’s request for coverage of expenses incurred at Sandhill, an 
+out-of-network RTC, because clinically appropriate and available in-network RTC options were 
+available (but rejected) by Plaintiff. Aetna also considered but denied Plaintiff’s request for 
+coverage for Sandhill on a single case agreement basis because (1) the availability of clinically 
+appropriate in-network RTC options made consideration of Sandhill on an single case agreement 
+basis unwarranted; and (2) even if in-network RTC options were not clinically appropriate and 
+available, Sandhill could not be approved on a single case agreement basis because it did not meet 
+Aetna’s reasonable and legitimate criteria for such approval. Aetna’s final determination 
+reasonably addressed all arguments, information, and opinions raised by Plaintiff, adhered to the 
+Court’s remand instructions, and was supported by substantial evidence. Its claim denial 
+-28- 
+determination therefore should be upheld under the arbitrary and capricious standard (or even if 
+evaluated de novo ). Accordingly, Defendant respectfully requests the Court grant Defendant’s 
+Motion for Summary Judgment and enter judgment in favor of Defendant. 
+DATED:  January 30, 2026 Respectfully submitted, 
+ /s/ Daniel B. Pasternak 
+Daniel B. Pasternak (admitted pro hac vice) 
+SQUIRE PATTON BOGGS (US) LLP  
+2325 East Camelback Road, Suite 700 
+Phoenix, Arizona 85016 
+T:  (602) 528-4000 
+F:  (602) 253-8129 
+daniel.pasternak@squirepb.com
+Paul D. Erian 
+SQUIRE PATTON BOGGS (US) LLP  
+1120 Avenue of the Americas, 13th Floor 
+New York, New York  10036 
+T:  (212) 872-9800 
+F:  (212) 872-9815 
+paul.erian@squirepb.com
+Counsel for Defendant 
+Deloitte LLP Group Insurance Plan
+-29- 
+CERTIFICATE OF COMPLIANCE 
+I HEREBY CERTIFY that the foregoing DEFENDANT DELOITTE LLP GROUP 
+INSURANCE PLAN’S MEMORANDUM OF LAW IN SUPPORT OF ITS MOTION FOR 
+SUMMARY JUDGMENT contains 8,302 words (not including the case caption, table of 
+contents, table of authorities, signature block, or required certificates), as indicated by the word 
+count function of Microsoft Word, the word-processing program used to prepare the document, 
+and therefore complies with the word-count limitation in Local Civil Rule 7.1(c) of the Local Rules 
+of the United States District Courts for the Southern and Eastern District of New York.  
+/s/ Daniel B. Pasternak 
+-30- 
+CERTIFICATE OF SERVICE 
+I HEREBY CERTIFY that on January 30, 2026, I caused a copy of the foregoing 
+DEFENDANT DELOITTE LLP GROUP INSURANCE PLAN’S MEMORANDUM OF 
+LAW IN SUPPORT OF ITS MOTION FOR SUMMARY JUDGMENT to be served via 
+ECF/CM on the ECF registrants for this case. 
+/s/ Tammy Gougeon  

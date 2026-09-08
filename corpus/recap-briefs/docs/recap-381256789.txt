@@ -1,0 +1,479 @@
+ 
+ 
+ 
+UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF ILLINOIS 
+EASTERN DIVISION 
+ 
+CHRISTOPHER MOEHRL, MICHAEL ) 
+COLE, STEVE DARNELL, JACK   ) 
+RAMEY, DANIEL UMPA, and JANE  ) 
+RUH, on behalf of himself and all others  ) 
+similarly situated,    ) 
+      ) 
+ Plaintiffs,    ) 
+      ) Case No: 1:19-cv-01610 
+      )   
+v.      ) Judge Andrea Wood 
+      ) 
+THE NATIONAL ASSOCIATION OF ) 
+REALTORS, REALOGY HOLDINGS  )  
+CORP., HOMESERVICES OF AMERICA, ) 
+INC., BHH AFFILIATES, LLC,   ) 
+THE LONG & FOSTER COMPANIES,  ) 
+INC., RE/MAX LLC, and KELLER  ) 
+WILLIAMS REALTY, INC.,   ) 
+      ) 
+ Defendants.    ) 
+DEFENDANT KELLER WILLIAMS REALTY, INC.’S MEMORANDUM OF LAW 
+IN SUPPORT OF MOTION FOR SUMMARY JUDGMENT 
+ 
+ORAL ARGUMENT REQUESTED 
+  
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 1 of 19 PageID #:26394
+ 
+ii 
+ 
+TABLE OF CONTENTS 
+ 
+I. INTRODUCTION ...............................................................................................................1 
+II. GOVERNING LEGAL STANDARD .................................................................................4 
+III. ARGUMENT .......................................................................................................................4 
+A. THERE IS NO EVIDENCE OF ANYONE ASSOCIATED WITH KELLER WILLIAMS EVER 
+DISCUSSING NAR’S COOPERATIVE COMPENSATION RULE. ..............................................6 
+B. PLAINTIFFS CANNOT ESTABLISH KELLER WILLIAMS’ PARTICIPATION IN A 
+CONSPIRACY THROUGH INVOLVEMENT IN NAR. ...............................................................7 
+C. KELLER WILLIAMS’ POLICY REQUIRING AGENTS TO JOIN THEIR LOCAL MLS (UNLESS 
+EXEMPTED BY AN AGENT’S FRANCHISEE BROKERAGE) PROVIDES NO BASIS TO FIND 
+KELLER WILLIAMS’ KNOWING PARTICIPATION IN A CONSPIRACY. ..................................11 
+IV. CONCLUSION ..................................................................................................................15 
+ 
+  
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 2 of 19 PageID #:26395
+ 
+iii 
+ 
+TABLE OF AUTHORITIES 
+ 
+Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007) ........................................................................... 3 
+Copperweld Corp. v. Indep. Tube Corp., 467 U.S. 752 (1984) ...................................................... 5 
+In re Baby Food Antitrust Litig., 166 F.3d 112 (3d Cir. 1999)), aff’d, 801 F.3d 758 (7th Cir. 
+2015) ........................................................................................................................................... 5 
+In re Dairy Farmers of Am., Inc. Cheese Antitrust Litig., 801 F.3d 758 (7th Cir. 2015) ............... 7 
+In re Dairy Farmers of America, Inc., Cheese Antitrust Litig., 60 F. Supp. 3d 914 (N.D. Ill. 
+2014) ........................................................................................................................................... 5 
+In re Text Messaging Antitrust Litig., 46 F. Supp. 3d 788 (N.D. Ill. 2014) ................................ 2, 9 
+Kleen Prod. LLC v. Georgia-Pac. LLC, 910 F.3d 927 (7th Cir. 2018) .......................................... 7 
+Kleen Prod. LLC v. Int'l Paper, 276 F. Supp. 3d 811 (N.D. Ill. 2017), aff'd sub nom. Kleen Prod. 
+LLC v. Georgia-Pac. LLC, 910 F.3d 927 (7th Cir. 2018)................................................. 8, 9, 12 
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574 (1986)............................ 1, 4, 14 
+Miles Distributors, Inc. v. Specialty Const. Brands, Inc., 476 F.3d 442 (7th Cir. 2007) ............... 6 
+Monsanto Co. v. Spray-Rite Serv. Corp., 465 U.S. 752 (1984) ............................................ 4, 5, 14 
+Moore v. Boating Indus. Ass’n, 819 F.2d 693 (7th Cir. 1987)........................................................ 7 
+Omnicare Inc. v. UnitedHealth Group Inc., 629 F.3d 697 (7th Cir. 2011) .................... 4, 5, 11, 13 
+Weit v. Cont'l Ill. Nat'l Bank & Trust Co. of Chicago, 641 F.2d 457 (7th Cir. 1981) .................... 9 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 3 of 19 PageID #:26396
+I. INTRODUCTION 
+At this outset of this case, Keller Williams Realty, Inc.  (“Keller Williams”)—along with 
+the other Defendants—moved to dismiss Plaintiffs ’ complaint for failing to plausibly allege that 
+Keller Williams knowingly participated in a conspiracy with anyone relating to the model multiple 
+listing service rule at issue in this case, which the National Association of REALTORS® (“NAR”) 
+refers to as Policy Statement 7.23 (the “ Cooperative Compensation Rule” or “Rule”).  ECF 116.  
+The Court denied that motion after interpreting from the allegations in Plaintiffs ’ complaint that 
+“each Corporate Defendant expressly imposes [NAR’s rules] upon their franchisees and realtors” 
+and “reviewed, understood, and ultimately agreed to the NAR’s rules, including the [Cooperative 
+Compensation Rule]. ”  ECF 184 at 10.  The Court also found, after interpreting Plaintiffs ’ 
+allegations in a light most favorable to them, that “the Corporate Defendants and their 
+representatives were actively involved in the issuance and enforcement” of NAR’s rules, id. at 13–
+14, and that the operation of the Cooperative Compensation Rule “was clear ly a topic of 
+considerable interest” to Keller Williams “and was an issue discussed among competitors.”  Id. at 
+15. 
+At this stage of the litigation, Plaintiffs are no longer entitled to rely on t heir allegations 
+and inferences based on those allegations .  Instead, they must provide  evidence that “tends to 
+exclude the possibility” that Keller Williams acted independently rather than in furtherance of any 
+conspiracy.  Matsushita Elec. Indus. Co. v. Zenith Radio Corp. , 475 U.S. 574, 588 (1986) .  
+Plaintiffs cannot do so.  After three years of  discovery, involving sworn deposition of over 60 
+witnesses and the production of millions of pages of documents, Plaintif fs cannot produce 
+evidence that supports the conclusions the Court drew from Plaintiffs’ allegations.   
+The record is clear, and it is beyond genuine factual dispute that, far from being “a topic of 
+considerable interest, ” the Cooperative Compensation Rule was never a topic of discussion 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 4 of 19 PageID #:26397
+involving anyone at Keller Williams, either internally or with anyone outside of Keller Williams.  
+There is simply no evidence of a single communication involving anyone from Keller Williams 
+relating to the NAR Rule Keller Williams is alleged to have knowing ly conspired to adopt, 
+implement, or enforce; not a single email involving anyone from Ke ller Williams discussing the 
+Rule; and not a single witness who testified to Keller Williams’ involvement in any activities 
+relating to the Rule. 
+Far from being “actively involved in the issuance and enforcement” of NAR’s rules, Keller 
+Williams has had no material involvement in NAR activities of any nature, much less any 
+involvement in the Rule at issue in this litigation.  This is not a case in which Defendants engaged 
+in regular discussions with one another and the only question for the Court is whether Plaintiffs 
+offered enough evidence of the substance of those discussions  to support the existence of a 
+conspiracy.  See, e.g., In re Text Messaging Antitrust Litig., 46 F. Supp. 3d 788, 805–07 (N.D. Ill. 
+2014) (granting summary judgment in spite of regular interactions between defendant executive s 
+when plaintiffs “offer[ed] nothing other than speculation about the substance of these talks”), aff’d, 
+782 F.3d 867 (7th Cir. 2015).  In this case, there is no evidence of any discussions about the Rule 
+that involved Keller Williams and no evidence of “active[] involve[ment]” by Keller Williams in 
+any NAR activities or NAR rulemaking. 
+And, far from “expressly impos[ing]” NAR’s rules on independent contractor agents after 
+reviewing, understanding, and agreeing to those rules, there is no evidence that Ke ller Williams 
+ever even contemplated NAR’s rules when it adopted its policy requiring agents to join their local 
+REALTOR® board and MLSs (unless exempted  by the agent’s franchisee brokerage ).  The 
+evidence is clear and beyond genuine factual dispute that K eller Williams independently adopted 
+its policy in 1989 when the company  began franchising  independently owned and operated 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 5 of 19 PageID #:26398
+brokerages, well before NAR’s adoption of the Cooperative Compensation Rule in 1996, and that 
+Keller Williams adopted and maintained its policy because the company believes that access to a 
+MLS allows agents to effectively serve their buyer and seller clients .  In the face of this 
+independent, non –conspiratorial interest on the part of Keller Williams in creating its policy, 
+Plaintiffs must present evidence that tends “to rule out the possibility that [Keller Williams was] 
+acting independently.”  See Bell Atl. Corp. v. Twombly, 550 U.S. 544, 554 (2007).  But Plaintiffs 
+cannot do so because  there is no evidence that Keller Williams ever considered requiring agent 
+membership in MLSs as a way to ensure adherence with the Cooperative Compensation Rule (or, 
+for that matter, any specific MLS rules). 
+The record is also clear that Keller Williams does not monitor or enforce compliance with 
+the policy, that certain franchisee brokerages do not require their agents to join MLSs, that agents 
+affiliated with Keller Williams’ franchisee brokerages would join MLSs because they regard it to 
+be good for their businesses and not because of any purported requirement that they do so, and that 
+some agents are, in fact, not even aware that the policy exists.  Nothing about the origins  or 
+operation of the policy is suggestive of a conspiracy.  Without some evidence that Keller Williams 
+adopted the policy to ensure agent adherence with NAR’s rules or indication that Keller Williams 
+communicated about its policy with NAR or anyone outside the company—evidence that simply 
+does not exist —Keller Williams’ policy cannot support having Plaintiffs’ claims against Keller 
+Williams presented to a jury. 
+With the benefit of a full discovery record, the evidence is clear that Keller Williams has 
+not participated in a conspiracy with NAR or other Defendants relating to the Cooperative 
+Compensation Rule.  Plaintiffs cannot produce evidence that Keller Williams “had a conscious 
+commitment to a common scheme designed to achieve an unlawful objective,” Monsanto Co. v. 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 6 of 19 PageID #:26399
+Spray-Rite Serv. Corp., 465 U.S. 752, 764 (1984), or a “unity of purpose or a common design and 
+understanding” with other Defendants.  Omnicare Inc. v. UnitedHealth Group Inc., 629 F.3d 697, 
+706 (7th Cir. 2011)  (quoting Am. Tobacco Co. v. United States, 328 U.S. 781, 810 (1946) ).  As 
+there is no genuine dispute as to any material fact concerning the first element of Plaintiffs’ 
+Sherman Act claim, the Court should grant summary judgment for Keller Williams. 
+II. GOVERNING LEGAL STANDARD 
+Summary judgment is appropriate if the evidence shows that there is no genuine dispute as 
+to any material fact and the movant is entitled to judgment as a matter o f law.  Fed. R. Civ. P. 
+56(a).  To defeat a motion for summary judgment on a claim under Section 1 of the Sherman Act, 
+a plaintiff must establish that there is a genuine issue of material fact regarding whether defendants 
+entered into an illegal conspiracy.  Matsushita, 475 U.S. at 585–86.  In this Circuit, the Court must 
+apply a two-part test to determine whether a plaintiff’s evidence is sufficient to survive summary 
+judgment.  Omnicare, 629 F.3d at 707.  The Court must first “assess whether [ the plaintiff’s ] 
+evidence of agreement is ambiguous —that is, whether it is equally consistent with the 
+[d]efendants’ permissible independent interests as it is with improper activity.”   Id.  If the Court 
+concludes “the evidence could support the conclusion that [d]efendants were acting independently, 
+[it must] then look  for any evidence that tends to exclude the possibility that [d]efendants were 
+pursuing independent interests.”  Id.  In other words, a plaintiff must “show that the inference of 
+conspiracy is reasonable in light of the competing inference of independent action.”  Id. (citation 
+omitted). 
+III. ARGUMENT 
+“Section 1 of the Sherman Act is designed to prevent businesses from entering into 
+collusive agreements . . . . ”  Id. at 705.  To establish a claim for violation of Section 1 of the 
+Sherman Act, Plaintiffs must establish (1) that a contract, combination or conspiracy exists , (2) 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 7 of 19 PageID #:26400
+that the agreement unreasonably restrains trade , and (3) that they were injured.  See, e.g., id.  As 
+to the first requirement, Section 1 of the Sherman Act “does not reach conduct that is wholly 
+unilateral.”  Copperweld Corp. v. Indep. Tube Corp., 467 U.S. 752, 768 (1984); see also Monsanto, 
+465 U.S. at 761 (“Independent action is not proscribed.”).  Proof of concerted action—that is, proof 
+of a “conscious commitment to a common scheme designed to achieve an unlawful objective ”—
+is essential to any claim under Section 1 of the Sherman Act.  Monsanto, 465 U.S. at 768. 
+Plaintiffs must prove that each individual Defendant from which they seek to recover 
+entered into an unla wful conspiracy.  Plaintiffs cannot do so.  At best, Plaintiffs’ purported 
+evidence of Keller Williams’ involvement in a conspiracy is “equally consistent with [Keller 
+Williams’] permissible independent interests as it is with improper activity,” and there fore is 
+“ambiguous.”  Omnicare, 629 F.3d at 707 .  There is no direct evidence of any communication, 
+much less any agreement, between Keller Williams and anyone else concerning the Cooperative 
+Compensation Rule.  Direct evidence is “tantamount to an acknowledgement of guilt,” In re Text 
+Messaging Antitrust Litig. , 46 F. Supp. 3d at 8 03, and “is explicit and requires no inferences to 
+establish the proposition or conclusion being asserted. ”  In re Dairy Farmers of America, Inc., 
+Cheese Antitrust Litig., 60 F. Supp. 3d 914, 950 (N.D. Ill. 2014) (quoting In re Baby Food Antitrust 
+Litig., 166 F.3d 112, 118 (3d Cir. 1999)), aff’d, 801 F.3d 758 (7th Cir. 2015).  In spite of extensive 
+discovery in this case, Plaintiffs have not uncovered a shred of any evidence of that nature, 
+including any evidence of involvement by Keller Williams in any meetings, discussions, or other 
+activities relating to the Cooperative Compensation Rule.   There is no evidence of even a single 
+instance in which the Cooperative Compensation Rule was the topic of an internal disc ussion 
+among Keller Williams employees, much less any evidence that Keller Williams arrived at a 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 8 of 19 PageID #:26401
+meeting of the minds concerning the Rule with NAR or anyone else.  There is simply no direct 
+evidence of any nature supporting Keller Williams’ participation in the alleged conspiracy. 
+Plaintiffs also cannot prove the existence of Keller Williams’ knowing participation in a 
+conspiracy based on circumstantial evidence.  Keller Williams has had almost no involvement in 
+NAR or any other industry organization and  even the scant evidence of the company’s limited 
+involvement is as consistent with Keller Williams’ independent interests as it is with conspiracy.   
+Miles Distributors, Inc. v. Specialty Const. Brands, Inc., 476 F.3d 442, 449 (7th Cir. 2007) (“When 
+a plaintiff attempts to defeat summary judgment by highlighting circ umstantial evidence of a 
+conspiracy, some of the evidence must tend to exclude the possibility that the alleged conspirators 
+acted independently rather than in concert.”).  There is also nothing inherently conspiratorial about 
+Keller Williams’ policy requiring agents affiliated with its franchisee brokerages to join their local 
+MLS (unless exempted  by the agent’s franchisee brokerage ), and the evidence concerning the 
+operation of its policy does not tend to exclude the possibility that Keller Williams acted  entirely 
+independently in all activities related to the policy. 
+A. There is no evidence of anyone associated with Keller Williams ever discussing 
+NAR’s Cooperative Compensation Rule. 
+There is simply no evidence that anyone associated with Keller Williams ever discussed 
+the Cooperative Compensation Rule or was present at any meeting at which the Cooperative 
+Compensation Rule was a subject.  See Statement of Material Facts (“SOMF”) ¶ 9 (citing Burnett 
+Trial Tr. (G. Keller) 2027:24 –2028:8 (testifying that, in forty years in the industry, he had never 
+once discussed the Cooperative Compensation Rule before the current litigation)).  Indeed, some 
+Keller Williams executives and affiliated independent contractor agents did not even know that 
+NAR or MLSs maintained a rule requiring listing agents to offer compensation to other MLS 
+participants.  Id. ¶ 46.  In a case alleging a conspiracy to adopt, implement, or enforce the 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 9 of 19 PageID #:26402
+Cooperative Compensation Rule, this undisputed fact alone should provide a sufficient basis for 
+the Court to conclude that Keller Williams never consciously committed to a common scheme 
+with anyone relating to the Cooperative Compensation Rule.   In re Dairy Farmers of Am., Inc. 
+Cheese Antitrust Litig., 801 F.3d 758, 763 (7th Cir. 2015) (affirming a grant of summary judgment 
+to the defendants when “Appellants have not pointed to a single communication that suggests a 
+meeting of the minds to fix prices”) ; Kleen Prod. LLC v. Georgia -Pac. LLC, 910 F.3d 927 , 938 
+(7th Cir. 2018) (affirming grant of summary judgment to the defendants where the “[p] urchasers 
+have no evidence indicating that the executives discussed illicit price -fixing or output restric tion 
+deals during their calls or meetings”). 
+B. Plaintiffs cannot establish Keller Williams’ participation in a conspiracy 
+through involvement in NAR. 
+To the extent Plaintiffs seek to have the jury infer the existence of a conspiracy involving 
+Keller Williams merely from its involvement in NAR, Plaintiffs’ effort fails.  As an initial matter, 
+Keller Williams is not a member of NAR.  SOMF ¶ 8.  And, as discussed below, Keller Williams 
+has never been involved meaningfully in any NAR policymaking activities.  Id. ¶ 10 (citing Cary 
+Sylvester Dep., April 12, 2022, 134:18–135:01 (Keller Williams had “no involvement whatsoever” 
+in NAR or other industry organizations).   In any event, even if the facts were otherwise, Keller 
+Williams cannot be held liable under Section 1 of the Sherman Act as a co -conspirator of NAR 
+merely based on membership in the trade association.  “Mere membership in a trade association, 
+attendance at trade association meetings and participation in trade association activities are not, in 
+and of themselves, condemned or even discouraged by the antitrust laws.”  Moore v. Boating Indus. 
+Ass’n, 819 F.2d 693, 712 (7th Cir. 1987)  (citation omitted).  In order to hold an individual 
+association member liable for association activities, “[t]here must . . . be some evidence of actual 
+knowledge of, and participation in, an illegal scheme.”  Id. 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 10 of 19 PageID #:26403
+Plaintiffs might point to efforts on the part of  three employees associated with a now -
+disbanded department at Keller Williams that was formed in 2017 , which sought to increase the 
+company’s involvement in industry activities and influence over NAR.  SOMF ¶¶ 12, 15.  But the 
+record is clear that no initiative proposed by these employees  received the support of Keller 
+Williams’ senior executives  or was ever acted upon by the compa ny.  Id. ¶ 13 (citing Cary 
+Sylvester Dep., Apr. 12, 2022, 122:1 –16 (Keller Williams leadership was “not committed at all” 
+to industry relations proposals and off ered “zero feedback” on proposals )); Ashley Kelm Dep., 
+Feb. 2, 2022, 102:3 –103:2 (“We would send things up the chain.  We would make 
+recommendations and we would get no response . . . . It was just a cycle over and over and over 
+again.); id. 115:5–116:8 (“[W]e’ve recommended a whole bunch of things as a team, tried to get 
+everyone excited, tried to kind of set the tone for what this could be and how this might be helpful.  
+But . . . we didn’t really have the buy in from our leadership to push it forward.  I t just continued 
+to be a bunch of great ideas, regurgitated over and over and over again.”) .  The manager of the 
+industry relations department resigned from Keller Williams after concluding that trying to get the 
+company involved in industry activities “wa s a complete and total waste of my time.”  Id. ¶ 14.  
+Keller Williams subsequently disbanded the department in 2019 and reassigned employees 
+associated with it to other responsibilities.  See id. ¶ 15.  Accordingly, the Court cannot reasonably 
+infer from the mere existence of the industry relations department for a short period of time that 
+Keller Williams ever adopted the department’s proposals for industry engagement, when there is 
+no evidence whatsoever that Keller Williams did so and unrebutted evidence that Keller Williams 
+did not.  See Kleen Prod. LLC v. Int'l Paper , 276 F. Supp. 3d 811, 838 –39 (N.D. Ill. 2017), aff'd 
+sub nom. Kleen Prod. LLC v. Georgia-Pac. LLC, 910 F.3d 927 (7th Cir. 2018) (refusing to credit 
+plaintiffs’ unsupported interpretation of events over actual evidence offered by the defendants).  
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 11 of 19 PageID #:26404
+And, more importantly, even if the industry relations department’s proposals had been adopted by 
+Keller Williams, there is no evidence that any of its initiatives dealt in any way with the 
+Cooperative Compensation Rule.  Plaintiffs cannot point to Keller Williams ever contributing to a 
+single NAR policy position, much less one relating in any way to the Cooperative Compensation 
+Rule. 
+Plaintiffs also might point to rare instances in which representatives of Keller Williams 
+attended a NAR meeting or other meeting involving competitors, but no evidence exists in this 
+case concerning any discussion about the Cooperative Compensation Rule at any meeting attended 
+by anyone from Keller Williams.  Without some evidence that the Cooperative Compensation Rule 
+was even a topic of discussion at any meeting, and the record is devoid of such evidence, the mere 
+existence of meetings involving a representative of Keller Williams cannot support an inference 
+of Keller Williams’ knowing participation in a conspiracy.   See In re Text Messaging Antitrust 
+Litig., 46 F. Supp. 3d at 806 (“The decision by a group of industry players to have a meeting or to 
+talk at a dinner or cocktail reception does not constitute a conspiracy.”); Kleen, 276 F. Supp. 3d at 
+835 (“Plaintiffs are merely speculating that Defendants colluded du ring these interactions.”).  
+There is no evidence that Keller Williams representatives attended meetings of NAR or other 
+organizations for anything other than legitimate business reasons.  Any involvement by Keller 
+Williams representatives under such legit imate circumstances are not suggestive of any 
+conspiracy.  See Weit v. Cont'l Ill. Nat'l Bank & Trust Co. of Chicago, 641 F.2d 457, 468–69 (7th 
+Cir. 1981) (finding that an “opportunity to conspire” and “ability to conspire” without “evidence 
+of actual conspiracy . . . is not sufficient to create a genuine issue of material fact as to the existence 
+of a conspiracy”). 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 12 of 19 PageID #:26405
+Nor can the Court infer Keller Williams’ involvement in any conspiracy based on the 
+conduct of Keller Williams agents who Plaintiffs claim were involved in some way in NAR 
+committees or MLS governance.  Again, there is no evidence whatsoever that any of the entities 
+in which Plaintiffs claim those independent contractor agents (who are affiliated with 
+independently owned and operated franchisee  brokerages) were involved considered the 
+Cooperative Compensation R ule at any time.  Plaintiffs cannot point to a single decision 
+undertaken by any of those entities that relates to the conduct they challenge.  But more 
+fundamentally, when individual agents participate in governance of NAR , state or local 
+REALTOR® organiz ations, or MLSs,  they do so in their individual capacities and not as 
+representatives of Keller Williams.   SOMF ¶¶ 18–19.  There  is also no evidence that Keller 
+Williams has any control or has ever attempted to exercise any control over any agents in their  
+capacities as representatives of any REALTOR® or MLS organization.  In fact, the only evidence 
+is to the contrary:  Keller Williams has no control over agent activities within those organizations.  
+Id. ¶¶ 21–22 (citing Ashley Kelm Dep., Feb. 2, 2022, 105: 1–106:17 (testifying that it “would be 
+silly” for Keller Williams to think it could direct agent activities because “agents are all 
+independent contractors and they all think about themselves and their businesses first” and make 
+decisions based on “what’s best for them”)). 
+At this stage in the case, Plaintiffs cannot rest on allegations of involvement generally by 
+Keller Williams or affiliated independent contractor agents in REALTOR® organizations or MLSs 
+and survive summary judgment.  Without any evidence of any involvement by anyone associated 
+with Keller Williams in any meetings or policymaking activities relating to the Cooperative 
+Compensation Rule, Plaintiffs cannot establish that Keller Williams had a unity of purpose with 
+anyone relating to the Rule.  And what limited evidence exists of the involvement by Keller 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 13 of 19 PageID #:26406
+Williams or independent contractor agents not subject to Keller Williams’ control in any meetings 
+or industry organizations is “decidedly ambiguous ,” not more indicative o f participation in a 
+conspiracy than it is of independent conduct , and not sufficient to allow Plaintiffs to survive 
+summary judgment.  Omnicare, 629 F.3d at 708. 
+C. Keller Will iams’ policy requiring agents to join their local MLS (unless 
+exempted by an agent’s franchisee brokerage) provides no basis to find Keller 
+Williams’ knowing participation in a conspiracy. 
+It is undisputed that Keller Williams does not maintain any policy explicitly requiring its 
+franchisee brokerages or their affiliated agents to follow the Cooperative Compensation Rule, or 
+NAR’s Handbook generally.  SOMF ¶ 27.  But Plaintiffs ask the Court to infer the existence of 
+such a requirement, and Keller Williams’ conscious commitment to the alleged conspiracy, from 
+Keller Williams’ policy that affiliated agents join their local REALTOR® associations and MLSs 
+(unless exempted  by an agent’s franchisee brokerage ).1  But there is no evidence that Keller 
+Williams’ policy was anything other than the product of entirely unilateral conduct on the part of 
+Keller Williams and with a purpose consistent with the independent interests of affiliated 
+independent contractor agents.  Particularly in light of undispute d evidence of Keller Williams’ 
+lack of oversight over the policy and agents’ uneven compliance with or even knowledge of the 
+policy, the mere existence of this policy cannot be viewed to be more consistent with conspiracy 
+than with independent conduct.  Matsushita, 475 U.S. at 587–88.  There is simply no basis on this 
+record for the Court to conclude that Keller Williams “would have refrained from [adopting its 
+ 
+1 The policy states that agents “will become members of their local Board/Association of REALTORS® and MLS 
+except when exempted by their  [Team Leader], and will keep their membership current and active at all times.”  See 
+SOMF ¶ 23 (quoting 2019 Policies & Guidelines Manual § 4.9.4.2 (KWRI_00401–0515, at 0456)) (emphasis added).  
+Each franchisee brokerage employs a Team Leader who is responsible for managing the brokerage’s agent recruiting, 
+training, and consulting activities.   SOMF ¶ 5.  Accordingly, the face of the policy permits each franchisee to 
+unilaterally decide to exempt their independent contractor agents from the policy.  
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 14 of 19 PageID #:26407
+policy] but for the fact that [it was] conspiring” with NAR or the other Defendants.  See Kleen, 
+276 F. Supp. 3d at 844. 
+The undisputed evidence reflects that Keller Williams adopted its policy that affiliated 
+agents join their local REALTOR® association and MLS  (unless exempted  by an agent’s 
+franchisee brokerage ) in 1989  when the company  expanded from a real estate brokerage and 
+became a franchisor.  SOMF ¶ 24.  Importantly, this was  years before Plaintiffs allege that NAR 
+adopted the Cooperative Compensation Rule at issue in this case.  See Am. Compl. (ECF 84) ¶ 56.  
+There is also no evidence in the record to which Plaintiffs could point to refute the evidence that 
+Keller Williams adopted its policy solely because it believes that access to a MLS is important for 
+agents to effectively serve buyers and sellers (with REALTOR® association membership often a 
+prerequisite to becoming an MLS member) and not in any way to ensure that agents adhere to 
+NAR rules.  SOMF ¶¶ 25-26.  Indeed, Plaintiffs themselves agree that MLS access is important 
+for agents, see Am. Compl. (ECF 8 4) ¶ 13,  making MLS membership entirely consistent with 
+agents’ independent interests and not at all indicative of the existence of a conspiracy.   There is 
+not a shred of evidence that a single agent joined an MLS because of Keller Williams’ policy; but 
+there is undisputed evidence that agents joined MLSs for their own business reasons and not at all 
+because of the existence of Keller Williams’ policy.  See SOMF ¶ 28 (citing Burnett Trial Tr. (M. 
+King) 2166:10–17 (testifying that, of the thousands of agents he recruited to join Keller Williams’ 
+franchisee brokerages, every one of them was already a member of his or her local MLS)); id. ¶ 29 
+(citing Burnett Trial Tr. (J. Davis) 2284:3–12 (testifying that she was unaware that Keller Williams 
+required age nts to join MLSs)).  Under the framework in this Circuit for evaluating whether 
+summary judgment is appropriate, evidence concerning Keller Williams’ policy is “ambiguous” 
+because it is “equally consistent with [Keller Williams’] permissible independent interests as it is 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 15 of 19 PageID #:26408
+with improper activities,” obligating Plaintiffs to present evidence that “tends to exclude the 
+possibility that [Keller Williams was] pursuing independent interests.”  Omnicare, 629 F.3d at 
+707.  There is no evidence in the record on which Plaintiffs could make that showing, necessitating 
+the entry of summary judgment for Keller Williams. 
+Evidence concerning Keller Williams’ monitoring and enforcement of the policy—or, 
+more accurately, the absence of any monitoring by Keller Williams of compliance with the policy 
+by franchisee brokerages or their affiliated independent contractor agents —only bolsters this 
+conclusion.  If Keller Williams sought to use its policy to ensure adherence by affiliated agents 
+with the Cooperative Compensation Rule, it would monitor and enforce compliance.  But the only 
+evidence in the discovery record is to the contrary —that Keller Williams d oes not monitor 
+compliance and has never taken any action against any franchisee brokerage based on its failure 
+to comply with this policy.  SOMF ¶¶ 30-32.  There is also evidence that Keller Williams possessed 
+knowledge of “noncompliance” by a franchisee brokerage and its agents and took no action to 
+have the franchisee require its agents to join an MLS .  Id. ¶¶ 33-34.  Finally, an inference that 
+Keller Williams adopted a policy requiring MLS membership because it wanted agents to comply 
+with NAR’s policy is particularly unreasonable and implausible in light of the policy’s explicit 
+exemption for agents who receive permission from their brokerage’s “Team Leader.”  Id. ¶¶ 23, 
+35.  If Keller Williams viewed the requirement as a way to make sure that agents complied with 
+NAR policies, it would not have created an exemption that could be granted by franchisees without 
+the approval of Keller Williams. 
+The fact that MLS rules can and d o vary renders even more implausible the notion that 
+Keller Williams maintains its policy as a means of ensuring agent adherence to the Cooperative 
+Compensation Rule.  Some MLSs are not affiliated with NAR and operate under their own rules 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 16 of 19 PageID #:26409
+and not under NAR’s model rules, id. ¶ 44, and some of those MLSs do not require listing agents 
+to offer cooperative compensation.  Id. ¶ 45.  And even in MLSs that are affiliated with NAR, there 
+is no uniformity in the interpretation of NAR’s rules.  For example, a number of MLSs affiliated 
+with NAR have recently unilaterally reinterpreted the Cooperative Compensation Rule to permit 
+listing agents to enter zero as cooperative compensation when they submit a listing to the MLS, 
+when NAR had interpreted the policy to require an offer of at least one cent.  ¶ 43.2  Keller Williams 
+could not plausibly have intended to use its policy that affiliated agents join MLSs to ensure their 
+adherence to a Rule that does not exist in certain MLSs and that is interpreted differently in others.   
+Summary judgment is appropriate where the evidence is “as consistent with permissible 
+competition as with illegal conspiracy.”  Matsushita, 475 U.S. at 588 .  Here, the balance tilts 
+decidedly towards permissible, independent conduct on the part of Keller Williams.  There is 
+simply no evidence that Keller Williams’ policy was intended to ensure agent adherence to NAR’s 
+rules or that, in practice, it had that effect.  It would not be reasonable or permissible to infer from 
+the mere existence of this policy that Keller Williams consciously committed to a common scheme 
+with NAR or other Defendants. 
+ 
+2 The fact that the Rule leaves the amount of compensation to be offered entirely to the discretion of the listing agent, 
+SOMF ¶ 42, adds an additional layer of implausibility to the notion that Keller Williams “consciously committed to a 
+common scheme designed to achieve an unlawful objective,” Monsanto, 465 U.S. at 764, through a policy requiring 
+affiliated agents to join their local MLS.  Even if Keller Williams monitored and enforced the policy across all of the 
+over 300 franchisee brokerages in the covered MLSs (which it does not) , id. ¶ 3, and even if the policy imposed a 
+blanket requirement not subject to unilateral exemption by franchisee brokerages (which it does not), and even if there 
+were evidence that Keller Williams sought through the policy to have the tens of thousands of affiliated agents in the 
+Covered MLSs adhere to the Cooperative Compensation Rule (which there is not), see id. ¶ 4, agents would still have 
+unfettered discretion as to the amount of cooperative compensation they would offer with each listing.  It is impossible 
+to find Keller Williams’ pursuit of an “unlawful objective” of increased commissions from the attenuated connection 
+between the com pany’s policy and a Rule that leaves to listing agents the choice of  the amount of cooperative 
+compensation they will offer with each listing.  This is particularly true when, regardless of the Rule, multiple states 
+have laws that expressly recognize and permit cooperative compensation.  SOMF ¶¶ 62-69 (listing laws in states with 
+one or more of the Covered MLSs). 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 17 of 19 PageID #:26410
+IV. CONCLUSION 
+For the foregoing reasons  and the reasons stated in the Motion for Summary Judgment 
+submitted by the National Association of REALTORS ®, which Keller Williams joins and 
+incorporates herein, the Court should grant summary judgment  in Keller Williams ’ favor on 
+Plaintiffs’ claims. 
+Dated:  December 19, 2023    Counsel for Keller Williams Realty, Inc. 
+/s/ Timothy Ray 
+Timothy Ray 
+timothy.ray@hklaw.com 
+William Ringhofer 
+william.ringhofer@hklaw.com 
+HOLLAND & KNIGHT LLP 
+150 North Riverside Plaza, Suite 2700 
+Chicago, IL 60606 
+(312) 263-3600 
+ 
+David C. Kully, pro hac vice 
+david.kully@hklaw.com 
+Anna P. Hayes, pro hac vice 
+anna.hayes@hklaw.com 
+HOLLAND & KNIGHT LLP 
+800 17th Street NW, Suite 1100 
+Washington, DC 20530 
+(202) 469-5415 
+ 
+Jennifer Lada, pro hac vice 
+jennifer.lada@hklaw.com 
+HOLLAND & KNIGHT LLP 
+31 West 52nd Street 
+12th Floor 
+New York, NY 10019 
+(212) 513-3513 
+ 
+Dina W. McKenney, pro hac vice 
+dina.mckenney@hklaw.com 
+       HOLLAND & KNIGHT LLP 
+       1772 Routh Street, Suite 1500 
+Dallas, Texas 75201 
+(212) 969-1757 
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 18 of 19 PageID #:26411
+ 
+ 
+ 
+CERTIFICATE OF SERVICE 
+ The undersigned hereby certifies that on December 19, 2023, a true and correct copy of the 
+foregoing was filed electronically through the Court’s ECF system which will send notification of 
+the same to all counsel of record in this matter. 
+ 
+  
+  
+David C. Kully 
+Counsel for Keller Williams Realty, Inc. 
+ 
+ /s/ David C. Kully         
+Case: 1:19-cv-01610 Document #: 448 Filed: 12/19/23 Page 19 of 19 PageID #:26412

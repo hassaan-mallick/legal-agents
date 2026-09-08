@@ -1,0 +1,631 @@
+IN THE UNITED STATES BANKRUPTCY COURT 
+FOR THE WESTERN DISTRICT OF TEXAS 
+SAN ANTONIO DIVISION 
+ 
+ 
+IN RE: § Chapter 7 
+ § 
+MARBACH ASSOCIATES, LLC,                             § 
+DIAMAOND MANAGEMENT, INC. § CASE NO. 25-50815 (MMP) 
+ § CASE NO. 25-50816 (MMP) 
+ § 
+                           Alleged Debtors. §                  Jointly Administration Requested 
+ 
+BRIEF IN SUPPORT OF THE ALLEGED DEBTORS’ 
+MOTION FOR SUMMARY JUDGMENT 
+ 
+ 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 1 of
+ i  
+TABLE OF CONTENTS 
+TABLE OF CONTENTS ................................................................................................................. i 
+TABLE OF AUTHORITIES .......................................................................................................... ii 
+PRELIMINARY STATEMENT .................................................................................................... 1 
+SUMMARY JUDGMENT FACTS ................................................................................................ 3 
+RELIEF REQUESTED AND BASES THERFOR ........................................................................ 9 
+A. Legal Standard: Summary Judgment ............................................................................ 9 
+B. The Alleged Debtors Are Entitled to Judgment as a Matter of Law Regarding 
+Its Eligibility to be a Debtor Under Bankruptcy Code section 303 – Bona Fide 
+Dispute ........................................................................................................................ 11 
+C. The Alleged Debtors Are Entitled to Judgment as a Matter of Law Regarding 
+Its Eligibility to be a Debtor Under Bankruptcy Code section 303 – Not 
+Paying Debts as Such Debts Come Due ..................................................................... 14 
+D. The Alleged Debtors Are Entitled to Judgment as a Matter of Law with 
+Respect to Vega’s Bad Faith ....................................................................................... 15 
+E. The Alleged Debtors Are Entitled to Judgment as a Matter of Law Regarding 
+Costs and Fees Under Bankruptcy Code section 303(i) ............................................. 17 
+F. Absent Dismissal Under Bankruptcy Code section 303, the Court Should 
+Abstain Under Bankruptcy Code section 305 ............................................................. 18 
+RESERVATION OF RIGHTS ..................................................................................................... 19 
+CONCLUSION ............................................................................................................................. 19 
+CERTIFICATE OF SERVICE ..................................................................................................... 21 
+ 
+ 
+ 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 2 of
+ ii  
+TABLE OF AUTHORITIES 
+Cases 
+In re Acis Capital Mgmt., L.P., 
+584 B.R. 115 (Bankr. N.D. Tex. 2018) ............................................................................... 18, 19 
+Anderson v. Liberty Lobby, Inc., 
+477 U.S. 242 (1986) .................................................................................................................. 10 
+Ashcroft v. Iqbal, 
+556 U.S. 662 (2009) .................................................................................................................. 10 
+In re Bates, 
+545 B.R. 183 (Bankr. W.D. Tex. 2016) .............................................................................. 14, 16 
+Bell Atlantic Corp. v. Twombly,  
+550 U.S. 544 (2007) .................................................................................................................. 10 
+In re Briggs, 
+Nos. 07-34534, 07-34533, 2008 Bankr. LEXIS 4354 (Bankr. N.D. Tex. Jan. 18, 
+2008)…………………………………………………………………………………………..13 
+Calpetco 1981 v. Marshall Exploration, Inc., 
+989 F.2d 1408 (5th Cir. 1993) .................................................................................................. 10 
+Celotex Corp. v. Catrett, 
+477 U.S. 317 (1986) ............................................................................................................ 10, 11 
+In re Clean Fuels Techs. II, LLC, 
+544 B.R. 591 (Bankr. W.D. Tex. 2016) 17 
+Credit Union Liquidating Servs., L.L.C. v. Green Hills Dev. Co. 
+(In re Green Hills Dev. Co.), 741 F.3d 651 (5th Cir. 2014) ..................................................... 15 
+In re Ebackpack, 
+605 B.R. 126 (Bankr. N.D. Tex. 2019) ..................................................................................... 12 
+In re First Financial Enterprises, Inc., 
+99 B.R. 751 (Bankr. W.D. Tex. 1989) ...................................................................................... 15 
+In re Forever Green Athletic Fields, Inc., 
+804 F.3d 328 (3d Cir. 2015)...................................................................................................... 16 
+Fustolo v. 50 Thomas Patten Drive, LLC, 
+816 F.3d 1 (1st Cir. 2016) ......................................................................................................... 13 
+In re Gutierrez, 
+No. 20-50129-NPO, 2020 Bankr. LEXIS 1304 (Bankr. S.D. Miss. May 15, 2020) .................. 9 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 3 of
+ iii  
+In re Haymond, 
+633 B.R. 520 (Bankr. S.D. Tex. 2021…………………………………………………..9, 10, 11 
+In re Henry S. Miller Commer., LLC, 
+418 B.R. 912 (Bankr. N.D. Tex. 2009) ..................................................................................... 13 
+In re Landmark Distribs., Inc., 
+189 B.R. 290 (Bankr. D. N.J. 1995) ......................................................................................... 19 
+Marciano v. Chapnick (In re Marciano), 
+708 F.3d 1123 (9th Cir. 2013) .................................................................................................. 13 
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 
+475 U.S. 574 (1986) .................................................................................................................. 11 
+In re Norris, 
+114 F.3d 1182 (5th Cir. 1997) .................................................................................................. 13 
+In re Privada, Inc., 
+No. 07-10940 FRM, 2008 Bankr. LEXIS 2717  (Bankr. W.D. Tex. Oct. 22, 2008) .......... 15, 16 
+In re Seven Three Drilling Co., L.L.C., 
+No. 21-10219, 2021 Bankr. LEXIS 2072 (Bankr. E.D. La. Aug. 4, 2021) ........................ 12, 16 
+In re Sherwood Enters., Inc., 
+112 B.R. 165 (Bankr. N.D. Tex. 2018) ..................................................................................... 18 
+Subway Equip. Leasing Corp. v. Sims (In re Sims), 
+994 F.2d 210 (5th Cir. 1993) .............................................................................................. 12, 17 
+In re Synergistic Techs., Inc., 
+No. 07-31733-SGJ-7, 2007 Bankr. LEXIS 2060  (Bankr. N.D. Tex. Aug. 6, 2007)................ 16 
+Taita Chem. Co. v. Westlake Styrene Corp., 
+246 F.3d 377 (5th Cir. 2001) .............................................................................................. 10, 11 
+Rules 
+FED. R. BANKR. P. 7056 ................................................................................................................ 10 
+FED. R. BANKR. P. 1011 .................................................................................................................. 9 
+FED. R. OF BANK. P. 1003(b) ......................................................................................................... 10 
+FED. R. BANKR. P. 9009(a) ............................................................................................................ 10 
+FED. R. CIV. P. 12 .......................................................................................................................... 10 
+ 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 4 of
+ iv  
+FED. R. CIV. P. 56 .......................................................................................................................... 12 
+TEX. R. CIV. P. 329b ........................................................................................................................ 7 
+TEX. R. CIV. P. 621a ........................................................................................................................ 8 
+TEX. R. CIV. P. 627 .......................................................................................................................... 8 
+TEX. R. APP. P. 24.1 .................................................................................................................. 7, 13 
+TEX. R. APP. P. 24.2 ........................................................................................................................ 7 
+TEX. R. APP. P. 25.1 ........................................................................................................................ 8 
+TEX. R. APP. P. 42.1(b)(2) ............................................................................................................... 8 
+TEX. R. APP. P. 8.1 .......................................................................................................................... 9 
+State Code 
+TEX. CIV. PRAC. & REM. CODE § 52.006 ......................................................................................... 7 
+Federal Code  
+11 U.S.C. § 303 ...................................................................................................................... passim 
+11 U.S.C. § 303(h) .................................................................................................. 2, 12, 13, 14, 15 
+11 U.S.C. § 303(i) ......................................................................................................... 2, 15, 17, 18 
+11 U.S.C. § 303(e) ........................................................................................................................ 19 
+11 U.S.C. § 305 ......................................................................................................................... 2, 18 
+11 U.S.C. § 305(a) ........................................................................................................................ 18 
+ 
+ 
+ 
+ 
+ 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 5 of
+Marbach Associates, LLC (“Marbach”) and Diamond Management, Inc. d/b/a Diamond 
+Management (“ Diamond”), the alleged debtor s in the above -captioned involuntary case s (the 
+“Alleged Debtors”) commenced pursuant to section 303 of title 11 of the United States Code (the 
+“Bankruptcy Code ”), hereby jointly submit this brief (the “Brief”) in support of the Alleged 
+Debtors’ joint motion for summary judgment (the “Motion”) seeking dismissal of the involuntary 
+Chapter 7 petitions filed against the Alleged Debtors by petitioning creditor Julie Vega (“Vega”). 
+In support thereof, the Alleged Debtors respectfully state as follows: 
+PRELIMINARY STATEMENT 
+1. Marbach and Diamond formerly owned and managed, respectively, the apartment 
+complex where Vega lived. In or about June of 2022, Marbach sold the apartment complex.  
+Diamond ceased operations in July of 2022. The Alleged Debtors each currently have de minimus 
+assets. The Alleged Debtors have, however, vigorously defended themselves against a state court 
+lawsuit brought by Vega. Vega obtained a judgment against the Alleged Debtors and, pursuant to 
+applicable state law, the judgment has been stayed through the posting of a supersedeas bond. The 
+Alleged Debtors were proceeding forward with their right of appeal in state court when Vega filed 
+involuntary Chapter 7 bankruptcy petitions against them. 
+2. As of the filing of the petition against Diamond, Vega was Diamond’s only creditor. 
+As of the filing of the petition against Marbach, Marbach had two creditors, including Vega. Since 
+the filing of the petition against Marbach, the other Marbach creditor has nonsuited its litigation  
+that was pending in Bexar County, Texas. Therefore, as of the filing of this Brief, Vega is the only 
+creditor for both Alleged Debtors. 
+3.  Vega has not alleged —and would have no basis for alleging —that the Alleged 
+Debtors’ de minimus assets are wasting or otherwise in jeopardy of being misappropriated. In the 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 6 of
+course of the underlying litigation, Vega has made clear that she is aware of the various levels of 
+insurance policies that would more than cover her claim following the exhaustion of appeals. These 
+reasons alone establish that th ese involuntary Chapter 7 bankruptcy case s have no basis. Any 
+bankruptcy case —including an involuntary filing —is a collective process for the benefit of 
+creditors. Bankruptcy is designed as a shield to protect debtors, not as a sword to further the 
+litigation strategy of a single creditor. Vega filed these involuntary bankruptcy cases against the 
+Alleged Debtors as a litigation tactic to arrest or otherwise disturb the appellate process that the 
+Alleged Debtors were lawfully pursuing following the entry of a judgment by the state court. 
+4. As set forth in this Brief, the Alleged Debtors are not eligible to be a debtor under 
+Bankruptcy Code section 303(h)(1) because they have at all times disputed the claim of this sole 
+creditor in its entirety . The entry of the judgment does not change this fact. Rather, the proper 
+posting of a bond by the Alleged Debtors stayed the judgment and provided Vega with all of the 
+protections she was entitled to under the law.  The facts and circumstances of this matter 
+demonstrate that Vega filed the petition in bad faith as a mere litigation tactic . Thus, the Alleged 
+Debtors are entitled to costs and fees under Bankruptcy Co de section 303 (i)(1) and the Court 
+should further sanction Vega under Bankruptcy Code section 303 (i)(2) in order to punish this 
+egregiously unlawful behavior. 
+5. Finally, even if the Court does somehow determine that the Alleged Debtors are  
+properly a debtor in this case, the Court should abstain and dismiss the case under Bankruptcy 
+Code section 305 on the basis that the matter should proceed forward in the Texas courts of appeal. 
+Simply put, there is no reason for this matter to be put into the hands of a Chapter 7 trustee and 
+administered for this Court. 
+ 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 7 of
+SUMMARY JUDGMENT FACTS 
+6. Vega was a resident of an apartment complex in San Antonio called Polo Club. 
+Polo Club was owned by Marbach and managed by Diamond. On November 8, 2021, Vega’s ex-
+boyfriend and former roommate Shane Jernigan (“Jernigan”) obtained entry to Vega’s apartment 
+through alleged misrepresentations made to Diamond maintenance personnel. Jernigan lay in wait 
+for Vega and when she arrived home from work they spoke for several hours. Later that evening, 
+Jernigan attempted to murder Vega with a knife. Vega sustained inj uries and has alleged other 
+damages. 
+7. In 2022, Vega brought suit (the “ Lawsuit”) against Marbach , and later amended 
+her suit to include Diamond, in the 37th Judicial District Court in Bexar County, Texas . The 
+Lawsuit concerned claims brought by Vega alleging that the Alleged Debtors were negligent as to 
+safety procedures at its apartment complexes. Specifically, Vega alleged that the Alleged Debtors 
+were liable for negligence, gross negligence, and trespass as it related to Jernigan’s criminal 
+assault. A copy of Vega’s Fourth Amended Petition dated July 7, 2023  (the “Fourth Amended 
+Petition”) is attached hereto as Exhibit 1. 
+8. Jernigan was subsequently held criminally liable for aggravated assault with a 
+deadly weapon and was sentenced to twenty years in state prison . A copy of the Judgment of 
+Conviction by Court is attached hereto as Exhibit 2. 
+9. Vega, the Alleged Debtors, and Jernigan are the only parties to the Lawsuit. Vega 
+is the sole creditor to both Alleged Debtors. Her status as such relates only to the Lawsuit.  
+10. The Alleged Debtors expressly denied all liability relating to Vega’s injuries or any 
+criminal conduct detailed in the Fourth Amended Petition. The Alleged Debtors took the 
+position—and maintain—that the claims in Vega’s Fourth Amended Petition  were supported by 
+no, or insufficient, evidence and patently mischaracterized the applicable legal standard. 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 8 of
+11. Throughout the pendency of the Lawsuit, the Alleged Debtors vigorously litigated 
+the matter and denied liability for Vega’s injuries caused by Jernigan’s criminal assault. For 
+example, on August 19, 2024, the Alleged Debtors addressed Vega’s flawed pleading in its 
+Defendants’ Traditional and No -Evidence Motions for Summary Judgment  (the “ Motion for 
+Summary Judgment ”). A copy of the Motion for Summary Judgment is attached hereto as 
+Exhibit 3 . The Motion for Summary Judgment presented substantial evidence that, under the 
+applicable legal standard, the Alleged Debtors bore no liability for Vega’s injuries. 
+12. Following the Alleged Debtors’ denial of liability based on the applicable law and 
+facts of the Lawsuit, Vega moved for Spoliation Instructions and Sanctions against  the Alleged 
+Debtors for the alleged loss or destruction of a key log she alleged would have identified whether 
+a maintenance worker let Jernigan into her apartment.  
+13. On October 30, 2024, the Honorable Cynthia Marie Chapa, presiding judge of the 
+288th Judicial District Court signed an Order Granting Plaintiff’s Motion for Spoliation 
+Instructions and Sanctions (the “Spoliation Order”). A copy of the Spoliation Order is attached 
+hereto as Exhibit 4. The Spoliation Order imposed sanctions against the Alleged Debtors, ordering 
+that the jury may consider the evidence allegedly destroyed as having been unfavorable to Polo 
+Club on the issues of breach of duty and proximate causation. The order denied Polo Club the right 
+to testify, solicit testimony, present evidence, or argue that its maintenance employee did not let 
+Jernigan into Vega’s apartment on November 8, 2021. 
+14. On November 19, 2024, the Alleged Debtors moved to reconsider t he Spoliation 
+Order, which  severely undermined their ability to defend against Vega’s Lawsuit and present 
+evidence at the trial set for December 16, 2024. The parties argued the motion before the Honorable 
+Cynthia Marie Chapa on December 3, 2024.  On December 9, 2024, the Alleged Debtors, as 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 9 of
+“Realtors,” filed the Realtors Petition for Writ of Mandamus  (the “ Petition for Mandamus 
+Relief”) seeking a temporary stay of the pending jury trial to allow for proper review of its Petition 
+for Mandamus Relief regarding the spoliation order. A copy of the Petition for Mandamus Relief 
+is attached hereto as Exhibit 5.  
+15. Importantly, the Alleged Debtors argued  that Vega failed to apply or satisfy the 
+proper standard for Spoliation which require d the spoliating party to , first, have had a duty to 
+reasonably preserve the information and , second, pro ve that the party breached that duty. In 
+addition, the Alleged Debtors argued that Vega had not shown intentional spoliation, since the 
+property was sold while the key log was still within its management office, and that any destruction 
+of the key log was the result of the purchaser. 
+16. On December 12,  2024, just four days before trial, the Honorable Cynthia Marie 
+Chapa issued her Judge’s Notes stating that the Motion for Reconsideration was granted in part 
+and denied in part, and that the court was removing its previously ordered prohibition on testimony 
+or argument about whether a maintenance employee allowed Jernigan into the apartment. 
+However, the court maintained the sanction in place of an adverse spoliation instruction to be given 
+to the jury. The court of appeals denied the Allege d Debtors’ petition for writ of mandamus that 
+same day, and the Texas Supreme Court denied the Alleged Debtors’ petition for writ of mandamus 
+on December 16, 2024. 
+17. Despite the Alleged Debtors’ efforts to address the grave due process concerns 
+inherent in a spoliation instruction to the jury, the jury trial took place on December 16, 202 4. 
+After a week-long trial, the jury ruled in favor of Vega on December 23, 2024.  
+18. Following trial, on December 20, 2024, the Alleged Debtors filed their Motion for 
+Partial Directed Verdict (the “Motion for Partial Directed Verdict ”), and, on December 23, 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 10 of
+2024, filed their Defendants’ Motion for Directed Verdict (the “Motion for Directed Verdict ”) 
+(collectively, the “Motions for Directed Verdict”). A copy of the Motion s for Directed Verdict 
+are attached hereto as Exhibit 6.  
+19. In Motions for Directed Verdict, the Alleged Debtors again urged that a number of 
+legal and evidentiary issues barred Vega from recovery against the Alleged Debtors, including but 
+not limited to: the wrongful submission of the claims to the jury as ordinary negligence rather than 
+premises liability, Vega’s failure to submit evidence in support of a premises liability claim, 
+Vega’s failure to submit evidence of negligence in light of there being no duty owed to Vega to 
+protect from third-party criminal conduct, and Vega’s failure to submit any evidence of the Alleged 
+Debtors’ conduct that would support liability or justify a finding of joint enterprise. The district 
+court denied the entirety of the Alleged Debtors’ motions for directed verdict. 
+20. On January 24, 2025, the State District Court entered its Final Judgment (the 
+“Judgment”) assessing monetary damages against the Alleged Debtors. A copy of the Judgment 
+is attached hereto as Exhibit 7.  
+21. Following the Judgment and considering the multiple errors in applicable standards 
+of law and lack of evidence presented, or allowed, in the Lawsuit, the Alleged Debtors pursued 
+additional remedies available to them under state law. On February 21, 2025, the Alleged Debtors 
+filed their Motion for Judgment Notwithstanding the Verdict (the “ Motion for Judgment 
+Notwithstanding the Verdict”). A copy of the Motion for Judgment Notwithstanding the Verdict 
+is attached hereto as Exhibit 8. The motion r equested, for the reasons set forth therein, that the 
+Court disregard the jury findings and render judgment that the Alleged Debtors take nothing.  
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 11 of
+22. Contemporaneously with the Judgment Notwithstanding the Verdict, the Alleged 
+Debtors, filed a Motion for New Trial, or Alternatively, Motion for Remittitur (the “Motion for 
+New Trial”). A copy of the Motion for New Trial is attached hereto as Exhibit 9. 
+23. On April 8, 2025, the district court shared its Judge’s Notes denying both the 
+Motion for Judgment Notwithstanding the Verdict and the Motion for New Trial. The motion for 
+new trial was set to be overruled by operation of law on April 9, 2025. See TEX. R. CIV. P. 329b. 
+24. On March 17, 2025, the Alleged Debtors filed a Notice of Supersedeas Bond 
+pursuant to Rules 24.1 and 24.2 of the Texas Rules of Appellate Procedure and Section 52.006 of 
+the Texas Civil Practice and Remedies Code. A copy of the Notice of Supersedeas Bond is attached 
+hereto as Exhibit 10.  
+25. The Notice of Supersedeas Bond  stated the Alleged Debtors’ intent to appeal the 
+Judgment to the Fourth Court of Appeals in San Antonio, Texas and, if necessary, to the Supreme 
+Court of Texas. In support of the supersedeas bond, Marbach attached the Affidavit of Net Worth 
+of Marbach Associates, LLC , signed by Leland Evans, Marbach’s managing member (the 
+“Marbach Affidavit of Net Worth”). A copy of the Marbach Affidavit of Net Worth is attached 
+hereto as Exhibit 11. The amount of the supersedeas bond is capped at half of Marbach’s net worth 
+pursuant to Texas law.  
+26. Also in support of the supersedeas bond, Dimond attached the Affidavit of Net 
+Worth of Diamond Apartment Management, Inc. , signed by Stacey Moos, Diamond’s president 
+(the “Diamond Affidavit of Net Worth ”). A copy of the Diamond Affidavit of Net Worth is 
+attached hereto as Exhibit 12. The Diamond Affidavit of Net Worth advises that Diamond ceased 
+ongoing operations in June of 2022 and that Diamond has no assets. 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 12 of
+27. The supersedeas bond was effective upon filing and stayed the Judgment pursuant 
+to the Texas Rule of Appellate Procedure 42.1(b)(2).1  
+28. Vega demonstrated the continuing post -Judgment disputes among the parties by 
+thereafter serving post-judgment discovery requests on the Alleged Debtors. The Alleged Debtors 
+responded with objections on multiple bases including the conclusion of litigation at the trial court, 
+the Alleged Debtors’ stated intention to file a notice of appeal by the applicable deadline, and the 
+stay imposed against Vega’s judgment pursuant to the supersedeas bond filed by the Alleged 
+Debtors.2   
+29. On April 17, 2025, the Alleged Debtors filed their Notice of Appeal (the “Notice of 
+Appeal”) appealing the District Court’s Judgment to the Fourth Circuit Court of Appeals in San 
+Antonio, Texas. The Alleged Debtors reserved the right to amend the notice under Texas Rule of 
+Appellate Procedure 25.1(g). A copy of the Notice of Appeal is attached hereto as Exhibit 13. 
+30. On April 17, 2025, a matter of minutes after the Alleged Debtors filed the Notice 
+of Appeal, Vega filed involuntary Chapter 7 petitions under Bankruptcy Code section 303  (the 
+“Petitions”) against each of the Alleged Debtors.  
+31. Vega immediately tipped her hand that she filed the Petition s as a litigation tactic 
+by filing a Suggestion of Bankruptcy on April 17, 2025 in the district court alleging “that this action 
+ 
+1 Even if the Alleged Debtors had not filed a supersedeas bond , Vega still would not have been permitted to execute 
+a writ on her judgment. Writs of execution will not be issued until 30 days following denial of any timely filed post -
+judgment motions. The district court denied the Alleged Debtors’ Motion for New Trial on April 9, 2025. Thus, the 
+earliest Vega could have obtained a writ of execution would have been May 9, 2025, 22 days after Vega filed the 
+involuntary bankruptcy petitions. See TEX. R. CIV. P. 627. But even Texas Rule of Civil Procedure 627 applies only 
+“if no supersedeas bond” has been filed. See id. 
+2 Post judgment discovery is only appropriate to aid in the enforcement of a judgment that has not been suspended by 
+a supersedeas bond, unless the discovery solely relates to net worth. TEX. R. CIV. P. 621a. 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 13 of
+has been stayed pursuant to 11 U.S.C. § 362(a).” A copy of the Suggestion of Bankruptcy is 
+attached hereto as Exhibit 14.  
+32. On May 1, 2025, the Alleged Debtors  filed an Amended Notice of Appeal  (the 
+“Amended Notice of Appeal ”) to reflect appeal from the 408th Judicial District court of Bexar 
+County, Texas and noting that, contemporaneously with the filing of its Amended Notice of 
+Appeal, the Alleged Debtors had filed a Notice of Bankruptcy with the Court of Appeals pursuant 
+to Texas Rule of Appellate Procedure 8.1 . A copy of the Amended Notice of Appeal is attached 
+hereto as Exhibit 15.  
+33. The two -party dispute described herein reflects active litigation as to both the 
+underlying theory of liability and any amount of damages. These issues were properly preserved 
+for appeal, of which the Alleged Debtors provided timely notice.  
+34. Despite receiving all protections a judgment creditor is entitled to under Texas law, 
+Vega has impermissibly interjected federal law into these hotly contested state law issues. 
+Accordingly, the Alleged Debtors respectfully request that this Court enter Summary Judgment 
+dismissing the involuntary Petitions for the reasons stated herein. 
+RELIEF REQUESTED AND BASES THERFOR 
+A. Legal Standard: Summary Judgment 
+35.  A “defense or objection to [an involuntary] petition must be presented as 
+prescribed by Federal Rule of Civil Procedure  12.” FED. R. BANKR. P. 1011. Courts have 
+recognized that while a Rule 12 motion is permitted to challenge an involuntary petition, “its 
+benefits in this situation are limited.” In re Haymond, 633 B.R. 520, 531 (Bankr. S.D. Tex. 2021) 
+(citing In re Gutierrez, No. 20-50129-NPO, 2020 Bankr. LEXIS 1304, at *7 (Bankr. S.D. Miss. 
+May 15, 2020)). Such courts reason that relief pursuant to a Rule 12 motion is limited in the context 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 14 of
+of an involuntary petition because petitioning creditors can meet the pleading standard set forth in 
+Federal Rule of Civil Procedure  8(a)(2) solely by “checking the boxes” on the official petition 
+form. Id. at 533-34 (citing case law and the Federal Rule of Bankruptcy Procedure 9009(a)); FED. 
+R. BANKR. P. 9009(a); FED. R. CIV. P. 8(a)(2).  
+36. Here, the Alleged Debtors do not concede that Vega has met her burden to state a 
+claim upon which relief can be granted via a pleading that consists of more than a “formulaic 
+recitation of the elements of a cause of action” merely by filing a form and checking a box. See 
+Bell Atlantic Corp. v. Twombly , 550 U.S. 544, 555 (2007) ; see also Ashcroft v. Iqbal , 556 U.S. 
+662, 679 (2009) (stating that Rule 12 does not require a court to “accept conclusory allegations, 
+unwarranted deductions, or legal conclusions.”). However, given the case law stating that the 
+“superior approach” in the context of an involuntary petition is to file an answer and seek summary 
+judgment, the Alleged Debtors herein have adopted such an approach. In re Haymond, 633 B.R. 
+at 531. Immediately prior to the filing of this Motion, the Alleged Debtors have each filed an 
+answer compliant with Federal Rule of Bankruptcy Procedure 1003(b). 
+37. Pursuant to Federal Rule of Civil Procedure 56(c), made applicable to this matter 
+by Federal Rule of Bankruptcy Procedure 7056(g), summary judgment should be entered for the 
+moving party when there is no genuine issue of material fact , and the moving party is entitled to 
+judgment as a matter of law. Celotex Corp. v. Catrett , 477 U.S. 317, 322 (1986 ); Anderson v. 
+Liberty Lobby, Inc., 477 U.S. 242, 247-48 (1986); Taita Chem. Co. v. Westlake Styrene Corp., 246 
+F.3d 377, 385 (5th Cir. 2001). Material facts are those that will affect the outcome of the lawsuit. 
+Anderson, 477 U.S. at 248. Issues of material fact are “genuine” only if they require resolution by 
+a trier of fact. Taita, 246 F.3d at 385; see also Calpetco 1981 v. Marshall Exploration, Inc. , 989 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 15 of
+F.2d 1408, 1413 (5th Cir. 1993) (holding that “mere disagreement” between parties is not enough 
+to create a genuine dispute). 
+38. Once the moving party shows the absence of a genuine issue of material fact, the 
+burden shifts to the nonmoving party to designate specific facts establishing an issue for trial.  
+Celotex Corp., 477 U.S. at 324; Taita Chem. Co., 246 F.3d at 385. A genuine dispute requires 
+more than some metaphysical doubt as to the material facts. Matsushita Elec. Indus. Co. v. Zenith 
+Radio Corp., 475 U.S. 574, 586 (1986) . Specifically, the nonmoving party must “go beyond the 
+pleadings and by her own affidavits, or by the depositions, answers to interrogatories, and 
+admissions on file, designate specific facts showing that there is a genuine issue for trial.” Celotex 
+Corp., 477 U.S. at 324 (internal quotation marks deleted). Summary judgment is not a disfavored 
+procedural shortcut, but rather is designed to secure the just, speedy, and inexpensive 
+determination of every action.  Celotex Corp., 477 U.S. at 327. 
+39. All the pertinent facts in this matter are undisputed and, as described herein, compel 
+relief for the Alleged Debtors as a matter of law via dismissal of the Petitions. 
+B. The Alleged Debtors Are Entitled to Judgment as a Matter of Law Regarding Its 
+Eligibility to be a Debtor Under Bankruptcy Code section 303 – Bona Fide Dispute 
+ 
+40. As the movant for summary judgment, the Alleged Debtors bear the initial burden 
+to establish the lack of any genuine issue of material fact as to whether Vega has failed to establish 
+one or more of the elements under Bankruptcy Code section 303. See 11 U.S.C. § 303. At trial on 
+this matter, Vega bears the burden of proof as to such elements under section 303. Therefore, this 
+Court must grant summary judgment in favor of the Alleged Debtors, and dismiss the Petitions, if 
+the Alleged Debtors demonstrate that Vega has not provided (and under these facts cannot provide) 
+evidence supporting an essential element of section 303. In re Haymond , 633 B.R. at 535  
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 16 of
+(describing the  relevant burdens for summary judgment in the context of an involuntary 
+bankruptcy case); see also In re Seven Three Drilling Co., L.L.C. , No. 21 -10219, 2021 Bankr. 
+LEXIS 2072, at *12 (Bankr. E.D. La. Aug. 4, 2021). In addition, Federal Rule of Civil Procedure 
+56(c)(3) permits a court to “consider other materials in the record.” FED. R. CIV. P. 56(c)(3). As 
+such, it is appropriate for the Court to consider the exhibits attached hereto demonstrating that the 
+material facts are uncontested and that Vega is incapable of bearing her burden. 
+41. Bankruptcy Code section 303(h)(1) requires the petitioning creditor bear the burden 
+of showing that “the debtor is generally not paying such debtor’s debts as such debts become due 
+unless such debts are the subject of a bona fide dispute.” 11 U.S.C. § 303(h)(1) (emphasis added). 
+The Bankruptcy Code does not define the term “bona fide dispute,” and therefore the term has 
+been developed by case law. The Fifth Circuit has adopted the objective standard, which analyzes 
+whether there is an objective factual or legal dispute as the validity of the debt. Subway Equip. 
+Leasing Corp. v. Sims (In re Sims) , 994 F.2d 210, 213 (5th Cir. 1993) ; see also In re Ebackpack, 
+605 B.R. 126, 128 (Bankr. N.D. Tex. 2019)  (“[t]he burden first falls on the Petitioners to make a 
+prima facie case that there is no bona fide dispute as to their claims, in order to establish standing 
+to bring an involuntary petition.”). 
+42. Here, Vega cannot meet her burden. As set forth in the Summary Judgment facts 
+above, Vega’s status as a creditor relates entirely to the Lawsuit . It is beyond dispute that the 
+Lawsuit was heavily contested at every step  and that it remains contested . That is, the Alleged 
+Debtors have denied all liability in relation to the criminal behavior of Vega’s ex -boyfriend. 
+Moreover, the fact that a judgment was ultimately entered in favor of Vega does not establish a 
+lack of bona fide dispute. It is also an undisputed fact that the Alleged Debtors timely filed a notice 
+of appeal and timely filed a supersedeas bond following entry of the Judgment.  As noted above, 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 17 of
+pursuant to Texas Rule of Appellate Procedure 24.1 , the filing of such bond stayed the Judgment 
+by suspending any enforcement by Vega. TEX. R. APP. P. 24.1.  
+43. Vega’s stayed Judgment does not meet the eligibility requirements under 
+Bankruptcy Code section 303 (h)(1) because such a judgment constates a bona fide dispute.  See 
+Fustolo v. 50 Thomas Patten Drive, LLC , 816 F.3d 1, 7 (1st Cir. 2016)  (discussing the “Drexler 
+rule” whereby bankruptcy courts respect underlying judgments as not being subject to a bona fide 
+dispute for the purpose of Bankruptcy Code section 303(h)(1), but limiting such considerations to 
+unstayed judgments because “those judgments actually entitle a creditor to access the debtor’s 
+assets.”); see also Marciano v. Chapnick (In re Marciano), 708 F.3d 1123, 1124-25 (9th Cir. 2013) 
+(upholding a decision that there was no bona fide dispute in relation to a judgment specifically 
+because the debtor failed to post a bond). Here, under applicable state law, Vega has no ability to 
+access the Alleged Debtors’  assets—or any insurance policy proceeds —because the Alleged 
+Debtors timely posted a supersedeas bond, staying the Judgment.  
+44. In addition, even if the Judgment was not stayed, that fact alone would not permit 
+Vega to establish a lack of bona fide dispute. See In re Henry S. Miller Commer., LLC , 418 B.R. 
+912, 921 -22 (Bankr. N.D. Tex. 2009)  (disagreeing with case law holding that an unstayed 
+judgment establishes no bona fide dispute on the grounds that taking such a position is “arguably 
+inconsistent with the literal wording” of section 303(h)(1).”); see also In re Briggs, Nos. 07-34534, 
+07-34533, 2008 Bankr. LEXIS 4354, at *1 (Bankr. N.D. Tex. Jan. 18, 2008)  (finding a bona fide 
+dispute where there was an unstayed judgment in part because only a single creditor was making 
+demand for payment). Notably, the Fifth Circuit has not issued a binding decision on this issue. 
+Id. at 922 n.2 (pointing out that an unpublished decision cited by some courts —In re Norris, 114 
+F.3d 1182 (5th Cir. 1997)—has no precedential value and further that it had a unique fact pattern 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 18 of
+making it not inconsistent with the court’s holding regarding unstayed judgments); but see In re 
+Bates, 545 B.R. 183, 187 (Bankr. W.D. Tex. 2016). 
+45. Vega’s entire argument for eligibility under Bankruptcy Code section 303 (h)(1) 
+rests on the Judgment not being a bona fide dispute between Vega and  the Alleged Debtors. The 
+facts, including the party’s behavior in the underlying litigation  before and after entry of the 
+Judgment, amply demonstrate otherwise. Moreover, Vega cannot rely on case law to defeat the 
+bona fide nature of the dispute—whether such case law is called the “Drexler rule” or otherwise—
+because the Judgment is stayed, and Vega has no ability to access the Alleged Debtors’ assets.  
+46. For these reasons, the Court should find that there is no material dispute of fact and 
+should rule in the Alleged Debtors’ favor as a matter of law that Vega has not met her burden 
+under Bankruptcy Code section 303(h)(1). 
+C. The Alleged Debtors Are Entitled to Judgment as a Matter of Law Regarding Its 
+Eligibility to be a Debtor Under Bankruptcy Code section 303 – Not Paying Debts as 
+Such Debts Come Due 
+ 
+47. The summary judgment evidence further establishes that Vega cannot m eet her 
+burden of showing that the Alleged Debtors were not paying their debts as such debts come due, 
+as required under Bankruptcy Code section 303(h)(1). As to Diamond, Vega was its only creditor 
+as of filing the Petitions and Diamond had ceased all operations more than two years prior to that 
+time. While Diamond continued to defend itself in the Litigation, Vega has no basis for alleging 
+that Diamond was not paying debts as they came due. The undisputed fact is that there were no 
+debts. Moreover, when the Judgment was entered the Alleged Debtors both timely and responsibly 
+posted the supersedeas bond, thus providing Vega with every protection she was entitled to under 
+the law. On this record, Vega cannot show a failure to pay any debt. 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 19 of
+48. As to Marbach, as of the filing of the Petitions, there was a suit pending against 
+Marbach by another creditor. However, the litigation was subsequently non-suited by the plaintiff, 
+and as of the filing of this Brief Vega is Marbach’s sole creditor. Again, the facts cannot sustain a 
+claim that Marbach failed to pay any debt. It defended itself against litigation and, like Diamond, 
+posted a bond that provided Vega with the protection to which she was entitled.  
+49. For these reasons the Court should find that there is no material dispute of fact and 
+should rule in the Alleged Debtors’ favor as a matter of law that Vega has not met her burden 
+under Bankruptcy Code section 303(h)(1). 
+D. The Alleged Debtors Are Entitled to Judgment as a Matter of Law with Respect to 
+Vega’s Bad Faith 
+ 
+50. The Fifth Circuit has recognized that Congress crafted Bankruptcy Code section 
+303 to provide limited circumstances for involuntary bankruptcy filings, given the fact that 
+involuntary bankruptcy is a severe remedy. See Credit Union Liquidating Servs., L.L.C. v. Green 
+Hills Dev. Co. (In re Green Hills Dev. Co.), 741 F.3d 651, 655 (5th Cir. 2014). In addition, courts 
+have made it clear that a  petition for involuntary bankruptcy should not be used as a litigation 
+strategy, whether that is resolving a mere two-party dispute or attempting to inject federal law into 
+a dispute on purely state law issues. See, e.g., In re Privada, Inc., No. 07-10940 FRM, 2008 Bankr. 
+LEXIS 2717, at *8 (Bankr. W.D. Tex. Oct. 22, 2008)  (citing In re First Financial Enterprises, 
+Inc., 99 B.R. 751, 754 (Bankr. W.D. Tex. 1989)). 
+51. Misuse of the Bankruptcy Code’s limited involuntary bankruptcy provisions may 
+constitute bad faith. A bankruptcy court may award damages following dismissal against “any 
+petitioner that filed the petition in bad faith.” 11 U.S.C. § 303(i)(2). Courts have relied upon this 
+to find a requirement under section 303 that involuntary petitions must be filed in good faith. In re 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 20 of
+Seven Three Drilling Co., L.L.C. , 2021 Bankr. LEXIS 2072, at *17.  The Bankruptcy Code does 
+not define “good faith” for these purposes and courts have taken a “totality of the circumstances” 
+approach in making the determination.  Id. at *19 ( collecting cases ). Courts consider several 
+factors, including whether the matter is a two -party dispute, whether it is a litigation tactic, and 
+whether the petitioning creditor’s actions run “counter to the spirit of collective creditor action that 
+should animate an involuntary filing.” In re Forever Green Athletic Fields, Inc., 804 F.3d 328, 334 
+(3d Cir. 2015); see also In re Bates, 545 B.R. at 192; In re In re Privada, Inc., 2008 Bankr. LEXIS 
+2717, at *1. 
+52. On this record, the Court should rule that bad faith has been demonstrated as a 
+matter of law. Unlike the burden of proof related to bona fide disputes —which falls squarely on 
+Vega—the Alleged Debtors bear the burden of proof to show that Vega filed the Petitions in bad 
+faith. In re Synergistic Techs., Inc., No. 07-31733-SGJ-7, 2007 Bankr. LEXIS 2060, at *16 (Bankr. 
+N.D. Tex. Aug. 6, 2007).   
+53. There is nothing collective about Vega’s strategy to put the Alleged Debtors into 
+bankruptcy. The Petitions benefit no party other than Vega. The Alleged Debtors posted a bond 
+and were proceeding with an appeal of the Judgment . Moreover, there is no evidence that the 
+Alleged Debtors took any action that was prejudicial to Vega’s recovery, such as would be the 
+case, for example, with alleged debtor malfeasance or a wasting asset. Not a single factor 
+considered by courts in analyzing good faith weighs in favor of Vega. Instead, t he circumstances 
+all point to Vega improperly using section 303 as an attempt to thwart the Alleged Debtors’ right 
+to appeal the Judgment.  
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 21 of
+54. For these reasons, the Court should find that the Alleged Debtors have  met their 
+burden and should rule as a matter of law that the Petition s were filed in bad faith. The Petition s 
+should therefore be dismissed. 
+E. The Alleged Debtors Are Entitled to Judgment as a Matter of Law Regarding Costs 
+and Fees Under Bankruptcy Code section 303(i) 
+ 
+55. Bankruptcy Code section 303(i)(1) permits a court to enter a judgment in favor of 
+an alleged debtor for costs or reasonable attorney’s fees where a petition is dismissed by the court 
+for any reason. See In re Sims, 994 F.2d at 213; 11 U.S.C. § 303(i)(1). In fact, there is a presumption 
+that fees should be awarded against an unsuccessful petitioning creditor , with the unsuccessful 
+petitioner bearing the burden of rebutting the presumption. In re Clean Fuels Techs. II, LLC, 544 
+B.R. 591, 602 (Bankr. W.D. Tex. 2016) . In making such determination courts consider several 
+factors including (1) the merits of the involuntary petition; (2) the role of any improper conduct on 
+behalf of the alleged debtor; (3) the reasonableness of actions taken by the petitioning creditor; 
+and (4) the motivation and objectives behind the involuntary petition. Id. 
+56. As set forth above, the Petitions should be dismissed as a matter of law both because 
+the amounts owed to Vega are subject to bona fide dispute and because the Petitions were filed in 
+bad faith. As a matter of law, Vega is incapable of rebutting the presumption because all four 
+factors weigh in favor of the Alleged Debtors. While the Alleged Debtors have not engaged in any 
+improper conduct in the course of simply seeking to appeal the Judgment, Vega filed the Petitions 
+for the sole purpose of disrupting the Alleged Debtors’  appellate rights. As such, f ollowing 
+dismissal of the Petitions, the Court should set a hearing on the amount of costs and attorney’s fees 
+payable to the Alleged Debtors. 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 22 of
+57. In addition, Bankruptcy Code section 303(i)(2) allows a court to assess and award 
+damages when a petition is dismissed for being filed in bad faith, as well as punitive damages. 11 
+U.S.C. § 303(i)(2). Given the fact that the Alleged Debtors have met their burden of showing that 
+the Petitions were filed in bad faith, the Court should also take up the matter of damages to be 
+awarded to the Alleged Debtors . The Alleged Debtors reserve  all rights with respect to proving 
+damages and further seeking punitive damages to discourage the type of litigation gamesmanship 
+engaged in by Vega in this case. 
+F. Absent Dismissal Under Bankruptcy Code section 303, the Court Should Abstain 
+Under Bankruptcy Code section 305 
+ 
+58. Abstention, as set forth in Bankruptcy Code section 305 , provides a legally 
+independent, and valid, route for the Court to dismiss the Petitions. A court may dismiss a case at 
+any time if “the interests of creditors and the debtor would be better served by such dismissal . . .” 
+11 U.S.C. § 305 (a)(1). The Alleged Debtors, as the moving part ies, bear the burden o f proof on 
+this issue and must show that the interests of all parties are better served by the Court’s voluntary 
+decline of jurisdiction over the case. In re Sherwood Enters., Inc., 112 B.R. 165, 167 (Bankr. N.D. 
+Tex. 2018). Courts consider many factors in determining whether to abstain, including “whether 
+another forum in available to protect the interests of both parties or there is already a pending 
+proceeding in state court” and “whether federal proceedings are necessary to reach a just and 
+equitable solution.” In re Acis Capital Mgmt., L.P., 584 B.R. 115, 145 (Bankr. N.D. Tex. 2018). 
+59. It also bears mentioning, once again, that Vega is fully aware of various levels of 
+insurance coverage related to her claim which would ultimately provide full coverage to Vega’s 
+entire if Vega’s claim were to survive through the conclusion of the appellate process. This further 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 23 of
+weighs in favor of the fact that federal proceedings are not necessary to reach a just and equitable 
+solution. 
+60. The additional bases for abstention in this matter are readily apparent. The Alleged 
+Debtors have appealed the Judgment and have provided every protection to which Vega is entitled 
+under the law by posting a supersedeas bond. This is a two-party dispute that, following dismissal 
+or abstention, will proceed forward to its conclusion in the Texas courts of appeals. There are no 
+other creditors, outstanding claims, or liabilities against either of the Alleged Debtors and no valid 
+reason for invoking bankruptcy jurisdiction which, ultimately, is designed to be a collective action 
+for the mutual benefit of a body of creditors. See In re Acis  Capital Mgmt. 584 B.R. at 146 -47. 
+Given the fact that the Petitions were filed as nothing more than a litigation tactic—that is, a tactical 
+sword wielded by an adverse party —the Court should abstain and allow the matter to proceed 
+forward in state court. See In re Landmark Distribs., Inc., 189 B.R. 290, 306 (Bankr. D. N.J. 1995) 
+(recognizing that the Bankruptcy Code “was created to act as a shield for debtors, rather than a 
+sword for creditors.”). 
+RESERVATION OF RIGHTS 
+61. The Alleged Debtors are  continuing to review the facts and circumstances giving 
+rise to the Petition s. The Alleged Debtors reserve  the right to raise additional objections to the 
+Petitions, or to seek that petitioning creditor Vega post a bond pursuant to Bankruptcy Code section 
+303(e), at the appropriate time. 
+CONCLUSION 
+62. For the foregoing reasons, the Alleged Debtors respectfully request that the Court 
+grant this Motion, dismiss the Petitions, and grant the Alleged Debtors such other relief to which 
+they are justly entitled.   
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 24 of
+WHEREFORE, the Alleged Debtors request that this Court grant the relief requested herein 
+and such other and further relief as is just and proper. 
+Dated: May 12, 2025 
+Respectfully submitted, 
+KANE RUSSELL COLEMAN & LOGAN, P.C. 
+ 
+By:  /s/   Abigail Rogers      
+Jason Binford 
+Texas State Bar No. 24045499 
+Abigail Rogers 
+Texas State Bar No. 24144104 
+401 Congress Ave., Ste. 2100 
+Austin, Texas 78701 
+Telephone: (512) 487-6650 
+Email: jbinford@krcl.com 
+ arogers@krcl.com 
+ 
+Counsel for Marbach Associates, LLC and 
+Diamond Apartment Management, Inc. 
+  
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 25 of
+CERTIFICATE OF SERVICE 
+The undersigned hereby certifies that on May 12, 2025, she caused a copy of the foregoing 
+document to be served by the Electronic Case Filing System for the United States Bankruptcy 
+Court for the Western District of Texas and via email on the parties listed below. 
+/s/ Abigail Rogers   
+Abigail Rogers  
+Petitioning Creditor’s Counsel 
+Husch Blackwell 
+Jameson J. Watts 
+Tom Zavala 
+111 Congress Avenue, Suite 1400 
+Austin, TX 78701 
+jameson.watts@huschblackwell.com 
+tom.zavala@huschblackwell.com 
+25-50815-mmp  Doc#10  Filed 05/12/25  Entered 05/12/25 10:33:05  Main Document   Pg 26 of

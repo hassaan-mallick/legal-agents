@@ -9,9 +9,9 @@ from harness.gate import c5_scan
 from harness.loader import Agent
 from harness.quote import locate
 from harness.review import ReviewItem, RunWriter
-from harness.runners.citations.classify import Finding, Verdict, classify
+from harness.runners.citations.classify import Finding, Verdict, classify, uncheckable
 from harness.runners.citations.extract import extract
-from harness.runners.citations.resolve import HOST, Resolver
+from harness.runners.citations.resolve import HOST, Resolution, Resolver
 
 
 def make_resolver(agent: Agent, *, cache_dir: Path | None, offline: bool,
@@ -28,10 +28,11 @@ def run_document(agent: Agent, doc: Document, resolver: Resolver, *,
     findings: list[Finding] = []
     for cite in cites:
         if cite.parallel_to is not None:
-            from harness.runners.citations.resolve import Resolution
-
             findings.append(Finding(cite, Resolution(found=False), Verdict.SKIPPED,
                                     explanation="Parallel citation of the preceding case."))
+            continue
+        if uncheckable(cite):
+            findings.append(classify(cite, Resolution(found=False)))
             continue
         findings.append(classify(cite, resolver.resolve(cite.volume, cite.reporter, cite.page)))
 

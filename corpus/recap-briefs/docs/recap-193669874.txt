@@ -1,0 +1,489 @@
+ 
+UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF GEORGIA 
+ATLANTA DIVISION 
+ 
+RICKY R. FRANKLIN, 
+ 
+Plaintiff, 
+ 
+v. 
+ 
+HOLLIS COBB ASSOCIATES, INC., 
+ 
+Defendant. 
+ 
+ 
+ 
+Case No.  1:21-cv-02075-SDG 
+ 
+Honorable Judge: Steven D. Grimberg 
+ 
+ 
+DEFENDANT’S MEMORANDUM OF LAW 
+IN SUPPORT OF MOTION FOR SUMMARY JUDGMENT 
+ 
+Defendant, HOLLIS COBB ASSOCIATES, INC., (“HCA”), through its 
+undersigned counsel, submits the following Memorandum of Law in support of its 
+Motion for Summary Judgment. 
+INTRODUCTION 
+Plaintiff, Ricky Franklin (“Plaintiff” or “Franklin”) claims HCA violated sections 
+227(a)(1) and 227(b)(1) of the Telephone Consumer Protection Act (TCPA”). Specifically, 
+Plaintiff’s only claim alleges that HCA violated the TCPA by placing calls to his cellular 
+telephone using “automatic telephone dialing systems” (“ATDS”) and “artificial/pre-
+recorded messages,” without his prior express consent. First, Defendant did not call 
+Plaintiff’s telephone or leave messages without his prior express consent. In particular, 
+on September 21, 2016, Plaintiff visited Northside Family Practice and Hospital (the 
+“creditor”), where he provided information, signed, and represented acknowledgement 
+of the creditor’s billing practices. Plaintiff authorized contact for reasons related to the 
+services he received. Second, Plaintiff did not revoke his given consent to receive calls 
+from HCA regarding the Debt.  
+Third, Defendant manually dialed Plaintiff’s number and an agent briefly 
+connected directly with him in July of 2017. Defendant did not call Plaintiff’s telephone 
+with an ATDS or artificial or prerecorded voice, especially without consent. Fourth, 
+Plaintiff has failed to establish that HCA used an autodialer system to communicate with 
+him, nor has he provided any evidence to substantiate the allegations in his Complaint. 
+Plaintiff has also failed to disclose an expert who can opine on HCA’s telephone 
+equipment, or provide any evidence to support whether such equipment constitutes an 
+ATDS. Lastly, Defendant could not have knowingly or willfully violated the TCPA when 
+it manually dialed Plaintiff’s number, contrary to the allegations in his Complaint. 
+Therefore, Plaintiff’s claims that HCA violated the Telephone Consumer 
+Protection Act, 47 U.S.C. § 227, et seq., fail as a matter of law. 
+FACTUAL AND PROCEDURAL BACKGROUND 
+On May 17, 2021, Plaintiff filed the instant lawsuit (Dkt. #1; #2). On June 9, July 12, 
+and July 26, Defendant filed three motions respectively, requesting extensions of time to 
+file a response to Plaintiff’s Complaint. (Dkt. #5; #9; #11). Defendant subsequently filed 
+its Answer and Affirmative Defenses to Plaintiff’s Complaint, on August 9, 2021. (Dkt. 
+#13). Following, pursuant to Federal Rule of Civil Procedure 26(f), the parties conferred 
+regarding a discovery plan, and Defendant filed, with Plaintiff’s consent, a Joint 
+Preliminary Report and proposed discovery plan for the Court’s approval (Dkt. #14). 
+Pursuant to the Court’s scheduling order and the Local Rules, the parties’ 
+discovery timeline was set to expire on January 6, 2021. In response, both parties served 
+their Initial Disclosures upon each other, with Plaintiff filing on September 17, 2021 and 
+Defendant tendering its disclosures on November 8, 2021. However, Plaintiff failed to 
+serve any discovery requests upon Defendant or communicate his intent to seek an 
+extension of time. Specifically, Plaintiff has not attempted any communications via email, 
+mail, CM/ECF, or otherwise to Defendant or to the Court, regarding his interest and 
+intent or lack thereof in pursuing discovery and the continued litigation of this action. 
+ Defendant now brings the instant action, pursuant to the Federal Rule of Civil 
+Procedure 56 and Local Rule 56.1, hereby moving for summary judgment be entered in 
+its favor and against Plaintiff. 
+STANDARD OF REVIEW 
+A party is entitled to summary judgment if it “shows that there is no genuine 
+dispute as to any material fact and is entitled to judgment as a matter of law.” Fed. R. Civ. 
+P. 56(a).  “By its very terms, this standard provides that the mere existence of some 
+alleged factual dispute between the parties will not defeat an otherwise properly 
+supported motion for summary  judgment; the requirement is that there be no genuine 
+issue of material fact.” Anderson v. Liberty Lobby, Inc ., 477 U.S. 242, 247-48 (1986). The 
+moving party may meet its burden for summary judgment merely by showing an absence 
+of evidence to support an essential element of the nonmoving party’s case. See Celotex 
+Corp. v. Catrett, 477 U.S. 317, 323-25 (1986). After the moving party has satisfied its burden, 
+the burden shifts to the non-movant to present specific facts showing a genuine dispute. 
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp ., 475 U.S. 574, 586-87 (1986). The non-
+movant must show more than “a mere scintilla of evidence” to defeat summary 
+judgment. See Nebula Glass Int’l, Inc. v. Reinhold, Inc., 454 F.3d 1203, 1210 (11th Cir. 2006). 
+Summary judgment is still appropriate even if the non-movant presents evidence that is 
+“merely colorable” or “not significantly probative.” Stephens v. Mid-Continent Cas. Co ., 
+749 F.3d 1318, 1321 (11th Cir. 2014). 
+ARGUMENT 
+The TCPA, as set forth in 47 U.S.C. § 227(b)(1), provides in relevant part as follows: 
+(1) It shall be unlawful for any person within the United States, or any 
+person outside the United States if the recipient is within the United 
+States—  
+(A) to make any call (other than a call made for emergency purposes 
+or made with the prior express consent of the called party) using any 
+automatic telephone dialing system or an artificial or prerecorded 
+voice— 
+(iii) to any telephone number assigned to a paging service, 
+cellular telephone service, specialized mobile radio service, or 
+other radio common carrier service, or any service for which 
+the called party is charged for the call, unless such call is made 
+solely to collect a debt owed to or guaranteed by the United 
+States; 
+(B) to initiate any telephone call to any residential telephone line 
+using an artificial or prerecorded voice to deliver a message without 
+the prior express consent of the called party, unless the call is 
+initiated for emergency purposes, is made solely pursuant to the 
+collection of a debt owed to or guaranteed by the United States, or is 
+exempted by rule or order by the Commission under paragraph 
+(2)(B); 
+47 U.S.C. § 227(b)(1). 
+To establish a violation of the TCPA, a plaintiff must prove: (1) the defendant 
+called a cellular telephone; (2) using an ATDS or prerecorded message or artificial voice; 
+(3) without the prior consent of the recipient. Coleman v. Rite Aid of Ga., Inc., 284 F. Supp. 
+3d. 1343, 1345-6 (N.D. Ga. 2018) (citing Augustin v. Santander Consumer USA, Inc ., 43 F. 
+Supp. 3d. 1251, 1253 (M.D. Fla. 2012); Weed v. SunTrust Bank, No. 1:17-cv-3547, 2018 U.S. 
+Dist. LEXIS 76234 (N.D. Ga. May 3, 2018) (citing 47 U.S.C. § 227(b)(1)(A)(iii)). Here, 
+Plaintiff cannot meet this required burden.  
+A. The Court Should Grant Summary Judgment in Favor of Defendant Because 
+Plaintiff Gave Prior Express Consent to Receive the Calls at Issue. 
+ 
+The TCPA only bars calls to cellular telephones made using an ATDS without the 
+consent of the recipient. With this understanding, Plaintiff does allege that he “never 
+consented to, requested, or otherwise desired or permitted, calls from HCA, on behalf of 
+any other third party for the purpose of debt collection or any other purpose.” (Pl.’s 
+Compl. ¶ 19). The Court should grant summary judgment in favor of Defendant because, 
+put simply, HCA did not violate Section § 227(b)(1) of the TCPA—as a matter of law and 
+undisputed fact—because Plaintiff gave his prior express consent to receive the calls at 
+issue, when he provided his 3733 number to the creditor, and when he agreed that the 
+creditor, its affiliates, and/or approved business associates—which includes Defendant—
+could contact him regarding collection of any outstanding payments for services 
+rendered.  
+The Eleventh Circuit has determined that “if a person knowingly releases his 
+phone number, calls are permitted because the called party has in essence requested the 
+contact by providing the caller with their telephone number for use in normal business 
+communications." Patterson v. Ally Fin., Inc., No. 3:16-cv-1592, 2018 U.S. Dist. LEXIS 15203, 
+at *6 (M.D. Fla. Jan. 31, 2018) (citing Mais v. Gulf Coast Collection Bureau, Inc., 768 F.3d 1110, 
+1118 (11th Cir. 2014). The provision of one’s phone number to a creditor, reasonably 
+evidences prior express consent by the phone subscriber to be contacted at that number 
+regarding the debt. Id. This Court has already held that Plaintiff gave prior express 
+consent to receive calls from the creditor and its affiliates, which includes HCA. 
+On September 21, 2016, as a part of his service experience through Northside 
+Hospital, Plaintiff executed a financial acknowledgement form or notice (the “Notice”), 
+providing his telephone number and agreeing to the following conditions: 
+ “I authorize Northside Hospital, or any of its affiliates, contractors or 
+business associates, to contact me by any telephone numbers, email 
+addresses or other contact points provided by me or on my behalf) by the 
+use of any automatic dialing system, by pre-recorded forms of 
+voice/messaging systems, by electronic mail owned or used by the 
+guarantor/responsible party, by telephone or by cell phone for reasons 
+related to the services I received at Northside Hospital or payment for the 
+services I received at Northside Hospital, including but not limited to, 
+debt collection purposes. I further understand and acknowledge that my 
+consent in receiving the aforementioned communications is not required 
+nor is it a preceding condition to receive health care services at Northside 
+Hospital.” 
+Exhibit 1. 
+ 
+The Notice, which Franklin executed, afforded him the opportunity to either (1) 
+authorize and consent to, or (2) decline providing his consent to be contacted.  The decline 
+option, stated: 
+“I do not agree with the above statement and do not wish to be contacted 
+by the use of any automatic dialing system; by pre-recorded forms of 
+voice/messaging systems; by electronic mail or by receiving voice 
+messages on my cell phone, except for clinical issues.” 
+Exhibit 1. 
+ 
+Plaintiff had equal latitude to decline extending consent, but instead, he willingly 
+executed the consent option 1. In doing so, he plainly and explicitly agreed to the contact 
+he now finds to be at issue in the instant matter.  
+Even further, Plaintiff once again executed acknowledgement in a separate section 
+within the Notice, submitting that “By signing below, I acknowledge and agree that I 
+have read or had this form read to me and I understand and agree to its contents.” Each 
+of the above ways—taken individually (much less together)—sufficiently establish 
+Plaintiff provided prior express consent to receive the calls, and cannot now claim that 
+HCA violated the TCPA by seeking to contact him without prior given consent. In fact, 
+the Eleventh Circuit has entered judgment in favor of defendants on TCPA claims of 
+similar facts and issues as here, finding that summary judgment was appropriate on 
+defendants’ prior express consent defense. See Mais., 768 F.3d 1110, 1123 (11th Cir. 2014) 
+(granting summary judgment precisely because the calls to Plaintiff fell within the TCPA 
+prior express consent exception as interpreted by the FCC, and explaining that the 
+Federal Communications Commission ("FCC”) made clear, consent to be called at a 
+number in conjunction with a transaction extends to a wide range of calls regarding that 
+transaction, even in at least some cases where the calls were made by a third party, and 
+provided recognition of consent obtained and conveyed by an intermediary, to strongly 
+support the court’s conclusion that in this case, plaintiff’s wife provided the cell phone 
+number to the creditor through the Hospital). 
+B. The Court Should Grant Summary Judgment in Favor of Defendant Because 
+Plaintiff Did Not Revoke Consent to Be Called at the 3733 in Question. 
+ 
+Plaintiff did not properly revoke consent to be called, and as a result, the phone 
+calls placed to his 3733 Number were not in violation of the TCPA. In the absence of 
+specification, the FCC may provide guidance as to the interpretation of revocation. Morris 
+v. Ocwen Loan Servicing , No. 14-62126-CIV-ZLOCH, 2015 U.S. Dist. LEXIS 117042, at *6 
+(S.D. Fla. Aug. 24, 2015), As an initial matter, the standard for whether revocation is 
+successful is whether the revocation “clearly expresses a desire not to receive further 
+messages.” 30 FCC Rcd. 7961, 7996 (2015). Congress has conferred upon the FCC general 
+authority to make rules and prescribe regulations necessary to implement or carry out 
+the provisions of the TCPA. Murphy v. DCI Biologicals Orlando, Ltd. Liab. Co., 797 F.3d 1302, 
+1305 (11th Cir. 2015); Mais, 768 F.3d 1110, 1117 (11th Cir. 2014). Moreover, consumers may 
+revoke consent, using any reasonable method, including orally or in writing. Morris, 2015 
+U.S. Dist. LEXIS 117042, at *7-8 (S.D. Fla. Aug. 24, 2015). (reasoning that consumers 
+generally may revoke, for example, by way of a consumer-initiated call, directly in 
+response to a call initiated or made by a caller, finding that in these situations, callers 
+typically will not find it overly burdensome to implement mechanisms to record and 
+effectuate a consumer's request to revoke his or her consent). Id. Here, Franklin did not 
+expressly revoke consent to be called, either in writing or orally prior to August 25, 2017 
+when Defendant received letter correspondence from him. See Exhibit 3. 
+Furthermore, HCA maintains records of Plaintiff’s account notes, and 
+communications resulting from placement of the account by the creditor. According to 
+the account notes and call records, on July 14, 2017, Plaintiff received a single call from 
+Defendant, the only communication during which Plaintiff spoke with Defendant 
+directly, based on the prior given consent. See Exhibit 2. Defendant’s records verify that 
+during this call, Plaintiff was asked about the balance in full (“BIF”) on his outstanding 
+obligation, to which he hung up (“HU”). Conversely, according to his Complaint, 
+Plaintiff purports to have “informed the representative to not call his cellphone and 
+further, [he] does not owe a debt to this company.” (Pl.’s Compl. ¶ 8). In the alternate 
+event that plaintiff alleges he revoked consent during this July 2017 call, the account notes 
+do not reflect any oral revocation made by Franklin, nor that he expressed a desire not to 
+receive further messages as he alleges in the instant Complaint. Under Eleventh Circuit 
+precedent, the TCPA requires—at a minimum—express and clear revocation of consent; 
+implicit revocation will not do. Welch v. Green Tree Servicing, LLC (In re Runyan), 530 B.R. 
+801, 807 (Bankr. M.D. Fla. 2015). At minimum, Plaintiff hanging up does not constitute a 
+sufficient enough oral expression of his consent being revoked.  
+In Welch v. Green Tree Servicing, LLC , 530 B.R. 801, 804 (M.D. Fla. 2015), the 
+borrowers told their loan servicer that they would not be able to settle the debt and that 
+they could contact their attorney with any further questions. The borrowers argued that 
+this revoked consent to be called, and the servicer violated the TCPA for its continued 
+calls. Id. The Court rejected this argument, holding that, the TCPA requires at a minimum, 
+express and clear revocation of consent. “Implicit revocation will not do.” Id. at 807. It 
+concluded that oral revocation requires “a measure of clarity, which the [borrowers] have 
+not shown.” Id. Similarly, Plaintiff has fallen short of demonstrating either through 
+correspondence or other evidence, that he revoked consent. Additionally, per HCA’s 
+policies and practices, any revocation made during prior consented contact such as a call, 
+as in this circumstance, demands that the request be documented and the account be shut 
+down. 
+Hence, upon receipt of Plaintiff’s demand letter on August 25, 2017, 
+communicating his intent to litigate, HCA immediately placed the account under 
+compliance review for shut down, per its policies and practices. Effectively, HCA 
+understood and interpreted Plaintiff’s demand letter as a clear expression and desire not 
+to be further contacted regarding the outstanding Debt, to which it fully complied. Thus, 
+Plaintiff has failed to establish a violation of the TCPA as alleged in his single count 
+Complaint. 
+Similarly, in Cesaire v. Medical Services , the plaintiff told the caller in response to 
+their inquiry about a balance on his account, “If you don’t have—if you can’t give the 
+information, don’t call my phone. Thank you,” and proceeded to end the call. No. 6:15 cv 
+1886, 2016 U.S. LEXIS 162615, at *15 (M.D. Fla. Nov. 23, 2016). The court reasoned that 
+this was not, in no uncertain terms, a clear and unequivocal revocation of consent because 
+the statement amounted to a “conditional directive” rather than a “clear expression of a 
+desire not to be called again.” Id. Here, Plaintiff’s Complaint alleges that when he 
+“answered the phone and was told by the representative that they were trying to collect 
+a debt,” he stated that he “has never heard of the Company, and informed to 
+representative to not call his cellphone, and further, [he] does not owe a debt to this 
+company.” (Pl.’s Compl. ¶ 7-8). In contrast, Defendant’s records verify that on July 14, 
+2017, in response to their call inquiring about the Debt, Plaintiff also ended the call, giving 
+no clear and unequivocal indication, in no uncertain terms, that he was revoking his 
+consent. Outside of simply hanging up the call, if Plaintiff alleges he expressed revocation 
+during the call, it was inherently ambiguous. According to HCA’s records, there is no 
+indication that he specified or made known that he did not wish to be called in the future. 
+In sum, Plaintiff executed acknowledgement to be contacted for reasons related to 
+the services he received at Northside Hospital. He did not expressly revoke consent to be 
+called at a latter period, prior to August 25, 2017.  
+C. Plaintiff Failed To Produce Any Evidence Showing That HCA Contacted Him 
+Using An Automatic Telephone Dialing System 
+The TCPA’s definition of an ATDS states that it is “equipment which has the 
+capacity (1) to store or produce telephone numbers to be called, using a random or 
+sequential number generator; and (2) to dial such numbers.” 47 U.S.C. § 227(a)(1). The 
+scope of what constitutes an ATDS has evolved over time, culminating in major decisions 
+including ACA Int'l v. FCC, 435 U.S. App. D.C. 1, 885 F.3d 687 (2018), and most recently 
+Facebook, Inc. v. Duguid, 141 S. Ct. 1163 (2021). 
+First, there is no dispute that Plaintiff consented to receiving automated telephone 
+calls from Defendant, despite the Complaint’s allegations to the contrary. 
+Notwithstanding this, to consider an alternate instance wherein Plaintiff never provided 
+his consent to the creditor and its affiliates, contractors, and business partners—which 
+include HCA, his claims must still fail because he did not and has not produced any 
+evidence showing that he was contacted by the use of an automatic telephone dialing 
+system as defined by the TCPA. It is the plaintiff's burden to establish that a call was 
+made using an ATDS. Dotson v. Dish Network L.L.C., No. 2:19-CV-21, 2020 U.S. Dist. LEXIS 
+48783, at *8 (S.D. Ga. Mar. 19, 2020) (citing Musenge v. SmartWay of the Carolinas, LLC, NO. 
+3:15-cv-153, 2018 U.S. Dist. LEXIS 158044, at *7 (W.D.N.C. Sept. 17, 2018) (underscoring 
+the plaintiff’s burden to allege the use of an ATDS by the defendant); see also San Pedro-
+Salcedo v. Haagen-Dazs Shoppe Co., No. 5:17-cv-03504, 2019 U.S. Dist. LEXIS 208228, at *15 
+(N.D. Ca. Dec. 3, 2019) (finding that whether defendant used an ATDS was a significant 
+part or essential element of the plaintiff’s case, and she carries the ultimate burden of 
+affirmatively proving the defendant used an ATDS). 
+In ACA Int'l v. FCC, the D.C. Circuit rejected the FCC’s expansive notion of what 
+constitutes an ATDS under the TCPA. The court reviewed the FCC declaratory ruling 
+about what forms of automated dialing equipment are subject to the TCPA’s restrictions 
+on unconsented calls. 435 U.S. App. D.C. 1, 885 F.3d 687 (2018).  In response, it concluded 
+that “we set aside the Commission's explanation of which devices qualify as an ATDS.” 
+Id. at 695. It held that the Commission’s broad interpretation of “capacity” resulted in 
+overly expansive outcomes where any device is deemed an ATDS regardless of whether 
+autodialer features are used to make a call. Id. at 704. “Those sorts of anomalous outcomes 
+are bottomed in an unreasonable, and impermissible, interpretation of the statute's 
+reach.” Id. at 697.  
+Following ACA Int’l, the definition of an ATDS is effectively stripped to its plain 
+language, and requires the equipment at issue to generate random or sequential numbers 
+to be dialed, and to dial them. See also Dominguez v. Yahoo, Inc., 894 F.3d 116, 121 (3d Cir. 
+2018) (affirming summary judgment for defendant where “[plaintiff] cannot point to any 
+evidence that creates a genuine dispute of fact as to whether the [system] had the present 
+capacity to function as an autodialer by generating random or sequential telephone 
+numbers and dialing those numbers.”); Johnson v. Yahoo!, Inc., 346 F. Supp. 3d 1159, 1160 
+(N.D. Ill. 2018) (holding that the system did not have the capacity to generate random or 
+sequential numbers to be dialed, but instead pulled numbers from a stored list that was 
+not generated at random, hence not an ATDS).  
+In the most recent decision by the Supreme Court of the United States , Facebook, 
+Inc. v. Duguid , resolved fully, any conflict among the courts regarding the use of an 
+autodialer. The Court concluded that Facebook did not violate the TCPA because the 
+definition of an autodialer required that in all cases, whether storing or producing 
+numbers to be called, the equipment in question had to use a random or sequential 
+number generator, which petitioner's did not. 141 S. Ct. 1163, 1165 (2021). “The statutory 
+context confirms that the autodialer definition excludes equipment that does not use a 
+random or sequential number generator…Expanding the definition of an autodialer to 
+encompass any equipment that merely stores and dials telephone numbers would take a 
+chainsaw to these nuanced problems when Congress meant to use a scalpel.” Id. at 1171. 
+Thus, as the Supreme Court concluded, a necessary feature of an autodialer under 
+§227(a)(1)(A) is the capacity to use a random or sequential number generator to either 
+store or produce phone numbers to be called. Id. at 1173.  
+Here, plaintiff has failed to establish or provide any evidence proving HCA’s use 
+of autodialer equipment as defined by the Supreme Court. Furthermore, HCA’s records 
+verify that on July 14, 2017 when the call was placed to Plaintiff’s 3733 number, Defendant 
+did so by manually dialing the number in question, followed by the brief conversation 
+with Plaintiff, during which he hung up. In light of the narrowed view of what constitutes 
+an automatic dialing system in the wake of ACA Int’l  and Facebook, Inc ., courts have 
+consistently determined that plaintiffs must show that the dialing system at issue could 
+either randomly or sequentially generate numbers and then dial those numbers. Franklin 
+cannot make such a showing in this case. Additionally, TCPA plaintiffs typically employ 
+the use of experts testimony concerning the technical aspects of a dialing system, to 
+establish that defendants’ use falls under the statute. Plaintiff has furthermore failed to 
+present any evidence of expert testimony, to indicate or opine upon HCA’s alleged use 
+of an autodialer to place the calls at issue. 
+Plaintiff cannot meet his burden of showing that the dialing system used in this 
+case was an automatic dialing system under the statute because there is no evidence 
+about the system’s capabilities. Both parties issued initial disclosures and Defendant 
+disclosed a corporate representative. However, Franklin did not depose the corporate 
+representative about the dialing system in this case, did not seek information about the 
+system’s ability to generate random or sequential numbers and then to dial them, and 
+did not seek to have the system personally inspected or tested. More, Franklin did not 
+identify or produce any qualified expert to proffer testimony or evidence about the 
+system’s capabilities, or issue any discovery requests in this case. That a dialing system 
+is an automatic telephone dialing system under the statute is an element of a TCPA claim, 
+and here, Plaintiff cannot establish that the system in this case qualified as one, to satisfy 
+his burden proof.  
+In addition, he may not seek to avoid summary judgment by claiming a material 
+dispute of fact exists as to whether an ATDS was used. Courts “must grant summary 
+judgment ‘against a party who fails to make a showing sufficient to establish the existence 
+of an element essential to that party's case, and on which that party will bear the burden 
+of proof at trial.’” Kol B'Seder, Inc. v. Certain Underwriters at Lloyd's of London, 766 F. App'x 
+795, 802 (11th Cir. 2019) (quoting Celotex, 477 U.S. at 322). As it is Plaintiff’s burden to 
+prove HCA used an ATDS, and Plaintiff has failed to disclose any evidence to support 
+his claims, he cannot create a material dispute of fact solely by the lack of testimony. 
+Despite this, Defendant has fully established that calls placed to Plaintiff’s 
+telephone number were pursuant to his prior express consent, given on September 21, 
+2016. Thus, judgment should properly be entered in HCA’s favor. 
+D. The Dialing System Used In This Case Was Not An Automatic Telephone Dialing 
+System 
+ 
+The dialing system in this case was not an automatic dialer as defined by the 
+statute. HCA’s records and call log verify that the July 2017 call to Plaintiff’s 3733 number 
+was manually dialed. It does not reflect that Franklin was called using an ATDS, nor that 
+the telephone number which HCA received from the creditor upon placement of the 
+account, was generated randomly or sequentially to be dialed by an autodialer. 
+Moreover, the Commission has also addressed the precise functions a device must 
+have the capacity to perform for it to be considered an ATDS, affirming that the “basic 
+functions of an autodialer are to dial numbers without human intervention.” 30 FCC Rcd 
+7961, 7974 (F.C.C. July 10, 2015). Nothing in the TCPA prevents callers from manually 
+dialing. Id. ACA Int'l recognized and more fully adopted this rule, interpreting the TCPA 
+to exclude equipment requiring human intervention to dial, from the statutory definition 
+of ATDS. “That makes sense given that auto’ in autodialer—or, equivalently, ‘automatic’ 
+in ‘automatic telephone dialing system,’ []—would seem to envision non-manual dialing 
+of telephone numbers. 435 U.S. App. D.C. 1, 885 F.3d 687, 703 (2018). (emphasis added.)  
+The Northern District of Georgia itself, has analyzed this issue, considering what 
+constitutes an ATDS, and finding that where a system requires an agent or representative 
+to manually click on or enter a telephone number to initiate a call, this requires human 
+intervention not within the definition of an ATDS under the TCPA. See Maddox v. CBE 
+Grp., Inc., 2018 U.S. Dist. LEXIS 88568, at *11 (N.D. Ga. May 22, 2018) (All of the calls made 
+to plaintiff were done through defendant’s Manual Clicker Application, a system which 
+requires human intervention to manually “click” initiate a call. “Additionally, the system 
+does not use any kind of predictive or statistical algorithm to engage in predictive dialing. 
+For these reasons, it does not qualify as an ATDS, and Defendant is entitled to summary 
+judgment on Plaintiff's TCPA claim.”); Strauss v. CBE Grp., Inc., 173 F. Supp. 3d 1302, 1309 
+(S.D. Fla. 2016) (explaining that to “determine whether a dialer is a predictive dialing 
+system, and therefore an ATDS, ‘the primary consideration . . . is whether human 
+intervention is required at the point in time at which the number is dialed.’”); Glasser v. 
+Hilton Grand Vacations Co., LLC , 341 F. Supp. 3d 1305, 1312 (M.D. Fla. 2018) (“Since it is 
+undisputed that calls cannot be made unless an agent clicks on the screen and forwards 
+a telephone number to the server to be called, Defendant's ‘point-to-click’ system does 
+not constitute an autodialer system under the TCPA.” 
+In the instant action, it is undisputed that Plaintiff gave prior written consent to be 
+contacted by HCA. Defendant’s records equally confirm the use of human intervention 
+through manual calling, critical to the ATDS analysis. Plaintiff has also produced no 
+evidence to support the allegations that he received a prerecorded messages without 
+consent. In fact, his Complaint alleges that he received a total of eleven (11) calls, leaving 
+“artificial/pre-recorded messages from Defendant Hollis Cobb Associates calling on 
+behalf of a third party,” and that he never consented to the calls from HCA. (Pl.’s Compl. 
+¶¶ 11, 19). Based on Plaintiff’s 2016 executed acknowledgment Notice, we know that he 
+in fact provided prior express consent to be contacted through the means he now takes 
+issue with in this action. Even so, Defendant’s call logs verify that a total of five (5) calls 
+were made, leaving Plaintiff messages regarding the Debt on his 3733 number. Separately 
+(much less together), the evidence undermines Plaintiff’s notion that Defendant violated 
+the TCPA in its communications with him. 
+E. Any Violations of the TCPA Cannot Have Been Knowing or Willful 
+Even if Plaintiff’s consent to be contacted does not bar his instant TCPA claim, the 
+Court should still grant summary judgment in favor of Defendant because HCA’s 
+conduct was neither a willful or knowing violation of the TCPA. Section 227(b)(3) of the 
+statute requires “willful or knowing” conduct, and entails that you know you are 
+performing an act that violates the statute. Lary v. Trinity Physician Fin. & Ins. Servs ., 780 
+F.3d 1101, 1107 (11th Cir. 2015) (citing Alea London Ltd. v. Am. Home Servs., Inc ., 638 F.3d 
+768, 776 (11th Cir. 2011). Thus, a violation is only willful or knowing when the defendant 
+intended to perform the conduct, or knew that it was in fact violative of the TCPA. 
+ First, subject to the changed standards of what defines an ATDS following ACA 
+Int’l and Facebook, Inc., and the lack of evidence to support his claims, Plaintiff cannot 
+establish that Defendant called him either with knowledge that an ATDS was in use, or 
+willfully using it, in violation of the statute. Second, after Plaintiff’s July 2017 call with 
+HCA’s representative, the agent made note of the communication, that when Franklin 
+was asked about the Debt, he hung up. In so doing, HCA further established that its 
+system is configured to manually dial Plaintiff’s number, creating a reasonable belief that 
+it was not using an ATDS. Third, Defendant’s records made note of the call being 
+manually dialed, in conjunction with the pre-existing showing that Plaintiff had given 
+prior express consent to be called in the first place. Accordingly, Plaintiff’s claim that 
+HCA willfully and/or knowingly violated the TCPA, fails. 
+CONCLUSION 
+ Defendant’s undisputed evidence shows that (i) in September of 2017, Plaintiff 
+executed express consent to receive calls regarding any outstanding financial obligations 
+related to services he received from Northside Hospital; (2) Plaintiff did not revoke the 
+established prior given consent extended to HCA as an affiliate and business associate of 
+the creditor; (3) the manual call placed to Plaintiff in July of 2017 establishes the human 
+intervention requirement necessary to prove that HCA’s system did not call or generate 
+random or sequential numbers in its communication with Plaintiff; (4) and that Franklin 
+has failed to present any evidence showing a statutory violation by Defendant. 
+Accordingly, Plaintiff’s claims are unfounded. He cannot satisfy his burden of proof of 
+showing that Defendant’s conduct was in violation of the TCPA, or that the conduct was 
+willful and knowing. Thus, HCA is entitled to judgment against Plaintiff. 
+WHEREFORE, Defendant, HOLLIS COBB ASSOCIATES, INC., respectfully 
+requests that for the foregoing reasons, this Court enter an Order granting Defendant’s 
+motion for summary judgment, entering judgment in favor of Defendant and against 
+Plaintiff as to the Complaint, terminating this matter, and for any other relief this Court 
+deems just and proper. 
+ 
+        Respectfully submitted, 
+      
+        HOLLIS COBB ASSOCIATES, INC., 
+        Defendant 
+ 
+ 
+        By: Its Attorneys 
+  
+ /s/ Paul Buschmann 
+        Paul Buschmann, Esq. 
+                    GA Bar No. 098430 
+        HINSHAW & CULBERTSON LLP 
+        One East Broward Blvd., Suite 1010 
+        Ft. Lauderdale, FL 33301 
+        Phone: 954-375-1134 
+        Facsimile: 954-467-1024 
+        e-mail: pbuschmann@hinshawlaw.com 
+ 
+ 
+ 
+Dated: February 7, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CERTIFICATE OF SERVICE 
+ 
+I, Paul Buschmann, hereby certify that on this 7th day of February, 2022, I electronically 
+filed the foregoing, DEFENDANT’S MEMORANDUM OF LAW IN SUPPORT OF 
+MOTION FOR SUMMARY JUDGMENT with the Clerk of Court by using the 
+CM/ECF system, which will send a notice of electronic filing to all parties of record.  
+ 
+ 
+/s/ Paul Buschmann 
+                        Paul Buschmann 
+ 
+ 

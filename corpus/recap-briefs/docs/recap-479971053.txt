@@ -1,0 +1,353 @@
+ 
+ 
+UNITED STATES DISTRICT COURT 
+FOR THE WESTERN DISTRICT OF NORTH CAROLINA 
+CHARLOTTE DIVISION 
+WDNC Civil Action No. 3:25-cv-00302-MOC-SCR 
+ 
+BRAD BUMGARDNER, 
+ 
+   Plaintiff, 
+ 
+v. 
+ 
+CITY OF GASTONIA, 
+ 
+Defendants. 
+ 
+)
+) 
+) 
+) 
+) 
+) 
+)
+)
+) 
+DEFENDANT’S MEMORANDUM OF 
+LAW IN SUPPORT OF DEFENDANT’S 
+MOTION FOR SUMMARY JUDGMENT 
+ 
+ 
+Fed. R. Civ. Pro. 56   
+ 
+NOW COMES Defendant City of Gastonia, North Carolina, by and through undersigned 
+counsel, and submits this Memorandum of Law in Supp ort of Defendant’s Motion for Summary 
+Judgment pursuant to Federal Rules of Civil Procedure 56. Defendant City of Gastonia  moves 
+the Court for an order dismissing each of Plaintiff’s claims with prejudice.  In support, Defendant 
+states as follows: 
+I. INTRODUCTION 
+Plaintiff’s putative Class Action Complaint against the City of Gastonia (“City” or 
+“Defendant”) is subject to dismissal in its entirety because: 
+1. Plaintiff failed as a matter of law to plead or show that he is an individual with a 
+disability as defined by the Americans with Disabilities Act, as amended; and  
+ 
+2. As a matter of well-settled law, the City of Gastonia is not liable for the actions of an 
+independent contractor that allegedly violated federal law  (GINA) when the 
+independent contractor contracted with the City specifically to  “comply with all 
+applicable federal, state and local laws, ordinances, codes , rules and regulations 
+(collectively “Laws”) throughout the Term of this agreement ,” the City was not  on 
+notice of the independent contractor’s actions , and the contractor had been instructed 
+not to seek GINA protected information via applicable standards. 
+ 
+ 
+ 
+ 
+ 
+II. PROCEDURAL BACKGROUND 
+Plaintiff filed his putative Class Action Complaint on May 5, 2025 , and  Defendant 
+answered on July 7, 2025. Written discovery has been exchanged, and the parties unsuccessfully 
+engaged in mediation on May 20, 2026. The City now timely files its Motion for Summary 
+Judgment and Memorandum of Law in Support. 
+III.  STATEMENT OF INDISPUTABLE MATERIAL FACTS 
+1. Plaintiff Brad Bumgardner is and was at all relevant times an employee of Defendant City of 
+Gastonia. See Complaint, Doc. 1, ¶ 3. 
+2. At the time relevant to Plaintiff’s Complaint, Plaintiff held the position as Police Officer III 
+with the City of Gastonia, Gastonia Police Department. See Defendant’s Exhibit 1, Declaration 
+of Judy Smith, ¶ 6; Ex. 1-C. 
+3. Police officers occupy safety sensitive positions and, as such, are required to undergo a 
+physical fitness for duty examination biannually. See Doc. 1, ¶¶ 15, 18; Ex 1, ¶ 7; Ex. 1-D, p. 
+1, Section III.A.3; Ex. 1-C. 
+4. Atrium Health is an independent contractor of the City and conducts the biannual medical 
+examinations of police officers such as Plaintiff. See Doc 1, ¶ 16; Ex. 1, ¶ 5; Ex. 1-B.  
+5. Plaintiff filed an EEOC Charge of Discrimination, Charge number 430 -2023-00712, alleging 
+that he and putative class members have been discriminated against by the City under the 
+Americans with Disabilities Act (“ADA”) and the Genetic Information Nondiscrimination Act 
+(“GINA”). See Doc 1, ¶¶ 9-13; Ex. 1, ¶ 4; Ex. 1-A.1 
+ 
+1 In his Complaint, Plaintiff refers to alleged violations dating back to 2009. However, in relevant part, 42 U.S.C. § 
+2000e-5(e)(1) states: “A charge under this section shall be filed within one hundred and eighty days after the alleged 
+unlawful employment practice occurred and notice of the charge (including the date, place and circumstances of the 
+alleged unlawful employment practice) shall be served upon the person against whom such charge is made within ten 
+days thereafter….” Thus, only alleged acts of discrimination falling within this 180 day window would be timely.  
+ 
+6. Plaintiff has not identified any substantial limitation of a major life activity in support of his 
+ADA disability claim. Rather than showing or adequately pleading that he suffers from a 
+substantial limitation of a major life activity, Plaintiff claims vaguely that he only has “physical 
+issues” that impact certain major life activities. See Doc. 1, ¶ 42. 
+7. Regarding Plaintiff’s GINA claim, he asserts that he and putative class members were 
+discriminated against by the City in violation of GINA, but he does not identify any adverse 
+actions in support of this claim of discrimination. See Doc. 1, ¶¶ 58-42 (Plaintiff’s First Claim 
+for Relief). 
+8. In Plaintiff’s Second Claim for Relief, he alleges that he and similarly situated putative class 
+members were harmed when the City gave them medical questionnaires that sought the 
+disclosure of GINA protected information. Id., ¶¶ 64-66.  
+9. Plaintiff’s Third Claim for Relief asserts disability discrimination under the ADA based upon 
+the same medical questionnaire referenced in Plaintiff’s First and Second Claims for Relief  
+and asserts disability discrimination for requiring Plaintiff to pay out of pocket for additional 
+medical expenses.  Id., ¶¶ 70-71. 
+10. The Medical History Statement used by the City of Gastonia after a conditional offer of 
+employment has been made that must be completed by all law enforcement officer applicants 
+ 
+see also, Gilliam v. Bertie Cnty. Bd. of Educ., No. 2:20-CV-00076-M, 2022 WL 11867136, at *2 (E.D.N.C. Oct. 20, 
+2022)(A claim is time-barred if it is not filed within the required time limit).  
+ 
+Moreover, Plaintiff’s assertion of a continuing violation theory  in his EEOC Charge of discrimination  where no 
+allegations of harassment or hostile work environment have been alleged is unpersuasive and does not breathe life 
+into his GINA and ADA Charge: “the ‘continuing violation’ theory, which ‘allows for consideration of incidents that 
+occurred outside the time bar when those incidents are part of a single, ongoing pattern of discrimination,’ ... only 
+applies ... when an employee asserts a hostile work environment claim.” Mallik v. Sebelius, 964 F. Supp. 2d 531, 541 
+(D. Md. 2013). See also, National Railroad Passenger Corp. v. Morgan, 536 U.S. 101, 122 S.Ct. 2061, 2072–73, 153 
+L.Ed.2d 106 (2002); White v. BFI Waste Services, LLC, 375 F.3d 288, 293 (4th Cir. 2004); see also Lewis v. Norfolk 
+Southern Corp., 271 F.Supp.2d 807, 813 (E.D.Va.2003) (holding that job transfer, denial of promotion, denial of pay 
+raise, and negative performance review were discrete acts that did not fall within the continuing violation doctrine) . 
+ 
+prior to employment is a form is promulgated by the North Carolina Criminal Justice Training 
+and Standards Commission (“NCCJTS”). It is titled Form F-1(LE).  NCCJTS will not process 
+an officer’s application without submission of this form.  The attached Exhibit 1-E is a redacted 
+version of Form F -1(LE)(Rev. 10/01) that was in effect prior to the enactment the Genetic 
+Information Nondiscrimination Act (“GINA”). This version of the Form F-1(LE) seeks family 
+history medical information and is no longer in use. See Ex. 1, ¶ 8, Ex. 1-E. 
+11. In early 2010, NCCJTS revised the Form F-1(LE) to bring it into compliance with GINA. See 
+Ex. 1, ¶ 9, Ex. 1-F.  Consequently, the City of Gastonia began using this revised F-1(LE)(Rev. 
+2/10) for its post-conditional offer of employment Medical History Statement  required of all 
+police officer applicants. The attached Form F-1(LE)(Rev. 2/10) shows that the Form F-1 was 
+revised in 2010 to remove any questions related to family medical history in order to comply 
+with GINA and it does not inquire into disability status.  
+12. Plaintiff completed his F-1(LE) Medical History Statement for the City of Gastonia, Gastonia 
+Police Department on December 8, 2015 . See Ex, 1, ¶ 10 ; Ex. 1-G. This F-1(LE)(Rev. 6/11) 
+did not request Plaintiff’s disability status or seek genetic information or family medical history 
+information.  
+13. The Atrium medical questionnaire that is given to Gastonia police officers – and that was given 
+to Plaintiff –  to fill out in connection with the City’s biannual medical exam is created solely 
+by Atrium Health. The medical questionnaire that Mr. Bumgardner is challenging2 was created 
+exclusively by Atrium and was not submitted to any employee or representative of the City of 
+Gastonia for review or input either prior to or after its implementation by Atrium. See Ex. 1, ¶ 
+11. 
+ 
+2 The questionnaire with which Mr. Bumgardner takes issue is Attachment B to Mr. Bumgardner’s Charge of 
+Discrimination, Charge number 430-2023-00712, which is attached to this Declaration as Exhibit 1-A. 
+14. At the time in question, the medical questionnaire was distributed via email to police officers 
+by an administrative support employee, Ms. S. Welch. Ms. Welch had no input into the creation 
+of the Atrium medical questionnaire form, and she is not an attorn ey. She is simply a support 
+person with access to the email addresses of all Gastonia Police Department police officers. 
+After the officers complete the form, they place it in a sealed envelope and deliver it to Atrium. 
+Id., ¶ 12.  
+15. The City of Gastonia does not retain any of the completed medical questionnaires and is not 
+informed of the medical information that is in the questionnaires. Id., ¶ 13. 
+16. When the City became aware that Atrium’s medical questionnaire sought family medical 
+history information by virtue of Mr. Bumgardner’s EEOC Charge of Discrimination, the City 
+asked Atrium to delete any questions that sought information protected by GINA. A trium 
+edited the medical questionnaire as requested by the City, and the medical questionnaire form 
+that is now in use by Atrium does not request family history medical information or any other 
+information that is protected from disclosure by GINA. Id., ¶ 14. 
+17. It was the City’s understanding that in providing occupational health examinations and medical 
+services under Atrium’s contractual agreement with the City – including those provided to Mr. 
+Bumgardner –  Atrium Health was adhering to guidelines established by the American College 
+of Occupational and Environmental Medicine (“ACOEM”), Guidance for the Medical 
+Examination of Law Enforcement Officers. See Ex. 1, ¶ 15; Ex. 1 -H. (Applicable portions of 
+ACOEM’s guidance pertaining to the medical examination of law enforcement officers). 
+18. ACOEM’s guidance specifically advises organizations that are conducting medical 
+examinations of law enforcement officers to adhere to GINA requirements and refrain from 
+seeking family medical history information or any other GINA protected health informati on 
+unless the information falls within a GINA exception. See Ex. 1, ¶ 16; Ex. 1 -H, page 
+City_000199. 
+19. The Master Employer Services Agreement between Atrium Health and the City of Gastonia 
+provides among other things: 
+ 
+ 
+ 
+ 
+ 
+ 
+See Ex. 1, ¶ 17; Ex. 1-B, pages City_00094-96; and City_000101. 
+IV.  STANDARD OF REVIEW 
+Pursuant to Rule 56 of the Federal Rules of Civil Procedure, summary judgment should be 
+granted when the pleadings, responses to discovery, depositions, and declarations, if any, establish that 
+“there is no genuine issue as to any material fact.”  Fed.R.Civ.P. 56(c).  On a motion for summary 
+judgment, the moving party has the burden of production to show that there are no genuine issues for 
+trial.  Schulze v. Meritor Automotive, 163 F.Supp.2d 599, 608 (W.D.N.C. 2000). Once the moving 
+party has met that burden, the nonmoving party has the burden of persuasion and must come forward 
+with specific facts showing that there is a genuine issue for trial.  Schulze, 163 F.Supp.2d at 608.  In 
+considering the evidence, all reasonable inferences must be drawn in favor of the non-moving party.  
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 257 (1986). An examination of the record in this matter 
+establishes Defendant is entitled to summary judgment.  
+V. LEGAL ARGUMENT 
+A. Plaintiff’s GINA Claims Set Forth in Plaintiff’s First and Second Claims for Relief 
+Fail as a Matter of Law Because Plaintiff has Failed to Forecast any Credible 
+Evidence that the City of Gastonia Unlawfully Collected GINA Protected 
+Information From Plaintiff or Any Putative Class Member or That the City Took 
+an Adverse Action Against Plaintiff based Upon Genetic Information 
+ 
+Under GINA, it is an unlawful employment practice for an employer “to fail or refuse to 
+hire ... or otherwise to discriminate against any employee ... because of genetic information with 
+respect to the employee.” 42 U.S.C. § 2000ff –1(a)(1). “Genetic information” with respect to any 
+individual is defined as “information about (i) such individual's genetic tests, (ii) the genetic tests 
+of family members of such individual, and (iii) the manifestation of a disease or disorder in family 
+members of such individual.” 42 U.S.C. § 2000ff(4)(A); see also, Culbreth v. Washington Metro. 
+Area Transit Auth., No. RWT 10CV3321, 2012 WL 959385, at *4 (D. Md. Mar. 20, 2012); Kumar 
+v. First Abu Dhabi Bank USA N.V. , No. CV ELH -20-1497, 2020 WL 6703002, at *11 (D. Md. 
+Nov. 13, 2020). 
+To establish a claim for genetic discrimination under Title II of the Genetic Information 
+Nondiscrimination Act (GINA), a plaintiff must plead and prove (1) that the plaintiff was an 
+employee; (2) who was discharged or deprived of employment opportunities;  (3) because of the 
+plaintiff's genetic information. See Perry v. John A. Guerrieri, DDS PLLC, 518 F. Supp. 3d 665, 
+2021 Fair Empl. Prac. Cas. (BNA) 46636 (W.D. N.Y. 2021), appeal withdrawn, 2021 WL 4167361 
+(2d Cir. 2021).  
+As explained by a sister U.S. District Court: 
+The basic intent of GINA is to prohibit employers from making a ‘predictive 
+assessment concerning an individual's propensity to get an inheritable genetic 
+disease or disorder based on the occurrence of an inheritable disease or disorder in 
+[a] family member.’ H.R.Rep. No. 110–28, pt. 3, at 70 (2007), 2008 U.S.C.C.A.N. 
+112, 141. Congress included family medical history in the definition of ‘genetic 
+information’ because it understood that employers could potentially use family 
+medical history ‘as a surrogate for genetic traits.’ H.R.Rep. No. 110–28, pt. 1, at 36 
+(2007), 2008 U.S.C.C.A.N. 66, 80; see also S.Rep. No. 110–48, at 16 (2007). For 
+instance, a consistent history of an inheritable disease in an individual's family may 
+be viewed to indicate that the individual himself is at an increased risk for that 
+disease. However, the fact that an individual fa mily member merely has been 
+diagnosed with a disease or disorder is not considered ‘genetic information’ if ‘such 
+information is taken into account only with respect to the individual in which such 
+disease or disorder occurs and not as genetic information with respect to any other 
+individual.’ H.R.Rep. No. 110 –28, pt. 2, at 27 (2007), 2008 U.S.C.C.A.N. 101, 
+105–106; see also Regulations Under the Genetic Information Nondiscrimination 
+Act of 2008, 75 Fed.Reg. 68,917 (Nov. 9, 2010). 
+ 
+See Poore v. Peterbilt of Bristol, L.L.C. , 852 F. Supp. 2d 727, 730 –31 (W.D. Va. 
+2012). 
+ 
+GINA also generally prohibits employers from requesting genetic information from their 
+employees. See Lowe v. Atlas Logistics Group Retail Services (Atlanta), LLC , 51 Nat'l Disability 
+Law Rep. P 27, 2015 WL 2058906 (N.D. Ga. 2015) (unpublished). However, there are numerous 
+exceptions to this general prohibition. See GINA, 42 U.S.C.A. §§ 2000ff -1(b)(1) to (6); 2000ff -
+2(b)(1) to (5); 2000ff-3(b)(1) to (5); 2000ff-4(b)(1) to (6), for exceptions to the general prohibition 
+against requesting, requiring, or purchasing genetic information.  
+A final exception exists from a finding of a GINA violation where an entity inadvertently 
+requests or requires family medical history of the individual or his or her family member. 42 
+U.S.C.A. §§ 2000ff-1(b)(1); 2000ff-2(b)(1); 2000ff-3(b)(1); 2000ff-4(b)(1); see also, 29 C.F.R. § 
+1635.8(b)(1)(“The general prohibition against requesting, requiring, or purchasing genetic 
+information does not apply [w] here a covered entity inadvertently requests or requires genetic 
+information of the individual or family member of the individual”). 
+ Significantly here, the City never requested GINA covered information  from employees 
+and Atrium never provided the City with Plaintiff’s GINA covered information or that of any other 
+putative class member. Indeed, Atrium was contractually prohibited from disclosing such GINA 
+protected information to the City. See Ex. 1, ¶¶ 13 -14, 16-17. Further, the ACOEM guidelines 
+being followed by Atrium contained a specific prohibition and instruction to Atrium not to collect 
+genetic information in the course of conduc ting law enforcement officer physical examination s, 
+which is the service that was being provided to the City by Atrium . See Ex. 1, ¶¶ 15-16; Ex. 1-H. 
+Finally, where the City’s independent contractor bound itself to comply with all state, federal, and 
+local law, regarding medical records the City could not have violated GINA in any manner. See, 
+e.g., Hensley v. City of Charlotte, Case 5:16-cv-00009-KDB-DCK, Doc. 148, p. 42.  
+Based upon the indisputable evidence of record as shown herein, Plaintiff has failed to state 
+a cognizable claim for a violation of GINA by the City. 
+B. Plaintiff Has Failed to State a Claim under the ADA as a Matter of Law 
+ 
+Disability discrimination may be proven through direct evidence or through circumstantial 
+evidence. See Jacobs v. N.C. Admin. Office of the Courts , 780 F.3d 562, 572 (4th Cir. 2015). In a 
+case such as this where there is no direct evidence of discrimination, the claims are analyzed under the 
+now familiar McDonnell Douglas burden-shifting framework. See McDonnell Douglas Corp. v. 
+Green, 411 U.S. 792, 802 (1973); see also EEOC v. Sears Roebuck and Co. , 243 F.3d 846, 851 
+(4th Cir. 2001).  
+In order to be protected under the ADA, Plaintiff must meet his legal burden to show he 
+was discriminated against on the basis of a disability.  The proof structure requires Plaintiff to 
+establish a prima facie case of disability discrimination.  If such a prima facie case is established, 
+the burden then shifts to the City to articulate a legitimate, non -discriminatory reason or reasons 
+for Ms. Plaintiff’s discharge.  Finally, if Defendant articulates a legitimate, non -discriminatory 
+reason for an adverse action against Plaintiff , then he again bears the burden of showing 
+Defendant’s legitimate, non-discriminatory reason is simply a “pretext” or excuse for the unlawful 
+discrimination against her. A legitimate non -discriminatory reason of the Defendant cannot be 
+proven to be pretext for discrimination unless the complainant shows both that the reason was false 
+and that discrimination was the real reason for the adverse action.  
+As demonstrated herein, Plaintiff is unable to meet her burden of proving a prima facie 
+case of discrimination under the ADA.  Under the ADA, a “disability” may take any of the 
+following forms: (1) “a physical or mental impairment that substantially limits one or more major 
+life activities” (the “actual-disability” prong); (2) “a record of such an impairment” (the “record -
+of” prong); or (3) “being regarded as having such an impairment” (the “regarded -as” prong). See 
+42 U.S.C. § 12102(1).  
+Plaintiff alleges that he is disabled by diabetes. However, nowhere has he identified how 
+he is “substantially limited”  in any particular major life activity or activities. All he pleads is that 
+his alleged disability gives rise to “physical issues” regarding certain activities.  As a result,  
+Plaintiff has not offered any factual basis upon which an “actual disability” claim would be viable 
+under these circumstances.   
+Moreover, Plaintiff has not asserted an adverse action which was taken against him by the 
+City based upon an alleged disability. Further, pursuant to binding Fourth Circuit precedent, in 
+order to establish a violation of the ADA, an employee must establish that h is disability was the 
+“but for” reason for her employer’s adverse action.  See Gentry v. E. W. Partners Club Mgmt. Co. 
+Inc., 816 F.3d 228, 235–36 (4th Cir. 2016) citing Univ. of Tex. Sw. Med. Ctr. v. Nassar, 133 S.Ct. 
+2517, 2527–28, 186 L.Ed.2d 503 (2013). An employee may not establish liability under the ADA 
+by showing that disability was a motivating factor. Rather, it must be the sole “but-for” factor. Id. 
+Further, i n an employment discrimination case, the plaintiff bears “the ultimate burden of 
+persuading the court that she has been the victim of intentional discrimination.” Texas Dep’t of 
+Community Affairs v. Burdine, 450 U.S. 248, 256, 101 S.Ct. 1089, 1095, 67 L.Ed. 207 (1981).  
+Here, Plaintiff has not plausibly plead that he is disabled or that the City took an adverse 
+action against him solely on the basis is his alleged disability. Thus, the analysis need not proceed.  
+Plaintiff’s Third Claim for Relief under the ADA fails as a matter of law and should be dismissed 
+with prejudice.  
+CONCLUSION 
+ For all of the foregoing reasons, Defendant, City of Gastonia, respectfully requests that the 
+Court grant Defendant’s 12(b)(1) Motion to Dismiss or alternatively, grant Defendant’s Motion 
+for Summary Judgment and dismiss each of Plaintiff’s claims with prejudice.  
+This the 20th  day of May, 2026. 
+     CRANFILL SUMNER LLP 
+ 
+      BY: /s/Patrick H. Flanagan    
+Patrick H. Flanagan, NC Bar #17407 
+       Attorneys for Defendant 
+       P.O. Box 30787 
+       Charlotte, NC 28230 
+       Telephone (704) 332-8300 
+       Facsimile (704) 332-9994 
+       phf@cshlaw.com 
+      
+ 
+ 
+ 
+CERTIFICATION REGARDING USE OF ARTIFICIAL INTELLIGENCE 
+Pursuant to the June 18, 2024 Standing Order of this Court In Re: Use of Artificial 
+Intelligence, 3:24 -mc-104, counsel, by signing above, submits the following certification 
+regarding Defendant’s Supplemental Memorandum of Law in Support of Defendant’s Mot ion to 
+Dismiss.  
+1. No artificial intelligence was employed in doing the research for the preparation of this 
+Memorandum, with the exception of such artificial intelligence embedded in the standard on -line 
+legal research sources Westlaw, Lexis, FastCase, and Bloomberg, as well as Google and Google 
+Scholar; 
+2. Every statement and every citation to an authority contained in this Memorandum has 
+been checked by the undersigned as to the accuracy of the proposition for which it is offered, and 
+the citation to authority provided.  
+  
+ 
+CERTIFICATE OF SERVICE 
+ 
+I hereby certify that I have this day electronically filed the foregoing DEFENDANT’S 
+MEMORANDUM OF LAW IN SUPPORT DEFENDANT’S MOTION FOR SUMMARY 
+JUDGMENT with the Clerk of the Court using the CM/ECF system which will send notification 
+of such filing to all counsel of record:  
+ 
+Daniel C. Lyon  
+300 E. Kingston Ave., Ste. 200  
+Charlotte, NC 28203  
+dlyon@emplawfirm.com  
+Attorneys for Plaintiff 
+ 
+   CRANFILL SUMNER LLP 
+ 
+      BY: /s/Patrick H. Flanagan    
+Patrick H. Flanagan, NC Bar #17407 
+       Attorneys for Defendant 
+       P.O. Box 30787 
+       Charlotte, NC 28230 
+       Telephone (704) 332-8300 
+       Facsimile (704) 332-9994 
+       phf@cshlaw.com 
+      
+ 
