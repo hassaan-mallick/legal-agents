@@ -14,7 +14,7 @@ Legal AI agents built in public by Hassaan Mallick, a former lawyer. Every agent
 4. **No secrets in files.** Environment variables only (`.env.example` lists the names). `la scan` runs in CI.
 5. **Confidential or privileged text goes only to endpoints with verified zero data retention.** `zdr: true` plus a `verified_on` date in the registry; everything else is `unverified`. The harness refuses otherwise (control C6). The split route redacts locally first.
 6. **Nothing ships below the rep bar:** a 20-document golden set labelled by a person, at least two injection canary documents, `evals/results.json` committed with thresholds met, at least three failure modes in `failures.md` with one observed, tier declared and the enterprise gap stated.
-7. **Never edit `golden.jsonl` to make a run pass.** Never let a model pre-fill labels. Never lower `thresholds.yaml` after seeing a result.
+7. **Never edit `golden.jsonl` to make a run pass.** Never let a model pre-fill labels. Never lower `thresholds.yaml` after seeing a result. Draft labels (from `la golden draft` or a public dataset importer) carry `labelled_by: draft…` and stay drafts until a person checks every line and signs them; results on draft labels say so.
 8. **Never run live evals without being asked.** They cost money. `la eval --replay` is free and is what CI runs.
 
 ## Layout
@@ -52,8 +52,9 @@ uv run la run <agent> --docs <collection|doc_id> --provider <name> --model <id> 
 uv run la eval <agent> --replay               # offline from evals/cache (CI)
 uv run la eval <agent> --provider X --model Y --record   # live; writes cache + results (ask first)
 uv run la compare <agent>                     # evals/comparison.md across provider/model/route
-uv run la corpus verify | add-file | inject | make-briefs
+uv run la corpus verify | add-file (txt/md/pdf) | inject | fetch-recap | import-contract-nli | make-briefs
 uv run la golden locate --doc <doc_id> --quote "..."   # prints the span for hand-labelling
+uv run la golden draft <agent>                # a run → draft labels; NOT labels until a person signs labelled_by
 uv run la scan                                # secrets scan
 uv run la governance sync                     # regenerate agents-index.md and "Also used by"
 uv run pytest && uv run ruff check .
