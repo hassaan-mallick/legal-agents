@@ -545,7 +545,22 @@ def cmd_governance(args) -> int:
 # --------------------------------------------------------------------------- main
 
 
+def _load_dotenv() -> None:
+    """Read REPO_ROOT/.env (git-ignored) into the environment. Values are never
+    printed or logged; existing environment variables win."""
+    env = REPO_ROOT / ".env"
+    if not env.exists():
+        return
+    for line in env.read_text().splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+
+
 def main(argv: list[str] | None = None) -> int:
+    _load_dotenv()
     ap = argparse.ArgumentParser(prog="la", description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
