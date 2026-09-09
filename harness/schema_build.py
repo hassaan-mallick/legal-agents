@@ -78,15 +78,25 @@ def build_output_model(schema: SchemaSpec, *, professional: bool) -> type[BaseMo
     return create_model("Output", __config__=ConfigDict(extra="forbid"), **fields)
 
 
+_UNSUPPORTED_KEYWORDS = (
+    "default", "title", "minimum", "maximum", "exclusiveMinimum", "exclusiveMaximum",
+    "multipleOf", "minLength", "maxLength", "pattern", "format", "minItems", "maxItems",
+    "uniqueItems",
+)
+
+
 def _strictify(node: Any) -> Any:
     """Make a JSON schema acceptable to strict structured-output modes:
-    additionalProperties false, every property required, no defaults."""
+    additionalProperties false, every property required, no defaults, and no
+    value constraints (minimum/maximum, lengths, patterns) that the providers'
+    constrained decoders reject. Those constraints still hold: the response is
+    validated against the pydantic model, which keeps them."""
     if isinstance(node, dict):
         if node.get("type") == "object" and "properties" in node:
             node["additionalProperties"] = False
             node["required"] = list(node["properties"].keys())
-        node.pop("default", None)
-        node.pop("title", None)
+        for key in _UNSUPPORTED_KEYWORDS:
+            node.pop(key, None)
         for key in ("properties", "$defs"):
             if key in node:
                 for sub in node[key].values():

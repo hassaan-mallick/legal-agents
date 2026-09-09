@@ -18,6 +18,8 @@ dependencies = [
 
 [project.optional-dependencies]
 citations = ["eyecite>=2.7.8"]
+rlm = ["dspy>=3.3"]
+desk = ["imgui-bundle>=1.92", "numpy>=2"]
 
 [dependency-groups]
 dev = ["pytest>=8", "ruff>=0.6"]
@@ -41,3 +43,6 @@ select = ["E", "F", "I", "B", "UP"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.ruff.lint.per-file-ignores]
+"desk/*" = ["E501", "E702"]
