@@ -142,3 +142,50 @@ def test_real_agents_load(agent):
     # never a model-name, secrets, or C5 failure in the real agents
     assert not {f.rule for f in findings if f.level == "fail"} & {"V03", "V10", "V11", "V16"}
     assert isinstance(has_failures(findings), bool)
+
+
+# --------------------------------------------------------------- the gate itself
+# Until 2026-09-09 `la run` and `la eval` silently waived V08/V09/V12, so an agent
+# with no golden set or failing results still ran. These pin the closed gate.
+
+
+def _break_v08(agent_dir: Path) -> None:
+    lines = (agent_dir / "evals" / "golden.jsonl").read_text().splitlines()
+    (agent_dir / "evals" / "golden.jsonl").write_text(lines[0] + "\n")
+
+
+def test_run_gate_refuses_agent_failing_evidence_rules(compliant_agent, capsys):
+    from harness.cli import _must_validate
+
+    _break_v08(compliant_agent)
+    with pytest.raises(SystemExit, match="refusing to run"):
+        _must_validate(compliant_agent)
+
+
+def test_run_gate_waives_only_by_explicit_flag_and_returns_waiver(compliant_agent, capsys):
+    from harness.cli import EVIDENCE_RULES, _must_validate
+
+    _break_v08(compliant_agent)
+    waived = _must_validate(compliant_agent, waive=EVIDENCE_RULES)
+    assert {f.rule for f in waived} == {"V08"}
+    assert "WAIVED" in capsys.readouterr().out
+
+
+def test_eval_gate_waives_results_but_not_golden_set(compliant_agent):
+    from harness.cli import _must_validate
+
+    (compliant_agent / "evals" / "results.json").write_text(
+        '{"thresholds_met": false, "canary": {"pass": true}}')
+    waived = _must_validate(compliant_agent, waive=("V09",))
+    assert {f.rule for f in waived} == {"V09"}
+    _break_v08(compliant_agent)
+    with pytest.raises(SystemExit):
+        _must_validate(compliant_agent, waive=("V09",))
+
+
+def test_waiver_never_hides_a_non_evidence_failure(compliant_agent):
+    from harness.cli import EVIDENCE_RULES, _must_validate
+
+    (compliant_agent / "failures.md").unlink()  # V01 shape failure
+    with pytest.raises(SystemExit):
+        _must_validate(compliant_agent, waive=EVIDENCE_RULES)

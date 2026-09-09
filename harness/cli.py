@@ -100,13 +100,32 @@ def cmd_validate(args) -> int:
     return rc
 
 
-def _must_validate(agent_dir: Path, *, allow_missing_results: bool) -> None:
+EVIDENCE_RULES = ("V08", "V09", "V12")  # C4: golden set + canaries, committed results, failures file
+
+
+def _must_validate(agent_dir: Path, *, waive: tuple[str, ...] = ()) -> list:
+    """Refuse to proceed on an agent that fails validation.
+
+    Every failing rule blocks. A rule in `waive` is printed instead of blocking
+    and returned so the caller can record the waiver. Until 2026-09-09 `la run`
+    and `la eval` silently waived the C4 evidence rules, so the release gate
+    the README describes did not fire; the rule existed, the check existed,
+    and the consequence did not follow. Now `la run` waives nothing unless the
+    operator passes `--unmeasured`, and `la eval` waives only V09 because
+    producing the committed results is its job.
+    """
     findings = run_rules(agent_dir)
-    blocking = [f for f in findings if f.level == "fail"
-                and not (allow_missing_results and f.rule in ("V08", "V09", "V12"))]
+    fails = [f for f in findings if f.level == "fail"]
+    blocking = [f for f in fails if f.rule not in waive]
+    waived = [f for f in fails if f.rule in waive]
     if blocking:
         print(render(blocking))
         raise SystemExit(f"{agent_dir.name}: validate failed; refusing to run")
+    if waived:
+        print(f"WAIVED ({agent_dir.name}): the following evidence rules fail and were waived "
+              "by explicit flag. This run is unmeasured; its output must not be relied on.")
+        print(render(waived))
+    return waived
 
 
 # --------------------------------------------------------------------------- docs
@@ -141,7 +160,7 @@ def _load_docs(agent: Agent, selectors: list[str]):
 
 def cmd_run(args) -> int:
     agent_dir = _agent_dir(args.agent)
-    _must_validate(agent_dir, allow_missing_results=True)
+    waived = _must_validate(agent_dir, waive=EVIDENCE_RULES if args.unmeasured else ())
     agent = load_agent(agent_dir)
     docs = _load_docs(agent, args.docs)
     from harness.egress import EgressLog
@@ -153,6 +172,8 @@ def cmd_run(args) -> int:
             "prompt_sha": agent.prompt_sha, "schema_sha": agent.schema_sha,
             "playbook_sha": agent.playbook_sha, "reviewer": RunWriter.reviewer(),
             "started": dt.datetime.now(dt.UTC).isoformat()}
+    if waived:
+        meta["unmeasured"] = {"waived": [f"{f.rule} {f.path}: {f.message}" for f in waived]}
     if agent.spec.runner == "llm_extract":
         from harness.providers.base import resolve_provider
         from harness.runners.llm_extract import run_document
@@ -220,7 +241,7 @@ def _eval_one(agent_dir: Path, args) -> int:
         write_results,
     )
 
-    _must_validate(agent_dir, allow_missing_results=True)
+    _must_validate(agent_dir, waive=("V09",))  # eval produces results.json; it cannot require it
     agent = load_agent(agent_dir)
     gpath = agent.evals_dir / "golden.jsonl"
     if not gpath.exists():
@@ -674,6 +695,9 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--route", choices=["best-quality", "zdr", "local", "split"])
     r.add_argument("--effort", choices=["low", "medium", "high"])
     r.add_argument("--replay", action="store_true", help="citations: cached lookups only")
+    r.add_argument("--unmeasured", action="store_true",
+                   help="waive the C4 evidence rules (V08 V09 V12) for a scaffolded agent; "
+                        "the waiver is printed and recorded in run.json")
     r.add_argument("--backend", choices=["auto", "search", "lookup"],
                    help="citations: CourtListener backend (search = anonymous, IP-throttled; lookup = token)")
     r.set_defaults(fn=cmd_run)

@@ -6,7 +6,7 @@ Legal AI agents built in public by [Hassaan Mallick](https://mallick.tech), a fo
 
 **Agents are LLM-agnostic.** An agent is plain files: a spec, a schema, prompts, a corpus, a hand-labelled golden set, and a failures file. No model name appears inside one. The same agent runs on any endpoint in the provider registry, and the eval reports quality per model and per route, so "which model, and does zero data retention cost accuracy?" is a measured number rather than an opinion.
 
-**Governance is code.** The six controls in [`governance/controls-library.md`](governance/controls-library.md) are code paths in the harness. `la validate` refuses an agent that does not meet the bar; `la run` and `la eval` refuse to start on one that fails validation.
+**Governance is code.** The six controls in [`governance/controls-library.md`](governance/controls-library.md) are code paths in the harness. `la validate` refuses an agent that does not meet the bar; `la run` and `la eval` refuse to start on one that fails validation. The only exception is explicit: `la run --unmeasured` waives the C4 evidence rules for a scaffolded agent, prints what it waived, and records the waiver in `run.json`. (Until 2026-09-09 both commands waived those rules silently, so the gate described here did not fire. Found by inspection; closed.)
 
 ## What's here
 
