@@ -162,12 +162,21 @@ def test_run_gate_refuses_agent_failing_evidence_rules(compliant_agent, capsys):
         _must_validate(compliant_agent)
 
 
+def test_run_gate_refuses_unmeasured_agent_on_warnings_alone(compliant_agent):
+    from harness.cli import _must_validate
+
+    # the compliant fixture has no results.json: V09 warns, nothing fails
+    assert _must_validate(compliant_agent) == []
+    with pytest.raises(SystemExit, match="unmeasured"):
+        _must_validate(compliant_agent, require_measured=True)
+
+
 def test_run_gate_waives_only_by_explicit_flag_and_returns_waiver(compliant_agent, capsys):
     from harness.cli import EVIDENCE_RULES, _must_validate
 
     _break_v08(compliant_agent)
-    waived = _must_validate(compliant_agent, waive=EVIDENCE_RULES)
-    assert {f.rule for f in waived} == {"V08"}
+    waived = _must_validate(compliant_agent, waive=EVIDENCE_RULES, require_measured=True)
+    assert {f.rule for f in waived} == {"V08", "V09"}
     assert "WAIVED" in capsys.readouterr().out
 
 

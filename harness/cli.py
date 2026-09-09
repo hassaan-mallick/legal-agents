@@ -103,27 +103,35 @@ def cmd_validate(args) -> int:
 EVIDENCE_RULES = ("V08", "V09", "V12")  # C4: golden set + canaries, committed results, failures file
 
 
-def _must_validate(agent_dir: Path, *, waive: tuple[str, ...] = ()) -> list:
+def _must_validate(agent_dir: Path, *, waive: tuple[str, ...] = (),
+                   require_measured: bool = False) -> list:
     """Refuse to proceed on an agent that fails validation.
 
-    Every failing rule blocks. A rule in `waive` is printed instead of blocking
-    and returned so the caller can record the waiver. Until 2026-09-09 `la run`
-    and `la eval` silently waived the C4 evidence rules, so the release gate
-    the README describes did not fire; the rule existed, the check existed,
-    and the consequence did not follow. Now `la run` waives nothing unless the
-    operator passes `--unmeasured`, and `la eval` waives only V09 because
-    producing the committed results is its job.
+    Every failing rule blocks. With `require_measured`, the C4 evidence rules
+    also block on their warnings (draft labels, no committed results), because
+    an agent in that state is unmeasured and the rep bar says unmeasured agents
+    do not run. A rule in `waive` is printed instead of blocking and returned so
+    the caller can record the waiver.
+
+    Until 2026-09-09 `la run` and `la eval` silently waived the C4 evidence
+    rules, so the release gate the README describes did not fire; the rule
+    existed, the check existed, and the consequence did not follow. Now `la run`
+    requires a measured agent unless the operator passes `--unmeasured`, and
+    `la eval` waives only V09 because producing the committed results is its job.
     """
     findings = run_rules(agent_dir)
-    fails = [f for f in findings if f.level == "fail"]
-    blocking = [f for f in fails if f.rule not in waive]
-    waived = [f for f in fails if f.rule in waive]
+    considered = [f for f in findings if f.level == "fail"
+                  or (require_measured and f.level == "warn" and f.rule in EVIDENCE_RULES)]
+    blocking = [f for f in considered if f.rule not in waive]
+    waived = [f for f in considered if f.rule in waive]
     if blocking:
         print(render(blocking))
-        raise SystemExit(f"{agent_dir.name}: validate failed; refusing to run")
+        hint = (" (unmeasured agent: pass --unmeasured to run it anyway; the waiver is recorded)"
+                if require_measured and all(f.rule in EVIDENCE_RULES for f in blocking) else "")
+        raise SystemExit(f"{agent_dir.name}: validate failed; refusing to run{hint}")
     if waived:
-        print(f"WAIVED ({agent_dir.name}): the following evidence rules fail and were waived "
-              "by explicit flag. This run is unmeasured; its output must not be relied on.")
+        print(f"WAIVED ({agent_dir.name}): the following evidence findings were waived by explicit "
+              "flag. This run is unmeasured; its output must not be relied on.")
         print(render(waived))
     return waived
 
@@ -160,7 +168,8 @@ def _load_docs(agent: Agent, selectors: list[str]):
 
 def cmd_run(args) -> int:
     agent_dir = _agent_dir(args.agent)
-    waived = _must_validate(agent_dir, waive=EVIDENCE_RULES if args.unmeasured else ())
+    waived = _must_validate(agent_dir, waive=EVIDENCE_RULES if args.unmeasured else (),
+                            require_measured=True)
     agent = load_agent(agent_dir)
     docs = _load_docs(agent, args.docs)
     from harness.egress import EgressLog
