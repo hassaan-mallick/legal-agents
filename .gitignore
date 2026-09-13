@@ -12,3 +12,6 @@ __pycache__/
 dist/
 corpus/*/pdf/
 corpus/*/egress.jsonl
+
+# ImGui window layout, machine-local
+Legal_Agents____desk.ini
