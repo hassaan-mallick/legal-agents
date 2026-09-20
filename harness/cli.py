@@ -495,6 +495,32 @@ def _corpus_make_briefs(args) -> int:
 # --------------------------------------------------------------------------- golden helper
 
 
+def cmd_golden_workbench(args) -> int:
+    from harness.evals.workbench import build
+
+    agent = load_agent(_agent_dir(args.agent))
+    out = Path(args.out) if args.out else REPO_ROOT / "runs" / f"label-{agent.folder}.html"
+    path = build(agent, out)
+    print(f"workbench: {path}")
+    print("open it in a browser, label, export, then: la golden merge <agent> --labels <exported file>")
+    return 0
+
+
+def cmd_golden_merge(args) -> int:
+    from harness.evals.workbench import merge
+
+    agent = load_agent(_agent_dir(args.agent))
+    r = merge(agent, Path(args.labels), allow_unquoted=args.allow_unquoted)
+    for e in r["errors"]:
+        print("REFUSED", e)
+    if r["errors"]:
+        print(f"nothing written: {len(r['errors'])} problem(s)")
+        return 1
+    print(f"merged {r['merged']} document(s) into golden.jsonl ({r['replaced']} replaced, {r['added']} added)")
+    print("next: uv run la validate", agent.folder, "&& uv run la eval", agent.folder, "--replay")
+    return 0
+
+
 def cmd_golden(args) -> int:
     from harness.document import Manifest
     from harness.quote import locate
@@ -782,6 +808,15 @@ def main(argv: list[str] | None = None) -> int:
     gd.add_argument("--only-resolved", action="store_true",
                     help="skip documents that still have citations waiting for a lookup")
     gd.set_defaults(fn=cmd_golden_draft)
+    gw = gs.add_parser("workbench", help="build the hand-labelling page for an agent's golden set")
+    gw.add_argument("agent")
+    gw.add_argument("--out", help="default runs/label-<agent>.html")
+    gw.set_defaults(fn=cmd_golden_workbench)
+    gm = gs.add_parser("merge", help="fold signed labels exported from the workbench into golden.jsonl")
+    gm.add_argument("agent")
+    gm.add_argument("--labels", required=True)
+    gm.add_argument("--allow-unquoted", action="store_true")
+    gm.set_defaults(fn=cmd_golden_merge)
 
     rp = sub.add_parser("report", help="summarise a run (verdict counts, items needing a human)")
     rp.add_argument("agent")
