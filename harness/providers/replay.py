@@ -28,4 +28,6 @@ class ReplayProvider(BaseProvider):
 
     def complete(self, req: ModelRequest) -> ModelResponse:  # no logging, no re-caching
         resp, _ = self._call(req)
+        for k in self.usage_totals:  # what the recorded run spent, so replay results carry it
+            self.usage_totals[k] += getattr(resp, k, 0) or 0
         return resp

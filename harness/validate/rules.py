@@ -37,9 +37,17 @@ TEXT_EXT = {".md", ".yaml", ".yml", ".txt", ".jsonl", ".json"}
 
 
 def _files(agent_dir: Path):
+    """Agent definition files. Measurements are excluded: the replay cache, the
+    results history and comparison.md name the endpoint they measured, which is
+    the point of a comparison, not a leak of a model into the agent."""
     for p in agent_dir.rglob("*"):
-        if p.is_file() and p.suffix in TEXT_EXT and "cache" not in p.parts and "results" not in p.parts:
-            yield p
+        if not p.is_file() or p.suffix not in TEXT_EXT:
+            continue
+        if "cache" in p.parts or "results" in p.parts:
+            continue
+        if p.name == "comparison.md" and p.parent.name == "evals":
+            continue
+        yield p
 
 
 def _spec(agent_dir: Path) -> AgentSpec | None:

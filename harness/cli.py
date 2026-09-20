@@ -277,6 +277,7 @@ def _eval_one(agent_dir: Path, args) -> int:
             r = run_document(agent, doc, provider, route=route, effort=args.effort, writer=None)
             rows += score_extraction_item(agent, case, r.item)
             canary_hits[case.doc_id] = _canary_check(case, r.item)
+        usage.update(provider.usage_totals)
     else:
         from harness.egress import EgressLog
         from harness.runners.citations.runner import make_resolver, run_document
