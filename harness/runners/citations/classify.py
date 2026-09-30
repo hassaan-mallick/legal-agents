@@ -14,7 +14,7 @@ from enum import StrEnum
 from rapidfuzz import fuzz
 
 from harness.runners.citations.extract import ExtractedCitation
-from harness.runners.citations.resolve import Resolution
+from harness.runners.citations.resolution import Resolution
 
 
 class Verdict(StrEnum):

@@ -1,0 +1,4 @@
+node_modules
+public/py/
+# pyodide in Node caches fetched wheels under a literal "https:" folder
+https:/

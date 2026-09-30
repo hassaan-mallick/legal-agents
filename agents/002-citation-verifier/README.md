@@ -32,4 +32,6 @@ uv run la run agents/002-citation-verifier --docs brief-001
 uv run la eval agents/002-citation-verifier --replay   # offline, from the committed cache
 ```
 
+**In a browser, free:** [mallick.tech/tools/citation-checker](https://mallick.tech/tools/citation-checker/) runs this same extraction and classification code in the visitor's browser (Pyodide); the document never leaves it. The bundle is built by [`checker/bundle.py`](../../checker/README.md).
+
 To check your own document: add it to `corpus/synthetic` with `la corpus add-file` (synthetic or public filings only), then run. US citation formats only; UK neutral citations are not parsed yet.

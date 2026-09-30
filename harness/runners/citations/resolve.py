@@ -16,10 +16,11 @@ import json
 import os
 import re
 import time
-from dataclasses import dataclass, field, fields
+from dataclasses import fields
 from pathlib import Path
 
 from harness.egress import EgressLog, GuardedClient
+from harness.runners.citations.resolution import Resolution
 
 HOST = "www.courtlistener.com"
 SEARCH_URL = f"https://{HOST}/api/rest/v4/search/"
@@ -28,26 +29,6 @@ MIN_SECONDS_BETWEEN_CALLS = 1.2
 ANON_SECONDS_BETWEEN_CALLS = 5.0
 MAX_RETRIES = 4
 USER_AGENT = "legal-agents/0.1 citation verifier (https://github.com/hassaan-mallick/legal-agents)"
-
-
-@dataclass
-class Resolution:
-    found: bool
-    unavailable: bool = False
-    case_name: str | None = None
-    case_name_full: str | None = None
-    court: str | None = None
-    date_filed: str | None = None
-    precedential_status: str | None = None
-    absolute_url: str | None = None
-    cluster_id: int | None = None
-    all_citations: list[str] = field(default_factory=list)
-    error: str | None = None
-    backend: str | None = None  # search | lookup — which endpoint answered
-    candidates: list[str] = field(default_factory=list)  # other case names at this citation (status 300)
-
-    def to_json(self) -> dict:
-        return self.__dict__.copy()
 
 
 def _normalise_cite(s: str) -> str:
