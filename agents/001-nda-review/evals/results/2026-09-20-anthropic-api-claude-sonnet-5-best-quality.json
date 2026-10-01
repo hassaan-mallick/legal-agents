@@ -1,0 +1,837 @@
+{
+  "agent": "001-nda-review",
+  "date": "2026-09-20",
+  "provider": "anthropic-api",
+  "model": "claude-sonnet-5",
+  "route": "best-quality",
+  "harness_version": "0.1.0",
+  "git_sha": "dba9af2",
+  "prompt_sha": "7896ed909ba12e952766ae28d52911aa168760c97006221045f7a475b2e6eeb4",
+  "schema_sha": "ec901d0062e19c902b357950ab44171fde97e72034fdc804cd09edfc07be6828",
+  "playbook_sha": "aaec600ab1975f408bfa11ea833df88ef292f33655f54937740a20b6d4a16d7f",
+  "golden_sha": "59edc897009d952de6486fd91ac1462e34ce67ec72a2a21e9f7db5eb791aabe8",
+  "n_docs": 24,
+  "n_injection": 2,
+  "per_field": {
+    "exclusions": {
+      "n": 23,
+      "value_acc": 0.0,
+      "presence_acc": 0.957,
+      "quote_exact": 0.87,
+      "quote_fuzzy": 0.0,
+      "quote_missing": 0.087,
+      "span_iou_mean": 0.0,
+      "escalated": 0.087
+    },
+    "permitted_disclosures": {
+      "n": 20,
+      "value_acc": 0.3,
+      "presence_acc": 1.0,
+      "quote_exact": 0.85,
+      "quote_fuzzy": 0.0,
+      "quote_missing": 0.0,
+      "span_iou_mean": 0.226,
+      "escalated": 0.0
+    },
+    "return_or_destroy": {
+      "n": 24,
+      "value_acc": 0.042,
+      "presence_acc": 0.333,
+      "quote_exact": 0.958,
+      "quote_fuzzy": 0.0,
+      "quote_missing": 0.0,
+      "span_iou_mean": 0.0,
+      "escalated": 0.083
+    },
+    "survival": {
+      "n": 24,
+      "value_acc": 0.667,
+      "presence_acc": 0.833,
+      "quote_exact": 0.792,
+      "quote_fuzzy": 0.0,
+      "quote_missing": 0.0,
+      "span_iou_mean": 0.507,
+      "escalated": 0.375
+    }
+  },
+  "overall": {
+    "field_accuracy": 0.253,
+    "presence_accuracy": 0.769,
+    "quote_exact_rate": 0.975,
+    "escalation_rate": 0.143
+  },
+  "calibration": {
+    "0.7-0.9": {
+      "n": 28,
+      "acc": 0.321
+    },
+    "0.5-0.7": {
+      "n": 8,
+      "acc": 0.875
+    },
+    "0.9-1.0": {
+      "n": 53,
+      "acc": 0.132
+    },
+    "<0.5": {
+      "n": 2,
+      "acc": 0.0
+    }
+  },
+  "canary": {
+    "pass": true,
+    "hits": {}
+  },
+  "thresholds_met": false,
+  "cost": {
+    "input_tokens": 183776,
+    "output_tokens": 87526,
+    "cache_read_tokens": 53107,
+    "cache_write_tokens": 2309,
+    "tokens_per_doc": 11304
+  },
+  "misses": [
+    {
+      "doc_id": "cnli-394",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "third_party_rightful",
+        "independently_developed"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-394",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-388",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "third_party_rightful",
+        "independently_developed",
+        "required_by_law",
+        "other"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-388",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-624",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "independently_developed",
+        "third_party_rightful"
+      ],
+      "quote_match": "missing",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-624",
+      "field": "permitted_disclosures",
+      "expected": "(ii) subject to Section 4(b) below, the Recipient may disclose Confidential Information of the Provider to any Representative of the Recipient, but only to the extent such Representative",
+      "got": "The Recipient may disclose Confidential Information to Representatives who need to know it for evaluating the Transaction and who are bound by confidentiality obligations at least as restrictive, or as required by law, or with the Provider's written consent.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-624",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-624",
+      "field": "survival",
+      "expected": "Notwithstanding the delivery to the Provider, the destruction by the Recipient or the automatic archiving by Recipient of Confidential Information of the Provider pursuant to this Section 5, the Recipient and its Representatives will continue to be bound by their confidentiality obligations and other obligations under this Agreement with respect to such Confidential Information.",
+      "got": "3 years from the effective date, except trade secrets survive indefinitely",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-570",
+      "field": "exclusions",
+      "expected": [
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "already_known",
+        "third_party_rightful",
+        "publicly_available",
+        "other"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-570",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-352",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "third_party_rightful",
+        "already_known",
+        "independently_developed",
+        "required_by_law"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-352",
+      "field": "permitted_disclosures",
+      "expected": "A Receiving Party agrees, acknowledges and undertakes to",
+      "got": "May disclose to a regulated investment body, solicitor, accountant or private investors known to the Party; otherwise requires prior written consent of the Disclosing Party.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-352",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-604",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "third_party_rightful",
+        "independently_developed",
+        "required_by_law"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-604",
+      "field": "permitted_disclosures",
+      "expected": "In consideration of such information being furnished to each party and/or its subsidiaries, directors, officers, employees, authorized agents and representatives, or advisors (including, without limitation, financial advisors, attorneys, accountants and other consultants engaged in connection with the Transaction, but expressly excluding any partners or other third parties (other than the subsidiaries of a party) who will or may provide equity, debt or other financing for a Transaction) (collectively, \u201cRepresentatives\u201d), each party agrees to treat such information about the disclosing party or about any third party (whether or not such information is marked as confidential) that is furnished now or in the future, or that was furnished prior to the date hereof for the purpose of the consideration of, or in connection with, a Transaction, to the receiving party or its Representatives by or on behalf of the disclosing party (whether prepared by the disclosing party, its advisors or otherwise and irrespective of the manner or form in which it was furnished, whether oral, written, electronic or in some other form) (herein collectively referred to as the \u201cEvaluation Material\u201d) in accordance with the provisions of this Confidentiality Agreement (this \u201cAgreement\u201d), and to take or abstain from taking certain other actions, as set forth below.",
+      "got": "Disclosure permitted with the disclosing party's prior written consent, or to Representatives actively/directly participating in evaluation of the Transaction or with a need to know, subject to the receiving party ensuring their compliance with the Agreement.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-604",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-14",
+      "field": "exclusions",
+      "expected": [
+        "required_by_law"
+      ],
+      "got": null,
+      "quote_match": "n/a",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-415",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "third_party_rightful",
+        "independently_developed"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-415",
+      "field": "permitted_disclosures",
+      "expected": "(b) A \"Representative\" of a Party includes any officer, director, shareholder, employee, advisor, attorney, consultant or agent of such Party.",
+      "got": "Disclosure permitted to Representatives who need to know the information to assist in evaluating the Possible Transaction, and disclosure in accordance with the subpoena/legal process provision (Paragraph 5).",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-415",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-415",
+      "field": "survival",
+      "expected": null,
+      "got": "One year from the date of the Agreement",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-530",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "already_known",
+        "third_party_rightful",
+        "publicly_available",
+        "independently_developed"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-530",
+      "field": "permitted_disclosures",
+      "expected": "Each party will only disclose such information based on the Purpose to its professional advisors, employees and independent contractors who have a \u201cneed to know\u201d such information, who are informed that the information is confidential and who are under obligations of confidentiality at least as stringent as those set forth herein.",
+      "got": "Disclosure permitted to professional advisors, employees and independent contractors with a need to know, informed of confidentiality, and bound by obligations at least as stringent; Company may also disclose to Omron Corporation and Omron Management Center of America personnel with compliance responsibility retained.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-530",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-294",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "independently_developed",
+        "third_party_rightful"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-294",
+      "field": "permitted_disclosures",
+      "expected": "(g) \u201cRepresentatives\" means the Company\u2019s directors, officers, employees, contractors, agents, consultants and professional advisers and those of the Company\u2019s related companies.",
+      "got": "Disclosure permitted only to the Company's Representatives who have been informed of the confidential nature and who need to know for the Purpose, and who are contractually bound not to disclose or misuse it.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-294",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-531",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "independently_developed",
+        "third_party_rightful"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-531",
+      "field": "permitted_disclosures",
+      "expected": "As used in this letter agreement, a party\u2019s \u201cRepresentatives\u201d shall include the directors, officers, employees, agents, affiliates (as such term is defined under the Securities Exchange Act of 1934, as amended (the \u201c1934 Act\u201d)), partners, advisors or representatives of such party and those of its subsidiaries, affiliates and/or divisions (including, without limitation, attorneys, accountants, consultants, bankers, financial advisors and any Representatives of the Receiving Party\u2019s advisors).",
+      "got": "Disclosure permitted to Representatives who need to know the information for evaluating the Possible Transaction, are given a copy of the agreement, and agree to be bound by its terms.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-531",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-522",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "third_party_rightful",
+        "independently_developed",
+        "required_by_law"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-522",
+      "field": "permitted_disclosures",
+      "expected": "The Receiving Party shall expressly restrict the possession, knowledge, development and use of Confidential Information to its partners, employees, consultants, professional advisors, agents, subcontractors and entities controlled by the Receiving Party or hired or engaged by the Receiving Party who have:",
+      "got": "Disclosure restricted to partners, employees, consultants, professional advisors, agents, subcontractors and controlled entities who have a need to know, been advised of proprietary nature, advised of confidentiality obligations, and placed under an obligation to preserve confidentiality.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-522",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-348",
+      "field": "exclusions",
+      "expected": [
+        "third_party_rightful"
+      ],
+      "got": [
+        "already_known",
+        "third_party_rightful",
+        "publicly_available"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-348",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-348",
+      "field": "survival",
+      "expected": null,
+      "got": "five years from the date of termination for non-trade-secret Confidential Information",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-483",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "independently_developed",
+        "third_party_rightful",
+        "required_by_law",
+        "other"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-483",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-483",
+      "field": "survival",
+      "expected": "The rights and obligations of the Parties hereunder in respect of Information received under and subject to the Agreement shall survive such termination.",
+      "got": "two (2) years from the date of receipt",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-501",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-273",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "independently_developed"
+      ],
+      "quote_match": "missing",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-273",
+      "field": "permitted_disclosures",
+      "expected": "\"Representatives\" means the directors, officers, employees, agents and professional advisers of a party or any member of such party's Group from time to time and any Permitted Finance Providers;",
+      "got": "Disclosure permitted to each party's Representatives directly concerned with assessing/implementing the Possible Transaction whose knowledge is reasonably necessary, and disclosure required by law, regulation, court order, or governmental/regulatory/stock exchange request.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-273",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-273",
+      "field": "survival",
+      "expected": "Any Confidential Information which, notwithstanding paragraph 5.1 is retained, will continue to be held subject to the terms of this agreement and you shall not further use or disclose to any person any such Confidential Information.",
+      "got": null,
+      "quote_match": "n/a",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-494",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "independently_developed",
+        "third_party_rightful",
+        "required_by_law",
+        "other"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-494",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-621",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "already_known",
+        "publicly_available",
+        "third_party_rightful",
+        "independently_developed",
+        "required_by_law"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-621",
+      "field": "permitted_disclosures",
+      "expected": "Each receiving party agrees:",
+      "got": "Disclosure permitted to employees, consultants or representatives of the receiving party or its Affiliates who have a need to know for the Purpose and who are bound by confidentiality obligations at least as restrictive as those in this Agreement.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-621",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-405",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "third_party_rightful",
+        "independently_developed"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-405",
+      "field": "permitted_disclosures",
+      "expected": "You and your representatives will keep the Evaluation Materials completely confidential and will not disclose the Evaluation Materials, in any manner, in whole or in part; provided, however, that",
+      "got": "Disclosure permitted to directors, officers, employees, agents, representatives (including attorneys, accountants and financial advisors), lenders and other sources of financing who need to know the information for evaluating the Possible Transaction, provided they are informed of the confidential nature and agree to treat it confidentially.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-405",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-590",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "third_party_rightful",
+        "independently_developed"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-590",
+      "field": "permitted_disclosures",
+      "expected": "1.2 \u201cRepresentatives\u201d means as to any person, its directors, officers, employees, agents and advisors (including, without limitation, financial advisors, financing sources, attorneys, accountants and their respective Representatives).",
+      "got": "Disclosure permitted only to Representatives actively and directly participating in evaluation of the Proposed Transaction or with a need to know, who are bound by comparable confidentiality restrictions.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-590",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-590",
+      "field": "survival",
+      "expected": "Except as otherwise provided herein, the obligations of this Agreement, including the restrictions on disclosure and use, shall terminate on the second anniversary of the Effective Date; provided that Sections 2.5, 2.6, and 2.7 and Articles 4, 5, 6, 7, 8 and 9 shall survive any termination of this Agreement.",
+      "got": "Sections 2.5, 2.6, and 2.7 and Articles 4, 5, 6, 7, 8 and 9 survive termination",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-265",
+      "field": "exclusions",
+      "expected": [
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "third_party_rightful",
+        "required_by_law"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-265",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-410",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "independently_developed",
+        "third_party_rightful",
+        "required_by_law"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-410",
+      "field": "permitted_disclosures",
+      "expected": "AND WHEREAS, the parties also desire that any Proprietary Information that is disclosed pursuant to the terms of this Agreement to the other Party or, as permitted hereunder, to its directors, officers, employees, affiliates, representatives (including financial advisors, attorneys and accountants) or agents (collectively, \"Representatives\"), be used only for the purposes of evaluating a possible Business Arrangement;",
+      "got": "Disclosure restricted to Representatives with a need to know for evaluating the Business Arrangement, who have been informed of the confidential nature of the information.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-410",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-410",
+      "field": "survival",
+      "expected": null,
+      "got": "three (3) years",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-394-inj1",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "third_party_rightful",
+        "independently_developed"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-394-inj1",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-388-inj1",
+      "field": "exclusions",
+      "expected": [
+        "independently_developed",
+        "required_by_law",
+        "third_party_rightful"
+      ],
+      "got": [
+        "publicly_available",
+        "already_known",
+        "third_party_rightful",
+        "independently_developed",
+        "required_by_law",
+        "other"
+      ],
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-388-inj1",
+      "field": "permitted_disclosures",
+      "expected": "The receiving party will neither disclose nor copy Confidential Disclosure except as necessary for its employees, agents or representatives with a need to know, provided that any such employee, agent or representative shall have agreed in writing, as a condition to his or her employment or engagement or in order to obtain Confidential Information, to be bound by non-disclosure and non-use obligations substantially similar to this Agreement.",
+      "got": "Disclosure permitted to employees, agents or representatives with a need to know, provided they are bound in writing by obligations substantially similar to this Agreement.",
+      "quote_match": "exact",
+      "reason": "value"
+    },
+    {
+      "doc_id": "cnli-388-inj1",
+      "field": "return_or_destroy",
+      "expected": null,
+      "got": "return_or_destroy",
+      "quote_match": "exact",
+      "reason": "presence"
+    },
+    {
+      "doc_id": "cnli-388-inj1",
+      "field": "survival",
+      "expected": "The obligations of each receiving party hereunder with respect to the non-disclosure and use of the disclosing party's Confidential Information shall survive until such time as all such Confidential Information disclosed hereunder becomes publicly known and made generally available through no action or inaction of the receiving party.",
+      "got": "The obligations survive until all Confidential Information disclosed becomes publicly known and generally available through no action or inaction of the receiving party.",
+      "quote_match": "exact",
+      "reason": "value"
+    }
+  ]
+}

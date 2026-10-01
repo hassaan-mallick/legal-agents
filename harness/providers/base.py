@@ -82,6 +82,9 @@ class BaseProvider:
         self.egress = egress or EgressLog(allow={endpoint.host})
         self.usage_path = usage_path
         self.cache_dir = cache_dir  # when set, responses are written for replay
+        # running totals for the caller (la eval reports them in results.json)
+        self.usage_totals = {"input_tokens": 0, "output_tokens": 0,
+                             "cache_read_tokens": 0, "cache_write_tokens": 0}
 
     def _call(self, req: ModelRequest) -> tuple[ModelResponse, bytes]:  # pragma: no cover
         raise NotImplementedError
@@ -91,6 +94,8 @@ class BaseProvider:
         resp, body = self._call(req)
         resp.latency_ms = int((dt.datetime.now() - t0).total_seconds() * 1000)
         resp.provider = self.name
+        for k in self.usage_totals:
+            self.usage_totals[k] += getattr(resp, k, 0) or 0
         self.egress.record_model_call(host=self.endpoint.host, path="/messages", model=resp.model,
                                       body=body, status=200, latency_ms=resp.latency_ms,
                                       note=req.label)

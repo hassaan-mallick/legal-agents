@@ -54,6 +54,8 @@ uv run la eval <agent> --provider X --model Y --record   # live; writes cache + 
 uv run la compare <agent>                     # evals/comparison.md across provider/model/route
 uv run la corpus verify | add-file (txt/md/pdf) | inject | fetch-recap | import-contract-nli | make-briefs
 uv run la golden locate --doc <doc_id> --quote "..."   # prints the span for hand-labelling
+uv run la golden workbench <agent>            # static page for hand-labelling; no model involved
+uv run la golden merge <agent> --labels <exported.jsonl>   # signed labels in; refuses drafts and unlocatable quotes
 uv run la golden draft <agent>                # a run → draft labels; NOT labels until a person signs labelled_by
 uv run la scan                                # secrets scan
 uv run la governance sync                     # regenerate agents-index.md and "Also used by"

@@ -17,7 +17,9 @@
 
 ## Results
 
-Not yet measured. This agent ships when a 20-document golden set (EDGAR NDAs plus injection twins) has been hand-labelled and `la eval` has written `evals/results.json` with thresholds met. Until then `la validate agents/001-nda-review` reports V08 and V09 as failing, which is correct.
+Not yet measured. This agent ships when a 20-document golden set (EDGAR NDAs plus injection twins) has been hand-labelled and `la eval` has written `evals/results.json` with thresholds met. Until then `la validate agents/001-nda-review` reports V08 and V09 as warnings, which is correct.
+
+A first live run was recorded on 2026-09-20 over 22 ContractNLI agreements and 2 injection twins (`evals/results/`, replay cache in `evals/cache/`). What it measured: quotes located verbatim 97.5% of the time, both injection twins were escalated and the canary passed, 14% of fields escalated for review. What it did not measure: accuracy, because the labels in `golden.jsonl` are still machine-mapped drafts. They are being hand-labelled with `la golden workbench`; once signed, `la eval --replay` re-scores the cached run at no cost.
 
 ## The human gate
 

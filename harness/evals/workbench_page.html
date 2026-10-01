@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Label: __TITLE__</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root{--ink:#111;--muted:#666;--rule:#ddd;--bg:#fbfbfa;--accent:#b3261e;--ok:#1b6e3a;--warn:#8a6d00}
+*{box-sizing:border-box}body{margin:0;font:14px/1.5 -apple-system,Segoe UI,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+header{display:flex;gap:16px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--rule);background:#fff;position:sticky;top:0;z-index:2;flex-wrap:wrap}
+header input,header select,header button{font:inherit;padding:6px 8px;border:1px solid #bbb;border-radius:4px;background:#fff}
+header button.primary{background:var(--ink);color:#fff;border-color:var(--ink)}
+.progress{font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--muted)}
+main{display:grid;grid-template-columns:minmax(360px,1fr) minmax(420px,1.1fr);gap:0;height:calc(100vh - 58px)}
+#doc{overflow:auto;padding:16px 20px;border-right:1px solid var(--rule);background:#fff}
+#doc pre{white-space:pre-wrap;font:13.5px/1.6 Georgia,serif;margin:0}
+#doc mark{background:#fff3b0}
+#fields{overflow:auto;padding:12px 16px 80px}
+.field{border:1px solid var(--rule);border-radius:6px;background:#fff;padding:10px 12px;margin-bottom:10px}
+.field.done{border-color:var(--ok)}
+.field h3{margin:0 0 2px;font-size:14px;display:flex;justify-content:space-between;align-items:center}
+.field h3 .state{font-size:11px;font-family:ui-monospace,Menlo,monospace;color:var(--muted)}
+.field .desc{color:var(--muted);font-size:12px;margin:0 0 8px}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:6px 0}
+.row label{display:inline-flex;gap:4px;align-items:center}
+textarea,input[type=text],select{font:inherit;width:100%;padding:6px;border:1px solid #bbb;border-radius:4px}
+textarea{min-height:52px;resize:vertical}
+.cands{margin:6px 0 0;padding:0;list-style:none;max-height:150px;overflow:auto;border-top:1px dashed var(--rule)}
+.cands li{padding:5px 4px;border-bottom:1px solid #eee;font-size:12.5px;cursor:pointer;display:flex;gap:6px}
+.cands li:hover{background:#f3f1ea}.cands li span.n{color:var(--muted);font-family:ui-monospace,Menlo,monospace;flex:none}
+.draft{font-size:12px;background:#fff8e1;border:1px solid #f0d78c;padding:6px 8px;border-radius:4px;margin:6px 0}
+.draft button{font-size:12px}
+button.small{font:inherit;font-size:12px;padding:3px 8px;border:1px solid #bbb;background:#fff;border-radius:4px;cursor:pointer}
+.checks label{display:inline-flex;gap:4px;margin-right:10px}
+.quote-state{font-size:11px;font-family:ui-monospace,Menlo,monospace}
+.quote-state.ok{color:var(--ok)}.quote-state.bad{color:var(--accent)}
+.hint{font-size:12px;color:var(--muted)}
+#docnav{display:flex;gap:4px;flex-wrap:wrap}
+#docnav button{font-size:11px;padding:2px 6px}#docnav button.cur{background:var(--ink);color:#fff}#docnav button.full{border-color:var(--ok);color:var(--ok)}#docnav button.cur.full{background:var(--ok)}
+</style></head><body>
+<header>
+  <strong>Label</strong>
+  <label>Your name <input id="who" placeholder="labelled_by (a person)" size="22"></label>
+  <span id="docnav"></span>
+  <span class="progress" id="progress"></span>
+  <button id="prev">‹ prev</button><button id="next">next ›</button>
+  <button id="import">Import…</button><input type="file" id="importfile" hidden accept=".jsonl,.json">
+  <button class="primary" id="export">Export golden lines</button>
+</header>
+<main>
+  <section id="doc"><pre id="doctext"></pre></section>
+  <section id="fields"></section>
+</main>
+<script>
+const DATA = __DATA__;
+const KEY = 'la-label-' + DATA.agent;
+let state = JSON.parse(localStorage.getItem(KEY) || 'null') || {who:'', cur:0, docs:{}};
+const $ = s => document.querySelector(s);
+const save = () => localStorage.setItem(KEY, JSON.stringify(state));
+function cell(docId, f){ const d = state.docs[docId] = state.docs[docId] || {fields:{}, document_type:null, note:''}; return d.fields[f] = d.fields[f] || {present:null, value:null, quote:'', note:''}; }
+function docState(docId){ return state.docs[docId] = state.docs[docId] || {fields:{}, document_type:null, note:''}; }
+function cellDone(c, spec){ if(c.present===false) return true; if(c.present!==true) return false; const hasQ = !!(c.quote||'').trim(); const v=c.value; const hasV = Array.isArray(v)? v.length>0 : (v!==null && v!==undefined && String(v).trim()!==''); return hasQ && hasV; }
+function docDone(doc){ return DATA.fields.every(f => cellDone(cell(doc.doc_id,f.name), f)) && !!docState(doc.doc_id).document_type; }
+function quoteFound(doc, q){ if(!q) return null; return doc.text.indexOf(q) >= 0; }
+function esc(s){ return String(s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function render(){
+  const doc = DATA.docs[state.cur]; $('#who').value = state.who;
+  $('#docnav').innerHTML = DATA.docs.map((d,i)=>`<button data-i="${i}" class="${i===state.cur?'cur':''} ${docDone(d)?'full':''}">${d.doc_id.replace('cnli-','')}</button>`).join('');
+  document.querySelectorAll('#docnav button').forEach(b=>b.onclick=()=>{state.cur=+b.dataset.i; save(); render();});
+  const done = DATA.docs.filter(docDone).length;
+  const cells = DATA.docs.reduce((n,d)=>n+DATA.fields.filter(f=>cellDone(cell(d.doc_id,f.name),f)).length,0);
+  $('#progress').textContent = `${doc.doc_id} · docs ${done}/${DATA.docs.length} · cells ${cells}/${DATA.docs.length*DATA.fields.length}`;
+  // document text with current quotes highlighted
+  const marks = []; DATA.fields.forEach(f=>{const c=cell(doc.doc_id,f.name); if(c.present&&c.quote){const i=doc.text.indexOf(c.quote); if(i>=0) marks.push([i,i+c.quote.length]);}});
+  marks.sort((a,b)=>a[0]-b[0]); let out='', pos=0; for(const [s,e] of marks){ if(s<pos) continue; out+=esc(doc.text.slice(pos,s))+'<mark>'+esc(doc.text.slice(s,e))+'</mark>'; pos=e; } out+=esc(doc.text.slice(pos));
+  $('#doctext').innerHTML = out;
+  // fields
+  const ds = docState(doc.doc_id);
+  let h = `<div class="field"><h3>document_type</h3><p class="desc">${esc(DATA.document_fields[0]?.description||'')}</p><select data-doctype>${['',...(DATA.document_fields[0]?.enum||[])].map(o=>`<option ${ds.document_type===o?'selected':''}>${o}</option>`).join('')}</select></div>`;
+  for(const f of DATA.fields){
+    const c = cell(doc.doc_id, f.name); const draft = doc.draft[f.name]; const found = quoteFound(doc, c.quote);
+    const draftHtml = (draft && draft.present!==null && draft.present!==undefined) ? `<div class="draft">Draft (${esc(doc.draft_by.slice(0,40))}): present=${draft.present}${draft.value!==null&&draft.value!==undefined?' value='+esc(JSON.stringify(draft.value)):''}${draft.quote?' quote=“'+esc(draft.quote.slice(0,120))+'”':''}${draft.todo?' <em>todo: '+esc(draft.todo)+'</em>':''} <button class="small" data-acceptdraft="${f.name}">accept as my label</button></div>` : '';
+    let valueHtml = '';
+    if(f.type==='enum') valueHtml = `<select data-value="${f.name}"><option value="">— value —</option>${f.enum.map(o=>`<option ${c.value===o?'selected':''}>${o}</option>`).join('')}</select>`;
+    else if(f.type==='list[enum]') valueHtml = `<div class="checks">${f.enum.map(o=>`<label><input type="checkbox" data-multi="${f.name}" value="${o}" ${(c.value||[]).includes(o)?'checked':''}>${o}</label>`).join('')}</div>`;
+    else if(f.type==='list[str]') valueHtml = `<textarea data-list="${f.name}" placeholder="one party per line">${esc((c.value||[]).join('\n'))}</textarea>`;
+    else valueHtml = `<input type="text" data-value="${f.name}" placeholder="value" value="${esc(c.value??'')}">`;
+    h += `<div class="field ${cellDone(c,f)?'done':''}" id="f-${f.name}"><h3>${f.name}<span class="state">${f.type} · ${f.scorer}</span></h3><p class="desc">${esc(f.description||'')}</p>
+      <div class="row"><label><input type="radio" name="p-${f.name}" data-present="${f.name}" value="1" ${c.present===true?'checked':''}> present</label><label><input type="radio" name="p-${f.name}" data-present="${f.name}" value="0" ${c.present===false?'checked':''}> absent</label><label><input type="radio" name="p-${f.name}" data-present="${f.name}" value="" ${c.present===null?'checked':''}> unset</label></div>
+      ${draftHtml}
+      <div class="row" ${c.present===true?'':'hidden'}>${valueHtml}</div>
+      <div class="row" ${c.present===true?'':'hidden'}><textarea data-quote="${f.name}" placeholder="verbatim quote from the document">${esc(c.quote||'')}</textarea></div>
+      <div class="row" ${c.present===true?'':'hidden'}><button class="small" data-usesel="${f.name}">Use selected text as quote</button><span class="quote-state ${found===null?'':found?'ok':'bad'}">${found===null?'':found?'quote located':'quote NOT found verbatim'}</span><input type="text" data-note="${f.name}" placeholder="note (optional)" value="${esc(c.note||'')}" style="width:auto;flex:1"></div>
+      <ul class="cands">${(doc.candidates[f.name]||[]).map((k,i)=>`<li data-cand="${f.name}" data-i="${i}"><span class="n">${String(i+1).padStart(2,'0')}</span><span>${esc(k.text)}</span></li>`).join('')}</ul>
+    </div>`;
+  }
+  $('#fields').innerHTML = h;
+  // wire
+  $('[data-doctype]').onchange = e => { ds.document_type = e.target.value || null; save(); render(); };
+  document.querySelectorAll('[data-present]').forEach(r=>r.onchange=e=>{const c=cell(doc.doc_id,e.target.dataset.present); c.present = e.target.value===''?null:e.target.value==='1'; if(c.present===false){c.value=null;c.quote='';} save(); render();});
+  document.querySelectorAll('[data-value]').forEach(i=>i.onchange=e=>{cell(doc.doc_id,e.target.dataset.value).value=e.target.value||null; save(); render();});
+  document.querySelectorAll('[data-list]').forEach(i=>i.onchange=e=>{cell(doc.doc_id,e.target.dataset.list).value=e.target.value.split('\n').map(s=>s.trim()).filter(Boolean); save(); render();});
+  document.querySelectorAll('[data-multi]').forEach(i=>i.onchange=e=>{const c=cell(doc.doc_id,e.target.dataset.multi); const set=new Set(c.value||[]); e.target.checked?set.add(e.target.value):set.delete(e.target.value); c.value=[...set]; save(); render();});
+  document.querySelectorAll('[data-quote]').forEach(i=>i.onchange=e=>{cell(doc.doc_id,e.target.dataset.quote).quote=e.target.value; save(); render();});
+  document.querySelectorAll('[data-note]').forEach(i=>i.onchange=e=>{cell(doc.doc_id,e.target.dataset.note).note=e.target.value; save();});
+  document.querySelectorAll('[data-usesel]').forEach(b=>b.onclick=()=>{const s=window.getSelection().toString(); if(!s.trim()) return alert('Select text in the document first.'); const c=cell(doc.doc_id,b.dataset.usesel); c.present=true; c.quote=s.trim(); const f=DATA.fields.find(x=>x.name===b.dataset.usesel); if(f.type==='text'&&!c.value) c.value=s.trim(); save(); render();});
+  document.querySelectorAll('[data-cand]').forEach(li=>li.onclick=()=>{const f=DATA.fields.find(x=>x.name===li.dataset.cand); const k=doc.candidates[f.name][+li.dataset.i]; const c=cell(doc.doc_id,f.name); c.present=true; c.quote=k.text; if(f.type==='text'&&!c.value) c.value=k.text; save(); render(); const el=document.getElementById('f-'+f.name); el&&el.scrollIntoView({block:'nearest'});});
+  document.querySelectorAll('[data-acceptdraft]').forEach(b=>b.onclick=()=>{const d=doc.draft[b.dataset.acceptdraft]; const c=cell(doc.doc_id,b.dataset.acceptdraft); c.present=d.present; c.value=d.value; c.quote=d.quote||''; save(); render();});
+}
+$('#who').oninput = e => { state.who = e.target.value; save(); };
+$('#prev').onclick = () => { state.cur = Math.max(0, state.cur-1); save(); render(); };
+$('#next').onclick = () => { state.cur = Math.min(DATA.docs.length-1, state.cur+1); save(); render(); };
+$('#export').onclick = () => {
+  if(!state.who.trim() || /^draft/i.test(state.who)) return alert('Enter your name first. Labels must be signed by a person.');
+  const today = new Date().toISOString().slice(0,10);
+  const lines = DATA.docs.filter(docDone).map(d => { const ds = docState(d.doc_id); const expected = {}; for(const f of DATA.fields){ const c=cell(d.doc_id,f.name); expected[f.name] = c.present ? {present:true, value:c.value, quote:c.quote, span:null} : {present:false, value:null, quote:null, span:null}; }
+    const notes = ['document_type='+ds.document_type, ...DATA.fields.map(f=>{const c=cell(d.doc_id,f.name); return c.note?`${f.name}: ${c.note}`:null;}).filter(Boolean)].join('; ');
+    return JSON.stringify({doc_id:d.doc_id, kind:'standard', expected, labelled_by: state.who.trim(), labelled_on: today, notes}); });
+  if(!lines.length) return alert('No document is fully labelled yet. Every field needs present/absent, and present fields need a value and a verbatim quote.');
+  const blob = new Blob([lines.join('\n')+'\n'], {type:'application/jsonl'}); const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=`golden.labelled.${today}.jsonl`; a.click();
+  alert(`Exported ${lines.length} fully labelled document(s). Merge with: la golden merge ${DATA.agent} --labels <file>`);
+};
+$('#import').onclick = () => $('#importfile').click();
+$('#importfile').onchange = async e => { const f=e.target.files[0]; if(!f) return; const txt=await f.text(); let n=0; for(const ln of txt.split('\n')){ if(!ln.trim()) continue; const row=JSON.parse(ln); if(!DATA.docs.find(d=>d.doc_id===row.doc_id)) continue; const ds=docState(row.doc_id); for(const [k,v] of Object.entries(row.expected||{})){ const c=cell(row.doc_id,k); c.present=v.present; c.value=v.value; c.quote=v.quote||''; } const m=/document_type=(\w+)/.exec(row.notes||''); if(m) ds.document_type=m[1]; if(row.labelled_by&&!/^draft/i.test(row.labelled_by)) state.who=row.labelled_by; n++; } save(); render(); alert(`Imported ${n} document(s).`); };
+render();
+</script></body></html>
