@@ -1,0 +1,12 @@
+{
+  "name": "citation-check-bundle",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "bundle": "cd .. && uv run --extra citations python checker/bundle.py",
+    "test:pyodide": "node scripts/pyodide-smoke.mjs"
+  },
+  "devDependencies": {
+    "pyodide": "314.0.7"
+  }
+}
